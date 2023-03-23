@@ -1,0 +1,59 @@
+id,COL201809100
+info,visteam,ARI
+info,hometeam,COL
+info,date,2018/09/10
+info,starttime,6:41PM
+start,polla001,"""A.J. Pollock""",0,1,8
+start,escoe001,"""Eduardo Escobar""",0,2,5
+start,perad001,"""David Peralta""",0,3,7
+start,goldp001,"""Paul Goldschmidt""",0,4,3
+start,descd001,"""Daniel Descalso""",0,5,4
+start,souzs001,"""Steven Souza""",0,6,9
+start,ahmen001,"""Nick Ahmed""",0,7,6
+start,avila001,"""Alex Avila""",0,8,2
+start,godlz001,"""Zack Godley""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,dahld001,"""David Dahl""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,parrg001,"""Gerardo Parra""",1,6,7
+start,desmi001,"""Ian Desmond""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,marqg001,"""German Marquez""",1,9,1
+play,1,1,blacc001,21,BBCX,S8/L
+play,1,1,lemad001,01,CN,BK.1-2
+play,1,1,lemad001,12,CN.BFX,S1/G-.2-3
+play,1,1,arenn001,01,S>B,CS2(24363)
+play,1,1,arenn001,22,S>B.F*BS,K
+play,1,1,dahld001,32,*BBF*BSX,63/G+
+sub,bracs001,"""Silvino Bracho""",0,9,1
+play,6,1,desmi001,00,,NP
+sub,jay-j001,"""Jon Jay""",0,9,9
+play,6,1,desmi001,00,,NP
+sub,andrm001,"""Matt Andriese""",0,6,1
+play,6,1,desmi001,32,..CBBFB*B,W
+play,6,1,woltt001,01,1F1>P,CS2(26)
+play,6,1,woltt001,22,1F1>P.FBX,S7/L
+play,6,1,marqg001,02,CLX,34(1)4/BG/GDP
+sub,mcmar001,"""Ryan McMahon""",1,9,11
+sub,stewc001,"""Chris Stewart""",0,6,2
+sub,sherj001,"""Jimmie Sherfy""",0,8,1
+sub,tapir001,"""Raimel Tapia""",1,1,8
+sub,mcmar001,"""Ryan McMahon""",1,9,5
+sub,rusic001,"""Chris Rusin""",1,3,1
+sub,brits001,"""Socrates Brito""",0,1,11
+sub,owinc001,"""Chris Owings""",0,2,11
+sub,vargi001,"""Ildemaro Vargas""",0,3,11
+sub,brits001,"""Socrates Brito""",0,1,9
+sub,owinc001,"""Chris Owings""",0,2,5
+sub,vargi001,"""Ildemaro Vargas""",0,3,4
+sub,walkc002,"""Christian Walker""",0,4,3
+sub,kivlp001,"""Patrick Kivlehan""",0,5,7
+sub,jay-j001,"""Jon Jay""",0,9,8
+sub,hampg001,"""Garrett Hampson""",1,5,11
+sub,lopey001,"""Yoan Lopez""",0,8,1
+sub,valap001,"""Pat Valaika""",1,7,6
+sub,hampg001,"""Garrett Hampson""",1,5,4
+sub,buted001,"""Drew Butera""",1,2,3
+sub,howas002,"""Sam Howard""",1,3,1

@@ -1,0 +1,48 @@
+id,COL201809080
+info,visteam,LAN
+info,hometeam,COL
+info,date,2018/09/08
+info,starttime,6:09PM
+start,dozib001,"""Brian Dozier""",0,1,4
+start,turnj001,"""Justin Turner""",0,2,5
+start,machm001,"""Manny Machado""",0,3,6
+start,kempm001,"""Matt Kemp""",0,4,9
+start,freed001,"""David Freese""",0,5,3
+start,herne001,"""Enrique Hernandez""",0,6,8
+start,taylc001,"""Chris Taylor""",0,7,7
+start,barna001,"""Austin Barnes""",0,8,2
+start,buehw001,"""Walker Buehler""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,gonzc001,"""Carlos Gonzalez""",1,3,9
+start,stort001,"""Trevor Story""",1,4,6
+start,dahld001,"""David Dahl""",1,5,7
+start,desmi001,"""Ian Desmond""",1,6,3
+start,mcmar001,"""Ryan McMahon""",1,7,5
+start,iannc001,"""Chris Iannetta""",1,8,2
+start,freek001,"""Kyle Freeland""",1,9,1
+sub,obers001,"""Scott Oberg""",1,9,1
+sub,verda001,"""Alex Verdugo""",0,6,11
+sub,bellc002,"""Cody Bellinger""",0,7,11
+sub,muncm001,"""Max Muncy""",0,8,11
+sub,pedej001,"""Joc Pederson""",0,9,11
+sub,verda001,"""Alex Verdugo""",0,6,7
+sub,bellc002,"""Cody Bellinger""",0,7,8
+sub,grany001,"""Yasmani Grandal""",0,9,2
+sub,muncm001,"""Max Muncy""",0,8,3
+sub,vendp001,"""Pat Venditte""",0,5,1
+sub,tapir001,"""Raimel Tapia""",1,9,11
+play,8,0,dozib001,00,,NP
+sub,ottaa001,"""Adam Ottavino""",1,9,1
+play,8,0,dozib001,00,,NP
+sub,utlec001,"""Chase Utley""",0,1,11
+play,8,0,utlec001,12,..CBFH,HP
+play,8,0,turnj001,21,BBS>C,SB2
+play,8,0,turnj001,22,BBS>C.FS,K
+play,8,0,machm001,21,BBSX,9/F
+play,8,0,kempm001,02,CSX,63/G
+sub,utlec001,"""Chase Utley""",0,1,4
+sub,rossz001,"""Zac Rosscup""",0,5,1
+sub,fielj002,"""Josh Fields""",0,5,1
+sub,daviw001,"""Wade Davis""",1,9,1
+sub,puigy001,"""Yasiel Puig""",0,5,11

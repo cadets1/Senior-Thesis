@@ -1,0 +1,47 @@
+id,COL201808250
+info,visteam,SLN
+info,hometeam,COL
+info,date,2018/08/25
+info,starttime,6:10PM
+start,carpm002,"""Matt Carpenter""",0,1,5
+start,moliy001,"""Yadier Molina""",0,2,2
+start,martj008,"""Jose Martinez""",0,3,9
+start,adamm002,"""Matt Adams""",0,4,3
+start,oneit001,"""Tyler O'Neill""",0,5,7
+start,wongk001,"""Kolten Wong""",0,6,4
+start,badeh001,"""Harrison Bader""",0,7,8
+start,garcg002,"""Greg Garcia""",0,8,6
+start,gantj002,"""John Gant""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,gonzc001,"""Carlos Gonzalez""",1,3,9
+start,arenn001,"""Nolan Arenado""",1,4,5
+start,stort001,"""Trevor Story""",1,5,6
+start,dahld001,"""David Dahl""",1,6,7
+start,mcmar001,"""Ryan McMahon""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,marqg001,"""German Marquez""",1,9,1
+play,1,1,blacc001,02,CCS,K
+play,1,1,lemad001,32,BBCBCB,W
+play,1,1,gonzc001,32,*BCB1F*BF1>S,K+CS2(26)/DP
+sub,munoy001,"""Yairo Munoz""",0,6,6
+sub,garcg002,"""Greg Garcia""",0,8,4
+sub,hollm001,"""Matt Holliday""",1,9,11
+play,8,0,badeh001,00,,NP
+sub,ottaa001,"""Adam Ottavino""",1,9,1
+play,8,0,badeh001,22,.FBCBFX,D8/L+
+play,8,0,garcg002,00,X,S5/BG.2-3
+play,8,0,gantj002,00,,NP
+sub,gyorj001,"""Jedd Gyorko""",0,9,11
+play,8,0,gyorj001,12,.CBCS,K
+play,8,0,carpm002,12,SSB>F*B,SB2
+play,8,0,carpm002,32,SSB>F*B.*BB,W+WP.3-H(NR);2-3
+play,8,0,moliy001,12,FBF>X,4/P
+play,8,0,martj008,02,CS>B,SB2
+play,8,0,martj008,12,CS>B.S,K
+sub,hudsd002,"""Dakota Hudson""",0,9,1
+sub,cecib001,"""Brett Cecil""",0,9,1
+sub,desmi001,"""Ian Desmond""",1,9,11
+sub,mayem001,"""Mike Mayers""",0,9,1
+sub,weavl001,"""Luke Weaver""",0,9,1
+sub,oh--s001,"""Seung Hwan Oh""",1,9,1

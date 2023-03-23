@@ -1,0 +1,36 @@
+id,COL201806180
+info,visteam,NYN
+info,hometeam,COL
+info,date,2018/06/18
+info,starttime,6:41PM
+start,nimmb001,"""Brandon Nimmo""",0,1,7
+start,cabra002,"""Asdrubal Cabrera""",0,2,4
+start,frazt001,"""Todd Frazier""",0,3,5
+start,florw001,"""Wilmer Flores""",0,4,3
+start,confm001,"""Michael Conforto""",0,5,8
+start,mesod001,"""Devin Mesoraco""",0,6,2
+start,bautj002,"""Jose Bautista""",0,7,9
+start,degrj001,"""Jacob deGrom""",0,8,1
+start,rosaa003,"""Amed Rosario""",0,9,6
+start,lemad001,"""DJ LeMahieu""",1,1,4
+start,blacc001,"""Charlie Blackmon""",1,2,8
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,gonzc001,"""Carlos Gonzalez""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,parrg001,"""Gerardo Parra""",1,6,7
+start,desmi001,"""Ian Desmond""",1,7,3
+start,murpt002,"""Tom Murphy""",1,8,2
+start,andet002,"""Tyler Anderson""",1,9,1
+play,2,0,confm001,22,FBBFX,D7/L+
+play,2,0,mesod001,12,SBCX,53/G
+play,2,0,bautj002,21,BBC>B,SB3
+play,2,0,bautj002,31,BBC>B.X,1/G-.3-H
+play,2,0,degrj001,12,BFFS,K
+sub,musgh001,"""Harrison Musgrave""",1,9,1
+sub,mcgej001,"""Jake McGee""",1,9,1
+sub,cuevn001,"""Noel Cuevas""",1,9,11
+sub,hoffj003,"""Jeff Hoffman""",1,9,1
+sub,reyej001,"""Jose Reyes""",0,8,11
+sub,pounb001,"""Brooks Pounders""",1,9,1
+sub,guill001,"""Luis Guillorme""",0,2,4
+sub,sewap001,"""Paul Sewald""",0,8,1

@@ -1,0 +1,43 @@
+id,COL201804250
+info,visteam,SDN
+info,hometeam,COL
+info,date,2018/04/25
+info,starttime,1:10PM
+start,pirej001,"""Jose Pirela""",0,1,7
+start,asuac001,"""Carlos Asuaje""",0,2,4
+start,myerw001,"""Wil Myers""",0,3,3
+start,cordf003,"""Franchy Cordero""",0,4,9
+start,headc001,"""Chase Headley""",0,5,5
+start,margm001,"""Manuel Margot""",0,6,8
+start,galvf001,"""Freddy Galvis""",0,7,6
+start,hedga001,"""Austin Hedges""",0,8,2
+start,rosst001,"""Tyson Ross""",0,9,1
+start,lemad001,"""DJ LeMahieu""",1,1,4
+start,blacc001,"""Charlie Blackmon""",1,2,8
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,dahld001,"""David Dahl""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,desmi001,"""Ian Desmond""",1,6,7
+start,mcmar001,"""Ryan McMahon""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,grayj003,"""Jon Gray""",1,9,1
+play,2,0,cordf003,10,BX,43/G
+play,2,0,headc001,22,CBFBS,K
+play,2,0,margm001,32,BFCBFBX,S7/L
+play,2,0,galvf001,00,1>B,CS2(26)
+sub,erlir001,"""Robbie Erlin""",0,9,1
+play,6,0,erlir001,00,,NP
+sub,spanc001,"""Cory Spangenberg""",0,9,11
+play,6,0,spanc001,22,.CBCBS,K
+play,6,0,pirej001,11,CBX,S8/L
+play,6,0,asuac001,22,FBSB1F1X,8/F
+play,6,0,myerw001,00,>B,CS2(24)
+sub,matop002,"""Phil Maton""",0,9,1
+sub,valap001,"""Pat Valaika""",1,9,11
+sub,shawb001,"""Bryan Shaw""",1,9,1
+sub,handb001,"""Brad Hand""",0,9,1
+sub,ottaa001,"""Adam Ottavino""",1,9,1
+sub,szczm001,"""Matt Szczur""",0,9,11
+sub,yatek001,"""Kirby Yates""",0,9,1
+sub,cuevn001,"""Noel Cuevas""",1,9,11
+sub,daviw001,"""Wade Davis""",1,9,1

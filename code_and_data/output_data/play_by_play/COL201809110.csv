@@ -1,0 +1,55 @@
+id,COL201809110
+info,visteam,ARI
+info,hometeam,COL
+info,date,2018/09/11
+info,starttime,6:43PM
+start,jay-j001,"""Jon Jay""",0,1,9
+start,escoe001,"""Eduardo Escobar""",0,2,5
+start,perad001,"""David Peralta""",0,3,7
+start,goldp001,"""Paul Goldschmidt""",0,4,3
+start,polla001,"""A.J. Pollock""",0,5,8
+start,martk001,"""Ketel Marte""",0,6,4
+start,ahmen001,"""Nick Ahmed""",0,7,6
+start,mathj001,"""Jeff Mathis""",0,8,2
+start,greiz001,"""Zack Greinke""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,dahld001,"""David Dahl""",1,4,7
+start,stort001,"""Trevor Story""",1,5,6
+start,gonzc001,"""Carlos Gonzalez""",1,6,9
+start,mcmar001,"""Ryan McMahon""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,senza001,"""Antonio Senzatela""",1,9,1
+play,6,0,escoe001,01,CX,43/G
+play,6,0,perad001,32,BBCSBX,3/G
+play,6,0,goldp001,22,SSFBBFX,D8/L+
+play,6,0,polla001,00,X,S5/G-.2-3
+play,6,0,martk001,00,X,T9/G+.3-H;1-H
+play,6,0,ahmen001,30,B*BBV,IW
+play,6,0,mathj001,22,BCB1F>B,SB2
+play,6,0,mathj001,32,BCB1F>B.FS,K
+sub,mcgej001,"""Jake McGee""",1,9,1
+sub,obers001,"""Scott Oberg""",1,9,1
+sub,hollm001,"""Matt Holliday""",1,8,11
+sub,hampg001,"""Garrett Hampson""",1,8,12
+sub,parrg001,"""Gerardo Parra""",1,9,11
+sub,chafa001,"""Andrew Chafin""",0,9,1
+sub,iannc001,"""Chris Iannetta""",1,9,11
+sub,ziegb001,"""Brad Ziegler""",0,9,1
+play,8,0,perad001,00,,NP
+sub,iannc001,"""Chris Iannetta""",1,9,2
+play,8,0,perad001,00,,NP
+sub,ottaa001,"""Adam Ottavino""",1,8,1
+play,8,0,perad001,32,..BBCFBB,W
+play,8,0,goldp001,32,SBCFF*BB>S,K+SB2
+play,8,0,polla001,00,X,S6/G.2-3
+play,8,0,martk001,00,*B,SB2
+play,8,0,martk001,10,*B.X,S9/L.3-H;2-H
+play,8,0,ahmen001,12,B1C11FS,K
+play,8,0,mathj001,12,B11SS>C,K
+sub,musgh001,"""Harrison Musgrave""",1,8,1
+sub,walkc002,"""Christian Walker""",0,9,11
+sub,diekj001,"""Jake Diekman""",0,9,1
+sub,desmi001,"""Ian Desmond""",1,8,11
+sub,hiray001,"""Yoshihisa Hirano""",0,9,1

@@ -1,0 +1,48 @@
+id,COL201809130
+info,visteam,ARI
+info,hometeam,COL
+info,date,2018/09/13
+info,starttime,1:10PM
+start,jay-j001,"""Jon Jay""",0,1,7
+start,escoe001,"""Eduardo Escobar""",0,2,5
+start,goldp001,"""Paul Goldschmidt""",0,3,3
+start,polla001,"""A.J. Pollock""",0,4,8
+start,souzs001,"""Steven Souza""",0,5,9
+start,ahmen001,"""Nick Ahmed""",0,6,6
+start,martk001,"""Ketel Marte""",0,7,4
+start,mathj001,"""Jeff Mathis""",0,8,2
+start,buchc001,"""Clay Buchholz""",0,9,1
+start,dahld001,"""David Dahl""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,gonzc001,"""Carlos Gonzalez""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,parrg001,"""Gerardo Parra""",1,6,7
+start,desmi001,"""Ian Desmond""",1,7,3
+start,iannc001,"""Chris Iannetta""",1,8,2
+start,freek001,"""Kyle Freeland""",1,9,1
+sub,kochm001,"""Matt Koch""",0,9,1
+sub,bracs001,"""Silvino Bracho""",0,9,1
+sub,walkc002,"""Christian Walker""",0,9,11
+play,5,1,stort001,00,,NP
+sub,sherj001,"""Jimmie Sherfy""",0,9,1
+play,5,1,stort001,32,..CBFBBS,K
+play,5,1,parrg001,12,CBFX,S8/L
+play,5,1,desmi001,02,CC11>B,SB2
+play,5,1,desmi001,22,CC11>B.BFFS,K
+play,5,1,iannc001,00,H,HP
+play,5,1,freek001,22,SBBFS,K23
+sub,almoy001,"""Yency Almonte""",1,9,1
+sub,vargi001,"""Ildemaro Vargas""",0,8,11
+sub,brits001,"""Socrates Brito""",0,9,11
+sub,murpj001,"""John Ryan Murphy""",0,8,2
+sub,diekj001,"""Jake Diekman""",0,9,1
+sub,hollm001,"""Matt Holliday""",1,6,11
+sub,cuevn001,"""Noel Cuevas""",1,6,12
+sub,boxbb001,"""Brad Boxberger""",0,9,1
+sub,blacc001,"""Charlie Blackmon""",1,9,11
+sub,chafa001,"""Andrew Chafin""",0,9,1
+sub,cuevn001,"""Noel Cuevas""",1,6,7
+sub,musgh001,"""Harrison Musgrave""",1,9,1
+sub,lopey001,"""Yoan Lopez""",0,9,1
+sub,bettc001,"""Chad Bettis""",1,9,1

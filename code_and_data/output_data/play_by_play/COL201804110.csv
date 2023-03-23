@@ -1,0 +1,54 @@
+id,COL201804110
+info,visteam,SDN
+info,hometeam,COL
+info,date,2018/04/11
+info,starttime,1:11PM
+start,cordf003,"""Franchy Cordero""",0,1,8
+start,galvf001,"""Freddy Galvis""",0,2,6
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,pirej001,"""Jose Pirela""",0,4,7
+start,asuac001,"""Carlos Asuaje""",0,5,4
+start,renfh001,"""Hunter Renfroe""",0,6,9
+start,spanc001,"""Cory Spangenberg""",0,7,5
+start,ellia001,"""A.J. Ellis""",0,8,2
+start,perdl002,"""Luis Perdomo""",0,9,1
+start,lemad001,"""DJ LeMahieu""",1,1,4
+start,parrg001,"""Gerardo Parra""",1,2,7
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,gonzc001,"""Carlos Gonzalez""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,taucm001,"""Mike Tauchman""",1,6,8
+start,mcmar001,"""Ryan McMahon""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,marqg001,"""German Marquez""",1,9,1
+play,3,1,arenn001,10,B,NP
+sub,hedga001,"""Austin Hedges""",0,8,2
+play,3,1,arenn001,10,B,NP
+sub,baumb001,"""Buddy Baumann""",0,9,1
+play,3,1,arenn001,10,B,NP
+sub,desmi001,"""Ian Desmond""",1,3,11
+play,3,1,desmi001,10,B........X,E5/TH/G
+play,3,1,gonzc001,21,C11BB>S,SB2
+play,3,1,gonzc001,22,C11BB>S.X,S8/G.2-H(UR)
+play,3,1,stort001,32,FB*BBSF*B,W.1-2
+play,3,1,taucm001,10,BX,54/BG/SH.2-3;1-2
+play,3,1,mcmar001,32,SBCBFBB,W
+play,3,1,woltt001,22,F*BSBFX,S8/G.3-H;2-H;1-H(E8)(UR)(NR);B-3
+play,3,1,marqg001,00,,NP
+sub,valap001,"""Pat Valaika""",1,9,11
+play,3,1,valap001,00,,NP
+sub,cimba001,"""Adam Cimber""",0,9,1
+play,3,1,valap001,12,..FFFBFX,S7/L.3-H(UR)
+play,3,1,lemad001,00,X,46(1)/FO/G
+play,3,1,parrg001,00,,NP
+sub,andet002,"""Tyler Anderson""",1,2,11
+play,3,1,andet002,12,.FFB1S,K
+sub,desmi001,"""Ian Desmond""",1,3,7
+sub,valap001,"""Pat Valaika""",1,9,5
+sub,senza001,"""Antonio Senzatela""",1,2,1
+sub,headc001,"""Chase Headley""",0,9,5
+sub,matop002,"""Phil Maton""",0,7,1
+sub,ottaa001,"""Adam Ottavino""",1,2,1
+sub,mcgej001,"""Jake McGee""",1,2,1
+sub,daviw001,"""Wade Davis""",1,2,1
+sub,villc002,"""Christian Villanueva""",0,7,11

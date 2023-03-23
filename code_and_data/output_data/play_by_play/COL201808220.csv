@@ -1,0 +1,56 @@
+id,COL201808220
+info,visteam,SDN
+info,hometeam,COL
+info,date,2018/08/22
+info,starttime,6:41PM
+start,jankt001,"""Travis Jankowski""",0,1,7
+start,pirej001,"""Jose Pirela""",0,2,4
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,spanc001,"""Cory Spangenberg""",0,4,5
+start,hedga001,"""Austin Hedges""",0,5,2
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,reyef001,"""Franmil Reyes""",0,7,9
+start,margm001,"""Manuel Margot""",0,8,8
+start,nix-j002,"""Jacob Nix""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,gonzc001,"""Carlos Gonzalez""",1,3,9
+start,arenn001,"""Nolan Arenado""",1,4,5
+start,stort001,"""Trevor Story""",1,5,6
+start,parrg001,"""Gerardo Parra""",1,6,7
+start,desmi001,"""Ian Desmond""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,grayj003,"""Jon Gray""",1,9,1
+play,1,1,blacc001,01,CX,S8/G+
+play,1,1,lemad001,21,CBB1>B,SB2
+play,1,1,lemad001,32,CBB1>B.FFX,43/G+.2-3
+play,1,1,gonzc001,00,X,S7/F.3-H
+play,1,1,arenn001,31,BB*BSX,43/G+.1-2
+play,1,1,stort001,22,BFCF*BFX,53/G
+play,3,0,jankt001,10,BX,31/G
+play,3,0,pirej001,12,CBFX,S7/G+
+play,3,0,hosme001,00,X,5/P5F
+play,3,0,spanc001,02,CS>B,SB2
+play,3,0,spanc001,32,CS>B.*BFBX,7/L
+play,6,1,arenn001,00,,NP
+sub,matop002,"""Phil Maton""",0,9,1
+play,6,1,arenn001,11,.SBX,S9/L+
+play,6,1,stort001,00,X,S8/L+.1-3
+play,6,1,parrg001,12,FT*BS,K
+play,6,1,desmi001,12,1FFB>B,SB2
+play,6,1,desmi001,22,1FFB>B.X,T9/L.3-H;2-H
+play,6,1,woltt001,00,X,FC6/G.3XH(62)
+play,6,1,grayj003,32,FBBBS>X,7/F
+sub,oh--s001,"""Seung Hwan Oh""",1,9,1
+sub,renfh001,"""Hunter Renfroe""",0,9,11
+sub,diazm004,"""Miguel Diaz""",0,9,1
+sub,ottaa001,"""Adam Ottavino""",1,9,1
+play,8,1,parrg001,00,X,8/F
+play,8,1,desmi001,01,CX,S7/G+
+play,8,1,woltt001,00,>C,SB2.1-3(E2/TH)
+play,8,1,woltt001,02,>C.FX,8/L/SF.3-H(UR)
+play,8,1,ottaa001,00,,NP
+sub,mcmar001,"""Ryan McMahon""",1,9,11
+play,8,1,mcmar001,31,.FBBB*B,W
+play,8,1,blacc001,00,X,8/F
+sub,obers001,"""Scott Oberg""",1,9,1

@@ -1,0 +1,40 @@
+id,COL201804090
+info,visteam,SDN
+info,hometeam,COL
+info,date,2018/04/09
+info,starttime,6:41PM
+start,asuac001,"""Carlos Asuaje""",0,1,4
+start,headc001,"""Chase Headley""",0,2,5
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,pirej001,"""Jose Pirela""",0,4,9
+start,spanc001,"""Cory Spangenberg""",0,5,7
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,hedga001,"""Austin Hedges""",0,7,2
+start,margm001,"""Manuel Margot""",0,8,8
+start,richc002,"""Clayton Richard""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,stort001,"""Trevor Story""",1,4,6
+start,desmi001,"""Ian Desmond""",1,5,7
+start,iannc001,"""Chris Iannetta""",1,6,2
+start,gonzc001,"""Carlos Gonzalez""",1,7,9
+start,valap001,"""Pat Valaika""",1,8,3
+start,grayj003,"""Jon Gray""",1,9,1
+sub,taucm001,"""Mike Tauchman""",1,9,11
+sub,senza001,"""Antonio Senzatela""",1,9,1
+sub,lylej001,"""Jordan Lyles""",0,9,1
+sub,mcmar001,"""Ryan McMahon""",1,9,11
+sub,dunnm002,"""Michael Dunn""",1,9,1
+sub,shawb001,"""Bryan Shaw""",1,9,1
+sub,pirej001,"""Jose Pirela""",0,4,7
+sub,renfh001,"""Hunter Renfroe""",0,9,9
+sub,stamc001,"""Craig Stammen""",0,5,1
+play,8,0,hedga001,32,BBFBFX,S8/F
+play,8,0,margm001,32,CBBBCX,64(1)/FO/G
+play,8,0,renfh001,11,1SB11>B,SB2
+play,8,0,renfh001,32,1SB11>B.SBFS,K
+play,8,0,asuac001,00,X,6/L
+sub,ottaa001,"""Adam Ottavino""",1,9,1
+sub,handb001,"""Brad Hand""",0,5,1
+sub,parrg001,"""Gerardo Parra""",1,9,11

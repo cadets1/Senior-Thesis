@@ -1,0 +1,45 @@
+id,COL201809270
+info,visteam,PHI
+info,hometeam,COL
+info,date,2018/09/27
+info,starttime,1:12PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,bautj002,"""Jose Bautista""",0,2,9
+start,quinr003,"""Roman Quinn""",0,3,8
+start,hoskr001,"""Rhys Hoskins""",0,4,3
+start,santc002,"""Carlos Santana""",0,5,5
+start,cozed001,"""Dylan Cozens""",0,6,7
+start,kings001,"""Scott Kingery""",0,7,6
+start,knapa001,"""Andrew Knapp""",0,8,2
+start,arrij001,"""Jake Arrieta""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,dahld001,"""David Dahl""",1,3,7
+start,arenn001,"""Nolan Arenado""",1,4,5
+start,stort001,"""Trevor Story""",1,5,6
+start,gonzc001,"""Carlos Gonzalez""",1,6,9
+start,desmi001,"""Ian Desmond""",1,7,3
+start,iannc001,"""Chris Iannetta""",1,8,2
+start,senza001,"""Antonio Senzatela""",1,9,1
+sub,obers001,"""Scott Oberg""",1,9,1
+sub,florp001,"""Pedro Florimon""",0,9,11
+sub,oh--s001,"""Seung Hwan Oh""",1,9,1
+sub,bourj002,"""Justin Bour""",0,2,11
+sub,willn001,"""Nick Williams""",0,2,12
+sub,florp001,"""Pedro Florimon""",0,9,9
+sub,huntt002,"""Tommy Hunter""",0,2,1
+sub,parrg001,"""Gerardo Parra""",1,9,11
+sub,neshp001,"""Pat Neshek""",0,2,1
+play,8,0,hoskr001,00,,NP
+sub,ottaa001,"""Adam Ottavino""",1,9,1
+play,8,0,hoskr001,12,.BCSH,HP
+play,8,0,santc002,01,C>X,HR/7/F.1-H
+play,8,0,cozed001,31,BBBCB,W
+play,8,0,kings001,10,B>B,SB2
+play,8,0,kings001,32,B>B.CCFBC,K
+play,8,0,knapa001,22,CBBFS,K
+play,8,0,florp001,32,CCBBBS,K
+sub,loupa001,"""Aaron Loup""",0,2,1
+sub,nerih001,"""Hector Neris""",0,2,1
+sub,daviw001,"""Wade Davis""",1,9,1
+sub,crawj002,"""J.P. Crawford""",0,2,11

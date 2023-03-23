@@ -1,0 +1,72 @@
+id,COL201809040
+info,visteam,SFN
+info,hometeam,COL
+info,date,2018/09/04
+info,starttime,6:41PM
+start,blang001,"""Gregor Blanco""",0,1,9
+start,panij002,"""Joe Panik""",0,2,4
+start,beltb001,"""Brandon Belt""",0,3,3
+start,longe001,"""Evan Longoria""",0,4,5
+start,crawb001,"""Brandon Crawford""",0,5,6
+start,hundn001,"""Nick Hundley""",0,6,2
+start,shawc001,"""Chris Shaw""",0,7,7
+start,herng001,"""Gorkys Hernandez""",0,8,8
+start,rodrd001,"""Dereck Rodriguez""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,gonzc001,"""Carlos Gonzalez""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,dahld001,"""David Dahl""",1,6,7
+start,desmi001,"""Ian Desmond""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,marqg001,"""German Marquez""",1,9,1
+play,1,0,blang001,12,BCCX,S7/L
+play,1,0,panij002,12,CC*B*B,SB2
+play,1,0,panij002,22,CC*B*B.X,S7/G.2-H
+play,1,0,beltb001,01,C1X,8/L
+play,1,0,longe001,02,CC1C,K
+play,1,0,crawb001,22,CBBFX,8/F
+play,6,0,blang001,22,CFBBS,K
+play,6,0,panij002,02,CCX,63/G
+play,6,0,beltb001,32,CCFBBBFX,S9/L+
+play,6,0,longe001,22,SS*BB>B,SB2
+play,6,0,longe001,32,SS*BB>B.*B,W
+play,6,0,crawb001,12,BSST,K
+play,6,1,gonzc001,00,X,43/G+
+play,6,1,stort001,20,BBX,S9/L
+play,6,1,dahld001,32,*B1B1FFB>C,K+SB2
+play,6,1,desmi001,22,BCCFBX,4/L+
+sub,joner005,"""Ryder Jones""",0,9,11
+sub,rusic001,"""Chris Rusin""",1,9,1
+play,7,1,woltt001,00,,NP
+sub,slata001,"""Austin Slater""",0,7,7
+play,7,1,woltt001,00,,NP
+sub,moror001,"""Reyes Moronta""",0,9,1
+play,7,1,woltt001,00,,NP
+sub,parrg001,"""Gerardo Parra""",1,8,11
+play,7,1,parrg001,32,...BBFBFFFFS,K
+play,7,1,rusic001,00,,NP
+sub,mcmar001,"""Ryan McMahon""",1,9,11
+play,7,1,mcmar001,01,.CX,HR/8/F
+play,7,1,blacc001,02,FCX,S5/G
+play,7,1,lemad001,10,B1>B,SB2
+play,7,1,lemad001,30,B1>B.BB,W
+play,7,1,arenn001,00,B,WP.2-3;1-2
+play,7,1,arenn001,30,B.VVV,IW
+play,7,1,gonzc001,00,,NP
+sub,blact002,"""Ty Blach""",0,9,1
+play,7,1,gonzc001,12,.FFBX,T8/L+.3-H;2-H;1-H
+play,7,1,stort001,30,BVVV,IW
+play,7,1,dahld001,02,SFT,K
+play,7,1,desmi001,00,,NP
+sub,dysos001,"""Sam Dyson""",0,9,1
+play,7,1,desmi001,00,.111>B,SB2
+play,7,1,desmi001,32,.111>B.CFBB*B,W
+play,7,1,parrg001,31,BCBBB,W.3-H;2-3;1-2
+play,7,1,mcmar001,02,CSC,K
+sub,iannc001,"""Chris Iannetta""",1,9,2
+sub,ottaa001,"""Adam Ottavino""",1,8,1
+sub,kellc001,"""Casey Kelly""",0,9,1
+sub,daviw001,"""Wade Davis""",1,8,1
+sub,hansa001,"""Alen Hanson""",0,9,11

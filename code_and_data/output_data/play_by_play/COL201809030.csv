@@ -1,0 +1,70 @@
+id,COL201809030
+info,visteam,SFN
+info,hometeam,COL
+info,date,2018/09/03
+info,starttime,1:12PM
+start,slata001,"""Austin Slater""",0,1,9
+start,darnc001,"""Chase d'Arnaud""",0,2,3
+start,longe001,"""Evan Longoria""",0,3,5
+start,hundn001,"""Nick Hundley""",0,4,2
+start,crawb001,"""Brandon Crawford""",0,5,6
+start,pench001,"""Hunter Pence""",0,6,7
+start,herng001,"""Gorkys Hernandez""",0,7,8
+start,tomlk001,"""Kelby Tomlinson""",0,8,4
+start,bumgm001,"""Madison Bumgarner""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,stort001,"""Trevor Story""",1,4,6
+start,hollm001,"""Matt Holliday""",1,5,7
+start,desmi001,"""Ian Desmond""",1,6,3
+start,gonzc001,"""Carlos Gonzalez""",1,7,9
+start,buted001,"""Drew Butera""",1,8,2
+start,andet002,"""Tyler Anderson""",1,9,1
+play,4,0,darnc001,12,BCFX,D7/L
+play,4,0,longe001,11,BF>B,SB3
+play,4,0,longe001,21,BF>B.X,8/F/SF.3-H
+play,4,0,hundn001,00,X,S7/L+
+play,4,0,crawb001,22,S1BFFBS,K
+play,4,0,pench001,11,S1BX,S8/G.1-2
+play,4,0,herng001,10,*BX,7/F
+sub,almoy001,"""Yency Almonte""",1,9,1
+sub,okers001,"""Steven Okert""",0,9,1
+sub,valap001,"""Pat Valaika""",1,9,11
+sub,rusic001,"""Chris Rusin""",1,9,1
+sub,garca006,"""Aramis Garcia""",0,9,11
+sub,bettc001,"""Chad Bettis""",1,9,1
+play,7,1,blacc001,00,,NP
+sub,johnp001,"""Pierce Johnson""",0,9,1
+play,7,1,blacc001,32,.BCBBFB,W
+play,7,1,lemad001,31,BB1C11B>B,W.1-2
+play,7,1,arenn001,12,SSBFFS,K
+play,7,1,stort001,00,>C,SB3;SB2
+play,7,1,stort001,01,>C.X,FC5/G.3XH(52);2-3
+play,7,1,hollm001,02,SF>B,SB2
+play,7,1,hollm001,22,SF>B.BS,K
+sub,parrg001,"""Gerardo Parra""",1,5,7
+sub,oh--s001,"""Seung Hwan Oh""",1,9,1
+sub,hansa001,"""Alen Hanson""",0,8,11
+sub,shawc001,"""Chris Shaw""",0,9,11
+play,8,1,desmi001,00,,NP
+sub,beltb001,"""Brandon Belt""",0,2,3
+play,8,1,desmi001,00,,NP
+sub,blang001,"""Gregor Blanco""",0,6,7
+play,8,1,desmi001,00,,NP
+sub,hansa001,"""Alen Hanson""",0,8,4
+play,8,1,desmi001,00,,NP
+sub,watst001,"""Tony Watson""",0,9,1
+play,8,1,desmi001,00,....X,S7/L+
+play,8,1,gonzc001,22,C1CB1F>FB1X,8/F
+play,8,1,buted001,00,,NP
+sub,iannc001,"""Chris Iannetta""",1,8,11
+play,8,1,iannc001,00,.X,D9/F.1-3
+play,8,1,oh--s001,00,,NP
+sub,cuevn001,"""Noel Cuevas""",1,9,11
+play,8,1,cuevn001,01,.SX,S8/G.3-H;2-H
+play,8,1,blacc001,12,1FBCS,K
+play,8,1,lemad001,00,1>C,SB2
+play,8,1,lemad001,02,1>C.FX,4/P
+sub,iannc001,"""Chris Iannetta""",1,8,2
+sub,daviw001,"""Wade Davis""",1,9,1

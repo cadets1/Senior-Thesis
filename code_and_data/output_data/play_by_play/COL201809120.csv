@@ -1,0 +1,53 @@
+id,COL201809120
+info,visteam,ARI
+info,hometeam,COL
+info,date,2018/09/12
+info,starttime,6:41PM
+start,polla001,"""A.J. Pollock""",0,1,8
+start,escoe001,"""Eduardo Escobar""",0,2,5
+start,perad001,"""David Peralta""",0,3,7
+start,goldp001,"""Paul Goldschmidt""",0,4,3
+start,descd001,"""Daniel Descalso""",0,5,4
+start,souzs001,"""Steven Souza""",0,6,9
+start,ahmen001,"""Nick Ahmed""",0,7,6
+start,avila001,"""Alex Avila""",0,8,2
+start,corbp001,"""Patrick Corbin""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,stort001,"""Trevor Story""",1,4,6
+start,hollm001,"""Matt Holliday""",1,5,7
+start,desmi001,"""Ian Desmond""",1,6,3
+start,dahld001,"""David Dahl""",1,7,9
+start,buted001,"""Drew Butera""",1,8,2
+start,grayj003,"""Jon Gray""",1,9,1
+play,2,0,goldp001,02,SCX,D9/G
+play,2,0,descd001,32,BSBBSFB,W
+play,2,0,souzs001,31,BBBCX,FC6/G.2-3;1-2
+play,2,0,ahmen001,22,BFBCX,8/F/SF.3-H;2-3
+play,2,0,avila001,21,BCB1>C,SB2
+play,2,0,avila001,32,BCB1>C.BFB,W
+play,2,0,corbp001,10,BX,46(1)3/GDP
+play,3,0,polla001,22,BCBCFH,HP
+play,3,0,escoe001,01,1C1X,HR/89/F.1-H
+play,3,0,perad001,22,SBBSS,K
+play,3,0,goldp001,32,CSBBBFX,S9/G
+play,3,0,descd001,32,CB1S*BB>F1>F>F11>S,K+SB2
+play,3,0,souzs001,32,BBBSST,K
+sub,murpt002,"""Tom Murphy""",1,9,11
+sub,rusic001,"""Chris Rusin""",1,9,1
+sub,valap001,"""Pat Valaika""",1,9,11
+sub,obers001,"""Scott Oberg""",1,9,1
+sub,ziegb001,"""Brad Ziegler""",0,9,1
+sub,hampg001,"""Garrett Hampson""",1,5,12
+sub,chafa001,"""Andrew Chafin""",0,9,1
+sub,iannc001,"""Chris Iannetta""",1,8,11
+sub,brada001,"""Archie Bradley""",0,9,1
+sub,gonzc001,"""Carlos Gonzalez""",1,8,11
+sub,woltt001,"""Tony Wolters""",1,5,2
+sub,dahld001,"""David Dahl""",1,7,7
+sub,gonzc001,"""Carlos Gonzalez""",1,8,9
+sub,daviw001,"""Wade Davis""",1,9,1
+sub,martk001,"""Ketel Marte""",0,9,4
+sub,hiray001,"""Yoshihisa Hirano""",0,5,1
+sub,parrg001,"""Gerardo Parra""",1,9,11

@@ -1,0 +1,40 @@
+id,COL201806210
+info,visteam,NYN
+info,hometeam,COL
+info,date,2018/06/21
+info,starttime,1:10PM
+start,nimmb001,"""Brandon Nimmo""",0,1,9
+start,frazt001,"""Todd Frazier""",0,2,5
+start,confm001,"""Michael Conforto""",0,3,8
+start,florw001,"""Wilmer Flores""",0,4,3
+start,bautj002,"""Jose Bautista""",0,5,7
+start,plawk001,"""Kevin Plawecki""",0,6,2
+start,reyej001,"""Jose Reyes""",0,7,4
+start,rosaa003,"""Amed Rosario""",0,8,6
+start,matzs001,"""Steven Matz""",0,9,1
+start,lemad001,"""DJ LeMahieu""",1,1,4
+start,blacc001,"""Charlie Blackmon""",1,2,8
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,stort001,"""Trevor Story""",1,4,6
+start,desmi001,"""Ian Desmond""",1,5,3
+start,iannc001,"""Chris Iannetta""",1,6,2
+start,parrg001,"""Gerardo Parra""",1,7,7
+start,cuevn001,"""Noel Cuevas""",1,8,9
+start,freek001,"""Kyle Freeland""",1,9,1
+play,4,1,freek001,22,CFBBFS,K
+play,4,1,lemad001,01,CX,S57/G+
+play,4,1,blacc001,02,CCX,S7/L.1-2
+play,4,1,arenn001,22,BFSB>C,K+SB3;SB2
+play,4,1,stort001,22,FBBFX,53/G
+sub,woltt001,"""Tony Wolters""",1,9,11
+sub,smitd008,"""Dominic Smith""",0,9,7
+sub,petet001,"""Tim Peterson""",0,5,1
+sub,hoffj003,"""Jeff Hoffman""",1,9,1
+sub,rusic001,"""Chris Rusin""",1,9,1
+sub,almoy001,"""Yency Almonte""",1,9,1
+sub,mesod001,"""Devin Mesoraco""",0,5,11
+sub,sewap001,"""Paul Sewald""",0,5,1
+sub,blevj001,"""Jerry Blevins""",0,5,1
+sub,gonzc001,"""Carlos Gonzalez""",1,9,11
+sub,flexc001,"""Chris Flexen""",0,5,1
+sub,mcgej001,"""Jake McGee""",1,9,1

@@ -1,0 +1,43 @@
+id,COL201806200
+info,visteam,NYN
+info,hometeam,COL
+info,date,2018/06/20
+info,starttime,6:41PM
+start,nimmb001,"""Brandon Nimmo""",0,1,9
+start,cabra002,"""Asdrubal Cabrera""",0,2,4
+start,confm001,"""Michael Conforto""",0,3,8
+start,frazt001,"""Todd Frazier""",0,4,5
+start,smitd008,"""Dominic Smith""",0,5,7
+start,florw001,"""Wilmer Flores""",0,6,3
+start,mesod001,"""Devin Mesoraco""",0,7,2
+start,reyej001,"""Jose Reyes""",0,8,6
+start,lugos001,"""Seth Lugo""",0,9,1
+start,lemad001,"""DJ LeMahieu""",1,1,4
+start,blacc001,"""Charlie Blackmon""",1,2,8
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,gonzc001,"""Carlos Gonzalez""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,parrg001,"""Gerardo Parra""",1,6,7
+start,desmi001,"""Ian Desmond""",1,7,3
+start,murpt002,"""Tom Murphy""",1,8,2
+start,bettc001,"""Chad Bettis""",1,9,1
+sub,guill001,"""Luis Guillorme""",0,9,11
+sub,sewap001,"""Paul Sewald""",0,9,1
+sub,bautj002,"""Jose Bautista""",0,9,11
+sub,rusic001,"""Chris Rusin""",1,9,1
+sub,shawb001,"""Bryan Shaw""",1,9,1
+sub,gselr001,"""Robert Gsellman""",0,9,1
+sub,mcmar001,"""Ryan McMahon""",1,9,11
+sub,musgh001,"""Harrison Musgrave""",1,9,1
+sub,plawk001,"""Kevin Plawecki""",0,9,11
+sub,swara001,"""Anthony Swarzak""",0,9,1
+sub,mcgej001,"""Jake McGee""",1,9,1
+play,7,1,desmi001,32,FBSBFBB,W
+play,7,1,murpt002,00,1X,54(1)/FO/G
+play,7,1,mcgej001,00,,NP
+sub,iannc001,"""Chris Iannetta""",1,9,11
+play,7,1,iannc001,32,.BC*BBC>S,K+CS2(24)/DP
+sub,ottaa001,"""Adam Ottavino""",1,9,1
+sub,famij001,"""Jeurys Familia""",0,9,1
+sub,daviw001,"""Wade Davis""",1,9,1
+sub,rosaa003,"""Amed Rosario""",0,9,11

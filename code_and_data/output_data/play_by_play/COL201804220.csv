@@ -1,0 +1,58 @@
+id,COL201804220
+info,visteam,CHN
+info,hometeam,COL
+info,date,2018/04/22
+info,starttime,1:11PM
+start,almoa002,"""Albert Almora""",0,1,8
+start,baezj001,"""Javier Baez""",0,2,6
+start,bryak001,"""Kris Bryant""",0,3,5
+start,rizza001,"""Anthony Rizzo""",0,4,3
+start,lastt001,"""Tommy La Stella""",0,5,4
+start,schwk001,"""Kyle Schwarber""",0,6,7
+start,carav001,"""Victor Caratini""",0,7,2
+start,heywj001,"""Jason Heyward""",0,8,9
+start,quinj001,"""Jose Quintana""",0,9,1
+start,lemad001,"""DJ LeMahieu""",1,1,4
+start,blacc001,"""Charlie Blackmon""",1,2,8
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,stort001,"""Trevor Story""",1,4,6
+start,iannc001,"""Chris Iannetta""",1,5,2
+start,dahld001,"""David Dahl""",1,6,7
+start,desmi001,"""Ian Desmond""",1,7,3
+start,cuevn001,"""Noel Cuevas""",1,8,9
+start,marqg001,"""German Marquez""",1,9,1
+sub,boted002,"""David Bote""",0,3,12
+play,1,1,lemad001,00,,NP
+sub,boted002,"""David Bote""",0,3,5
+play,1,1,lemad001,32,.BCBFFBFX,E6/G
+play,1,1,blacc001,01,C>B,SB2
+play,1,1,blacc001,22,C>B.F*BS,K
+play,1,1,arenn001,11,BFX,8/L
+play,1,1,stort001,32,BFSB*BS,K
+play,2,1,iannc001,11,CBX,9/F
+play,2,1,dahld001,22,BFTBFS,K
+play,2,1,desmi001,11,CBX,S48/G
+play,2,1,cuevn001,11,BC.1,SB2
+play,2,1,cuevn001,12,BC.1.FX,8/L
+sub,rusic001,"""Chris Rusin""",1,9,1
+sub,shawb001,"""Bryan Shaw""",1,9,1
+sub,happi001,"""Ian Happ""",0,3,11
+sub,woltt001,"""Tony Wolters""",1,9,2
+sub,dunnm002,"""Michael Dunn""",1,5,1
+sub,russa002,"""Addison Russell""",0,5,11
+sub,baezj001,"""Javier Baez""",0,2,4
+sub,happi001,"""Ian Happ""",0,3,5
+sub,russa002,"""Addison Russell""",0,5,6
+sub,cishs001,"""Steve Cishek""",0,9,1
+sub,mcmar001,"""Ryan McMahon""",1,5,3
+sub,dahld001,"""David Dahl""",1,6,9
+sub,desmi001,"""Ian Desmond""",1,7,7
+sub,obers001,"""Scott Oberg""",1,8,1
+sub,edwac001,"""Carl Edwards""",0,9,1
+sub,mcgej001,"""Jake McGee""",1,8,1
+sub,valap001,"""Pat Valaika""",1,8,11
+sub,valap001,"""Pat Valaika""",1,8,4
+sub,ottaa001,"""Adam Ottavino""",1,1,1
+sub,contw001,"""Willson Contreras""",0,9,11
+sub,contw001,"""Willson Contreras""",0,9,2
+sub,morrb001,"""Brandon Morrow""",0,7,1

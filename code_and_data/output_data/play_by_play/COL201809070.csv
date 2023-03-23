@@ -1,0 +1,67 @@
+id,COL201809070
+info,visteam,LAN
+info,hometeam,COL
+info,date,2018/09/07
+info,starttime,6:41PM
+start,pedej001,"""Joc Pederson""",0,1,7
+start,turnj001,"""Justin Turner""",0,2,5
+start,machm001,"""Manny Machado""",0,3,6
+start,muncm001,"""Max Muncy""",0,4,3
+start,bellc002,"""Cody Bellinger""",0,5,8
+start,herne001,"""Enrique Hernandez""",0,6,4
+start,grany001,"""Yasmani Grandal""",0,7,2
+start,puigy001,"""Yasiel Puig""",0,8,9
+start,kersc001,"""Clayton Kershaw""",0,9,1
+start,blacc001,"""Charlie Blackmon""",1,1,8
+start,lemad001,"""DJ LeMahieu""",1,2,4
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,stort001,"""Trevor Story""",1,4,6
+start,hollm001,"""Matt Holliday""",1,5,7
+start,desmi001,"""Ian Desmond""",1,6,3
+start,gonzc001,"""Carlos Gonzalez""",1,7,9
+start,buted001,"""Drew Butera""",1,8,2
+start,grayj003,"""Jon Gray""",1,9,1
+sub,valap001,"""Pat Valaika""",1,9,11
+play,5,0,machm001,00,,NP
+sub,rusic001,"""Chris Rusin""",1,9,1
+play,5,0,machm001,30,.BBBB,W
+play,5,0,muncm001,30,BB1BB,W.1-2
+play,5,0,bellc002,02,CSS,K
+play,5,0,herne001,01,CN,BK.2-3;1-2
+play,5,0,herne001,02,CN..FX,FC6/G.3XH(62);2-3
+play,5,0,grany001,00,,NP
+sub,freed001,"""David Freese""",0,7,11
+play,5,0,freed001,00,,NP
+sub,almoy001,"""Yency Almonte""",1,9,1
+play,5,0,freed001,00,,NP
+sub,verda001,"""Alex Verdugo""",0,7,11
+play,5,0,verda001,02,...FC>X,E5/TH/G.3-H(NR)(UR);1-3
+play,5,0,puigy001,01,SX,S9/G.3-H(UR);1-3
+play,5,0,kersc001,10,B>C,CS2(26)
+sub,barna001,"""Austin Barnes""",0,7,2
+play,7,0,muncm001,00,,NP
+sub,musgh001,"""Harrison Musgrave""",1,9,1
+play,7,0,muncm001,32,.BBCBSC,K
+play,7,0,bellc002,30,BBBB,W
+play,7,0,herne001,00,,NP
+sub,oh--s001,"""Seung Hwan Oh""",1,9,1
+play,7,0,herne001,32,.*BC*BSF*BF>X,S18/G.1-3
+play,7,0,barna001,22,MBFB>T,K+CSH(2425)/DP
+sub,dozib001,"""Brian Dozier""",0,4,4
+sub,bellc002,"""Cody Bellinger""",0,5,3
+sub,herne001,"""Enrique Hernandez""",0,6,8
+sub,fergc001,"""Caleb Ferguson""",0,9,1
+sub,cuevn001,"""Noel Cuevas""",1,8,11
+sub,iannc001,"""Chris Iannetta""",1,9,11
+sub,flord002,"""Dylan Floro""",0,9,1
+sub,iannc001,"""Chris Iannetta""",1,9,2
+sub,obers001,"""Scott Oberg""",1,8,1
+sub,utlec001,"""Chase Utley""",0,9,11
+sub,strir001,"""Ross Stripling""",0,9,1
+sub,parrg001,"""Gerardo Parra""",1,5,12
+sub,alexs001,"""Scott Alexander""",0,9,1
+sub,dahld001,"""David Dahl""",1,8,11
+sub,parrg001,"""Gerardo Parra""",1,5,7
+sub,bettc001,"""Chad Bettis""",1,8,1
+sub,tapir001,"""Raimel Tapia""",1,9,12
+sub,maedk001,"""Kenta Maeda""",0,9,1

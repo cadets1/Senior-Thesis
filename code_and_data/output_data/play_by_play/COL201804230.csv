@@ -1,0 +1,74 @@
+id,COL201804230
+info,visteam,SDN
+info,hometeam,COL
+info,date,2018/04/23
+info,starttime,6:41PM
+start,cordf003,"""Franchy Cordero""",0,1,8
+start,myerw001,"""Wil Myers""",0,2,9
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,pirej001,"""Jose Pirela""",0,4,7
+start,asuac001,"""Carlos Asuaje""",0,5,4
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,spanc001,"""Cory Spangenberg""",0,7,5
+start,ellia001,"""A.J. Ellis""",0,8,2
+start,mitcb001,"""Bryan Mitchell""",0,9,1
+start,lemad001,"""DJ LeMahieu""",1,1,4
+start,blacc001,"""Charlie Blackmon""",1,2,8
+start,arenn001,"""Nolan Arenado""",1,3,5
+start,dahld001,"""David Dahl""",1,4,9
+start,stort001,"""Trevor Story""",1,5,6
+start,desmi001,"""Ian Desmond""",1,6,7
+start,mcmar001,"""Ryan McMahon""",1,7,3
+start,woltt001,"""Tony Wolters""",1,8,2
+start,bettc001,"""Chad Bettis""",1,9,1
+play,1,1,lemad001,32,BCBTBX,S9/L
+play,1,1,blacc001,12,CCBS,K
+play,1,1,arenn001,10,B1>C,SB2.1-3(E2/TH)
+play,1,1,arenn001,21,B1>C.BX,HR/7/L+.3-H
+play,1,1,dahld001,11,BCX,S6/G
+play,1,1,stort001,31,B1>FB111BX,HR/7/L.1-H
+play,1,1,desmi001,01,FX,53/G-
+play,1,1,mcmar001,30,BBBB,W
+play,1,1,woltt001,00,X,8/L
+play,3,1,arenn001,11,BFX,7/F
+play,3,1,dahld001,00,X,6/P
+play,3,1,stort001,32,BBFBFB,W
+play,3,1,desmi001,01,1C>B,SB2
+play,3,1,desmi001,22,1C>B.*BSX,D9/G.2-H
+play,3,1,mcmar001,20,BBX,43/G
+play,4,1,woltt001,31,BBBCX,43/G
+play,4,1,bettc001,00,X,43/G
+play,4,1,lemad001,11,CBX,S8/L+
+play,4,1,blacc001,12,BF11S>B,CS2(26)
+sub,musgh001,"""Harrison Musgrave""",1,9,1
+sub,erlir001,"""Robbie Erlin""",0,9,1
+play,7,0,ellia001,00,,NP
+sub,mcgej001,"""Jake McGee""",1,9,1
+play,7,0,ellia001,12,.CBFC,K
+play,7,0,erlir001,00,,NP
+sub,szczm001,"""Matt Szczur""",0,9,11
+play,7,0,szczm001,10,.BX,D7/L
+play,7,0,cordf003,10,BX,HR/8/F.2-H
+play,7,0,myerw001,31,BFBBX,S7/G
+play,7,0,hosme001,30,B1BBB,W.1-2
+play,7,0,pirej001,00,,NP
+sub,valap001,"""Pat Valaika""",1,9,3
+play,7,0,pirej001,00,,NP
+sub,obers001,"""Scott Oberg""",1,7,1
+play,7,0,pirej001,00,..>C,SB3;SB2
+play,7,0,pirej001,22,..>C.S*B*BX,FC4/G.3XH(42);2-3
+play,7,0,asuac001,02,SSX,S8/G.3-H;1-2
+play,7,0,galvf001,32,B*BBCF*B,W.2-3;1-2
+play,7,0,spanc001,22,SSB*BX,S9/L.3-H;2-H;1-2
+play,7,0,ellia001,32,*BFBFB>B,W.2-3;1-2
+play,7,0,szczm001,12,CFBFX,S9/G.3-H;2-H;1-2
+play,7,0,cordf003,00,,NP
+sub,senza001,"""Antonio Senzatela""",1,7,1
+play,7,0,cordf003,22,.BFBSX,S6/G.2-3;1-2
+play,7,0,myerw001,21,C*BBX,D7/L+.3-H;2-H;1-3
+play,7,0,hosme001,31,B*BBCB,W
+play,7,0,pirej001,22,BBCFX,46(1)/FO/G
+sub,szczm001,"""Matt Szczur""",0,9,7
+sub,stamc001,"""Craig Stammen""",0,4,1
+sub,lylej001,"""Jordan Lyles""",0,4,1
+sub,cuevn001,"""Noel Cuevas""",1,7,11
