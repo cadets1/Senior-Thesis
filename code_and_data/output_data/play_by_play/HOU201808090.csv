@@ -1,0 +1,49 @@
+id,HOU201808090
+info,visteam,SEA
+info,hometeam,HOU
+info,date,2018/08/09
+info,starttime,7:11PM
+start,hanim001,"""Mitch Haniger""",0,1,9
+start,spand001,"""Denard Span""",0,2,7
+start,seguj002,"""Jean Segura""",0,3,6
+start,cruzn002,"""Nelson Cruz""",0,4,10
+start,seagk001,"""Kyle Seager""",0,5,5
+start,zunim001,"""Mike Zunino""",0,6,2
+start,healr001,"""Ryon Healy""",0,7,3
+start,maybc001,"""Cameron Maybin""",0,8,8
+start,gordd002,"""Dee Gordon""",0,9,4
+start,paxtj001,"""James Paxton""",0,0,1
+start,brega001,"""Alex Bregman""",1,1,6
+start,gonzm002,"""Marwin Gonzalez""",1,2,7
+start,gurry001,"""Yulieski Gurriel""",1,3,4
+start,gatte001,"""Evan Gattis""",1,4,10
+start,whitt002,"""Tyler White""",1,5,3
+start,davij006,"""J.D. Davis""",1,6,5
+start,maldm001,"""Martin Maldonado""",1,7,2
+start,marij002,"""Jake Marisnick""",1,8,8
+start,kempt001,"""Tony Kemp""",1,9,9
+start,verlj001,"""Justin Verlander""",1,0,1
+sub,peacb001,"""Brad Peacock""",1,0,1
+sub,harrw002,"""Will Harris""",1,0,1
+play,6,0,maybc001,11,CBX,S8/L
+play,6,0,gordd002,12,C11F1B+1H,HP.1-2
+play,6,0,hanim001,21,CB*B>C,SB3
+play,6,0,hanim001,32,CB*B>C.*B1>FX,S8/L.3-H;1-3
+play,6,0,spand001,21,1FB1BX,9/F/SF.3-H
+play,6,0,seguj002,10,BX,9/L+
+play,6,0,cruzn002,00,X,64(1)/FO/G
+sub,vincn001,"""Nick Vincent""",0,0,1
+sub,sippt001,"""Tony Sipp""",1,0,1
+sub,reddj001,"""Josh Reddick""",1,6,11
+sub,dukez001,"""Zach Duke""",0,0,1
+sub,stasm001,"""Max Stassi""",1,7,11
+sub,coloa001,"""Alex Colome""",0,0,1
+sub,gonzm002,"""Marwin Gonzalez""",1,2,4
+sub,gurry001,"""Yulieski Gurriel""",1,3,5
+sub,reddj001,"""Josh Reddick""",1,6,9
+sub,stasm001,"""Max Stassi""",1,7,2
+sub,kempt001,"""Tony Kemp""",1,9,7
+sub,smitj002,"""Joe Smith""",1,0,1
+sub,hereg002,"""Guillermo Heredia""",0,2,7
+sub,osunr001,"""Roberto Osuna""",1,0,1
+sub,diaze006,"""Edwin Diaz""",0,0,1

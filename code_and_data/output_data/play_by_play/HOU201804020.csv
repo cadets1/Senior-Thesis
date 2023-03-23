@@ -1,0 +1,39 @@
+id,HOU201804020
+info,visteam,BAL
+info,hometeam,HOU
+info,date,2018/04/02
+info,starttime,6:22PM
+start,davic003,"""Chris Davis""",0,1,3
+start,machm001,"""Manny Machado""",0,2,6
+start,schoj001,"""Jonathan Schoop""",0,3,4
+start,jonea003,"""Adam Jones""",0,4,8
+start,manct001,"""Trey Mancini""",0,5,7
+start,rasmc001,"""Colby Rasmus""",0,6,9
+start,beckt001,"""Tim Beckham""",0,7,5
+start,alvap001,"""Pedro Alvarez""",0,8,10
+start,josec002,"""Caleb Joseph""",0,9,2
+start,tillc001,"""Chris Tillman""",0,0,1
+start,sprig001,"""George Springer""",1,1,8
+start,brega001,"""Alex Bregman""",1,2,5
+start,altuj001,"""Jose Altuve""",1,3,4
+start,corrc001,"""Carlos Correa""",1,4,6
+start,reddj001,"""Josh Reddick""",1,5,9
+start,gonzm002,"""Marwin Gonzalez""",1,6,3
+start,gatte001,"""Evan Gattis""",1,7,10
+start,mccab002,"""Brian McCann""",1,8,2
+start,fishd001,"""Derek Fisher""",1,9,7
+start,mortc002,"""Charlie Morton""",1,0,1
+sub,davij006,"""J.D. Davis""",1,4,3
+sub,gonzm002,"""Marwin Gonzalez""",1,6,6
+play,5,1,reddj001,32,BBFBFFFB,W
+play,5,1,gonzm002,00,,NP
+sub,castm002,"""Miguel Castro""",0,0,1
+play,5,1,gonzm002,11,.BC>C,CS2(25)
+play,5,1,gonzm002,12,.BC>C.S,K
+play,5,1,gatte001,32,FBBFBFX,43/G
+sub,peacb001,"""Brad Peacock""",1,0,1
+sub,bleir001,"""Richard Bleier""",0,0,1
+sub,harrw002,"""Will Harris""",1,0,1
+sub,odayd001,"""Darren O'Day""",0,0,1
+sub,mchuc001,"""Collin McHugh""",1,0,1
+sub,siscc001,"""Chance Sisco""",0,9,11

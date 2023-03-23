@@ -1,0 +1,48 @@
+id,HOU201804070
+info,visteam,SDN
+info,hometeam,HOU
+info,date,2018/04/07
+info,starttime,6:10PM
+start,pirej001,"""Jose Pirela""",0,1,7
+start,galvf001,"""Freddy Galvis""",0,2,6
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,villc002,"""Christian Villanueva""",0,4,5
+start,asuac001,"""Carlos Asuaje""",0,5,4
+start,renfh001,"""Hunter Renfroe""",0,6,9
+start,spanc001,"""Cory Spangenberg""",0,7,10
+start,ellia001,"""A.J. Ellis""",0,8,2
+start,margm001,"""Manuel Margot""",0,9,8
+start,mitcb001,"""Bryan Mitchell""",0,0,1
+start,sprig001,"""George Springer""",1,1,9
+start,brega001,"""Alex Bregman""",1,2,5
+start,altuj001,"""Jose Altuve""",1,3,4
+start,corrc001,"""Carlos Correa""",1,4,6
+start,reddj001,"""Josh Reddick""",1,5,7
+start,gonzm002,"""Marwin Gonzalez""",1,6,3
+start,gatte001,"""Evan Gattis""",1,7,10
+start,mccab002,"""Brian McCann""",1,8,2
+start,marij002,"""Jake Marisnick""",1,9,8
+start,coleg001,"""Gerrit Cole""",1,0,1
+play,5,1,gonzm002,32,BSBBFFB,W
+play,5,1,gatte001,22,FBBFC,K
+play,5,1,mccab002,20,BBX,6/P5F
+play,5,1,marij002,22,*BF1BFF>X,S8/G.1-3
+play,5,1,sprig001,02,CS>B,SB2
+play,5,1,sprig001,32,CS>B.BFBFB,W
+play,5,1,brega001,00,X,9/F
+sub,stamc001,"""Craig Stammen""",0,0,1
+sub,harrw002,"""Will Harris""",1,0,1
+sub,yatek001,"""Kirby Yates""",0,0,1
+sub,makik001,"""Kazuhisa Makita""",0,0,1
+sub,gilek001,"""Ken Giles""",1,0,1
+sub,devec001,"""Chris Devenski""",1,0,1
+sub,erlir001,"""Robbie Erlin""",0,0,1
+play,10,1,mccab002,01,FX,S9/G
+play,10,1,marij002,00,,NP
+sub,fishd001,"""Derek Fisher""",1,8,12
+play,10,1,marij002,11,.BF1>C,SB2
+play,10,1,marij002,32,.BF1>C.FBFFBX,8/L
+play,10,1,sprig001,32,CBBBFS,K
+play,10,1,brega001,00,,NP
+sub,matop002,"""Phil Maton""",0,0,1
+play,10,1,brega001,32,.SFBBBFFX,S3/P.2-H

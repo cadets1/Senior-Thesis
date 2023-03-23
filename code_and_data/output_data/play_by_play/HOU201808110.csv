@@ -1,0 +1,44 @@
+id,HOU201808110
+info,visteam,SEA
+info,hometeam,HOU
+info,date,2018/08/11
+info,starttime,6:10PM
+start,hanim001,"""Mitch Haniger""",0,1,9
+start,spand001,"""Denard Span""",0,2,7
+start,seguj002,"""Jean Segura""",0,3,6
+start,cruzn002,"""Nelson Cruz""",0,4,10
+start,seagk001,"""Kyle Seager""",0,5,5
+start,herrc001,"""Chris Herrmann""",0,6,2
+start,healr001,"""Ryon Healy""",0,7,3
+start,gordd002,"""Dee Gordon""",0,8,4
+start,hereg002,"""Guillermo Heredia""",0,9,8
+start,leblw001,"""Wade LeBlanc""",0,0,1
+start,kempt001,"""Tony Kemp""",1,1,8
+start,brega001,"""Alex Bregman""",1,2,5
+start,corrc001,"""Carlos Correa""",1,3,6
+start,gatte001,"""Evan Gattis""",1,4,10
+start,gonzm002,"""Marwin Gonzalez""",1,5,7
+start,gurry001,"""Yulieski Gurriel""",1,6,4
+start,reddj001,"""Josh Reddick""",1,7,9
+start,whitt002,"""Tyler White""",1,8,3
+start,stasm001,"""Max Stassi""",1,9,2
+start,mortc002,"""Charlie Morton""",1,0,1
+sub,vincn001,"""Nick Vincent""",0,0,1
+play,7,0,herrc001,00,,NP
+sub,sippt001,"""Tony Sipp""",1,0,1
+play,7,0,herrc001,00,.X,8/F
+play,7,0,healr001,22,BSFBC,K
+play,7,0,gordd002,22,CCFBBX,S8/G
+play,7,0,hereg002,00,,NP
+sub,smitj002,"""Joe Smith""",1,0,1
+play,7,0,hereg002,01,.F>B,SB2.1-3(E2/TH)
+play,7,0,hereg002,21,.F>B.BX,6/P
+sub,dukez001,"""Zach Duke""",0,0,1
+sub,warra001,"""Adam Warren""",0,0,1
+sub,osunr001,"""Roberto Osuna""",1,0,1
+sub,coloa001,"""Alex Colome""",0,0,1
+sub,fishd001,"""Derek Fisher""",1,9,12
+sub,maldm001,"""Martin Maldonado""",1,9,2
+sub,rondh001,"""Hector Rondon""",1,0,1
+sub,zunim001,"""Mike Zunino""",0,6,2
+sub,diaze006,"""Edwin Diaz""",0,0,1

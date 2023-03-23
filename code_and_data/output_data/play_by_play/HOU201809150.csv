@@ -1,0 +1,55 @@
+id,HOU201809150
+info,visteam,ARI
+info,hometeam,HOU
+info,date,2018/09/15
+info,starttime,6:10PM
+start,polla001,"""A.J. Pollock""",0,1,8
+start,escoe001,"""Eduardo Escobar""",0,2,5
+start,perad001,"""David Peralta""",0,3,7
+start,goldp001,"""Paul Goldschmidt""",0,4,3
+start,descd001,"""Daniel Descalso""",0,5,10
+start,souzs001,"""Steven Souza""",0,6,9
+start,martk001,"""Ketel Marte""",0,7,4
+start,ahmen001,"""Nick Ahmed""",0,8,6
+start,avila001,"""Alex Avila""",0,9,2
+start,godlz001,"""Zack Godley""",0,0,1
+start,sprig001,"""George Springer""",1,1,8
+start,altuj001,"""Jose Altuve""",1,2,4
+start,brega001,"""Alex Bregman""",1,3,5
+start,gonzm002,"""Marwin Gonzalez""",1,4,7
+start,gurry001,"""Yulieski Gurriel""",1,5,3
+start,corrc001,"""Carlos Correa""",1,6,6
+start,whitt002,"""Tyler White""",1,7,10
+start,mccab002,"""Brian McCann""",1,8,2
+start,reddj001,"""Josh Reddick""",1,9,9
+start,mortc002,"""Charlie Morton""",1,0,1
+play,3,1,altuj001,32,BCBSFFBB,W
+play,3,1,brega001,22,BBCC>B,SB2
+play,3,1,brega001,32,BBCC>B.B,W
+play,3,1,gonzm002,11,CBX,13/BG/SH.2-3;1-2
+play,3,1,gurry001,00,X,FC6/G.3-H;2X3(654)
+play,3,1,corrc001,12,BCF>X,S9/L.1-3
+play,3,1,whitt002,12,CFB*B,SB2
+play,3,1,whitt002,32,CFB*B.FB*B,W
+play,3,1,mccab002,32,BBCBF>C,K
+sub,sherj001,"""Jimmie Sherfy""",0,0,1
+sub,bracs001,"""Silvino Bracho""",0,0,1
+sub,mchuc001,"""Collin McHugh""",1,0,1
+sub,lopey001,"""Yoan Lopez""",0,0,1
+sub,stram002,"""Myles Straw""",1,2,12
+sub,sprig001,"""George Springer""",1,1,9
+sub,stram002,"""Myles Straw""",1,2,8
+sub,gonzm002,"""Marwin Gonzalez""",1,4,4
+sub,reddj001,"""Josh Reddick""",1,9,7
+sub,devec001,"""Chris Devenski""",1,0,1
+sub,brits001,"""Socrates Brito""",0,3,8
+sub,owinc001,"""Chris Owings""",0,4,5
+sub,kivlp001,"""Patrick Kivlehan""",0,8,7
+sub,walkc002,"""Christian Walker""",0,9,3
+sub,vargi001,"""Ildemaro Vargas""",0,1,6
+sub,stewc001,"""Chris Stewart""",0,2,2
+sub,gatte001,"""Evan Gattis""",1,7,11
+sub,davij006,"""J.D. Davis""",1,3,5
+sub,stasm001,"""Max Stassi""",1,8,2
+sub,kempt001,"""Tony Kemp""",1,9,7
+sub,peacb001,"""Brad Peacock""",1,0,1

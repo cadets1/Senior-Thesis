@@ -1,0 +1,46 @@
+id,HOU201805190
+info,visteam,CLE
+info,hometeam,HOU
+info,date,2018/05/19
+info,starttime,3:11PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,guyeb001,"""Brandon Guyer""",0,5,9
+start,gomey001,"""Yan Gomes""",0,6,2
+start,kipnj001,"""Jason Kipnis""",0,7,4
+start,gonze004,"""Erik Gonzalez""",0,8,3
+start,davir003,"""Rajai Davis""",0,9,8
+start,klubc001,"""Corey Kluber""",0,0,1
+start,sprig001,"""George Springer""",1,1,9
+start,brega001,"""Alex Bregman""",1,2,5
+start,altuj001,"""Jose Altuve""",1,3,4
+start,corrc001,"""Carlos Correa""",1,4,6
+start,mccab002,"""Brian McCann""",1,5,2
+start,gurry001,"""Yulieski Gurriel""",1,6,3
+start,gonzm002,"""Marwin Gonzalez""",1,7,7
+start,gatte001,"""Evan Gattis""",1,8,10
+start,kempt001,"""Tony Kemp""",1,9,8
+start,keucd001,"""Dallas Keuchel""",1,0,1
+play,6,0,guyeb001,00,,NP
+sub,smitj002,"""Joe Smith""",1,0,1
+play,6,0,guyeb001,02,.SFX,8/F
+play,6,0,gomey001,11,BSX,HR/78/F
+play,6,0,kipnj001,32,BBBCFFB,W
+play,6,0,gonze004,00,,NP
+sub,alony001,"""Yonder Alonso""",0,8,11
+play,6,0,alony001,00,.>C,CS2(26)
+play,6,0,alony001,32,.>C.BBFBFFX,9/F
+sub,alony001,"""Yonder Alonso""",0,8,3
+sub,sippt001,"""Tony Sipp""",1,0,1
+play,8,0,ramij003,00,,NP
+sub,mchuc001,"""Collin McHugh""",1,0,1
+play,8,0,ramij003,32,.BFCBBFB,W
+play,8,0,encae001,22,CBBFS,K
+play,8,0,guyeb001,22,BCFFF>FF1BS,K
+play,8,0,gomey001,11,SB1N,POCS2(134)
+sub,ramin001,"""Neil Ramirez""",0,0,1
+sub,allec002,"""Cody Allen""",0,0,1
+sub,rondh001,"""Hector Rondon""",1,0,1
+sub,reddj001,"""Josh Reddick""",1,8,11

@@ -1,0 +1,57 @@
+id,HOU201806180
+info,visteam,TBA
+info,hometeam,HOU
+info,date,2018/06/18
+info,starttime,7:10PM
+start,duffm002,"""Matt Duffy""",0,1,5
+start,bauej001,"""Jake Bauers""",0,2,3
+start,ramow001,"""Wilson Ramos""",0,3,2
+start,cronc002,"""C.J. Cron""",0,4,10
+start,wendj002,"""Joey Wendle""",0,5,4
+start,adamw002,"""Willy Adames""",0,6,6
+start,smitm007,"""Mallex Smith""",0,7,8
+start,gomec002,"""Carlos Gomez""",0,8,9
+start,fielj003,"""Johnny Field""",0,9,7
+start,stanr002,"""Ryne Stanek""",0,0,1
+start,sprig001,"""George Springer""",1,1,10
+start,brega001,"""Alex Bregman""",1,2,5
+start,altuj001,"""Jose Altuve""",1,3,4
+start,corrc001,"""Carlos Correa""",1,4,6
+start,gurry001,"""Yulieski Gurriel""",1,5,3
+start,reddj001,"""Josh Reddick""",1,6,9
+start,gonzm002,"""Marwin Gonzalez""",1,7,7
+start,mccab002,"""Brian McCann""",1,8,2
+start,kempt001,"""Tony Kemp""",1,9,8
+start,coleg001,"""Gerrit Cole""",1,0,1
+sub,ventj001,"""Jonny Venters""",0,0,1
+play,3,0,fielj003,00,X,9/F
+play,3,0,duffm002,32,BBFFBB,W
+play,3,0,bauej001,31,B>FBB>C,SB2.1-3(E2/TH)
+play,3,0,bauej001,32,B>FBB>C.*B,W
+play,3,0,ramow001,32,BF1BFB>B,W.1-2
+play,3,0,cronc002,22,CSBBS,K
+play,3,0,wendj002,11,FBX,S7/G.3-H;2-H;1-3(TH)
+play,3,0,adamw002,02,SCFX,63/G
+sub,andrm001,"""Matt Andriese""",0,0,1
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+sub,whitt002,"""Tyler White""",1,6,11
+sub,gatte001,"""Evan Gattis""",1,8,11
+sub,castd002,"""Diego Castillo""",0,0,1
+sub,brega001,"""Alex Bregman""",1,2,7
+sub,gurry001,"""Yulieski Gurriel""",1,5,5
+sub,whitt002,"""Tyler White""",1,6,3
+sub,gonzm002,"""Marwin Gonzalez""",1,7,9
+sub,stasm001,"""Max Stassi""",1,8,2
+sub,harrw002,"""Will Harris""",1,0,1
+play,8,1,altuj001,00,,NP
+sub,roe-c001,"""Chaz Roe""",0,0,1
+play,8,1,altuj001,00,.X,S9/L-
+play,8,1,corrc001,32,1C1B*BC1B>S,K+SB2.1-3(E2/TH)
+play,8,1,gurry001,12,CCFBX,6/P
+play,8,1,whitt002,00,X,63/G+
+sub,brega001,"""Alex Bregman""",1,2,5
+sub,gurry001,"""Yulieski Gurriel""",1,5,3
+sub,marij002,"""Jake Marisnick""",1,6,8
+sub,kempt001,"""Tony Kemp""",1,9,7
+sub,mchuc001,"""Collin McHugh""",1,0,1
+sub,romos001,"""Sergio Romo""",0,0,1

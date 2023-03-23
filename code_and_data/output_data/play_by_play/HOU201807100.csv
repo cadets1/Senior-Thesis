@@ -1,0 +1,55 @@
+id,HOU201807100
+info,visteam,OAK
+info,hometeam,HOU
+info,date,2018/07/10
+info,starttime,7:11PM
+start,fowld002,"""Dustin Fowler""",0,1,8
+start,canhm001,"""Mark Canha""",0,2,7
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,piscs001,"""Stephen Piscotty""",0,6,9
+start,chapm001,"""Matt Chapman""",0,7,5
+start,semim001,"""Marcus Semien""",0,8,6
+start,lucrj001,"""Jonathan Lucroy""",0,9,2
+start,manas001,"""Sean Manaea""",0,0,1
+start,sprig001,"""George Springer""",1,1,9
+start,brega001,"""Alex Bregman""",1,2,5
+start,altuj001,"""Jose Altuve""",1,3,4
+start,gurry001,"""Yulieski Gurriel""",1,4,3
+start,gatte001,"""Evan Gattis""",1,5,10
+start,gonzm002,"""Marwin Gonzalez""",1,6,6
+start,stasm001,"""Max Stassi""",1,7,2
+start,tuckk001,"""Kyle Tucker""",1,8,7
+start,marij002,"""Jake Marisnick""",1,9,8
+start,verlj001,"""Justin Verlander""",1,0,1
+play,1,0,fowld002,22,BSTBFFFX,S7/G-
+play,1,0,canhm001,32,F1B1BBCX,6/P
+play,1,0,lowrj001,22,T1S*BBF>B,CS2(26)
+play,1,0,lowrj001,32,T1S*BBF>B.X,8/L
+sub,brega001,"""Alex Bregman""",1,2,6
+sub,gurry001,"""Yulieski Gurriel""",1,4,5
+sub,whitt002,"""Tyler White""",1,6,3
+play,4,1,stasm001,22,SSBBS,K
+play,4,1,tuckk001,12,CBSFH,HP
+play,4,1,marij002,10,B>S,SB2
+play,4,1,marij002,12,B>S.FS,K
+play,4,1,sprig001,11,FBX,S8/G+.2-H
+play,4,1,brega001,12,C11CF11BX,7/L
+sub,dullr001,"""Ryan Dull""",0,0,1
+sub,garcj002,"""Santiago Casilla""",0,0,1
+sub,devec001,"""Chris Devenski""",1,0,1
+sub,pagae001,"""Emilio Pagan""",0,0,1
+sub,smitj002,"""Joe Smith""",1,0,1
+sub,hatcc002,"""Chris Hatcher""",0,0,1
+sub,gilek001,"""Ken Giles""",1,0,1
+sub,rondh001,"""Hector Rondon""",1,0,1
+sub,martn003,"""Nick Martini""",0,5,12
+sub,canhm001,"""Mark Canha""",0,2,3
+sub,martn003,"""Nick Martini""",0,5,7
+sub,petiy001,"""Yusmeiro Petit""",0,0,1
+sub,kempt001,"""Tony Kemp""",1,9,11
+sub,kempt001,"""Tony Kemp""",1,9,8
+sub,mchuc001,"""Collin McHugh""",1,0,1
+sub,treib001,"""Blake Treinen""",0,0,1
+sub,reddj001,"""Josh Reddick""",1,7,11

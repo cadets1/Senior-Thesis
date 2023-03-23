@@ -1,0 +1,44 @@
+id,HOU201804290
+info,visteam,OAK
+info,hometeam,HOU
+info,date,2018/04/29
+info,starttime,1:10PM
+start,joycm001,"""Matt Joyce""",0,1,7
+start,semim001,"""Marcus Semien""",0,2,6
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,chapm001,"""Matt Chapman""",0,6,5
+start,piscs001,"""Stephen Piscotty""",0,7,9
+start,pindc001,"""Chad Pinder""",0,8,8
+start,lucrj001,"""Jonathan Lucroy""",0,9,2
+start,cahit001,"""Trevor Cahill""",0,0,1
+start,sprig001,"""George Springer""",1,1,9
+start,altuj001,"""Jose Altuve""",1,2,10
+start,corrc001,"""Carlos Correa""",1,3,6
+start,gurry001,"""Yulieski Gurriel""",1,4,3
+start,reddj001,"""Josh Reddick""",1,5,7
+start,brega001,"""Alex Bregman""",1,6,5
+start,gonzm002,"""Marwin Gonzalez""",1,7,4
+start,stasm001,"""Max Stassi""",1,8,2
+start,marij002,"""Jake Marisnick""",1,9,8
+start,coleg001,"""Gerrit Cole""",1,0,1
+sub,harrw002,"""Will Harris""",1,0,1
+play,7,1,brega001,32,CBBBCB,W
+play,7,1,gonzm002,00,,NP
+sub,petiy001,"""Yusmeiro Petit""",0,0,1
+play,7,1,gonzm002,32,.1BBC11C*B>S,K+SB2.1-3(E2/TH)
+play,7,1,stasm001,00,,NP
+sub,mccab002,"""Brian McCann""",1,8,11
+play,7,1,mccab002,00,.X,E6/P.3-H(NR)
+play,7,1,marij002,00,X,D7/L+.1-H(UR)
+play,7,1,sprig001,00,,NP
+sub,dullr001,"""Ryan Dull""",0,0,1
+play,7,1,sprig001,01,.F2,PO2(E1).2-3
+play,7,1,sprig001,32,.F2.F*B3BB*B,W
+play,7,1,altuj001,00,X,S7/G.3-H;1-2
+play,7,1,corrc001,11,*BSX,54(1)3/GDP
+sub,mccab002,"""Brian McCann""",1,8,2
+sub,devec001,"""Chris Devenski""",1,0,1
+sub,garcj002,"""Santiago Casilla""",0,0,1
+sub,smitj002,"""Joe Smith""",1,0,1

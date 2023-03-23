@@ -1,0 +1,43 @@
+id,HOU201807140
+info,visteam,DET
+info,hometeam,HOU
+info,date,2018/07/14
+info,starttime,3:10PM
+start,jonej006,"""JaCoby Jones""",0,1,8
+start,goodn002,"""Niko Goodrum""",0,2,4
+start,castn001,"""Nick Castellanos""",0,3,9
+start,adduj002,"""Jim Adduci""",0,4,3
+start,martv001,"""Victor Martinez""",0,5,10
+start,mccaj001,"""James McCann""",0,6,2
+start,candj002,"""Jeimer Candelario""",0,7,5
+start,iglej001,"""Jose Iglesias""",0,8,6
+start,reyev001,"""Victor Reyes""",0,9,7
+start,fulmm001,"""Michael Fulmer""",0,0,1
+start,sprig001,"""George Springer""",1,1,8
+start,brega001,"""Alex Bregman""",1,2,5
+start,altuj001,"""Jose Altuve""",1,3,4
+start,gurry001,"""Yulieski Gurriel""",1,4,3
+start,reddj001,"""Josh Reddick""",1,5,9
+start,gatte001,"""Evan Gattis""",1,6,10
+start,gonzm002,"""Marwin Gonzalez""",1,7,6
+start,tuckk001,"""Kyle Tucker""",1,8,7
+start,fedet001,"""Tim Federowicz""",1,9,2
+start,coleg001,"""Gerrit Cole""",1,0,1
+play,3,0,reyev001,12,CBFFX,7/L
+play,3,0,jonej006,32,BFSBFBFB,W
+play,3,0,goodn002,02,SS>B,SB2
+play,3,0,goodn002,32,SS>B.BBB,W
+play,3,0,castn001,12,SSBS,K
+play,3,0,adduj002,22,FSBFBT,K
+sub,hardb001,"""Blaine Hardy""",0,0,1
+sub,smitj002,"""Joe Smith""",1,0,1
+sub,brega001,"""Alex Bregman""",1,2,6
+sub,whitt002,"""Tyler White""",1,3,3
+sub,gurry001,"""Yulieski Gurriel""",1,4,5
+sub,gonzm002,"""Marwin Gonzalez""",1,7,4
+sub,devec001,"""Chris Devenski""",1,0,1
+sub,farmb001,"""Buck Farmer""",0,0,1
+sub,kempt001,"""Tony Kemp""",1,7,4
+sub,rodrr009,"""Ronny Rodriguez""",0,5,11
+sub,jimej003,"""Joe Jimenez""",0,0,1
+sub,perec004,"""Cionel Perez""",1,0,1

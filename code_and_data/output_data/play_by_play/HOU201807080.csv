@@ -1,0 +1,43 @@
+id,HOU201807080
+info,visteam,CHA
+info,hometeam,HOU
+info,date,2018/07/08
+info,starttime,1:11PM
+start,andet001,"""Tim Anderson""",0,1,6
+start,garca003,"""Avisail Garcia""",0,2,9
+start,abrej003,"""Jose Abreu""",0,3,3
+start,davim005,"""Matt Davidson""",0,4,10
+start,smitk002,"""Kevan Smith""",0,5,2
+start,garcl004,"""Leury Garcia""",0,6,7
+start,moncy001,"""Yoan Moncada""",0,7,4
+start,sancc001,"""Yolmer Sanchez""",0,8,5
+start,engea001,"""Adam Engel""",0,9,8
+start,gioll001,"""Lucas Giolito""",0,0,1
+start,sprig001,"""George Springer""",1,1,10
+start,brega001,"""Alex Bregman""",1,2,5
+start,altuj001,"""Jose Altuve""",1,3,4
+start,gurry001,"""Yulieski Gurriel""",1,4,3
+start,reddj001,"""Josh Reddick""",1,5,9
+start,gonzm002,"""Marwin Gonzalez""",1,6,6
+start,tuckk001,"""Kyle Tucker""",1,7,7
+start,stasm001,"""Max Stassi""",1,8,2
+start,kempt001,"""Tony Kemp""",1,9,8
+start,keucd001,"""Dallas Keuchel""",1,0,1
+play,3,1,stasm001,22,BCSBFX,53/G
+play,3,1,kempt001,30,BBBB,W
+play,3,1,sprig001,12,B11CF>S,K+SB2
+play,3,1,brega001,12,CCBX,8/F
+sub,palkd001,"""Daniel Palka""",0,2,7
+sub,garcl004,"""Leury Garcia""",0,6,9
+sub,mchuc001,"""Collin McHugh""",1,0,1
+sub,tilsc001,"""Charlie Tilson""",0,4,12
+play,8,1,stasm001,11,.BCX,63/G
+play,8,1,kempt001,22,BBCCX,S7/G
+play,8,1,sprig001,01,11C>B,SB2
+play,8,1,sprig001,32,11C>B.*BBFB,W
+play,8,1,brega001,00,,NP
+sub,sorij001,"""Joakim Soria""",0,0,1
+play,8,1,brega001,22,.BCCBS,K
+play,8,1,altuj001,22,SS*BBB,WP.2-3;1-2
+play,8,1,altuj001,32,SS*BBB.C,K
+sub,rondh001,"""Hector Rondon""",1,0,1
