@@ -1,0 +1,52 @@
+id,KCA201809110
+info,visteam,CHA
+info,hometeam,KCA
+info,date,2018/09/11
+info,starttime,7:17PM
+start,moncy001,"""Yoan Moncada""",0,1,4
+start,sancc001,"""Yolmer Sanchez""",0,2,5
+start,abrej003,"""Jose Abreu""",0,3,3
+start,garca003,"""Avisail Garcia""",0,4,10
+start,palkd001,"""Daniel Palka""",0,5,9
+start,delmn001,"""Nicky Delmonico""",0,6,7
+start,castw002,"""Welington Castillo""",0,7,2
+start,andet001,"""Tim Anderson""",0,8,6
+start,engea001,"""Adam Engel""",0,9,8
+start,coved001,"""Dylan Covey""",0,0,1
+start,merrw001,"""Whit Merrifield""",1,1,4
+start,mondr003,"""Adalberto Mondesi""",1,2,6
+start,gorda001,"""Alex Gordon""",1,3,7
+start,dozih001,"""Hunter Dozier""",1,4,5
+start,ohear001,"""Ryan O'Hearn""",1,5,3
+start,bonij002,"""Jorge Bonifacio""",1,6,10
+start,goodb001,"""Brian Goodwin""",1,7,8
+start,herrr002,"""Rosell Herrera""",1,8,9
+start,vilom001,"""Meibrys Viloria""",1,9,2
+start,kellb003,"""Brad Keller""",1,0,1
+play,3,1,goodb001,20,BBX,S8/L
+play,3,1,herrr002,32,FBBFB1>B,W.1-2
+play,3,1,vilom001,11,LBX,34/BG/SH.2-3;1-2
+play,3,1,merrw001,01,SX,S8/F.3-H;2-3
+play,3,1,mondr003,11,11BTX,S2/BG.3-H;1-3(E2/TH)
+play,3,1,gorda001,01,1F1>C,SB2
+play,3,1,gorda001,12,1F1>C.FBFFX,9/F/SF.3-H(UR);2-3
+play,3,1,dozih001,01,CX,53/G
+play,5,1,merrw001,11,BFX,S8/L
+play,5,1,mondr003,01,1F>C,SB2
+play,5,1,mondr003,12,1F>C.BC,K
+play,5,1,gorda001,30,VVVV,IW
+play,5,1,dozih001,00,,NP
+sub,burrr002,"""Ryan Burr""",0,0,1
+play,5,1,dozih001,10,.B>C,SB3;SB2
+play,5,1,dozih001,21,.B>C.BX,S8/G.3-H;2-H
+play,5,1,ohear001,22,BSSBX,5/P
+play,5,1,bonij002,02,CS1,POCS2(13)
+sub,jonen001,"""Nate Jones""",0,0,1
+sub,hillt002,"""Tim Hill""",1,0,1
+sub,newbj001,"""Jake Newberry""",1,0,1
+sub,scahr001,"""Rob Scahill""",0,0,1
+sub,flynb001,"""Brian Flynn""",1,0,1
+sub,cordr001,"""Ryan Cordell""",0,5,11
+sub,lamar001,"""Ryan LaMarre""",0,6,11
+sub,rondj002,"""Jose Rondon""",0,7,12
+sub,peraw001,"""Wily Peralta""",1,0,1

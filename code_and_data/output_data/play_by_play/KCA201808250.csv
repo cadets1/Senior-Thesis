@@ -1,0 +1,36 @@
+id,KCA201808250
+info,visteam,CLE
+info,hometeam,KCA
+info,date,2018/08/25
+info,starttime,6:16PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,alony001,"""Yonder Alonso""",0,5,3
+start,cabrm002,"""Melky Cabrera""",0,6,9
+start,kipnj001,"""Jason Kipnis""",0,7,4
+start,gomey001,"""Yan Gomes""",0,8,2
+start,alleg002,"""Greg Allen""",0,9,8
+start,klubc001,"""Corey Kluber""",0,0,1
+start,merrw001,"""Whit Merrifield""",1,1,8
+start,gorda001,"""Alex Gordon""",1,2,7
+start,peres002,"""Salvador Perez""",1,3,2
+start,dudal001,"""Lucas Duda""",1,4,10
+start,bonij002,"""Jorge Bonifacio""",1,5,9
+start,ohear001,"""Ryan O'Hearn""",1,6,3
+start,dozih001,"""Hunter Dozier""",1,7,5
+start,herrr002,"""Rosell Herrera""",1,8,4
+start,mondr003,"""Adalberto Mondesi""",1,9,6
+start,fillh001,"""Heath Fillmyer""",1,0,1
+play,3,1,herrr002,12,BCCS,K
+play,3,1,mondr003,00,X,S9/L
+play,3,1,merrw001,00,>B,SB2
+play,3,1,merrw001,20,>B.BX,S9/L.2-H
+play,3,1,gorda001,11,S11BX,36(1)3/GDP
+sub,pereo002,"""Oliver Perez""",0,0,1
+sub,hillt002,"""Tim Hill""",1,0,1
+sub,newbj001,"""Jake Newberry""",1,0,1
+sub,oterd001,"""Dan Otero""",0,0,1
+sub,tomlj001,"""Josh Tomlin""",0,0,1
+sub,hammj002,"""Jason Hammel""",1,0,1

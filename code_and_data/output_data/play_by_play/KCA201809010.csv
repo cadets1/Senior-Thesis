@@ -1,0 +1,44 @@
+id,KCA201809010
+info,visteam,BAL
+info,hometeam,KCA
+info,date,2018/09/01
+info,starttime,6:17PM
+start,mullc002,"""Cedric Mullins""",0,1,8
+start,villj001,"""Jonathan Villar""",0,2,4
+start,manct001,"""Trey Mancini""",0,3,10
+start,jonea003,"""Adam Jones""",0,4,9
+start,davic003,"""Chris Davis""",0,5,3
+start,beckt001,"""Tim Beckham""",0,6,6
+start,nuner001,"""Renato Nunez""",0,7,5
+start,andrj001,"""John Andreoli""",0,8,7
+start,wynna001,"""Austin Wynns""",0,9,2
+start,bundd001,"""Dylan Bundy""",0,0,1
+start,merrw001,"""Whit Merrifield""",1,1,7
+start,gorda001,"""Alex Gordon""",1,2,10
+start,dozih001,"""Hunter Dozier""",1,3,5
+start,ohear001,"""Ryan O'Hearn""",1,4,3
+start,mondr003,"""Adalberto Mondesi""",1,5,6
+start,goodb001,"""Brian Goodwin""",1,6,8
+start,herrr002,"""Rosell Herrera""",1,7,4
+start,philb002,"""Brett Phillips""",1,8,9
+start,gallc001,"""Cam Gallagher""",1,9,2
+start,fillh001,"""Heath Fillmyer""",1,0,1
+play,3,0,mullc002,10,BX,43/G
+play,3,0,villj001,11,BCX,S8/L
+play,3,0,manct001,12,1FTB1S,K
+play,3,0,jonea003,12,1SF1P>B,SB2
+play,3,0,jonea003,22,1SF1P>B.S,K
+play,6,1,ohear001,31,BCBBB,W
+play,6,1,mondr003,12,BCFFFX,8/F
+play,6,1,goodb001,01,CX,D8/L+.1-H
+play,6,1,herrr002,22,FBS*BFX,S8/L.2-H
+play,6,1,philb002,12,1FSFBX,E1/G.1-2
+play,6,1,gallc001,00,,NP
+sub,castm002,"""Miguel Castro""",0,0,1
+play,6,1,gallc001,02,.CSF>B,SB3;SB2
+play,6,1,gallc001,22,.CSF>B.BX,3/P3F
+play,6,1,merrw001,01,CX,53/G
+sub,hammj002,"""Jason Hammel""",1,0,1
+sub,fry-p001,"""Paul Fry""",0,0,1
+sub,newbj001,"""Jake Newberry""",1,0,1
+sub,givem001,"""Mychal Givens""",0,0,1

@@ -1,0 +1,46 @@
+id,KCA201804100
+info,visteam,SEA
+info,hometeam,KCA
+info,date,2018/04/10
+info,starttime,7:15PM
+start,gordd002,"""Dee Gordon""",0,1,8
+start,seguj002,"""Jean Segura""",0,2,6
+start,canor001,"""Robinson Cano""",0,3,4
+start,hanim001,"""Mitch Haniger""",0,4,9
+start,seagk001,"""Kyle Seager""",0,5,5
+start,hereg002,"""Guillermo Heredia""",0,6,7
+start,voged001,"""Daniel Vogelbach""",0,7,10
+start,marjm001,"""Mike Marjama""",0,8,2
+start,mottt001,"""Taylor Motter""",0,9,3
+start,hernf002,"""Felix Hernandez""",0,0,1
+start,jay-j001,"""Jon Jay""",1,1,7
+start,merrw001,"""Whit Merrifield""",1,2,4
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,cuthc001,"""Cheslor Cuthbert""",1,4,3
+start,dudal001,"""Lucas Duda""",1,5,10
+start,solej001,"""Jorge Soler""",1,6,9
+start,orlap001,"""Paulo Orlando""",1,7,8
+start,escoa003,"""Alcides Escobar""",1,8,6
+start,buted001,"""Drew Butera""",1,9,2
+start,skoge001,"""Eric Skoglund""",1,0,1
+play,1,0,gordd002,11,BCH,HP
+play,1,0,seguj002,02,1CF11>B,SB2
+play,1,0,seguj002,12,1CF11>B.FFX,2/P2F
+play,1,0,canor001,30,BBB>C,SB3
+play,1,0,canor001,32,BBB>C.CB,W
+play,1,0,hanim001,02,CCX,S8/G.3-H;1-2
+play,1,0,seagk001,00,X,5/P5F
+play,1,0,hereg002,10,BX,9/F
+play,5,0,seagk001,20,BBX,43/G
+play,5,0,hereg002,02,LFX,HR/7/F
+play,5,0,voged001,22,BFSBFX,43/G
+play,5,0,marjm001,00,,NP
+sub,boyeb001,"""Blaine Boyer""",1,0,1
+play,5,0,marjm001,31,.BBBCX,E5/G
+play,5,0,mottt001,11,CB>B,CS2(24)
+sub,flynb001,"""Brian Flynn""",1,0,1
+sub,altad001,"""Dan Altavilla""",0,0,1
+sub,pazoj001,"""James Pazos""",0,0,1
+sub,smitb005,"""Burch Smith""",1,0,1
+sub,diaze006,"""Edwin Diaz""",0,0,1
+sub,almoa001,"""Abraham Almonte""",1,9,11

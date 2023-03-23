@@ -1,0 +1,38 @@
+id,KCA201805160
+info,visteam,TBA
+info,hometeam,KCA
+info,date,2018/05/16
+info,starttime,1:15PM
+start,spand001,"""Denard Span""",0,1,7
+start,cronc002,"""C.J. Cron""",0,2,10
+start,wendj002,"""Joey Wendle""",0,3,4
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,millb002,"""Brad Miller""",0,5,3
+start,hecha001,"""Adeiny Hechavarria""",0,6,6
+start,smitm007,"""Mallex Smith""",0,7,8
+start,robed004,"""Daniel Robertson""",0,8,5
+start,fielj003,"""Johnny Field""",0,9,9
+start,farij001,"""Jacob Faria""",0,0,1
+start,jay-j001,"""Jon Jay""",1,1,9
+start,solej001,"""Jorge Soler""",1,2,10
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,peres002,"""Salvador Perez""",1,4,2
+start,merrw001,"""Whit Merrifield""",1,5,4
+start,gorda001,"""Alex Gordon""",1,6,7
+start,dozih001,"""Hunter Dozier""",1,7,3
+start,escoa003,"""Alcides Escobar""",1,8,6
+start,almoa001,"""Abraham Almonte""",1,9,8
+start,hammj002,"""Jason Hammel""",1,0,1
+play,5,1,jay-j001,11,BFX,D7/L
+play,5,1,solej001,22,BCFBX,D7/L+.2-H
+play,5,1,mousm001,01,F>S,SB3
+play,5,1,mousm001,02,F>S.X,8/F/SF.3-H
+play,5,1,peres002,00,,NP
+sub,roe-c001,"""Chaz Roe""",0,0,1
+play,5,1,peres002,10,.BX,9/F+
+play,5,1,merrw001,22,BCSBS,K
+sub,andrm001,"""Matt Andriese""",0,0,1
+sub,kellb003,"""Brad Keller""",1,0,1
+sub,boyeb001,"""Blaine Boyer""",1,0,1
+sub,adamj002,"""Jason Adam""",1,0,1
+sub,coloa001,"""Alex Colome""",0,0,1

@@ -1,0 +1,68 @@
+id,KCA201809120
+info,visteam,CHA
+info,hometeam,KCA
+info,date,2018/09/12
+info,starttime,7:15PM
+start,andet001,"""Tim Anderson""",0,1,6
+start,sancc001,"""Yolmer Sanchez""",0,2,4
+start,abrej003,"""Jose Abreu""",0,3,3
+start,garca003,"""Avisail Garcia""",0,4,10
+start,rondj002,"""Jose Rondon""",0,5,5
+start,lamar001,"""Ryan LaMarre""",0,6,7
+start,narvo001,"""Omar Narvaez""",0,7,2
+start,engea001,"""Adam Engel""",0,8,8
+start,cordr001,"""Ryan Cordell""",0,9,9
+start,rodoc001,"""Carlos Rodon""",0,0,1
+start,merrw001,"""Whit Merrifield""",1,1,4
+start,mondr003,"""Adalberto Mondesi""",1,2,6
+start,gorda001,"""Alex Gordon""",1,3,7
+start,bonij002,"""Jorge Bonifacio""",1,4,9
+start,peres002,"""Salvador Perez""",1,5,2
+start,escoa003,"""Alcides Escobar""",1,6,5
+start,herrr002,"""Rosell Herrera""",1,7,10
+start,goodb001,"""Brian Goodwin""",1,8,8
+start,ohear001,"""Ryan O'Hearn""",1,9,3
+start,skoge001,"""Eric Skoglund""",1,0,1
+play,3,1,goodb001,30,BBBB,W
+play,3,1,ohear001,31,BC*BBB,W.1-2
+play,3,1,merrw001,12,CBFX,5(2)4(1)/GDP
+play,3,1,mondr003,11,F1B>B,SB2
+play,3,1,mondr003,32,F1B>B.F*BFX,S7/G.2-H
+play,3,1,gorda001,01,FX,S7/L.1-2
+play,3,1,bonij002,02,SC>B,SB3;SB2
+play,3,1,bonij002,12,SC>B.FS,K
+play,5,1,goodb001,32,CBSBBFFFFS,K
+play,5,1,ohear001,30,BBBB,W
+play,5,1,merrw001,11,BCX,D7/F+.1X3(765)
+play,5,1,mondr003,01,F>B,SB3
+play,5,1,mondr003,11,F>B.X,S9/G.3-H
+play,5,1,gorda001,00,X,43/G
+sub,sparg001,"""Glenn Sparkman""",1,0,1
+sub,delmn001,"""Nicky Delmonico""",0,6,11
+sub,palkd001,"""Daniel Palka""",0,9,11
+sub,delmn001,"""Nicky Delmonico""",0,6,7
+sub,palkd001,"""Daniel Palka""",0,9,9
+sub,frarc001,"""Caleb Frare""",0,0,1
+sub,ruizj001,"""Jose Ruiz""",0,0,1
+sub,bumma001,"""Aaron Bummer""",0,0,1
+sub,mccak002,"""Kevin McCarthy""",1,0,1
+sub,hamii001,"""Ian Hamilton""",0,0,1
+play,9,0,rondj002,30,BBBB,W
+play,9,0,delmn001,21,S11BB>S,CS2(26)
+play,9,0,delmn001,22,S11BB>S.S,K
+play,9,0,narvo001,31,BBBCX,43/G
+sub,fry-j001,"""Jace Fry""",0,0,1
+play,10,0,engea001,00,,NP
+sub,hillt002,"""Tim Hill""",1,0,1
+play,10,0,engea001,32,.BFCBBB,W
+play,10,0,palkd001,12,LCBS,K
+play,10,0,andet001,00,,NP
+sub,maurb001,"""Brandon Maurer""",1,0,1
+play,10,0,andet001,12,.1CBFS,K
+play,10,0,sancc001,01,F1>B,SB2
+play,10,0,sancc001,22,F1>B.CBFS,K
+sub,minaj001,"""Juan Minaya""",0,0,1
+sub,smitb005,"""Burch Smith""",1,0,1
+sub,philb002,"""Brett Phillips""",1,5,12
+sub,gallc001,"""Cam Gallagher""",1,5,2
+sub,santh001,"""Hector Santiago""",0,0,1

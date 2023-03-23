@@ -1,0 +1,43 @@
+id,KCA201805140
+info,visteam,TBA
+info,hometeam,KCA
+info,date,2018/05/14
+info,starttime,6:08PM
+start,hecha001,"""Adeiny Hechavarria""",0,1,6
+start,cronc002,"""C.J. Cron""",0,2,3
+start,duffm002,"""Matt Duffy""",0,3,5
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,robed004,"""Daniel Robertson""",0,5,4
+start,millb002,"""Brad Miller""",0,6,10
+start,fielj003,"""Johnny Field""",0,7,8
+start,gomec002,"""Carlos Gomez""",0,8,9
+start,refsr001,"""Rob Refsnyder""",0,9,7
+start,yarbr001,"""Ryan Yarbrough""",0,0,1
+start,merrw001,"""Whit Merrifield""",1,1,4
+start,solej001,"""Jorge Soler""",1,2,9
+start,mousm001,"""Mike Moustakas""",1,3,10
+start,peres002,"""Salvador Perez""",1,4,2
+start,jay-j001,"""Jon Jay""",1,5,7
+start,cuthc001,"""Cheslor Cuthbert""",1,6,5
+start,gorda001,"""Alex Gordon""",1,7,8
+start,escoa003,"""Alcides Escobar""",1,8,6
+start,dozih001,"""Hunter Dozier""",1,9,3
+start,skoge001,"""Eric Skoglund""",1,0,1
+play,6,0,hecha001,00,X,D8/L
+play,6,0,cronc002,02,CFFX,7/F
+play,6,0,duffm002,00,X,S9/L.2-H
+play,6,0,ramow001,11,S>B+1,POCS2(134)
+play,6,0,ramow001,11,S>B+1.X,13/G
+sub,roe-c001,"""Chaz Roe""",0,0,1
+sub,ventj001,"""Jonny Venters""",0,0,1
+sub,romos001,"""Sergio Romo""",0,0,1
+sub,goinr001,"""Ryan Goins""",1,6,5
+sub,adamj002,"""Jason Adam""",1,0,1
+sub,fielj003,"""Johnny Field""",0,7,7
+sub,smitm007,"""Mallex Smith""",0,9,8
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+play,9,0,duffm002,02,FCX,S8/G
+play,9,0,ramow001,22,CBFFFBS,K
+play,9,0,robed004,00,>S,CS2(24)
+play,9,0,robed004,12,>S.BFC,K
+sub,coloa001,"""Alex Colome""",0,0,1

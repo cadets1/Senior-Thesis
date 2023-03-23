@@ -1,0 +1,50 @@
+id,KCA201806030
+info,visteam,OAK
+info,hometeam,KCA
+info,date,2018/06/03
+info,starttime,1:17PM
+start,fowld002,"""Dustin Fowler""",0,1,8
+start,semim001,"""Marcus Semien""",0,2,6
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,chapm001,"""Matt Chapman""",0,6,5
+start,piscs001,"""Stephen Piscotty""",0,7,9
+start,canhm001,"""Mark Canha""",0,8,7
+start,lucrj001,"""Jonathan Lucroy""",0,9,2
+start,gossd001,"""Daniel Gossett""",0,0,1
+start,jay-j001,"""Jon Jay""",1,1,8
+start,merrw001,"""Whit Merrifield""",1,2,3
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,peres002,"""Salvador Perez""",1,4,2
+start,solej001,"""Jorge Soler""",1,5,9
+start,gorda001,"""Alex Gordon""",1,6,7
+start,dozih001,"""Hunter Dozier""",1,7,10
+start,escoa003,"""Alcides Escobar""",1,8,6
+start,goinr001,"""Ryan Goins""",1,9,4
+start,junij001,"""Jake Junis""",1,0,1
+play,6,0,davik003,32,BBCFBX,4/P
+play,6,0,olsom001,22,FBSBX,63/G+
+play,6,0,chapm001,10,BX,E6/G
+play,6,0,piscs001,10,B>S,CS2(24)
+play,6,1,jay-j001,00,,NP
+sub,trivl001,"""Lou Trivino""",0,0,1
+play,6,1,jay-j001,12,.BFFX,53/G
+play,6,1,merrw001,31,LBBBB,W
+play,6,1,mousm001,12,SF11P>FF>S,K+SB2
+play,6,1,peres002,11,SBN,SB3
+play,6,1,peres002,12,SBN.FT,K
+play,8,0,fowld002,10,.BX,S8/F
+play,8,0,semim001,32,CBFB+1BFFFX,8/L
+play,8,0,lowrj001,10,B1>B,SB2
+play,8,0,lowrj001,30,B1>B.BX,S8/L.2-H
+play,8,0,davik003,00,,NP
+sub,smitb005,"""Burch Smith""",1,0,1
+play,8,0,davik003,31,.BBBFB,W.1-2
+play,8,0,olsom001,30,B*BBX,HR/8/F.2-H;1-H
+play,8,0,chapm001,02,CCT,K
+play,8,0,piscs001,32,BCBBSB,W
+play,8,0,canhm001,12,CSB1X,4/P-
+sub,petiy001,"""Yusmeiro Petit""",0,0,1
+sub,adamj002,"""Jason Adam""",1,0,1
+sub,treib001,"""Blake Treinen""",0,0,1

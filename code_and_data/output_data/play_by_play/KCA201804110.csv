@@ -1,0 +1,41 @@
+id,KCA201804110
+info,visteam,SEA
+info,hometeam,KCA
+info,date,2018/04/11
+info,starttime,1:15PM
+start,gordd002,"""Dee Gordon""",0,1,8
+start,seguj002,"""Jean Segura""",0,2,6
+start,canor001,"""Robinson Cano""",0,3,10
+start,hanim001,"""Mitch Haniger""",0,4,9
+start,seagk001,"""Kyle Seager""",0,5,5
+start,hereg002,"""Guillermo Heredia""",0,6,7
+start,mottt001,"""Taylor Motter""",0,7,3
+start,romia001,"""Andrew Romine""",0,8,4
+start,freid001,"""David Freitas""",0,9,2
+start,paxtj001,"""James Paxton""",0,0,1
+start,jay-j001,"""Jon Jay""",1,1,7
+start,merrw001,"""Whit Merrifield""",1,2,4
+start,mousm001,"""Mike Moustakas""",1,3,10
+start,cuthc001,"""Cheslor Cuthbert""",1,4,5
+start,dudal001,"""Lucas Duda""",1,5,3
+start,solej001,"""Jorge Soler""",1,6,9
+start,orlap001,"""Paulo Orlando""",1,7,8
+start,escoa003,"""Alcides Escobar""",1,8,6
+start,gallc001,"""Cam Gallagher""",1,9,2
+start,duffd001,"""Danny Duffy""",1,0,1
+play,1,1,jay-j001,30,BBBB,W
+play,1,1,merrw001,21,BBCX,S7/G.1-2
+play,1,1,mousm001,32,C*BS*BBX,6/P/IF
+play,1,1,cuthc001,11,BS>S,CS3(25).1-2
+play,1,1,cuthc001,12,BS>S.X,43/G
+sub,kellb003,"""Brad Keller""",1,0,1
+sub,voged001,"""Daniel Vogelbach""",0,7,11
+sub,voged001,"""Daniel Vogelbach""",0,7,3
+sub,vincn001,"""Nick Vincent""",0,0,1
+sub,grimj002,"""Justin Grimm""",1,0,1
+sub,nicaj001,"""Juan Nicasio""",0,0,1
+sub,hillt002,"""Tim Hill""",1,0,1
+sub,canor001,"""Robinson Cano""",0,3,4
+sub,romia001,"""Andrew Romine""",0,8,3
+sub,diaze006,"""Edwin Diaz""",0,7,1
+sub,almoa001,"""Abraham Almonte""",1,9,11

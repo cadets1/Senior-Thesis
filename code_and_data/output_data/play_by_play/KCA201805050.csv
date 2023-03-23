@@ -1,0 +1,38 @@
+id,KCA201805050
+info,visteam,DET
+info,hometeam,KCA
+info,date,2018/05/05
+info,starttime,3:15PM
+start,martl004,"""Leonys Martin""",0,1,8
+start,candj002,"""Jeimer Candelario""",0,2,5
+start,castn001,"""Nick Castellanos""",0,3,9
+start,martv001,"""Victor Martinez""",0,4,10
+start,jonej006,"""JaCoby Jones""",0,5,7
+start,hickj001,"""John Hicks""",0,6,3
+start,mccaj001,"""James McCann""",0,7,2
+start,iglej001,"""Jose Iglesias""",0,8,6
+start,machd001,"""Dixon Machado""",0,9,4
+start,zimmj003,"""Jordan Zimmermann""",0,0,1
+start,jay-j001,"""Jon Jay""",1,1,10
+start,solej001,"""Jorge Soler""",1,2,9
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,peres002,"""Salvador Perez""",1,4,2
+start,dudal001,"""Lucas Duda""",1,5,3
+start,almoa001,"""Abraham Almonte""",1,6,8
+start,gorda001,"""Alex Gordon""",1,7,7
+start,escoa003,"""Alcides Escobar""",1,8,6
+start,goinr001,"""Ryan Goins""",1,9,4
+start,hammj002,"""Jason Hammel""",1,0,1
+sub,hardb001,"""Blaine Hardy""",0,0,1
+sub,flynb001,"""Brian Flynn""",1,0,1
+sub,wilsa001,"""Alex Wilson""",0,0,1
+sub,kellb003,"""Brad Keller""",1,0,1
+sub,stumd001,"""Daniel Stumpf""",0,0,1
+sub,jimej003,"""Joe Jimenez""",0,0,1
+play,9,0,martl004,00,,NP
+sub,adamj002,"""Jason Adam""",1,0,1
+play,9,0,martl004,31,.BBBCB,W
+play,9,0,candj002,32,C*BS*B*B>S,K+CS2(26)/DP
+play,9,0,castn001,12,BSFX,D7/L
+play,9,0,martv001,12,*BFFX,3/G
+sub,grees005,"""Shane Greene""",0,0,1

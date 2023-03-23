@@ -1,0 +1,39 @@
+id,KCA201804250
+info,visteam,MIL
+info,hometeam,KCA
+info,date,2018/04/25
+info,starttime,7:16PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,7
+start,braur002,"""Ryan Braun""",0,3,10
+start,shawt001,"""Travis Shaw""",0,4,5
+start,santd002,"""Domingo Santana""",0,5,9
+start,aguij001,"""Jesus Aguilar""",0,6,3
+start,pinam001,"""Manny Pina""",0,7,2
+start,villj001,"""Jonathan Villar""",0,8,4
+start,arcio002,"""Orlando Arcia""",0,9,6
+start,chacj001,"""Jhoulys Chacin""",0,0,1
+start,jay-j001,"""Jon Jay""",1,1,8
+start,merrw001,"""Whit Merrifield""",1,2,4
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,peres002,"""Salvador Perez""",1,4,2
+start,dudal001,"""Lucas Duda""",1,5,3
+start,solej001,"""Jorge Soler""",1,6,9
+start,gorda001,"""Alex Gordon""",1,7,7
+start,cuthc001,"""Cheslor Cuthbert""",1,8,10
+start,escoa003,"""Alcides Escobar""",1,9,6
+start,hammj002,"""Jason Hammel""",1,0,1
+play,6,1,jay-j001,12,CFBFX,S4/G
+play,6,1,merrw001,11,CBX,S9/G.1-3
+play,6,1,mousm001,11,FBX,9/F
+play,6,1,peres002,22,BSSB>B,SB2
+play,6,1,peres002,32,BSSB>B.X,FC6/G.3-H;2X3(65)
+play,6,1,dudal001,00,,NP
+sub,jennd003,"""Dan Jennings""",0,0,1
+play,6,1,dudal001,31,.BB*BCX,3/G
+sub,stoue001,"""Eric Stout""",1,0,1
+sub,barnj002,"""Jacob Barnes""",0,0,1
+sub,kellb003,"""Brad Keller""",1,0,1
+sub,hadej001,"""Josh Hader""",0,0,1
+sub,mccak002,"""Kevin McCarthy""",1,0,1
+sub,willt003,"""Taylor Williams""",0,0,1

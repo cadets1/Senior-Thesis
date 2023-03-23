@@ -1,0 +1,38 @@
+id,KCA201808160
+info,visteam,TOR
+info,hometeam,KCA
+info,date,2018/08/16
+info,starttime,9:29PM
+start,gricr001,"""Randal Grichuk""",0,1,9
+start,travd001,"""Devon Travis""",0,2,4
+start,smoaj001,"""Justin Smoak""",0,3,10
+start,morak001,"""Kendrys Morales""",0,4,3
+start,hernt002,"""Teoscar Hernandez""",0,5,7
+start,pillk001,"""Kevin Pillar""",0,6,8
+start,jansd001,"""Danny Jansen""",0,7,2
+start,diaza003,"""Aledmys Diaz""",0,8,5
+start,urenr001,"""Richard Urena""",0,9,6
+start,gavis001,"""Sam Gaviglio""",0,0,1
+start,merrw001,"""Whit Merrifield""",1,1,8
+start,gorda001,"""Alex Gordon""",1,2,7
+start,peres002,"""Salvador Perez""",1,3,2
+start,dudal001,"""Lucas Duda""",1,4,10
+start,herrr002,"""Rosell Herrera""",1,5,4
+start,bonij002,"""Jorge Bonifacio""",1,6,9
+start,ohear001,"""Ryan O'Hearn""",1,7,3
+start,dozih001,"""Hunter Dozier""",1,8,5
+start,mondr003,"""Adalberto Mondesi""",1,9,6
+start,sparg001,"""Glenn Sparkman""",1,0,1
+play,2,0,morak001,02,CSX,43/G
+play,2,0,hernt002,31,SBBBB,W
+play,2,0,pillk001,10,BX,D9/L.1-3
+play,2,0,jansd001,02,CSX,9/F/SF.3-H;2-3
+play,2,0,diaza003,21,T*BBH,HP
+play,2,0,urenr001,02,FS>F>B,CS2(26)
+sub,flynb001,"""Brian Flynn""",1,0,1
+sub,mayzt001,"""Tim Mayza""",0,0,1
+sub,mccak002,"""Kevin McCarthy""",1,0,1
+sub,petrj001,"""Jake Petricka""",0,0,1
+sub,maurb001,"""Brandon Maurer""",1,0,1
+sub,garcj004,"""Jaime Garcia""",0,0,1
+sub,peraw001,"""Wily Peralta""",1,0,1
