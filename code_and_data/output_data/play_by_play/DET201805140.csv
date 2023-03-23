@@ -1,0 +1,48 @@
+id,DET201805140
+info,visteam,CLE
+info,hometeam,DET
+info,date,2018/05/14
+info,starttime,7:10PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,alony001,"""Yonder Alonso""",0,5,3
+start,kipnj001,"""Jason Kipnis""",0,6,4
+start,gomey001,"""Yan Gomes""",0,7,2
+start,alleg002,"""Greg Allen""",0,8,8
+start,guyeb001,"""Brandon Guyer""",0,9,9
+start,carrc003,"""Carlos Carrasco""",0,0,1
+start,mahtm001,"""Mikie Mahtook""",1,1,7
+start,kozmp001,"""Pete Kozma""",1,2,5
+start,martv001,"""Victor Martinez""",1,3,10
+start,mccaj001,"""James McCann""",1,4,2
+start,hickj001,"""John Hicks""",1,5,3
+start,jonej006,"""JaCoby Jones""",1,6,8
+start,goodn002,"""Niko Goodrum""",1,7,9
+start,iglej001,"""Jose Iglesias""",1,8,6
+start,machd001,"""Dixon Machado""",1,9,4
+start,fierm001,"""Michael Fiers""",1,0,1
+play,3,1,iglej001,21,BFBX,S8/L+
+play,3,1,machd001,22,B1SS>FB11F1>FX,S8/L.1-2
+play,3,1,mahtm001,11,BCX,64(1)/FO/G.2-3
+play,3,1,kozmp001,11,SB>B,SB2
+play,3,1,kozmp001,32,SB>B.CFBFFX,53/G.3-H
+play,3,1,martv001,30,BBVV,IW
+play,3,1,mccaj001,12,FS*BC,K
+sub,saupw001,"""Warwick Saupold""",1,0,1
+sub,marse001,"""Evan Marshall""",0,0,1
+sub,jimej003,"""Joe Jimenez""",1,0,1
+sub,davir003,"""Rajai Davis""",0,4,12
+sub,stumd001,"""Daniel Stumpf""",1,0,1
+play,8,1,mccaj001,32,.BBBCFB,W
+play,8,1,hickj001,31,BBBCB,W.1-2
+play,8,1,jonej006,00,,NP
+sub,mcalz001,"""Zach McAllister""",0,0,1
+play,8,1,jonej006,22,.BBFSFS,K
+play,8,1,goodn002,32,CBBBFX,HR/89/F.2-H;1-H
+play,8,1,iglej001,30,BBBB,W
+play,8,1,machd001,21,1BBCX,8/L+
+play,8,1,mahtm001,00,*B,SB2
+play,8,1,mahtm001,22,*B.CBFS,K
+sub,grees005,"""Shane Greene""",1,0,1

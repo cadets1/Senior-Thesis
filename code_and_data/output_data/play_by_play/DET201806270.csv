@@ -1,0 +1,34 @@
+id,DET201806270
+info,visteam,OAK
+info,hometeam,DET
+info,date,2018/06/27
+info,starttime,7:10PM
+start,fowld002,"""Dustin Fowler""",0,1,8
+start,joycm001,"""Matt Joyce""",0,2,7
+start,lowrj001,"""Jed Lowrie""",0,3,5
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,piscs001,"""Stephen Piscotty""",0,6,9
+start,pindc001,"""Chad Pinder""",0,7,4
+start,barrf001,"""Franklin Barreto""",0,8,6
+start,phegj001,"""Josh Phegley""",0,9,2
+start,bassc001,"""Chris Bassitt""",0,0,1
+start,martl004,"""Leonys Martin""",1,1,8
+start,candj002,"""Jeimer Candelario""",1,2,5
+start,castn001,"""Nick Castellanos""",1,3,9
+start,martv001,"""Victor Martinez""",1,4,10
+start,goodn002,"""Niko Goodrum""",1,5,4
+start,hickj001,"""John Hicks""",1,6,3
+start,greig001,"""Grayson Greiner""",1,7,2
+start,iglej001,"""Jose Iglesias""",1,8,6
+start,jonej006,"""JaCoby Jones""",1,9,7
+start,fierm001,"""Michael Fiers""",1,0,1
+play,7,1,iglej001,00,,NP
+sub,petiy001,"""Yusmeiro Petit""",0,0,1
+play,7,1,iglej001,12,.CBFFX,S6/G
+play,7,1,jonej006,02,F1SX,5/P
+play,7,1,martl004,22,11BS1SBF>B,CS2(26)
+play,7,1,martl004,32,11BS1SBF>B.X,7/F
+sub,jimej003,"""Joe Jimenez""",1,0,1
+sub,wilsa001,"""Alex Wilson""",1,0,1
+sub,trivl001,"""Lou Trivino""",0,0,1

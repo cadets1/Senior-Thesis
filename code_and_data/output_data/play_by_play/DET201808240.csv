@@ -1,0 +1,47 @@
+id,DET201808240
+info,visteam,CHA
+info,hometeam,DET
+info,date,2018/08/24
+info,starttime,7:10PM
+start,sancc001,"""Yolmer Sanchez""",0,1,5
+start,moncy001,"""Yoan Moncada""",0,2,4
+start,garca003,"""Avisail Garcia""",0,3,9
+start,palkd001,"""Daniel Palka""",0,4,7
+start,andet001,"""Tim Anderson""",0,5,6
+start,delmn001,"""Nicky Delmonico""",0,6,3
+start,davim005,"""Matt Davidson""",0,7,10
+start,narvo001,"""Omar Narvaez""",0,8,2
+start,engea001,"""Adam Engel""",0,9,8
+start,loper003,"""Reynaldo Lopez""",0,0,1
+start,candj002,"""Jeimer Candelario""",1,1,5
+start,iglej001,"""Jose Iglesias""",1,2,6
+start,castn001,"""Nick Castellanos""",1,3,9
+start,martv001,"""Victor Martinez""",1,4,10
+start,adduj002,"""Jim Adduci""",1,5,3
+start,goodn002,"""Niko Goodrum""",1,6,4
+start,mahtm001,"""Mikie Mahtook""",1,7,7
+start,mccaj001,"""James McCann""",1,8,2
+start,reyev001,"""Victor Reyes""",1,9,8
+start,fulmm001,"""Michael Fulmer""",1,0,1
+sub,alcav001,"""Victor Alcantara""",1,0,1
+sub,gomej002,"""Jeanmar Gomez""",0,0,1
+sub,stumd001,"""Daniel Stumpf""",1,0,1
+play,7,1,mccaj001,32,BSSBBFC,K
+play,7,1,reyev001,01,CX,E4/G
+play,7,1,candj002,21,B11BC1>B,SB2
+play,7,1,candj002,32,B11BC1>B.SX,S7/L.2-3
+play,7,1,iglej001,12,3CF1FFBS,K
+play,7,1,castn001,01,FX,S7/L.3-H(UR);1-2
+play,7,1,martv001,00,,NP
+sub,vieit001,"""Thyago Vieira""",0,0,1
+play,7,1,martv001,10,.BX,3/L+
+sub,jimej003,"""Joe Jimenez""",1,0,1
+sub,grees005,"""Shane Greene""",1,0,1
+sub,lamar001,"""Ryan LaMarre""",0,4,12
+sub,wilsa001,"""Alex Wilson""",1,0,1
+sub,lamar001,"""Ryan LaMarre""",0,4,7
+sub,fry-j001,"""Jace Fry""",0,0,1
+sub,rodrr009,"""Ronny Rodriguez""",1,5,11
+sub,rodrr009,"""Ronny Rodriguez""",1,5,3
+sub,farmb001,"""Buck Farmer""",1,0,1
+sub,minaj001,"""Juan Minaya""",0,0,1

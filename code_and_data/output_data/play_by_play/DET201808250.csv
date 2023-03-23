@@ -1,0 +1,38 @@
+id,DET201808250
+info,visteam,CHA
+info,hometeam,DET
+info,date,2018/08/25
+info,starttime,6:10PM
+start,andet001,"""Tim Anderson""",0,1,6
+start,rondj002,"""Jose Rondon""",0,2,5
+start,garca003,"""Avisail Garcia""",0,3,9
+start,palkd001,"""Daniel Palka""",0,4,10
+start,davim005,"""Matt Davidson""",0,5,3
+start,moncy001,"""Yoan Moncada""",0,6,4
+start,lamar001,"""Ryan LaMarre""",0,7,7
+start,smitk002,"""Kevan Smith""",0,8,2
+start,engea001,"""Adam Engel""",0,9,8
+start,gioll001,"""Lucas Giolito""",0,0,1
+start,candj002,"""Jeimer Candelario""",1,1,5
+start,iglej001,"""Jose Iglesias""",1,2,6
+start,castn001,"""Nick Castellanos""",1,3,9
+start,martv001,"""Victor Martinez""",1,4,10
+start,adduj002,"""Jim Adduci""",1,5,3
+start,goodn002,"""Niko Goodrum""",1,6,4
+start,mahtm001,"""Mikie Mahtook""",1,7,7
+start,greig001,"""Grayson Greiner""",1,8,2
+start,reyev001,"""Victor Reyes""",1,9,8
+start,carpr001,"""Ryan Carpenter""",1,0,1
+play,1,1,candj002,22,CBFBFX,9/L
+play,1,1,iglej001,02,CCFFX,S8/L
+play,1,1,castn001,22,BBFS>S,K+SB2
+play,1,1,martv001,10,*BX,7/L
+play,5,0,garca003,12,CSBFX,S5/G
+play,5,0,palkd001,32,FBBBC>S,K+SB2
+play,5,0,davim005,11,CBX,D9/L.2-H
+play,5,0,moncy001,00,,NP
+sub,verhd001,"""Drew VerHagen""",1,0,1
+play,5,0,moncy001,01,.CX,7/F
+play,5,0,lamar001,12,BCCFX,13/G
+sub,colel001,"""Louis Coleman""",1,0,1
+sub,coved001,"""Dylan Covey""",0,0,1

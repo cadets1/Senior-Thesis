@@ -1,0 +1,41 @@
+id,DET201805310
+info,visteam,ANA
+info,hometeam,DET
+info,date,2018/05/31
+info,starttime,1:10PM
+start,kinsi001,"""Ian Kinsler""",0,1,4
+start,troum001,"""Mike Trout""",0,2,10
+start,uptoj001,"""Justin Upton""",0,3,7
+start,pujoa001,"""Albert Pujols""",0,4,3
+start,simma001,"""Andrelton Simmons""",0,5,6
+start,martj007,"""Jefry Marte""",0,6,5
+start,younc004,"""Chris Young""",0,7,8
+start,calhk001,"""Kole Calhoun""",0,8,9
+start,bricj001,"""Jose Briceno""",0,9,2
+start,heana001,"""Andrew Heaney""",0,0,1
+start,goodn002,"""Niko Goodrum""",1,1,9
+start,castn001,"""Nick Castellanos""",1,2,10
+start,candj002,"""Jeimer Candelario""",1,3,5
+start,mccaj001,"""James McCann""",1,4,2
+start,hickj001,"""John Hicks""",1,5,3
+start,jonej006,"""JaCoby Jones""",1,6,8
+start,rodrr009,"""Ronny Rodriguez""",1,7,4
+start,reyev001,"""Victor Reyes""",1,8,7
+start,kozmp001,"""Pete Kozma""",1,9,6
+start,carpr001,"""Ryan Carpenter""",1,0,1
+sub,machd001,"""Dixon Machado""",1,3,4
+sub,rodrr009,"""Ronny Rodriguez""",1,7,5
+sub,saupw001,"""Warwick Saupold""",1,0,1
+sub,ramin002,"""Noe Ramirez""",0,0,1
+sub,colel001,"""Louis Coleman""",1,0,1
+sub,jimej003,"""Joe Jimenez""",1,0,1
+play,8,1,reyev001,00,,NP
+sub,andej005,"""Justin Anderson""",0,0,1
+play,8,1,reyev001,22,.BSFBX,S7/L
+play,8,1,kozmp001,21,B1BF1>B,SB2
+play,8,1,kozmp001,31,B1BF1>B.B,W
+play,8,1,goodn002,12,BCSS,K
+play,8,1,castn001,12,SS*BS,K
+play,8,1,machd001,12,BTCX,31/G-
+sub,grees005,"""Shane Greene""",1,0,1
+sub,valbl001,"""Luis Valbuena""",0,8,11

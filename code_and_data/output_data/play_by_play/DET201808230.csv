@@ -1,0 +1,39 @@
+id,DET201808230
+info,visteam,CHA
+info,hometeam,DET
+info,date,2018/08/23
+info,starttime,1:11PM
+start,andet001,"""Tim Anderson""",0,1,6
+start,lamar001,"""Ryan LaMarre""",0,2,7
+start,garca003,"""Avisail Garcia""",0,3,9
+start,davim005,"""Matt Davidson""",0,4,3
+start,rondj002,"""Jose Rondon""",0,5,10
+start,moncy001,"""Yoan Moncada""",0,6,4
+start,narvo001,"""Omar Narvaez""",0,7,2
+start,sancc001,"""Yolmer Sanchez""",0,8,5
+start,engea001,"""Adam Engel""",0,9,8
+start,shiej002,"""James Shields""",0,0,1
+start,candj002,"""Jeimer Candelario""",1,1,5
+start,iglej001,"""Jose Iglesias""",1,2,6
+start,castn001,"""Nick Castellanos""",1,3,10
+start,adduj002,"""Jim Adduci""",1,4,3
+start,mahtm001,"""Mikie Mahtook""",1,5,7
+start,rodrr009,"""Ronny Rodriguez""",1,6,4
+start,greig001,"""Grayson Greiner""",1,7,2
+start,gerbm001,"""Mike Gerber""",1,8,8
+start,reyev001,"""Victor Reyes""",1,9,9
+start,boydm001,"""Matt Boyd""",1,0,1
+play,1,0,andet001,22,CCBFBFFX,3/P
+play,1,0,lamar001,02,CFX,S7/G
+play,1,0,garca003,11,FB>B,SB2
+play,1,0,garca003,32,FB>B.BFFX,7/F
+play,1,0,davim005,22,FCBBFX,8/F
+play,3,0,sancc001,22,BCSBX,S7/L
+play,3,0,engea001,01,L1,POCS2(1361)
+play,3,0,engea001,11,L1.BX,D9/F
+play,3,0,andet001,10,BX,63/G+
+play,3,0,lamar001,21,CBBX,8/F
+sub,verhd001,"""Drew VerHagen""",1,0,1
+sub,burrr002,"""Ryan Burr""",0,0,1
+sub,colel001,"""Louis Coleman""",1,0,1
+sub,reinz001,"""Zac Reininger""",1,0,1

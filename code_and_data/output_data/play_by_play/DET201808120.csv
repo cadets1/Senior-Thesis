@@ -1,0 +1,42 @@
+id,DET201808120
+info,visteam,MIN
+info,hometeam,DET
+info,date,2018/08/12
+info,starttime,1:32PM
+start,forsl001,"""Logan Forsythe""",0,1,4
+start,polaj001,"""Jorge Polanco""",0,2,6
+start,sanom001,"""Miguel Sano""",0,3,10
+start,austt001,"""Tyler Austin""",0,4,3
+start,garvm001,"""Mitch Garver""",0,5,2
+start,fielj003,"""Johnny Field""",0,6,7
+start,keplm001,"""Max Kepler""",0,7,9
+start,adrie001,"""Ehire Adrianza""",0,8,5
+start,cavej001,"""Jake Cave""",0,9,8
+start,stewk001,"""Kohl Stewart""",0,0,1
+start,candj002,"""Jeimer Candelario""",1,1,5
+start,iglej001,"""Jose Iglesias""",1,2,6
+start,goodn002,"""Niko Goodrum""",1,3,4
+start,martv001,"""Victor Martinez""",1,4,10
+start,adduj002,"""Jim Adduci""",1,5,3
+start,jonej006,"""JaCoby Jones""",1,6,8
+start,gerbm001,"""Mike Gerber""",1,7,7
+start,greig001,"""Grayson Greiner""",1,8,2
+start,reyev001,"""Victor Reyes""",1,9,9
+start,boydm001,"""Matt Boyd""",1,0,1
+sub,goodn002,"""Niko Goodrum""",1,3,9
+sub,rodrr009,"""Ronny Rodriguez""",1,6,4
+sub,reyev001,"""Victor Reyes""",1,9,8
+sub,roget001,"""Taylor Rogers""",0,0,1
+sub,dufft001,"""Tyler Duffey""",0,0,1
+sub,wilsa001,"""Alex Wilson""",1,0,1
+sub,jimej003,"""Joe Jimenez""",1,0,1
+play,8,1,goodn002,32,BBBCFFFFFB,W
+play,8,1,martv001,00,,NP
+sub,moyag001,"""Gabriel Moya""",0,0,1
+play,8,1,martv001,01,.CX,7/L
+play,8,1,adduj002,01,FX,9/F
+play,8,1,rodrr009,02,CS>B,SB2
+play,8,1,rodrr009,22,CS>B.BX,D7/L.2-H
+play,8,1,gerbm001,12,FFBS,K
+sub,grees005,"""Shane Greene""",1,0,1
+sub,mauej001,"""Joe Mauer""",0,4,11

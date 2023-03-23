@@ -1,0 +1,44 @@
+id,DET201805010
+info,visteam,TBA
+info,hometeam,DET
+info,date,2018/05/01
+info,starttime,7:11PM
+start,hecha001,"""Adeiny Hechavarria""",0,1,6
+start,cronc002,"""C.J. Cron""",0,2,3
+start,duffm002,"""Matt Duffy""",0,3,5
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,robed004,"""Daniel Robertson""",0,5,4
+start,gomec002,"""Carlos Gomez""",0,6,9
+start,refsr001,"""Rob Refsnyder""",0,7,10
+start,smitm007,"""Mallex Smith""",0,8,8
+start,fielj003,"""Johnny Field""",0,9,7
+start,archc001,"""Chris Archer""",0,0,1
+start,martl004,"""Leonys Martin""",1,1,8
+start,candj002,"""Jeimer Candelario""",1,2,5
+start,castn001,"""Nick Castellanos""",1,3,9
+start,martv001,"""Victor Martinez""",1,4,10
+start,jonej006,"""JaCoby Jones""",1,5,7
+start,goodn002,"""Niko Goodrum""",1,6,3
+start,mccaj001,"""James McCann""",1,7,2
+start,iglej001,"""Jose Iglesias""",1,8,6
+start,machd001,"""Dixon Machado""",1,9,4
+start,boydm001,"""Matt Boyd""",1,0,1
+play,2,0,ramow001,00,X,7/L+
+play,2,0,robed004,31,BCBBX,4/P
+play,2,0,gomec002,00,H,HP
+play,2,0,refsr001,01,C>C,SB2
+play,2,0,refsr001,02,C>C.T,K
+play,3,0,smitm007,12,CCBX,S3/G
+play,3,0,fielj003,00,1,SB2
+play,3,0,fielj003,31,1.BBFBX,S5/G.2-2
+play,3,0,hecha001,22,BBFSFX,54(1)/FO/G.2-3
+play,3,0,cronc002,10,BX,6/P
+play,3,0,duffm002,02,C1FT,K
+sub,wilsa001,"""Alex Wilson""",1,0,1
+sub,spand001,"""Denard Span""",0,9,11
+sub,spand001,"""Denard Span""",0,9,7
+sub,kitta001,"""Andrew Kittredge""",0,0,1
+sub,jimej003,"""Joe Jimenez""",1,0,1
+sub,ventj001,"""Jonny Venters""",0,0,1
+sub,grees005,"""Shane Greene""",1,0,1
+sub,millb002,"""Brad Miller""",0,7,11

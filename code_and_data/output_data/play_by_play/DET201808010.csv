@@ -1,0 +1,56 @@
+id,DET201808010
+info,visteam,CIN
+info,hometeam,DET
+info,date,2018/08/01
+info,starttime,1:10PM
+start,peraj003,"""Jose Peraza""",0,1,6
+start,genns001,"""Scooter Gennett""",0,2,4
+start,vottj001,"""Joey Votto""",0,3,3
+start,suare001,"""Eugenio Suarez""",0,4,5
+start,willm007,"""Mason Williams""",0,5,9
+start,ervip001,"""Phillip Ervin""",0,6,7
+start,tuckp001,"""Preston Tucker""",0,7,10
+start,casac001,"""Curt Casali""",0,8,2
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,romas001,"""Sal Romano""",0,0,1
+start,jonej006,"""JaCoby Jones""",1,1,8
+start,castn001,"""Nick Castellanos""",1,2,9
+start,goodn002,"""Niko Goodrum""",1,3,4
+start,martv001,"""Victor Martinez""",1,4,10
+start,candj002,"""Jeimer Candelario""",1,5,5
+start,hickj001,"""John Hicks""",1,6,2
+start,adduj002,"""Jim Adduci""",1,7,3
+start,iglej001,"""Jose Iglesias""",1,8,6
+start,reyev001,"""Victor Reyes""",1,9,7
+start,fierm001,"""Michael Fiers""",1,0,1
+play,3,0,casac001,00,,NP
+sub,verhd001,"""Drew VerHagen""",1,0,1
+play,3,0,casac001,22,.CFBBFX,7/F
+play,3,0,hamib001,00,X,S8/G
+play,3,0,peraj003,11,1C*B11>P,SB2
+play,3,0,peraj003,22,1C*B11>P.FS,K
+play,3,0,genns001,00,X,63/G
+play,4,1,hickj001,22,BFBCS,K
+play,4,1,adduj002,12,CBFX,HR/89/F
+play,4,1,iglej001,12,FBSFX,8/F
+play,4,1,reyev001,00,X,S3/BG
+play,4,1,jonej006,02,CF1>B,SB2
+play,4,1,jonej006,12,CF1>B.X,13/G
+sub,stumd001,"""Daniel Stumpf""",1,0,1
+sub,peraw002,"""Wandy Peralta""",0,0,1
+sub,rodrr009,"""Ronny Rodriguez""",1,7,11
+sub,lorem002,"""Michael Lorenzen""",0,0,1
+sub,rodrr009,"""Ronny Rodriguez""",1,7,3
+sub,wilsa001,"""Alex Wilson""",1,0,1
+sub,colel001,"""Louis Coleman""",1,0,1
+play,7,1,goodn002,00,,NP
+sub,garra001,"""Amir Garrett""",0,0,1
+play,7,1,goodn002,31,.BBBCX,S9/G
+play,7,1,martv001,00,>X,4/P
+play,7,1,candj002,20,1BB>B,SB2
+play,7,1,candj002,30,1BB>B.B,W
+play,7,1,hickj001,00,,NP
+sub,hernd002,"""David Hernandez""",0,0,1
+play,7,1,hickj001,21,.SBBX,64(1)3/GDP
+sub,jimej003,"""Joe Jimenez""",1,0,1
+sub,grees005,"""Shane Greene""",1,0,1

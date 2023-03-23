@@ -1,0 +1,37 @@
+id,DET201804201
+info,visteam,KCA
+info,hometeam,DET
+info,date,2018/04/20
+info,starttime,1:11PM
+start,jay-j001,"""Jon Jay""",0,1,7
+start,merrw001,"""Whit Merrifield""",0,2,9
+start,mousm001,"""Mike Moustakas""",0,3,10
+start,dudal001,"""Lucas Duda""",0,4,3
+start,cuthc001,"""Cheslor Cuthbert""",0,5,5
+start,almoa001,"""Abraham Almonte""",0,6,8
+start,goinr001,"""Ryan Goins""",0,7,4
+start,escoa003,"""Alcides Escobar""",0,8,6
+start,gallc001,"""Cam Gallagher""",0,9,2
+start,hammj002,"""Jason Hammel""",0,0,1
+start,martl004,"""Leonys Martin""",1,1,8
+start,candj002,"""Jeimer Candelario""",1,2,5
+start,cabrm001,"""Miguel Cabrera""",1,3,3
+start,castn001,"""Nick Castellanos""",1,4,9
+start,martv001,"""Victor Martinez""",1,5,10
+start,mccaj001,"""James McCann""",1,6,2
+start,jonej006,"""JaCoby Jones""",1,7,7
+start,iglej001,"""Jose Iglesias""",1,8,6
+start,machd001,"""Dixon Machado""",1,9,4
+start,fulmm001,"""Michael Fulmer""",1,0,1
+play,5,1,mccaj001,10,BX,D8/L
+play,5,1,jonej006,11,BSX,D8/G.2-H
+play,5,1,iglej001,00,>B,SB3
+play,5,1,iglej001,10,>B.X,53/G
+play,5,1,machd001,10,BX,8/F/SF.3-H
+play,5,1,martl004,00,X,7/F
+sub,stumd001,"""Daniel Stumpf""",1,0,1
+sub,grees005,"""Shane Greene""",1,0,1
+sub,goodn002,"""Niko Goodrum""",1,3,12
+sub,goodn002,"""Niko Goodrum""",1,3,3
+sub,jimej003,"""Joe Jimenez""",1,0,1
+sub,kellb003,"""Brad Keller""",0,0,1
