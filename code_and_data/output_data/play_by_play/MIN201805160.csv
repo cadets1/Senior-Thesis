@@ -1,0 +1,48 @@
+id,MIN201805160
+info,visteam,SLN
+info,hometeam,MIN
+info,date,2018/05/16
+info,starttime,12:11PM
+start,phamt001,"""Tommy Pham""",0,1,8
+start,martj008,"""Jose Martinez""",0,2,10
+start,dejop001,"""Paul DeJong""",0,3,6
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,fowld001,"""Dexter Fowler""",0,5,9
+start,gyorj001,"""Jedd Gyorko""",0,6,5
+start,carpm002,"""Matt Carpenter""",0,7,3
+start,penaf001,"""Francisco Pena""",0,8,2
+start,garcg002,"""Greg Garcia""",0,9,4
+start,mikom001,"""Miles Mikolas""",0,0,1
+start,mauej001,"""Joe Mauer""",1,1,10
+start,dozib001,"""Brian Dozier""",1,2,4
+start,rosae001,"""Eddie Rosario""",1,3,7
+start,keplm001,"""Max Kepler""",1,4,9
+start,garvm001,"""Mitch Garver""",1,5,2
+start,morrl001,"""Logan Morrison""",1,6,3
+start,buxtb001,"""Byron Buxton""",1,7,8
+start,adrie001,"""Ehire Adrianza""",1,8,6
+start,petig001,"""Gregorio Petit""",1,9,5
+start,lynnl001,"""Lance Lynn""",1,0,1
+play,3,0,fowld001,32,BCBFFFBB,W
+play,3,0,gyorj001,01,F1>C,CS2(24)
+play,3,0,gyorj001,02,F1>C.S,K
+play,3,0,carpm002,22,CBFBS,K
+sub,roget001,"""Taylor Rogers""",1,0,1
+sub,magim001,"""Matt Magill""",1,0,1
+sub,cecib001,"""Brett Cecil""",0,0,1
+sub,presr001,"""Ryan Pressly""",1,0,1
+sub,bowmm001,"""Matt Bowman""",0,0,1
+sub,dukez001,"""Zach Duke""",1,0,1
+sub,badeh001,"""Harrison Bader""",0,9,11
+sub,wongk001,"""Kolten Wong""",0,9,4
+sub,hickj002,"""Jordan Hicks""",0,0,1
+sub,hughp001,"""Phil Hughes""",1,0,1
+sub,hollg001,"""Greg Holland""",0,0,1
+sub,grosr001,"""Robbie Grossman""",1,7,11
+sub,escoe001,"""Eduardo Escobar""",1,8,11
+sub,norrb001,"""Bud Norris""",0,0,1
+sub,keplm001,"""Max Kepler""",1,4,8
+sub,grosr001,"""Robbie Grossman""",1,7,9
+sub,escoe001,"""Eduardo Escobar""",1,8,5
+sub,petig001,"""Gregorio Petit""",1,9,6
+sub,reeda001,"""Addison Reed""",1,0,1

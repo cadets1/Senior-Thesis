@@ -1,0 +1,40 @@
+id,MIN201808190
+info,visteam,DET
+info,hometeam,MIN
+info,date,2018/08/19
+info,starttime,1:15PM
+start,candj002,"""Jeimer Candelario""",0,1,5
+start,iglej001,"""Jose Iglesias""",0,2,6
+start,castn001,"""Nick Castellanos""",0,3,9
+start,goodn002,"""Niko Goodrum""",0,4,4
+start,martv001,"""Victor Martinez""",0,5,10
+start,adduj002,"""Jim Adduci""",0,6,3
+start,mahtm001,"""Mikie Mahtook""",0,7,7
+start,mccaj001,"""James McCann""",0,8,2
+start,gerbm001,"""Mike Gerber""",0,9,8
+start,farmb001,"""Buck Farmer""",0,0,1
+start,mauej001,"""Joe Mauer""",1,1,10
+start,rosae001,"""Eddie Rosario""",1,2,7
+start,polaj001,"""Jorge Polanco""",1,3,6
+start,sanom001,"""Miguel Sano""",1,4,5
+start,keplm001,"""Max Kepler""",1,5,8
+start,forsl001,"""Logan Forsythe""",1,6,4
+start,cavej001,"""Jake Cave""",1,7,9
+start,garvm001,"""Mitch Garver""",1,8,2
+start,austt001,"""Tyler Austin""",1,9,3
+start,odorj001,"""Jake Odorizzi""",1,0,1
+sub,reinz001,"""Zac Reininger""",0,0,1
+sub,stumd001,"""Daniel Stumpf""",0,0,1
+sub,magim001,"""Matt Magill""",1,0,1
+play,7,1,garvm001,00,,NP
+sub,wilsa001,"""Alex Wilson""",0,0,1
+play,7,1,garvm001,12,.CBCX,9/F
+play,7,1,austt001,12,CBSX,S8/G
+play,7,1,mauej001,00,,NP
+sub,adrie001,"""Ehire Adrianza""",1,9,12
+play,7,1,mauej001,32,.CBBF1FB11>S,K+CS2(26)/DP
+sub,adrie001,"""Ehire Adrianza""",1,9,3
+sub,roget001,"""Taylor Rogers""",1,0,1
+sub,hildt001,"""Trevor Hildenberger""",1,0,1
+sub,colel001,"""Louis Coleman""",0,0,1
+sub,reyev001,"""Victor Reyes""",0,9,11

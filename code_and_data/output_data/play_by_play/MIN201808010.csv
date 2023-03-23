@@ -1,0 +1,47 @@
+id,MIN201808010
+info,visteam,CLE
+info,hometeam,MIN
+info,date,2018/08/01
+info,starttime,12:10PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,davir003,"""Rajai Davis""",0,2,8
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,guyeb001,"""Brandon Guyer""",0,5,9
+start,alony001,"""Yonder Alonso""",0,6,3
+start,gomey001,"""Yan Gomes""",0,7,2
+start,cabrm002,"""Melky Cabrera""",0,8,7
+start,gonze004,"""Erik Gonzalez""",0,9,4
+start,carrc003,"""Carlos Carrasco""",0,0,1
+start,mauej001,"""Joe Mauer""",1,1,10
+start,rosae001,"""Eddie Rosario""",1,2,7
+start,polaj001,"""Jorge Polanco""",1,3,6
+start,morrl001,"""Logan Morrison""",1,4,3
+start,sanom001,"""Miguel Sano""",1,5,5
+start,keplm001,"""Max Kepler""",1,6,9
+start,garvm001,"""Mitch Garver""",1,7,2
+start,cavej001,"""Jake Cave""",1,8,8
+start,adrie001,"""Ehire Adrianza""",1,9,4
+start,mejia001,"""Adalberto Mejia""",1,0,1
+play,6,0,lindf001,00,,NP
+sub,magim001,"""Matt Magill""",1,0,1
+play,6,0,lindf001,32,.FCBBFFBX,8/L
+play,6,0,davir003,11,BSX,S6/L
+play,6,0,ramij003,01,11FX,S9/L+.1-3
+play,6,0,encae001,01,>F11>B,CS2(24).3-H(NR)
+play,6,0,encae001,21,>F11>B.BX,D7/G
+play,6,0,guyeb001,00,,NP
+sub,martl004,"""Leonys Martin""",0,5,11
+play,6,0,martl004,32,.BSBSF*BFX,8/F
+sub,davir003,"""Rajai Davis""",0,2,7
+sub,martl004,"""Leonys Martin""",0,5,8
+sub,cabrm002,"""Melky Cabrera""",0,8,9
+sub,moyag001,"""Gabriel Moya""",1,0,1
+sub,hildt001,"""Trevor Hildenberger""",1,0,1
+sub,handb001,"""Brad Hand""",0,0,1
+sub,grosr001,"""Robbie Grossman""",1,8,11
+sub,forsl001,"""Logan Forsythe""",1,9,11
+sub,keplm001,"""Max Kepler""",1,6,8
+sub,grosr001,"""Robbie Grossman""",1,8,9
+sub,forsl001,"""Logan Forsythe""",1,9,4
+sub,rodnf001,"""Fernando Rodney""",1,0,1

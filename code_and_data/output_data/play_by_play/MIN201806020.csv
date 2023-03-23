@@ -1,0 +1,37 @@
+id,MIN201806020
+info,visteam,CLE
+info,hometeam,MIN
+info,date,2018/06/02
+info,starttime,3:11PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,alony001,"""Yonder Alonso""",0,5,3
+start,alleg002,"""Greg Allen""",0,6,9
+start,kipnj001,"""Jason Kipnis""",0,7,4
+start,perer003,"""Roberto Perez""",0,8,2
+start,zimmb001,"""Bradley Zimmer""",0,9,8
+start,bauet001,"""Trevor Bauer""",0,0,1
+start,dozib001,"""Brian Dozier""",1,1,4
+start,rosae001,"""Eddie Rosario""",1,2,7
+start,escoe001,"""Eduardo Escobar""",1,3,5
+start,morrl001,"""Logan Morrison""",1,4,3
+start,grosr001,"""Robbie Grossman""",1,5,10
+start,keplm001,"""Max Kepler""",1,6,9
+start,garvm001,"""Mitch Garver""",1,7,2
+start,adrie001,"""Ehire Adrianza""",1,8,6
+start,lamar001,"""Ryan LaMarre""",1,9,8
+start,lynnl001,"""Lance Lynn""",1,0,1
+play,2,0,alony001,21,BFBX,8/F
+play,2,0,alleg002,31,CBBBB,W
+play,2,0,kipnj001,01,C1X,S8/G.1-3
+play,2,0,perer003,32,BCBC*B>S,K+SBH;SB2
+play,2,0,zimmb001,12,FCBS,K
+sub,oterd001,"""Dan Otero""",0,0,1
+sub,pereo002,"""Oliver Perez""",0,0,1
+sub,hildt001,"""Trevor Hildenberger""",1,0,1
+sub,presr001,"""Ryan Pressly""",1,0,1
+sub,marse001,"""Evan Marshall""",0,0,1
+sub,dufft001,"""Tyler Duffey""",1,0,1
+sub,cabrm002,"""Melky Cabrera""",0,8,11

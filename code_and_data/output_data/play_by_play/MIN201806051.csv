@@ -1,0 +1,43 @@
+id,MIN201806051
+info,visteam,CHA
+info,hometeam,MIN
+info,date,2018/06/05
+info,starttime,3:10PM
+start,moncy001,"""Yoan Moncada""",0,1,4
+start,sancc001,"""Yolmer Sanchez""",0,2,5
+start,abrej003,"""Jose Abreu""",0,3,3
+start,palkd001,"""Daniel Palka""",0,4,10
+start,andet001,"""Tim Anderson""",0,5,6
+start,narvo001,"""Omar Narvaez""",0,6,2
+start,engea001,"""Adam Engel""",0,7,8
+start,tilsc001,"""Charlie Tilson""",0,8,7
+start,thomt002,"""Trayce Thompson""",0,9,9
+start,loper003,"""Reynaldo Lopez""",0,0,1
+start,dozib001,"""Brian Dozier""",1,1,4
+start,rosae001,"""Eddie Rosario""",1,2,10
+start,sanom001,"""Miguel Sano""",1,3,3
+start,escoe001,"""Eduardo Escobar""",1,4,5
+start,keplm001,"""Max Kepler""",1,5,9
+start,grosr001,"""Robbie Grossman""",1,6,7
+start,lamar001,"""Ryan LaMarre""",1,7,8
+start,adrie001,"""Ehire Adrianza""",1,8,6
+start,wilsb002,"""Bobby Wilson""",1,9,2
+start,romef001,"""Fernando Romero""",1,0,1
+play,5,0,thomt002,11,SBX,9/L
+play,5,0,moncy001,20,BBX,S7/G
+play,5,0,sancc001,22,F1BF1B>S,K+SB2
+play,5,0,abrej003,11,CBX,D8/L+.2-H
+play,5,0,palkd001,11,BFX,6/P
+play,6,1,dozib001,31,BBBCB,W
+play,6,1,rosae001,31,BBSB>X,5/P5F
+play,6,1,sanom001,01,T>S,SB2
+play,6,1,sanom001,32,T>S.BFBFBS,K
+play,6,1,escoe001,12,BFFS,K
+sub,dufft001,"""Tyler Duffey""",1,0,1
+sub,jonen001,"""Nate Jones""",0,0,1
+sub,garvm001,"""Mitch Garver""",1,9,11
+sub,petig001,"""Gregorio Petit""",1,3,12
+sub,avill001,"""Luis Avilan""",0,0,1
+sub,petig001,"""Gregorio Petit""",1,3,3
+sub,garvm001,"""Mitch Garver""",1,9,2
+sub,rodnf001,"""Fernando Rodney""",1,0,1

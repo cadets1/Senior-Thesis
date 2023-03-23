@@ -1,0 +1,53 @@
+id,MIN201806100
+info,visteam,ANA
+info,hometeam,MIN
+info,date,2018/06/10
+info,starttime,1:11PM
+start,kinsi001,"""Ian Kinsler""",0,1,4
+start,troum001,"""Mike Trout""",0,2,8
+start,uptoj001,"""Justin Upton""",0,3,7
+start,pujoa001,"""Albert Pujols""",0,4,10
+start,valbl001,"""Luis Valbuena""",0,5,5
+start,cozaz001,"""Zack Cozart""",0,6,6
+start,fernj004,"""Jose Miguel Fernandez""",0,7,3
+start,maldm001,"""Martin Maldonado""",0,8,2
+start,younc004,"""Chris Young""",0,9,9
+start,tropn001,"""Nick Tropeano""",0,0,1
+start,grosr001,"""Robbie Grossman""",1,1,10
+start,rosae001,"""Eddie Rosario""",1,2,7
+start,escoe001,"""Eduardo Escobar""",1,3,4
+start,morrl001,"""Logan Morrison""",1,4,3
+start,sanom001,"""Miguel Sano""",1,5,5
+start,keplm001,"""Max Kepler""",1,6,9
+start,garvm001,"""Mitch Garver""",1,7,2
+start,cavej001,"""Jake Cave""",1,8,8
+start,adrie001,"""Ehire Adrianza""",1,9,6
+start,romef001,"""Fernando Romero""",1,0,1
+play,5,1,keplm001,31,BBBCB,W
+play,5,1,garvm001,21,B1BF111>S,CS2(24)
+play,5,1,garvm001,22,B1BF111>S.X,D9/L
+play,5,1,cavej001,00,X,S9/G.2-H
+play,5,1,adrie001,10,*BX,T9/L.1-H
+play,5,1,grosr001,31,BBBF*B,W
+play,5,1,rosae001,00,,NP
+sub,bedrc001,"""Cam Bedrosian""",0,0,1
+play,5,1,rosae001,22,.BFF*BC,K
+play,5,1,escoe001,00,X,D9/L.3-H;1-3
+play,5,1,morrl001,00,X,53/G
+sub,roget001,"""Taylor Rogers""",1,0,1
+play,6,1,sanom001,00,,NP
+sub,johnj010,"""Jim Johnson""",0,0,1
+play,6,1,sanom001,02,.CFS,K
+play,6,1,keplm001,31,BBBCB,W
+play,6,1,garvm001,01,FX,7/F
+play,6,1,cavej001,22,FBC1B*B,SB2
+play,6,1,cavej001,32,FBC1B*B.X,HR/8/F.2-H
+play,6,1,adrie001,12,CFBX,13/G
+sub,reeda001,"""Addison Reed""",1,0,1
+sub,drako001,"""Oliver Drake""",0,0,1
+sub,dukez001,"""Zach Duke""",1,0,1
+sub,martj007,"""Jefry Marte""",0,7,11
+sub,martj007,"""Jefry Marte""",0,7,3
+sub,paree001,"""Eduardo Paredes""",0,0,1
+sub,rodnf001,"""Fernando Rodney""",1,0,1
+sub,fontn001,"""Nolan Fontana""",0,5,12

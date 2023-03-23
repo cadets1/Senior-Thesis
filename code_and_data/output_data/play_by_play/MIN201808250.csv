@@ -1,0 +1,41 @@
+id,MIN201808250
+info,visteam,OAK
+info,hometeam,MIN
+info,date,2018/08/25
+info,starttime,6:20PM
+start,semim001,"""Marcus Semien""",0,1,6
+start,chapm001,"""Matt Chapman""",0,2,5
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,piscs001,"""Stephen Piscotty""",0,5,9
+start,pindc001,"""Chad Pinder""",0,6,7
+start,canhm001,"""Mark Canha""",0,7,3
+start,laurr001,"""Ramon Laureano""",0,8,8
+start,lucrj001,"""Jonathan Lucroy""",0,9,2
+start,fierm001,"""Michael Fiers""",0,0,1
+start,mauej001,"""Joe Mauer""",1,1,3
+start,forsl001,"""Logan Forsythe""",1,2,4
+start,rosae001,"""Eddie Rosario""",1,3,7
+start,polaj001,"""Jorge Polanco""",1,4,6
+start,keplm001,"""Max Kepler""",1,5,8
+start,sanom001,"""Miguel Sano""",1,6,5
+start,cavej001,"""Jake Cave""",1,7,9
+start,austt001,"""Tyler Austin""",1,8,10
+start,astuw001,"""Willians Astudillo""",1,9,2
+start,gonss001,"""Stephen Gonsalves""",1,0,1
+play,4,0,piscs001,12,CFBC,K
+play,4,0,pindc001,22,BFSBX,S7/G+
+play,4,0,canhm001,22,CCFFBBX,S9/L.1X3(95)
+play,4,0,laurr001,31,1BBBCB,W.1-2
+play,4,0,lucrj001,00,X,HR/78/F.2-H;1-H
+play,4,0,semim001,32,BCBSBFB,W
+play,4,0,chapm001,00,1,POCS2(134)
+sub,busea001,"""Alan Busenitz""",1,0,1
+sub,trivl001,"""Lou Trivino""",0,0,1
+sub,olsom001,"""Matt Olson""",0,7,3
+sub,buchr001,"""Ryan Buchter""",0,0,1
+sub,famij001,"""Jeurys Familia""",0,0,1
+sub,moyag001,"""Gabriel Moya""",1,0,1
+sub,may-t001,"""Trevor May""",1,0,1
+sub,treib001,"""Blake Treinen""",0,0,1
+sub,grosr001,"""Robbie Grossman""",1,9,11

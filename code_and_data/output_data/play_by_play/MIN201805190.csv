@@ -1,0 +1,40 @@
+id,MIN201805190
+info,visteam,MIL
+info,hometeam,MIN
+info,date,2018/05/19
+info,starttime,6:11PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,7
+start,aguij001,"""Jesus Aguilar""",0,3,10
+start,shawt001,"""Travis Shaw""",0,4,5
+start,santd002,"""Domingo Santana""",0,5,9
+start,choij001,"""Ji-Man Choi""",0,6,3
+start,villj001,"""Jonathan Villar""",0,7,4
+start,pinam001,"""Manny Pina""",0,8,2
+start,arcio002,"""Orlando Arcia""",0,9,6
+start,peraf001,"""Freddy Peralta""",0,0,1
+start,dozib001,"""Brian Dozier""",1,1,4
+start,keplm001,"""Max Kepler""",1,2,9
+start,rosae001,"""Eddie Rosario""",1,3,7
+start,escoe001,"""Eduardo Escobar""",1,4,5
+start,morrl001,"""Logan Morrison""",1,5,3
+start,grosr001,"""Robbie Grossman""",1,6,10
+start,cavej001,"""Jake Cave""",1,7,8
+start,adrie001,"""Ehire Adrianza""",1,8,6
+start,wilsb002,"""Bobby Wilson""",1,9,2
+start,romef001,"""Fernando Romero""",1,0,1
+play,2,1,morrl001,31,BCBBB,W
+play,2,1,grosr001,21,C1BBX,S9/L.1-2
+play,2,1,cavej001,12,BSCFX,46(1)/FO/G.2-3
+play,2,1,adrie001,32,BB*BF>F>F>S,K+SB2
+play,2,1,wilsb002,12,SFFBX,D7/F.3-H;2-H
+play,2,1,dozib001,02,SFX,63/G
+sub,jennd003,"""Dan Jennings""",0,0,1
+sub,roget001,"""Taylor Rogers""",1,0,1
+sub,jeffj001,"""Jeremy Jeffress""",0,0,1
+sub,presr001,"""Ryan Pressly""",1,0,1
+sub,hadej001,"""Josh Hader""",0,0,1
+sub,reeda001,"""Addison Reed""",1,0,1
+sub,dukez001,"""Zach Duke""",1,0,1
+sub,buxtb001,"""Byron Buxton""",1,6,12
+sub,garvm001,"""Mitch Garver""",1,7,11

@@ -1,0 +1,34 @@
+id,MIN201809281
+info,visteam,CHA
+info,hometeam,MIN
+info,date,2018/09/28
+info,starttime,1:10PM
+start,sancc001,"""Yolmer Sanchez""",0,1,5
+start,garcl004,"""Leury Garcia""",0,2,4
+start,garca003,"""Avisail Garcia""",0,3,9
+start,palkd001,"""Daniel Palka""",0,4,7
+start,davim005,"""Matt Davidson""",0,5,3
+start,narvo001,"""Omar Narvaez""",0,6,10
+start,castw002,"""Welington Castillo""",0,7,2
+start,andet001,"""Tim Anderson""",0,8,6
+start,engea001,"""Adam Engel""",0,9,8
+start,loper003,"""Reynaldo Lopez""",0,0,1
+start,mauej001,"""Joe Mauer""",1,1,10
+start,polaj001,"""Jorge Polanco""",1,2,6
+start,cavej001,"""Jake Cave""",1,3,8
+start,grosr001,"""Robbie Grossman""",1,4,7
+start,austt001,"""Tyler Austin""",1,5,3
+start,keplm001,"""Max Kepler""",1,6,9
+start,astuw001,"""Willians Astudillo""",1,7,2
+start,adrie001,"""Ehire Adrianza""",1,8,5
+start,petig001,"""Gregorio Petit""",1,9,4
+start,berrj001,"""Jose Berrios""",1,0,1
+play,3,1,mauej001,20,BBX,S8/L+
+play,3,1,polaj001,32,CBCB*B>S,K+CS2(26)/DP
+play,3,1,cavej001,32,CBBCBC,K
+sub,minaj001,"""Juan Minaya""",0,0,1
+sub,roget001,"""Taylor Rogers""",1,0,1
+sub,cordr001,"""Ryan Cordell""",0,3,9
+sub,frarc001,"""Caleb Frare""",0,0,1
+sub,smitk002,"""Kevan Smith""",0,6,11
+sub,may-t001,"""Trevor May""",1,0,1

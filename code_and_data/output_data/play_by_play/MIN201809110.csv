@@ -1,0 +1,46 @@
+id,MIN201809110
+info,visteam,NYA
+info,hometeam,MIN
+info,date,2018/09/11
+info,starttime,7:17PM
+start,mccua001,"""Andrew McCutchen""",0,1,9
+start,hicka001,"""Aaron Hicks""",0,2,8
+start,andum001,"""Miguel Andujar""",0,3,5
+start,stanm004,"""Giancarlo Stanton""",0,4,7
+start,gregd001,"""Didi Gregorius""",0,5,6
+start,sancg002,"""Gary Sanchez""",0,6,10
+start,voitl001,"""Luke Voit""",0,7,3
+start,romia002,"""Austin Romine""",0,8,2
+start,torrg001,"""Gleyber Torres""",0,9,4
+start,grays001,"""Sonny Gray""",0,0,1
+start,mauej001,"""Joe Mauer""",1,1,3
+start,polaj001,"""Jorge Polanco""",1,2,6
+start,forsl001,"""Logan Forsythe""",1,3,4
+start,grosr001,"""Robbie Grossman""",1,4,7
+start,cavej001,"""Jake Cave""",1,5,8
+start,austt001,"""Tyler Austin""",1,6,10
+start,keplm001,"""Max Kepler""",1,7,9
+start,adrie001,"""Ehire Adrianza""",1,8,5
+start,astuw001,"""Willians Astudillo""",1,9,2
+start,dufft001,"""Tyler Duffey""",1,0,1
+play,3,0,romia002,00,,NP
+sub,stewk001,"""Kohl Stewart""",1,0,1
+play,3,0,romia002,11,.BSX,13/G
+play,3,0,torrg001,01,FX,43/G
+play,3,0,mccua001,31,BBBCB,W
+play,3,0,hicka001,01,C1>B,CS2(26)
+play,3,1,mauej001,31,BBFBB,W
+play,3,1,polaj001,11,S*BX,S7/L.1-2
+play,3,1,forsl001,32,BCBFBB,W.2-3;1-2
+play,3,1,grosr001,02,SCS,K
+play,3,1,cavej001,12,CS*BFB,PB.3-H(NR);2-3;1-2
+play,3,1,cavej001,32,CS*BFB.*BX,S8/G.3-H;2-H(UR)
+play,3,1,austt001,00,>B,SB2
+play,3,1,austt001,21,>B.CBX,8/F
+play,3,1,keplm001,12,CCBS,K
+sub,loaij001,"""Jonathan Loaisiga""",0,0,1
+sub,kahnt001,"""Tommy Kahnle""",0,0,1
+sub,may-t001,"""Trevor May""",1,0,1
+sub,roget001,"""Taylor Rogers""",1,0,1
+sub,tarps001,"""Stephen Tarpley""",0,0,1
+sub,hildt001,"""Trevor Hildenberger""",1,0,1

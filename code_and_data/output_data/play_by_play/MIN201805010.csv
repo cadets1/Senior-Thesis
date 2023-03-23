@@ -1,0 +1,65 @@
+id,MIN201805010
+info,visteam,TOR
+info,hometeam,MIN
+info,date,2018/05/01
+info,starttime,7:10PM
+start,granc001,"""Curtis Granderson""",0,1,7
+start,hernt002,"""Teoscar Hernandez""",0,2,9
+start,smoaj001,"""Justin Smoak""",0,3,3
+start,solay001,"""Yangervis Solarte""",0,4,5
+start,pillk001,"""Kevin Pillar""",0,5,8
+start,gurrl001,"""Lourdes Gurriel""",0,6,4
+start,morak001,"""Kendrys Morales""",0,7,10
+start,maill001,"""Luke Maile""",0,8,2
+start,diaza003,"""Aledmys Diaz""",0,9,6
+start,estrm001,"""Marco Estrada""",0,0,1
+start,grosr001,"""Robbie Grossman""",1,1,9
+start,mauej001,"""Joe Mauer""",1,2,3
+start,keplm001,"""Max Kepler""",1,3,8
+start,escoe001,"""Eduardo Escobar""",1,4,5
+start,rosae001,"""Eddie Rosario""",1,5,7
+start,garvm001,"""Mitch Garver""",1,6,2
+start,morrl001,"""Logan Morrison""",1,7,10
+start,adrie001,"""Ehire Adrianza""",1,8,6
+start,petig001,"""Gregorio Petit""",1,9,4
+start,gibsk002,"""Kyle Gibson""",1,0,1
+sub,presr001,"""Ryan Pressly""",1,0,1
+sub,oh--s001,"""Seung Hwan Oh""",0,0,1
+sub,dukez001,"""Zach Duke""",1,0,1
+sub,axfoj001,"""John Axford""",0,0,1
+sub,lamar001,"""Ryan LaMarre""",1,1,8
+sub,keplm001,"""Max Kepler""",1,3,9
+sub,reeda001,"""Addison Reed""",1,0,1
+sub,teper001,"""Ryan Tepera""",0,0,1
+play,9,0,diaza003,00,,NP
+sub,rodnf001,"""Fernando Rodney""",1,0,1
+play,9,0,diaza003,01,.SX,63/G
+play,9,0,granc001,22,CBCBFS,K
+play,9,0,hernt002,01,SX,S6/G
+play,9,0,smoaj001,10,1B>B,SB2
+play,9,0,smoaj001,31,1B>B.BCB,W
+play,9,0,solay001,01,CX,63/G
+sub,clipt001,"""Tyler Clippard""",0,0,1
+sub,dozib001,"""Brian Dozier""",1,8,11
+play,10,0,pillk001,00,,NP
+sub,dozib001,"""Brian Dozier""",1,8,4
+play,10,0,pillk001,00,,NP
+sub,petig001,"""Gregorio Petit""",1,9,6
+play,10,0,pillk001,00,,NP
+sub,curtj003,"""John Curtiss""",1,0,1
+play,10,0,pillk001,10,...BX,D9/L
+play,10,0,gurrl001,32,BFSBFB2FFS,K
+play,10,0,morak001,30,VVVV,IW
+play,10,0,maill001,00,>B,SB3
+play,10,0,maill001,10,>B.>B,SB2
+play,10,0,maill001,31,>B.>B.BFB,W
+play,10,0,diaza003,00,.B,WP.3-H(NR);2-3;1-2
+play,10,0,diaza003,00,,NP
+sub,ngoeg001,"""Gift Ngoepe""",0,7,12
+play,10,0,diaza003,10,.B..X,S5/G.3-H;2-3
+play,10,0,granc001,00,B,WP.3-H(NR);1-2
+play,10,0,granc001,10,B,NP
+sub,magim001,"""Matt Magill""",1,0,1
+play,10,0,granc001,10,B..X,8/F.2-3
+play,10,0,hernt002,20,BBX,9/F3F
+sub,osunr001,"""Roberto Osuna""",0,0,1
