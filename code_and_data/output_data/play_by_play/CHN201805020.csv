@@ -1,0 +1,42 @@
+id,CHN201805020
+info,visteam,COL
+info,hometeam,CHN
+info,date,2018/05/02
+info,starttime,1:20PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,dahld001,"""David Dahl""",0,2,9
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,stort001,"""Trevor Story""",0,4,6
+start,parrg001,"""Gerardo Parra""",0,5,7
+start,iannc001,"""Chris Iannetta""",0,6,2
+start,castd001,"""Daniel Castro""",0,7,4
+start,valap001,"""Pat Valaika""",0,8,3
+start,andet002,"""Tyler Anderson""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,baezj001,"""Javier Baez""",1,2,4
+start,bryak001,"""Kris Bryant""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,contw001,"""Willson Contreras""",1,5,2
+start,zobrb001,"""Ben Zobrist""",1,6,7
+start,russa002,"""Addison Russell""",1,7,6
+start,heywj001,"""Jason Heyward""",1,8,9
+start,darvy001,"""Yu Darvish""",1,9,1
+play,3,0,stort001,22,CBFBX,4/P
+play,3,0,parrg001,11,CBX,D9/L+
+play,3,0,iannc001,11,BF>B,SB3
+play,3,0,iannc001,31,BF>B.*BB,W
+play,3,0,castd001,10,B+1X,53/G.3-H;1-2
+play,3,0,valap001,32,BBBCFFS,K
+sub,duenb001,"""Brian Duensing""",1,9,1
+sub,happi001,"""Ian Happ""",1,9,11
+sub,montm002,"""Mike Montgomery""",1,9,1
+sub,cuevn001,"""Noel Cuevas""",0,9,11
+sub,baezj001,"""Javier Baez""",1,2,6
+sub,contw001,"""Willson Contreras""",1,5,7
+sub,zobrb001,"""Ben Zobrist""",1,6,4
+sub,carav001,"""Victor Caratini""",1,9,2
+sub,farrl001,"""Luke Farrell""",1,7,1
+sub,dahld001,"""David Dahl""",0,2,7
+sub,cuevn001,"""Noel Cuevas""",0,9,9
+sub,mcgej001,"""Jake McGee""",0,5,1
+sub,musgh001,"""Harrison Musgrave""",0,5,1

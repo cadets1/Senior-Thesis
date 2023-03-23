@@ -1,0 +1,58 @@
+id,CHN201808150
+info,visteam,MIL
+info,hometeam,CHN
+info,date,2018/08/15
+info,starttime,1:21PM
+start,yelic001,"""Christian Yelich""",0,1,9
+start,cainl001,"""Lorenzo Cain""",0,2,8
+start,mousm001,"""Mike Moustakas""",0,3,5
+start,braur002,"""Ryan Braun""",0,4,7
+start,shawt001,"""Travis Shaw""",0,5,4
+start,schoj001,"""Jonathan Schoop""",0,6,6
+start,thame001,"""Eric Thames""",0,7,3
+start,pinam001,"""Manny Pina""",0,8,2
+start,guerj003,"""Junior Guerra""",0,9,1
+start,baezj001,"""Javier Baez""",1,1,4
+start,heywj001,"""Jason Heyward""",1,2,9
+start,boted002,"""David Bote""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,almoa002,"""Albert Almora""",1,5,8
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,contw001,"""Willson Contreras""",1,7,2
+start,hendk001,"""Kyle Hendricks""",1,8,1
+start,russa002,"""Addison Russell""",1,9,6
+play,4,1,contw001,11,CBX,S7/G
+play,4,1,hendk001,00,X,14/BG/SH.1-2
+play,4,1,russa002,00,X,S9/G.2-H
+play,4,1,baezj001,01,SB,WP.1-2
+play,4,1,baezj001,32,SB.FBB+2S,K
+play,4,1,heywj001,10,BX,S9/G.2-H
+play,4,1,boted002,01,CX,S8/F.1-3
+play,4,1,rizza001,00,,NP
+sub,jennd003,"""Dan Jennings""",0,9,1
+play,4,1,rizza001,22,.BBCFX,S8/F.3-H;1-3
+play,4,1,almoa002,02,CF>B,SB2
+play,4,1,almoa002,32,CF>B.FF*BBB,W
+play,4,1,schwk001,22,BBCSX,6(1)/FO/G
+sub,pereh001,"""Hernan Perez""",0,4,11
+sub,yelic001,"""Christian Yelich""",0,1,7
+sub,pereh001,"""Hernan Perez""",0,4,9
+sub,willt003,"""Taylor Williams""",0,9,1
+sub,aguij001,"""Jesus Aguilar""",0,9,3
+sub,burnc002,"""Corbin Burnes""",0,7,1
+sub,edwac001,"""Carl Edwards""",1,8,1
+sub,wilsj004,"""Justin Wilson""",1,8,1
+sub,cishs001,"""Steve Cishek""",1,8,1
+sub,krate001,"""Erik Kratz""",0,8,2
+sub,happi001,"""Ian Happ""",1,6,7
+sub,broxk001,"""Keon Broxton""",0,7,11
+play,8,1,baezj001,00,,NP
+sub,jeffj001,"""Jeremy Jeffress""",0,7,1
+play,8,1,baezj001,12,.FBSX,S63/G
+play,8,1,heywj001,00,X,363/G.1-2
+play,8,1,boted002,00,B,WP.2-3
+play,8,1,boted002,22,B.FF*BS,K
+play,8,1,rizza001,30,VVVV,IW
+play,8,1,almoa002,00,*B,SB2
+play,8,1,almoa002,21,*B.BFX,7/F
+sub,strop001,"""Pedro Strop""",1,8,1

@@ -1,0 +1,77 @@
+id,CHN201807080
+info,visteam,CIN
+info,hometeam,CHN
+info,date,2018/07/08
+info,starttime,1:22PM
+start,peraj003,"""Jose Peraza""",0,1,6
+start,barnt001,"""Tucker Barnhart""",0,2,2
+start,vottj001,"""Joey Votto""",0,3,3
+start,suare001,"""Eugenio Suarez""",0,4,5
+start,genns001,"""Scooter Gennett""",0,5,4
+start,duvaa001,"""Adam Duvall""",0,6,7
+start,winkj002,"""Jesse Winker""",0,7,9
+start,castl003,"""Luis Castillo""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,almoa002,"""Albert Almora""",1,1,8
+start,heywj001,"""Jason Heyward""",1,2,9
+start,baezj001,"""Javier Baez""",1,3,4
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,contw001,"""Willson Contreras""",1,5,2
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,happi001,"""Ian Happ""",1,7,5
+start,russa002,"""Addison Russell""",1,8,6
+start,lestj001,"""Jon Lester""",1,9,1
+play,3,0,winkj002,10,BX,31/G
+play,3,0,castl003,00,X,43/G
+play,3,0,hamib001,22,BFSBX,D7/L
+play,3,0,peraj003,11,BC>C,SB3
+play,3,0,peraj003,12,BC>C.X,S8/L+.3-H;BX2(84)
+play,5,0,winkj002,32,BBCBCFC,K
+play,5,0,castl003,00,,NP
+sub,lorem002,"""Michael Lorenzen""",0,8,11
+play,5,0,lorem002,01,.SX,63/G
+play,5,0,hamib001,31,BBBCB,W
+play,5,0,peraj003,01,C>B,SB2.1-H(E8)(E2/TH)(NR)
+play,5,0,peraj003,22,C>B.CBFX,S7/L
+play,5,0,barnt001,00,X,8/F
+sub,lorem002,"""Michael Lorenzen""",0,8,1
+sub,strop001,"""Pedro Strop""",1,9,1
+sub,zobrb001,"""Ben Zobrist""",1,9,11
+sub,crock001,"""Kyle Crockett""",0,8,1
+sub,hernd002,"""David Hernandez""",0,8,1
+play,8,0,peraj003,00,,NP
+sub,edwac001,"""Carl Edwards""",1,9,1
+play,8,0,peraj003,31,.CBBBB,W
+play,8,0,barnt001,00,1>S,SB2
+play,8,0,barnt001,01,1>S.X,FC1/BG.2X3(15)
+play,8,0,vottj001,00,,NP
+sub,herrd002,"""Dilson Herrera""",0,2,12
+play,8,0,vottj001,00,,NP
+sub,wilsj004,"""Justin Wilson""",1,9,1
+play,8,0,vottj001,22,..SBC1FBC,K
+play,8,0,suare001,00,,NP
+sub,cishs001,"""Steve Cishek""",1,9,1
+play,8,0,suare001,00,.H,HP.1-2
+play,8,0,genns001,11,CBX,9/F
+sub,casac001,"""Curt Casali""",0,2,2
+play,9,0,duvaa001,00,,NP
+sub,happi001,"""Ian Happ""",1,7,7
+play,9,0,duvaa001,00,,NP
+sub,boted002,"""David Bote""",1,9,5
+play,9,0,duvaa001,00,,NP
+sub,morrb001,"""Brandon Morrow""",1,6,1
+play,9,0,duvaa001,01,...CX,HR/78/F
+play,9,0,winkj002,12,CSBX,43/G+
+play,9,0,hernd002,00,,NP
+sub,sches001,"""Scott Schebler""",0,8,11
+play,9,0,sches001,22,.CSBBX,S7/G+
+play,9,0,hamib001,01,CX,7/F
+play,9,0,peraj003,10,B>S,SB2
+play,9,0,peraj003,22,B>S.CFBS,K
+sub,sches001,"""Scott Schebler""",0,8,9
+sub,hughj001,"""Jared Hughes""",0,7,1
+sub,carav001,"""Victor Caratini""",1,6,3
+sub,farrl001,"""Luke Farrell""",1,4,1
+sub,stepj002,"""Jackson Stephens""",0,7,1
+sub,hamib001,"""Billy Hamilton""",0,9,9
+sub,sches001,"""Scott Schebler""",0,8,8

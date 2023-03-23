@@ -1,0 +1,48 @@
+id,CHN201807040
+info,visteam,DET
+info,hometeam,CHN
+info,date,2018/07/04
+info,starttime,1:22PM
+start,mahtm001,"""Mikie Mahtook""",0,1,7
+start,castn001,"""Nick Castellanos""",0,2,9
+start,candj002,"""Jeimer Candelario""",0,3,5
+start,hickj001,"""John Hicks""",0,4,3
+start,goodn002,"""Niko Goodrum""",0,5,4
+start,jonej006,"""JaCoby Jones""",0,6,8
+start,mccaj001,"""James McCann""",0,7,2
+start,iglej001,"""Jose Iglesias""",0,8,6
+start,lirif001,"""Francisco Liriano""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,zobrb001,"""Ben Zobrist""",1,2,9
+start,baezj001,"""Javier Baez""",1,3,4
+start,russa002,"""Addison Russell""",1,4,6
+start,contw001,"""Willson Contreras""",1,5,2
+start,happi001,"""Ian Happ""",1,6,7
+start,boted002,"""David Bote""",1,7,5
+start,carav001,"""Victor Caratini""",1,8,3
+start,quinj001,"""Jose Quintana""",1,9,1
+play,4,1,baezj001,01,CX,S7/L+
+play,4,1,russa002,10,B11N,SB2.1-3(E3/TH)
+play,4,1,russa002,31,B11N.B*BFB,W
+play,4,1,contw001,22,BFFB1N,SBH
+play,4,1,contw001,22,BFFB1N.S,K
+play,4,1,happi001,01,CX,8/L
+play,4,1,boted002,02,CS>B,SB2
+play,4,1,boted002,22,CS>B.BFC,K
+play,5,0,lirif001,20,BBX,63/G+
+play,5,0,mahtm001,31,BBBCB,W
+play,5,0,castn001,21,BBC1,POCS2(134361)
+play,5,0,castn001,32,BBC1.BSFF*B,W
+play,5,0,candj002,00,X,4/P
+sub,rizza001,"""Anthony Rizzo""",1,9,11
+sub,rizza001,"""Anthony Rizzo""",1,9,3
+sub,bassa001,"""Anthony Bass""",1,8,1
+sub,martv001,"""Victor Martinez""",0,9,11
+sub,reyev001,"""Victor Reyes""",0,9,12
+sub,colel001,"""Louis Coleman""",0,9,1
+sub,zobrb001,"""Ben Zobrist""",1,2,7
+sub,heywj001,"""Jason Heyward""",1,8,9
+sub,farrl001,"""Luke Farrell""",1,6,1
+sub,lewia001,"""Artie Lewicki""",0,9,1
+sub,morrb001,"""Brandon Morrow""",1,6,1
+sub,adduj002,"""Jim Adduci""",0,9,11

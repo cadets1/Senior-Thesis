@@ -1,0 +1,67 @@
+id,CHN201809100
+info,visteam,MIL
+info,hometeam,CHN
+info,date,2018/09/10
+info,starttime,7:05PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,9
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,braur002,"""Ryan Braun""",0,4,7
+start,schoj001,"""Jonathan Schoop""",0,5,4
+start,mousm001,"""Mike Moustakas""",0,6,5
+start,krate001,"""Erik Kratz""",0,7,2
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,milew001,"""Wade Miley""",0,9,1
+start,murpd006,"""Daniel Murphy""",1,1,4
+start,bryak001,"""Kris Bryant""",1,2,7
+start,rizza001,"""Anthony Rizzo""",1,3,3
+start,baezj001,"""Javier Baez""",1,4,5
+start,zobrb001,"""Ben Zobrist""",1,5,9
+start,almoa002,"""Albert Almora""",1,6,8
+start,contw001,"""Willson Contreras""",1,7,2
+start,lestj001,"""Jon Lester""",1,8,1
+start,russa002,"""Addison Russell""",1,9,6
+play,1,0,cainl001,10,BX,S8/L
+play,1,0,yelic001,00,X,S9/G.1-2
+play,1,0,aguij001,12,C*BFS,K
+play,1,0,braur002,32,B*BCBFB,W.2-3;1-2
+play,1,0,schoj001,00,X,7/F/SF.3-H
+play,1,0,mousm001,00,>B,CS3(2654)
+play,6,0,braur002,02,FSX,53/G
+play,6,0,schoj001,22,BFSFBS,K
+play,6,0,mousm001,00,X,S8/L
+play,6,0,krate001,02,CFX,D9/L.1-3
+play,6,0,arcio002,00,,NP
+sub,edwac001,"""Carl Edwards""",1,8,1
+play,6,0,arcio002,00,.B,WP.3-H(NR);2-3
+play,6,0,arcio002,30,.B.BBB,W
+play,6,0,milew001,00,,NP
+sub,granc001,"""Curtis Granderson""",0,9,11
+play,6,0,granc001,02,.CCN,SB2
+play,6,0,granc001,12,.CCN.BS,K23
+sub,burnc002,"""Corbin Burnes""",0,9,1
+sub,chavj001,"""Jesse Chavez""",1,8,1
+sub,schwk001,"""Kyle Schwarber""",1,8,11
+sub,hadej001,"""Josh Hader""",0,9,1
+sub,boted002,"""David Bote""",1,8,11
+sub,cishs001,"""Steve Cishek""",1,8,1
+sub,wilsj004,"""Justin Wilson""",1,8,1
+sub,santd002,"""Domingo Santana""",0,9,11
+sub,kintb001,"""Brandon Kintzler""",1,8,1
+play,9,1,zobrb001,00,,NP
+sub,yelic001,"""Christian Yelich""",0,2,7
+play,9,1,zobrb001,00,,NP
+sub,broxk001,"""Keon Broxton""",0,3,9
+play,9,1,zobrb001,00,,NP
+sub,shawt001,"""Travis Shaw""",0,4,3
+play,9,1,zobrb001,00,,NP
+sub,jeffj001,"""Jeremy Jeffress""",0,9,1
+play,9,1,zobrb001,21,....BBCX,7/F
+play,9,1,almoa002,12,BSSFC,K
+play,9,1,contw001,31,BBBCB,W
+play,9,1,kintb001,00,,NP
+sub,goret001,"""Terrance Gore""",1,7,12
+play,9,1,kintb001,00,,NP
+sub,lastt001,"""Tommy La Stella""",1,8,11
+play,9,1,lastt001,11,..BC>C,SB2
+play,9,1,lastt001,12,..BC>C.FFS,K

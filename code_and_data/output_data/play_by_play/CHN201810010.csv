@@ -1,0 +1,61 @@
+id,CHN201810010
+info,visteam,MIL
+info,hometeam,CHN
+info,date,2018/10/01
+info,starttime,12:05PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,9
+start,braur002,"""Ryan Braun""",0,3,7
+start,aguij001,"""Jesus Aguilar""",0,4,3
+start,schoj001,"""Jonathan Schoop""",0,5,4
+start,mousm001,"""Mike Moustakas""",0,6,5
+start,krate001,"""Erik Kratz""",0,7,2
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,chacj001,"""Jhoulys Chacin""",0,9,1
+start,murpd006,"""Daniel Murphy""",1,1,4
+start,zobrb001,"""Ben Zobrist""",1,2,9
+start,baezj001,"""Javier Baez""",1,3,6
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,bryak001,"""Kris Bryant""",1,5,5
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,heywj001,"""Jason Heyward""",1,7,8
+start,quinj001,"""Jose Quintana""",1,8,1
+start,contw001,"""Willson Contreras""",1,9,2
+play,3,0,arcio002,32,CBBBFX,S8/L+
+play,3,0,chacj001,12,L11BCX,3/BG/SH.1-2
+play,3,0,cainl001,11,BCX,63/G.2-3
+play,3,0,yelic001,11,LBX,S8/G.3-H
+play,3,0,braur002,12,BFF*B,SB2
+play,3,0,braur002,22,BFF*B.S,K23
+sub,chavj001,"""Jesse Chavez""",1,6,1
+sub,happi001,"""Ian Happ""",1,8,8
+sub,zobrb001,"""Ben Zobrist""",1,2,7
+sub,heywj001,"""Jason Heyward""",1,7,9
+sub,cedex001,"""Xavier Cedeno""",0,9,1
+sub,sorij001,"""Joakim Soria""",0,9,1
+sub,knebc001,"""Corey Knebel""",0,9,1
+sub,lastt001,"""Tommy La Stella""",1,6,11
+play,8,0,arcio002,00,,NP
+sub,wilsj004,"""Justin Wilson""",1,6,1
+play,8,0,arcio002,02,.CSX,S8/G
+play,8,0,knebc001,00,,NP
+sub,santd002,"""Domingo Santana""",0,9,11
+play,8,0,santd002,31,.B*BF1BX,D7/G.1-3
+play,8,0,cainl001,00,,NP
+sub,cishs001,"""Steve Cishek""",1,6,1
+play,8,0,cainl001,32,.BBFBCX,S8/L.3-H;2-3
+play,8,0,yelic001,00,,NP
+sub,rosar002,"""Randy Rosario""",1,6,1
+play,8,0,yelic001,22,.FFFBBS,K
+play,8,0,braur002,00,,NP
+sub,kintb001,"""Brandon Kintzler""",1,6,1
+play,8,0,braur002,22,.B1CBS>X,S8/L.3-H;1-3
+play,8,0,aguij001,02,C1F>B,CS2(26)
+play,8,0,aguij001,32,C1F>B.BBFFX,7/F
+sub,shawt001,"""Travis Shaw""",0,9,3
+sub,hadej001,"""Josh Hader""",0,4,1
+sub,almoa002,"""Albert Almora""",1,8,11
+sub,almoa002,"""Albert Almora""",1,8,8
+sub,garcj004,"""Jaime Garcia""",1,6,1
+sub,yelic001,"""Christian Yelich""",0,2,7
+sub,broxk001,"""Keon Broxton""",0,3,9

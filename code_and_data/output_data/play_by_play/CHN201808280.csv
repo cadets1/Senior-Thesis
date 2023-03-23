@@ -1,0 +1,54 @@
+id,CHN201808280
+info,visteam,NYN
+info,hometeam,CHN
+info,date,2018/08/28
+info,starttime,7:04PM
+start,rosaa003,"""Amed Rosario""",0,1,6
+start,mcnej002,"""Jeff McNeil""",0,2,4
+start,jacka001,"""Austin Jackson""",0,3,8
+start,confm001,"""Michael Conforto""",0,4,7
+start,frazt001,"""Todd Frazier""",0,5,5
+start,brucj001,"""Jay Bruce""",0,6,3
+start,plawk001,"""Kevin Plawecki""",0,7,2
+start,nimmb001,"""Brandon Nimmo""",0,8,9
+start,degrj001,"""Jacob deGrom""",0,9,1
+start,murpd006,"""Daniel Murphy""",1,1,4
+start,rizza001,"""Anthony Rizzo""",1,2,3
+start,heywj001,"""Jason Heyward""",1,3,9
+start,baezj001,"""Javier Baez""",1,4,6
+start,carav001,"""Victor Caratini""",1,5,2
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,almoa002,"""Albert Almora""",1,7,8
+start,hamec001,"""Cole Hamels""",1,8,1
+start,boted002,"""David Bote""",1,9,5
+play,3,0,degrj001,12,BCCFX,5/L7LF
+play,3,0,rosaa003,22,BSFBX,S8/L+
+play,3,0,mcnej002,01,S11X,E4/FO/G+.1-2
+play,3,0,jacka001,20,BB>B,CS3(25).1-2
+play,3,0,jacka001,30,BB>B.B,W
+play,3,0,confm001,32,CCBBB>S,K
+sub,lastt001,"""Tommy La Stella""",1,8,11
+sub,kintb001,"""Brandon Kintzler""",1,8,1
+sub,delaj001,"""Jorge de la Rosa""",1,8,1
+play,7,0,mcnej002,22,CBSFBFFFFX,T9/L+
+play,7,0,jacka001,11,SBX,6/L
+play,7,0,confm001,31,BBFBX,3/L+
+play,7,0,frazt001,30,VVVV,IW
+play,7,0,brucj001,00,>B,SB2
+play,7,0,brucj001,22,>B.CBFC,K
+sub,zobrb001,"""Ben Zobrist""",1,8,11
+sub,zobrb001,"""Ben Zobrist""",1,8,4
+sub,edwac001,"""Carl Edwards""",1,1,1
+sub,strop001,"""Pedro Strop""",1,1,1
+sub,lugos001,"""Seth Lugo""",0,9,1
+play,10,0,confm001,00,,NP
+sub,cishs001,"""Steve Cishek""",1,1,1
+play,10,0,confm001,32,.BBBCFB,W
+play,10,0,frazt001,12,BFCS,K
+play,10,0,brucj001,32,BBSTB>C,K+CS2(26)/DP
+sub,blevj001,"""Jerry Blevins""",0,9,1
+sub,contw001,"""Willson Contreras""",1,1,11
+sub,chavj001,"""Jesse Chavez""",1,1,1
+sub,florw001,"""Wilmer Flores""",0,9,11
+sub,sewap001,"""Paul Sewald""",0,9,1
+sub,zamod001,"""Daniel Zamora""",0,9,1

@@ -1,0 +1,53 @@
+id,CHN201805130
+info,visteam,CHA
+info,hometeam,CHN
+info,date,2018/05/13
+info,starttime,1:20PM
+start,engea001,"""Adam Engel""",0,1,8
+start,sancc001,"""Yolmer Sanchez""",0,2,4
+start,abrej003,"""Jose Abreu""",0,3,3
+start,delmn001,"""Nicky Delmonico""",0,4,7
+start,davim005,"""Matt Davidson""",0,5,5
+start,palkd001,"""Daniel Palka""",0,6,9
+start,andet001,"""Tim Anderson""",0,7,6
+start,narvo001,"""Omar Narvaez""",0,8,2
+start,gioll001,"""Lucas Giolito""",0,9,1
+start,zobrb001,"""Ben Zobrist""",1,1,9
+start,bryak001,"""Kris Bryant""",1,2,5
+start,rizza001,"""Anthony Rizzo""",1,3,3
+start,contw001,"""Willson Contreras""",1,4,2
+start,baezj001,"""Javier Baez""",1,5,4
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,russa002,"""Addison Russell""",1,7,6
+start,happi001,"""Ian Happ""",1,8,8
+start,hendk001,"""Kyle Hendricks""",1,9,1
+play,1,1,zobrb001,30,BBB*B,W
+play,1,1,bryak001,02,CTX,8/F
+play,1,1,rizza001,10,BB,WP.1-2
+play,1,1,rizza001,20,BB.B,WP.2-3
+play,1,1,rizza001,30,BB.B.B,W
+play,1,1,contw001,11,BF>B,SB2
+play,1,1,contw001,22,BF>B.CX,FC3/G.3XH(32);2-3
+play,1,1,baezj001,00,>B,SB2
+play,1,1,baezj001,30,>B.BBX,S7/L+.3-H;2-H
+play,1,1,schwk001,30,1BBBB,W.1-2
+play,1,1,russa002,01,S>C,SB3;SB2
+play,1,1,russa002,02,S>C.C,K
+play,4,1,schwk001,30,BBBB,W
+play,4,1,russa002,10,B>C,SB2
+play,4,1,russa002,32,B>C.2B*BCB,W
+play,4,1,happi001,10,BX,D8/F+.2-H;1-3
+play,4,1,hendk001,01,SX,FC5/G.3XH(52)
+play,4,1,zobrb001,11,BCX,46(1)3/GDP
+sub,zagum002,"""Mark Zagunis""",1,9,11
+sub,garcl004,"""Leury Garcia""",0,9,9
+sub,fry-j001,"""Jace Fry""",0,6,1
+sub,duenb001,"""Brian Duensing""",1,9,1
+sub,cishs001,"""Steve Cishek""",1,9,1
+sub,jonen001,"""Nate Jones""",0,6,1
+sub,montm002,"""Mike Montgomery""",1,9,1
+sub,rondj002,"""Jose Rondon""",0,6,11
+sub,thomt002,"""Trayce Thompson""",0,4,9
+sub,garcl004,"""Leury Garcia""",0,9,7
+sub,rondb001,"""Bruce Rondon""",0,6,1
+sub,lastt001,"""Tommy La Stella""",1,9,11

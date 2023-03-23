@@ -1,0 +1,48 @@
+id,CHN201807060
+info,visteam,CIN
+info,hometeam,CHN
+info,date,2018/07/06
+info,starttime,1:21PM
+start,peraj003,"""Jose Peraza""",0,1,6
+start,genns001,"""Scooter Gennett""",0,2,4
+start,vottj001,"""Joey Votto""",0,3,3
+start,suare001,"""Eugenio Suarez""",0,4,5
+start,duvaa001,"""Adam Duvall""",0,5,7
+start,sches001,"""Scott Schebler""",0,6,9
+start,casac001,"""Curt Casali""",0,7,2
+start,mahlt001,"""Tyler Mahle""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,almoa002,"""Albert Almora""",1,1,8
+start,heywj001,"""Jason Heyward""",1,2,9
+start,baezj001,"""Javier Baez""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,zobrb001,"""Ben Zobrist""",1,5,4
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,contw001,"""Willson Contreras""",1,7,2
+start,russa002,"""Addison Russell""",1,8,6
+start,montm002,"""Mike Montgomery""",1,9,1
+play,1,0,peraj003,21,CBBX,S56/G
+play,1,0,genns001,31,B1BBCX,7/F
+play,1,0,vottj001,10,B11>B,SB2
+play,1,0,vottj001,32,B11>B.*BCCFX,43/G.2-3
+play,1,0,suare001,22,FBBCX,7/F
+play,3,0,mahlt001,12,CBFC,K
+play,3,0,hamib001,32,FSBBBX,S7/L
+play,3,0,peraj003,01,C111,POCS2(134)
+play,3,0,peraj003,01,C111.X,53/G
+play,4,1,baezj001,00,X,43/G
+play,4,1,rizza001,32,CBBBCFFFX,53/G
+play,4,1,zobrb001,31,BBCBB,W
+play,4,1,schwk001,12,FBF>B,SB2
+play,4,1,schwk001,22,FBF>B.S,K23
+sub,lastt001,"""Tommy La Stella""",1,9,11
+sub,rosar002,"""Randy Rosario""",1,9,1
+sub,edwac001,"""Carl Edwards""",1,9,1
+sub,happi001,"""Ian Happ""",1,9,11
+sub,lorem002,"""Michael Lorenzen""",0,8,1
+sub,happi001,"""Ian Happ""",1,9,8
+sub,farrl001,"""Luke Farrell""",1,1,1
+sub,crock001,"""Kyle Crockett""",0,8,1
+sub,igler001,"""Raisel Iglesias""",0,8,1
+sub,wilsj004,"""Justin Wilson""",1,1,1
+sub,carav001,"""Victor Caratini""",1,1,11

@@ -1,0 +1,41 @@
+id,CHN201804120
+info,visteam,PIT
+info,hometeam,CHN
+info,date,2018/04/12
+info,starttime,1:22PM
+start,fraza001,"""Adam Frazier""",0,1,4
+start,polag001,"""Gregory Polanco""",0,2,9
+start,marts002,"""Starling Marte""",0,3,8
+start,bellj005,"""Josh Bell""",0,4,3
+start,dickc002,"""Corey Dickerson""",0,5,7
+start,cervf001,"""Francisco Cervelli""",0,6,2
+start,morac001,"""Colin Moran""",0,7,5
+start,mercj002,"""Jordy Mercer""",0,8,6
+start,willt002,"""Trevor Williams""",0,9,1
+start,happi001,"""Ian Happ""",1,1,8
+start,bryak001,"""Kris Bryant""",1,2,5
+start,zobrb001,"""Ben Zobrist""",1,3,3
+start,schwk001,"""Kyle Schwarber""",1,4,7
+start,russa002,"""Addison Russell""",1,5,6
+start,carav001,"""Victor Caratini""",1,6,2
+start,baezj001,"""Javier Baez""",1,7,4
+start,heywj001,"""Jason Heyward""",1,8,9
+start,hendk001,"""Kyle Hendricks""",1,9,1
+play,6,0,dickc002,00,X,E5/G
+play,6,0,cervf001,00,>C,SB2
+play,6,0,cervf001,32,>C.F*BBBX,63/G
+play,6,0,morac001,30,VVVV,IW
+play,6,0,mercj002,00,X,8/L+.2-3
+play,6,0,willt002,12,FBCS,K
+sub,wilsj004,"""Justin Wilson""",1,9,1
+sub,zobrb001,"""Ben Zobrist""",1,3,4
+sub,baezj001,"""Javier Baez""",1,7,6
+sub,navae001,"""Efren Navarro""",1,9,3
+sub,cishs001,"""Steve Cishek""",1,5,1
+sub,freed001,"""David Freese""",0,9,11
+sub,felim001,"""Michael Feliz""",0,9,1
+sub,rodrs002,"""Sean Rodriguez""",0,9,4
+sub,kontg001,"""George Kontos""",0,1,1
+sub,lastt001,"""Tommy La Stella""",1,5,11
+sub,edwac001,"""Carl Edwards""",1,5,1
+sub,rivef001,"""Felipe Rivero""",0,1,1

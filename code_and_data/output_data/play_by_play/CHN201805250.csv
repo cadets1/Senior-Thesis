@@ -1,0 +1,52 @@
+id,CHN201805250
+info,visteam,SFN
+info,hometeam,CHN
+info,date,2018/05/25
+info,starttime,1:22PM
+start,herng001,"""Gorkys Hernandez""",0,1,8
+start,mccua001,"""Andrew McCutchen""",0,2,9
+start,poseb001,"""Buster Posey""",0,3,2
+start,beltb001,"""Brandon Belt""",0,4,3
+start,longe001,"""Evan Longoria""",0,5,5
+start,crawb001,"""Brandon Crawford""",0,6,6
+start,willm008,"""Mac Williamson""",0,7,7
+start,tomlk001,"""Kelby Tomlinson""",0,8,4
+start,holld003,"""Derek Holland""",0,9,1
+start,zobrb001,"""Ben Zobrist""",1,1,9
+start,almoa002,"""Albert Almora""",1,2,8
+start,bryak001,"""Kris Bryant""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,contw001,"""Willson Contreras""",1,5,2
+start,baezj001,"""Javier Baez""",1,6,4
+start,happi001,"""Ian Happ""",1,7,7
+start,russa002,"""Addison Russell""",1,8,6
+start,hendk001,"""Kyle Hendricks""",1,9,1
+play,7,1,baezj001,22,CBBSH,HP
+play,7,1,happi001,22,1CBSB1>B,SB2
+play,7,1,happi001,32,1CBSB1>B.B,W
+play,7,1,russa002,00,,NP
+sub,smitw002,"""Will Smith""",0,9,1
+play,7,1,russa002,21,.BBCX,34/BG/SH.2-3;1-2
+play,7,1,hendk001,00,,NP
+sub,lastt001,"""Tommy La Stella""",1,9,11
+play,7,1,lastt001,30,.BBBB,W
+play,7,1,zobrb001,00,X,D7/L.3-H;2-H;1-3
+play,7,1,almoa002,00,,NP
+sub,gearc001,"""Cory Gearrin""",0,9,1
+play,7,1,almoa002,02,.CFS,K
+play,7,1,bryak001,01,CX,S8/L.3-H;2-H
+play,7,1,rizza001,32,1B1F*BBF>B,W.1-2
+play,7,1,contw001,22,CCBBX,4/P
+sub,heywj001,"""Jason Heyward""",1,9,9
+sub,edwac001,"""Carl Edwards""",1,1,1
+sub,blang001,"""Gregor Blanco""",0,9,11
+play,8,1,baezj001,00,,NP
+sub,strih001,"""Hunter Strickland""",0,9,1
+play,8,1,baezj001,11,.SBX,63/G
+play,8,1,happi001,31,BBCBB,W
+play,8,1,russa002,11,BC>B,SB2
+play,8,1,russa002,31,BC>B.BX,S8/G.2-H
+play,8,1,heywj001,11,C*BX,16(1)3/GDP
+sub,strop001,"""Pedro Strop""",1,1,1
+sub,duenb001,"""Brian Duensing""",1,1,1
+sub,morrb001,"""Brandon Morrow""",1,1,1

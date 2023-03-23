@@ -1,0 +1,52 @@
+id,CHN201804110
+info,visteam,PIT
+info,hometeam,CHN
+info,date,2018/04/11
+info,starttime,7:08PM
+start,harrj002,"""Josh Harrison""",0,1,4
+start,mercj002,"""Jordy Mercer""",0,2,6
+start,marts002,"""Starling Marte""",0,3,8
+start,bellj005,"""Josh Bell""",0,4,3
+start,cervf001,"""Francisco Cervelli""",0,5,2
+start,freed001,"""David Freese""",0,6,5
+start,polag001,"""Gregory Polanco""",0,7,9
+start,rodrs002,"""Sean Rodriguez""",0,8,7
+start,braus002,"""Steven Brault""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,bryak001,"""Kris Bryant""",1,2,5
+start,contw001,"""Willson Contreras""",1,3,2
+start,zobrb001,"""Ben Zobrist""",1,4,7
+start,russa002,"""Addison Russell""",1,5,6
+start,carav001,"""Victor Caratini""",1,6,3
+start,baezj001,"""Javier Baez""",1,7,4
+start,heywj001,"""Jason Heyward""",1,8,9
+start,lestj001,"""Jon Lester""",1,9,1
+play,1,0,harrj002,02,CSX,7/F
+play,1,0,mercj002,01,CX,13/G
+play,1,0,marts002,31,BBBF*B,W
+play,1,0,bellj005,12,CBC>B,SB2
+play,1,0,bellj005,22,CBC>B.X,3/G-
+sub,duenb001,"""Brian Duensing""",1,9,1
+play,6,1,baezj001,00,,NP
+sub,glast001,"""Tyler Glasnow""",0,9,1
+play,6,1,baezj001,22,.BBTFS,K+WP.B-1
+play,6,1,heywj001,02,CFX,31/G.1-2
+play,6,1,duenb001,00,,NP
+sub,lastt001,"""Tommy La Stella""",1,9,11
+play,6,1,lastt001,00,.>C,SB3
+play,6,1,lastt001,12,.>C.SBX,FC4/G.3-H
+play,6,1,almoa002,02,CSX,S8/L.1-2
+play,6,1,bryak001,22,*BFFF*BX,D8/L+.2-H;1-3
+play,6,1,contw001,22,*B*BCCFC,K
+play,6,1,zobrb001,00,X,S8/L+.3-H;2-H
+play,6,1,russa002,00,,NP
+sub,smokj001,"""Josh Smoker""",0,9,1
+play,6,1,russa002,10,.BX,8/F
+sub,strop001,"""Pedro Strop""",1,9,1
+sub,happi001,"""Ian Happ""",1,9,11
+sub,happi001,"""Ian Happ""",1,9,8
+sub,butle001,"""Eddie Butler""",1,1,1
+sub,diaze005,"""Elias Diaz""",0,5,11
+sub,diaze005,"""Elias Diaz""",0,5,2
+sub,neved001,"""Dovydas Neverauskas""",0,9,1
+sub,fraza001,"""Adam Frazier""",0,9,11

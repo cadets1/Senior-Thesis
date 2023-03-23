@@ -1,0 +1,47 @@
+id,CHN201807260
+info,visteam,ARI
+info,hometeam,CHN
+info,date,2018/07/26
+info,starttime,1:21PM
+start,perad001,"""David Peralta""",0,1,7
+start,goldp001,"""Paul Goldschmidt""",0,2,3
+start,polla001,"""A.J. Pollock""",0,3,8
+start,souzs001,"""Steven Souza""",0,4,9
+start,lambj001,"""Jake Lamb""",0,5,5
+start,descd001,"""Daniel Descalso""",0,6,4
+start,ahmen001,"""Nick Ahmed""",0,7,6
+start,avila001,"""Alex Avila""",0,8,2
+start,godlz001,"""Zack Godley""",0,9,1
+start,rizza001,"""Anthony Rizzo""",1,1,3
+start,almoa002,"""Albert Almora""",1,2,8
+start,heywj001,"""Jason Heyward""",1,3,9
+start,contw001,"""Willson Contreras""",1,4,2
+start,happi001,"""Ian Happ""",1,5,5
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,russa002,"""Addison Russell""",1,7,6
+start,chatt001,"""Tyler Chatwood""",1,8,1
+start,boted002,"""David Bote""",1,9,4
+sub,martk001,"""Ketel Marte""",0,5,11
+play,3,1,rizza001,00,,NP
+sub,martk001,"""Ketel Marte""",0,5,4
+play,3,1,rizza001,00,,NP
+sub,descd001,"""Daniel Descalso""",0,6,5
+play,3,1,rizza001,12,..CSBX,S8/L
+play,3,1,almoa002,12,MPMX,3/P
+play,3,1,heywj001,00,>B,CS2(26)
+play,3,1,heywj001,22,>B.BCCS,K
+sub,duenb001,"""Brian Duensing""",1,8,1
+sub,lastt001,"""Tommy La Stella""",1,8,11
+sub,chavj001,"""Jesse Chavez""",1,8,1
+sub,baezj001,"""Javier Baez""",1,8,11
+sub,hiray001,"""Yoshihisa Hirano""",0,9,1
+sub,baezj001,"""Javier Baez""",1,8,6
+sub,cishs001,"""Steve Cishek""",1,7,1
+sub,wilsj004,"""Justin Wilson""",1,7,1
+sub,owinc001,"""Chris Owings""",0,9,11
+sub,owinc001,"""Chris Owings""",0,9,5
+sub,brada001,"""Archie Bradley""",0,6,1
+sub,butle001,"""Eddie Butler""",1,7,1
+sub,jay-j001,"""Jon Jay""",0,6,11
+sub,boxbb001,"""Brad Boxberger""",0,6,1
+sub,zobrb001,"""Ben Zobrist""",1,7,11

@@ -1,0 +1,44 @@
+id,CHN201804190
+info,visteam,SLN
+info,hometeam,CHN
+info,date,2018/04/19
+info,starttime,1:20PM
+start,fowld001,"""Dexter Fowler""",0,1,9
+start,badeh001,"""Harrison Bader""",0,2,8
+start,carpm002,"""Matt Carpenter""",0,3,4
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,martj008,"""Jose Martinez""",0,5,3
+start,moliy001,"""Yadier Molina""",0,6,2
+start,gyorj001,"""Jedd Gyorko""",0,7,5
+start,dejop001,"""Paul DeJong""",0,8,6
+start,weavl001,"""Luke Weaver""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,baezj001,"""Javier Baez""",1,2,4
+start,bryak001,"""Kris Bryant""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,contw001,"""Willson Contreras""",1,5,2
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,russa002,"""Addison Russell""",1,7,6
+start,heywj001,"""Jason Heyward""",1,8,9
+start,lestj001,"""Jon Lester""",1,9,1
+play,1,0,fowld001,10,BX,7/L+
+play,1,0,badeh001,21,BBCH,HP
+play,1,0,carpm002,01,C>B,SB2.1-3(E2/TH)
+play,1,0,carpm002,32,C>B.S*BFBX,4/L
+play,1,0,ozunm001,01,SB,WP.3-H(NR)(UR)
+play,1,0,ozunm001,12,SB.SC,K
+sub,oneit001,"""Tyler O'Neill""",0,9,11
+sub,bowmm001,"""Matt Bowman""",0,9,1
+sub,wongk001,"""Kolten Wong""",0,9,4
+sub,gregl001,"""Luke Gregerson""",0,3,1
+sub,butle001,"""Eddie Butler""",1,9,1
+sub,penaf001,"""Francisco Pena""",0,6,11
+sub,cishs001,"""Steve Cishek""",1,9,1
+sub,phamt001,"""Tommy Pham""",0,3,11
+sub,penaf001,"""Francisco Pena""",0,6,2
+sub,hollg001,"""Greg Holland""",0,3,1
+sub,lastt001,"""Tommy La Stella""",1,9,11
+sub,edwac001,"""Carl Edwards""",1,9,1
+sub,leond003,"""Dominic Leone""",0,3,1
+sub,happi001,"""Ian Happ""",1,9,7
+sub,morrb001,"""Brandon Morrow""",1,6,1

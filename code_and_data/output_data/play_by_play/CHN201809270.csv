@@ -1,0 +1,55 @@
+id,CHN201809270
+info,visteam,PIT
+info,hometeam,CHN
+info,date,2018/09/27
+info,starttime,7:03PM
+start,reyep001,"""Pablo Reyes""",0,1,7
+start,marts002,"""Starling Marte""",0,2,8
+start,bellj005,"""Josh Bell""",0,3,3
+start,cervf001,"""Francisco Cervelli""",0,4,2
+start,osunj001,"""Jose Osuna""",0,5,9
+start,harrj002,"""Josh Harrison""",0,6,4
+start,morac001,"""Colin Moran""",0,7,5
+start,mercj002,"""Jordy Mercer""",0,8,6
+start,willt002,"""Trevor Williams""",0,9,1
+start,murpd006,"""Daniel Murphy""",1,1,4
+start,zobrb001,"""Ben Zobrist""",1,2,9
+start,rizza001,"""Anthony Rizzo""",1,3,3
+start,baezj001,"""Javier Baez""",1,4,6
+start,schwk001,"""Kyle Schwarber""",1,5,7
+start,happi001,"""Ian Happ""",1,6,8
+start,contw001,"""Willson Contreras""",1,7,2
+start,lestj001,"""Jon Lester""",1,8,1
+start,boted002,"""David Bote""",1,9,5
+play,3,0,marts002,11,BFX,53/G
+play,3,0,bellj005,32,BFSBFBB,W
+play,3,0,cervf001,32,FCBBB>F>S,K+SB2
+play,3,0,osunj001,10,BX,53/G
+play,4,1,happi001,32,BFFFBFBB,W
+play,4,1,contw001,00,1>S,CS2(24)
+play,4,1,contw001,01,1>S.X,D7/G
+play,4,1,lestj001,21,BCBX,S7/G.2XH(72)
+play,4,1,boted002,31,B*BBFB,W.1-2
+play,4,1,murpd006,10,BX,S8/L.2-H;1-3
+play,4,1,zobrb001,11,BFX,3/G+
+sub,neved001,"""Dovydas Neverauskas""",0,9,1
+sub,lastt001,"""Tommy La Stella""",1,8,11
+sub,cishs001,"""Steve Cishek""",1,8,1
+sub,kramk001,"""Kevin Kramer""",0,9,11
+sub,holmc001,"""Clay Holmes""",0,9,1
+sub,edwac001,"""Carl Edwards""",1,8,1
+play,8,1,schwk001,32,SBBBCX,31/G
+play,8,1,happi001,31,BBFBX,S8/L+
+play,8,1,contw001,00,,NP
+sub,goret001,"""Terrance Gore""",1,6,12
+play,8,1,contw001,00,.>B,SB2
+play,8,1,contw001,21,.>B.FB>X,43/G.2-3
+play,8,1,edwac001,00,,NP
+sub,heywj001,"""Jason Heyward""",1,8,11
+play,8,1,heywj001,22,.BCBSS,K
+sub,almoa002,"""Albert Almora""",1,1,8
+sub,zobrb001,"""Ben Zobrist""",1,2,4
+sub,goret001,"""Terrance Gore""",1,6,7
+sub,heywj001,"""Jason Heyward""",1,8,9
+sub,chavj001,"""Jesse Chavez""",1,5,1
+sub,fraza001,"""Adam Frazier""",0,9,11

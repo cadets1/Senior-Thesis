@@ -1,0 +1,47 @@
+id,CHN201805120
+info,visteam,CHA
+info,hometeam,CHN
+info,date,2018/05/12
+info,starttime,3:35PM
+start,engea001,"""Adam Engel""",0,1,8
+start,andet001,"""Tim Anderson""",0,2,6
+start,abrej003,"""Jose Abreu""",0,3,3
+start,davim005,"""Matt Davidson""",0,4,5
+start,castw002,"""Welington Castillo""",0,5,2
+start,rondj002,"""Jose Rondon""",0,6,4
+start,garcl004,"""Leury Garcia""",0,7,7
+start,thomt002,"""Trayce Thompson""",0,8,9
+start,shiej002,"""James Shields""",0,9,1
+start,baezj001,"""Javier Baez""",1,1,5
+start,bryak001,"""Kris Bryant""",1,2,9
+start,rizza001,"""Anthony Rizzo""",1,3,3
+start,contw001,"""Willson Contreras""",1,4,2
+start,schwk001,"""Kyle Schwarber""",1,5,7
+start,russa002,"""Addison Russell""",1,6,6
+start,almoa002,"""Albert Almora""",1,7,8
+start,boted002,"""David Bote""",1,8,4
+start,lestj001,"""Jon Lester""",1,9,1
+play,2,1,baezj001,01,FX,S3/G-
+play,2,1,bryak001,10,B1X,8/F
+play,2,1,rizza001,00,>B,SB2
+play,2,1,rizza001,31,>B.BCBB,W
+play,2,1,contw001,02,FFX,S8/G.2-H;1-2
+play,2,1,schwk001,22,BCFBX,46(1)/FO/G.2-3
+play,2,1,russa002,11,CBX,8/F
+sub,wilsj004,"""Justin Wilson""",1,9,1
+play,6,1,almoa002,00,X,3/P
+play,6,1,boted002,22,CCBBX,S6/G
+play,6,1,wilsj004,01,M>S,SB2
+play,6,1,wilsj004,02,M>S.S,K
+play,6,1,baezj001,12,FBSS,K
+sub,delmn001,"""Nicky Delmonico""",0,9,11
+sub,beckc002,"""Chris Beck""",0,9,1
+sub,bumma001,"""Aaron Bummer""",0,9,1
+sub,zagum002,"""Mark Zagunis""",1,9,11
+sub,edwac001,"""Carl Edwards""",1,9,1
+sub,montm002,"""Mike Montgomery""",1,9,1
+sub,rondb001,"""Bruce Rondon""",0,9,1
+sub,sancc001,"""Yolmer Sanchez""",0,9,11
+sub,zobrb001,"""Ben Zobrist""",1,9,7
+sub,morrb001,"""Brandon Morrow""",1,5,1
+sub,palkd001,"""Daniel Palka""",0,1,11

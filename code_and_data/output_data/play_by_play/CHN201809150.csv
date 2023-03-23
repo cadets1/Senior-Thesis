@@ -1,0 +1,48 @@
+id,CHN201809150
+info,visteam,CIN
+info,hometeam,CHN
+info,date,2018/09/15
+info,starttime,3:05PM
+start,hamib001,"""Billy Hamilton""",0,1,8
+start,peraj003,"""Jose Peraza""",0,2,6
+start,vottj001,"""Joey Votto""",0,3,3
+start,suare001,"""Eugenio Suarez""",0,4,5
+start,ervip001,"""Phillip Ervin""",0,5,7
+start,barnt001,"""Tucker Barnhart""",0,6,2
+start,herrd002,"""Dilson Herrera""",0,7,4
+start,dixob001,"""Brandon Dixon""",0,8,9
+start,reedc002,"""Cody Reed""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,bryak001,"""Kris Bryant""",1,2,9
+start,baezj001,"""Javier Baez""",1,3,4
+start,boted002,"""David Bote""",1,4,5
+start,russa002,"""Addison Russell""",1,5,6
+start,contw001,"""Willson Contreras""",1,6,2
+start,carav001,"""Victor Caratini""",1,7,3
+start,lestj001,"""Jon Lester""",1,8,1
+start,happi001,"""Ian Happ""",1,9,7
+play,1,0,hamib001,32,CFBFBBFFS,K
+play,1,0,peraj003,32,CBFBBX,S5/G-
+play,1,0,vottj001,22,FBCBF>B,SB2
+play,1,0,vottj001,32,FBCBF>B.FX,43/G.2-3
+play,1,0,suare001,01,CX,9/F
+play,6,0,reedc002,00,,NP
+sub,guerg001,"""Gabriel Guerrero""",0,9,11
+play,6,0,guerg001,10,.BX,8/F
+play,6,0,hamib001,32,BSBBSB,W
+play,6,0,peraj003,01,C>B,SB2
+play,6,0,peraj003,11,C>B.>C,CS3(25)
+play,6,0,peraj003,32,C>B.>C.BBFT,K
+sub,romas001,"""Sal Romano""",0,9,1
+sub,zobrb001,"""Ben Zobrist""",1,8,11
+sub,peraw002,"""Wandy Peralta""",0,9,1
+sub,wilsj004,"""Justin Wilson""",1,8,1
+sub,sches001,"""Scott Schebler""",0,8,11
+sub,casac001,"""Curt Casali""",0,9,11
+sub,sches001,"""Scott Schebler""",0,8,9
+sub,hughj001,"""Jared Hughes""",0,9,1
+sub,rizza001,"""Anthony Rizzo""",1,7,3
+sub,chavj001,"""Jesse Chavez""",1,8,1
+sub,genns001,"""Scooter Gennett""",0,1,11
+sub,rosar002,"""Randy Rosario""",1,8,1
+sub,cishs001,"""Steve Cishek""",1,8,1

@@ -1,0 +1,40 @@
+id,CHN201807030
+info,visteam,DET
+info,hometeam,CHN
+info,date,2018/07/03
+info,starttime,1:22PM
+start,mahtm001,"""Mikie Mahtook""",0,1,7
+start,castn001,"""Nick Castellanos""",0,2,9
+start,candj002,"""Jeimer Candelario""",0,3,5
+start,goodn002,"""Niko Goodrum""",0,4,4
+start,adduj002,"""Jim Adduci""",0,5,3
+start,jonej006,"""JaCoby Jones""",0,6,8
+start,mccaj001,"""James McCann""",0,7,2
+start,iglej001,"""Jose Iglesias""",0,8,6
+start,fulmm001,"""Michael Fulmer""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,heywj001,"""Jason Heyward""",1,2,9
+start,zobrb001,"""Ben Zobrist""",1,3,4
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,baezj001,"""Javier Baez""",1,5,5
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,contw001,"""Willson Contreras""",1,7,2
+start,russa002,"""Addison Russell""",1,8,6
+start,hendk001,"""Kyle Hendricks""",1,9,1
+sub,lastt001,"""Tommy La Stella""",1,9,11
+sub,bassa001,"""Anthony Bass""",1,9,1
+play,6,1,contw001,01,SX,13/BG
+play,6,1,russa002,12,BCSX,8/L
+play,6,1,bassa001,00,,NP
+sub,boted002,"""David Bote""",1,9,11
+play,6,1,boted002,31,.BSBBB,W
+play,6,1,almoa002,02,CS+1>B,CS2(24)
+sub,wilsj004,"""Justin Wilson""",1,9,1
+sub,reyev001,"""Victor Reyes""",0,9,11
+sub,stumd001,"""Daniel Stumpf""",0,9,1
+sub,wilsa001,"""Alex Wilson""",0,9,1
+sub,cishs001,"""Steve Cishek""",1,9,1
+sub,saupw001,"""Warwick Saupold""",0,9,1
+sub,happi001,"""Ian Happ""",1,9,11
+sub,happi001,"""Ian Happ""",1,9,7
+sub,strop001,"""Pedro Strop""",1,6,1

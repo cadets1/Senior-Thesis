@@ -1,0 +1,50 @@
+id,CHN201809110
+info,visteam,MIL
+info,hometeam,CHN
+info,date,2018/09/11
+info,starttime,7:06PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,9
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,braur002,"""Ryan Braun""",0,4,7
+start,schoj001,"""Jonathan Schoop""",0,5,4
+start,shawt001,"""Travis Shaw""",0,6,5
+start,krate001,"""Erik Kratz""",0,7,2
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,chacj001,"""Jhoulys Chacin""",0,9,1
+start,murpd006,"""Daniel Murphy""",1,1,4
+start,bryak001,"""Kris Bryant""",1,2,7
+start,rizza001,"""Anthony Rizzo""",1,3,3
+start,zobrb001,"""Ben Zobrist""",1,4,9
+start,baezj001,"""Javier Baez""",1,5,6
+start,lastt001,"""Tommy La Stella""",1,6,5
+start,carav001,"""Victor Caratini""",1,7,2
+start,quinj001,"""Jose Quintana""",1,8,1
+start,happi001,"""Ian Happ""",1,9,8
+play,2,1,zobrb001,22,BBSFX,E4/G
+play,2,1,baezj001,02,SS>B,SB2
+play,2,1,baezj001,32,SS>B.BFBB,W
+play,2,1,lastt001,12,CCBX,63/G-.2-3;1-2
+play,2,1,carav001,22,BBFFFFFF2,PO2(E1).3-H(NR)(UR);2-3
+play,2,1,carav001,22,BBFFFFFF2.FX,S49/L.3-H
+play,2,1,quinj001,00,X,24/BG/SH.1-2
+play,2,1,happi001,02,FSS,K
+sub,santd002,"""Domingo Santana""",0,9,11
+sub,cedex001,"""Xavier Cedeno""",0,9,1
+sub,pereh001,"""Hernan Perez""",0,7,11
+sub,pinam001,"""Manny Pina""",0,8,11
+sub,wilsj004,"""Justin Wilson""",1,8,1
+sub,pereh001,"""Hernan Perez""",0,7,6
+sub,pinam001,"""Manny Pina""",0,8,2
+sub,woodb005,"""Brandon Woodruff""",0,9,1
+sub,boted002,"""David Bote""",1,8,11
+sub,almoa002,"""Albert Almora""",1,6,8
+sub,boted002,"""David Bote""",1,8,5
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+sub,salat001,"""Tyler Saladino""",0,9,11
+sub,jennd003,"""Dan Jennings""",0,9,1
+sub,willt003,"""Taylor Williams""",0,9,1
+sub,guerj003,"""Junior Guerra""",0,9,1
+sub,baezj001,"""Javier Baez""",1,5,4
+sub,russa002,"""Addison Russell""",1,9,6
+sub,strop001,"""Pedro Strop""",1,1,1

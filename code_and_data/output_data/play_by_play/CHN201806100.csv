@@ -1,0 +1,38 @@
+id,CHN201806100
+info,visteam,PIT
+info,hometeam,CHN
+info,date,2018/06/10
+info,starttime,1:21PM
+start,harrj002,"""Josh Harrison""",0,1,4
+start,meada001,"""Austin Meadows""",0,2,8
+start,dickc002,"""Corey Dickerson""",0,3,7
+start,morac001,"""Colin Moran""",0,4,5
+start,diaze005,"""Elias Diaz""",0,5,2
+start,bellj005,"""Josh Bell""",0,6,3
+start,polag001,"""Gregory Polanco""",0,7,9
+start,mercj002,"""Jordy Mercer""",0,8,6
+start,novai001,"""Ivan Nova""",0,9,1
+start,baezj001,"""Javier Baez""",1,1,4
+start,heywj001,"""Jason Heyward""",1,2,9
+start,bryak001,"""Kris Bryant""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,happi001,"""Ian Happ""",1,5,8
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,russa002,"""Addison Russell""",1,7,6
+start,gimec001,"""Chris Gimenez""",1,8,2
+start,hendk001,"""Kyle Hendricks""",1,9,1
+play,3,0,mercj002,12,CFBFX,8/L
+play,3,0,novai001,12,CBCFC,K
+play,3,0,harrj002,31,CBBBX,S7/G
+play,3,0,meada001,21,C11B*BS,SB2
+play,3,0,meada001,32,C11B*BS.BS,K
+sub,lastt001,"""Tommy La Stella""",1,9,11
+sub,duenb001,"""Brian Duensing""",1,9,1
+sub,farrl001,"""Luke Farrell""",1,9,1
+sub,sante002,"""Edgar Santana""",0,9,1
+sub,zobrb001,"""Ben Zobrist""",1,9,11
+sub,mazzc001,"""Cory Mazzoni""",1,9,1
+sub,freed001,"""David Freese""",0,9,11
+sub,crick001,"""Kyle Crick""",0,9,1
+sub,rivef001,"""Felipe Rivero""",0,9,1
+sub,almoa002,"""Albert Almora""",1,6,11

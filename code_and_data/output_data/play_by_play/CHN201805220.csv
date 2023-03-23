@@ -1,0 +1,39 @@
+id,CHN201805220
+info,visteam,CLE
+info,hometeam,CHN
+info,date,2018/05/22
+info,starttime,6:08PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,alony001,"""Yonder Alonso""",0,4,3
+start,cabrm002,"""Melky Cabrera""",0,5,9
+start,kipnj001,"""Jason Kipnis""",0,6,4
+start,perer003,"""Roberto Perez""",0,7,2
+start,alleg002,"""Greg Allen""",0,8,8
+start,bauet001,"""Trevor Bauer""",0,9,1
+start,zobrb001,"""Ben Zobrist""",1,1,9
+start,almoa002,"""Albert Almora""",1,2,8
+start,bryak001,"""Kris Bryant""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,contw001,"""Willson Contreras""",1,5,2
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,baezj001,"""Javier Baez""",1,7,4
+start,russa002,"""Addison Russell""",1,8,6
+start,chatt001,"""Tyler Chatwood""",1,9,1
+play,2,1,schwk001,00,X,8/F+
+play,2,1,baezj001,11,BSX,S8/G
+play,2,1,russa002,32,BFBBC>S,K+SB2
+play,2,1,chatt001,21,BCBX,3/L
+sub,montm002,"""Mike Montgomery""",1,9,1
+sub,carav001,"""Victor Caratini""",1,9,11
+sub,hancj002,"""Justin Hancock""",1,9,1
+sub,gonze004,"""Erik Gonzalez""",0,9,11
+sub,gonze004,"""Erik Gonzalez""",0,9,5
+sub,drako001,"""Oliver Drake""",0,3,1
+sub,oterd001,"""Dan Otero""",0,3,1
+sub,milla002,"""Andrew Miller""",0,3,1
+sub,wilsj004,"""Justin Wilson""",1,9,1
+sub,davir003,"""Rajai Davis""",0,2,7
+sub,tomlj001,"""Josh Tomlin""",0,3,1
+sub,happi001,"""Ian Happ""",1,9,11

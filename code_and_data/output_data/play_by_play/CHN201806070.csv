@@ -1,0 +1,46 @@
+id,CHN201806070
+info,visteam,PHI
+info,hometeam,CHN
+info,date,2018/06/07
+info,starttime,1:22PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,herro001,"""Odubel Herrera""",0,2,8
+start,kings001,"""Scott Kingery""",0,3,6
+start,santc002,"""Carlos Santana""",0,4,3
+start,altha001,"""Aaron Altherr""",0,5,9
+start,cozed001,"""Dylan Cozens""",0,6,7
+start,knapa001,"""Andrew Knapp""",0,7,2
+start,crawj002,"""J.P. Crawford""",0,8,5
+start,piven001,"""Nick Pivetta""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,lastt001,"""Tommy La Stella""",1,2,4
+start,bryak001,"""Kris Bryant""",1,3,5
+start,rizza001,"""Anthony Rizzo""",1,4,3
+start,baezj001,"""Javier Baez""",1,5,6
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,happi001,"""Ian Happ""",1,7,9
+start,gimec001,"""Chris Gimenez""",1,8,2
+start,chatt001,"""Tyler Chatwood""",1,9,1
+sub,duenb001,"""Brian Duensing""",1,9,1
+sub,franm004,"""Maikel Franco""",0,8,11
+play,5,1,happi001,00,,NP
+sub,franm004,"""Maikel Franco""",0,8,5
+play,5,1,happi001,32,.BBCSBS,K
+play,5,1,gimec001,11,CBX,S1/G-.B-2(E1/TH)
+play,5,1,duenb001,32,BFBFBB,W
+play,5,1,almoa002,00,X,S7/G.2-3;1-2
+play,5,1,lastt001,01,CX,S7/G.3-H;2-3;1-2
+play,5,1,bryak001,11,BFX,S6/G.3-H;2-3;1-2
+play,5,1,rizza001,10,BX,7/L/SF.3-H;2-3(TH)
+play,5,1,baezj001,01,S>S,CSH(242)
+sub,valej006,"""Jesmuel Valentin""",0,9,11
+sub,cishs001,"""Steve Cishek""",1,9,1
+sub,garcl005,"""Luis Garcia""",0,9,1
+sub,wilsj004,"""Justin Wilson""",1,9,1
+sub,willn001,"""Nick Williams""",0,9,11
+sub,ramoe002,"""Edubray Ramos""",0,9,1
+sub,zobrb001,"""Ben Zobrist""",1,9,11
+sub,strop001,"""Pedro Strop""",1,9,1
+sub,morga001,"""Adam Morgan""",0,9,1
+sub,morrb001,"""Brandon Morrow""",1,9,1
+sub,alfaj002,"""Jorge Alfaro""",0,7,11

@@ -1,0 +1,45 @@
+id,CHN201804130
+info,visteam,ATL
+info,hometeam,CHN
+info,date,2018/04/13
+info,starttime,1:20PM
+start,incie001,"""Ender Inciarte""",0,1,8
+start,albio001,"""Ozzie Albies""",0,2,4
+start,freef001,"""Freddie Freeman""",0,3,3
+start,markn001,"""Nick Markakis""",0,4,9
+start,suzuk001,"""Kurt Suzuki""",0,5,2
+start,tuckp001,"""Preston Tucker""",0,6,7
+start,swand001,"""Dansby Swanson""",0,7,6
+start,flahr001,"""Ryan Flaherty""",0,8,5
+start,sanca004,"""Anibal Sanchez""",0,9,1
+start,happi001,"""Ian Happ""",1,1,8
+start,lastt001,"""Tommy La Stella""",1,2,5
+start,bryak001,"""Kris Bryant""",1,3,3
+start,contw001,"""Willson Contreras""",1,4,2
+start,schwk001,"""Kyle Schwarber""",1,5,7
+start,russa002,"""Addison Russell""",1,6,6
+start,baezj001,"""Javier Baez""",1,7,4
+start,heywj001,"""Jason Heyward""",1,8,9
+start,darvy001,"""Yu Darvish""",1,9,1
+sub,duenb001,"""Brian Duensing""",1,9,1
+sub,navae001,"""Efren Navarro""",1,9,11
+sub,strop001,"""Pedro Strop""",1,9,1
+play,7,0,tuckp001,00,,NP
+sub,montm002,"""Mike Montgomery""",1,9,1
+play,7,0,tuckp001,10,.BX,43/G
+play,7,0,swand001,12,CFFBFX,E5/G
+play,7,0,flahr001,00,1X,S4/G.1-3
+play,7,0,sanca004,00,,NP
+sub,adaml001,"""Lane Adams""",0,9,11
+play,7,0,adaml001,22,.SB*BT>B,CS2(24)
+play,7,0,adaml001,32,.SB*BT>B.B,W
+play,7,0,incie001,22,LB1F*BX,13/G
+sub,bourp001,"""Peter Bourjos""",0,6,7
+sub,frees001,"""Sam Freeman""",0,9,1
+sub,edwac001,"""Carl Edwards""",1,9,1
+sub,minta001,"""A.J. Minter""",0,9,1
+sub,zobrb001,"""Ben Zobrist""",1,9,11
+sub,bryak001,"""Kris Bryant""",1,3,5
+sub,zobrb001,"""Ben Zobrist""",1,9,3
+sub,morrb001,"""Brandon Morrow""",1,2,1
+sub,vizca001,"""Arodys Vizcaino""",0,9,1

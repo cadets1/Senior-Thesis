@@ -1,0 +1,53 @@
+id,CHN201809260
+info,visteam,PIT
+info,hometeam,CHN
+info,date,2018/09/26
+info,starttime,7:05PM
+start,fraza001,"""Adam Frazier""",0,1,4
+start,marts002,"""Starling Marte""",0,2,8
+start,osunj001,"""Jose Osuna""",0,3,3
+start,diaze005,"""Elias Diaz""",0,4,2
+start,dickc002,"""Corey Dickerson""",0,5,7
+start,reyep001,"""Pablo Reyes""",0,6,5
+start,luplj001,"""Jordan Luplow""",0,7,9
+start,newmk001,"""Kevin Newman""",0,8,6
+start,novai001,"""Ivan Nova""",0,9,1
+start,murpd006,"""Daniel Murphy""",1,1,4
+start,baezj001,"""Javier Baez""",1,2,6
+start,rizza001,"""Anthony Rizzo""",1,3,3
+start,heywj001,"""Jason Heyward""",1,4,8
+start,happi001,"""Ian Happ""",1,5,9
+start,schwk001,"""Kyle Schwarber""",1,6,7
+start,carav001,"""Victor Caratini""",1,7,2
+start,quinj001,"""Jose Quintana""",1,8,1
+start,boted002,"""David Bote""",1,9,5
+play,4,1,quinj001,22,SBCBFFX,53/G-
+play,4,1,boted002,21,BSBX,43/G
+play,4,1,murpd006,00,X,S7/L
+play,4,1,baezj001,00,>S,SB2
+play,4,1,baezj001,11,>S.*BX,S7/L.2-H
+play,4,1,rizza001,00,X,S4/G.1-2
+play,4,1,heywj001,01,CX,S9/G.2-H;1X3(95)
+sub,lavar001,"""Ryan Lavarnway""",0,9,11
+sub,andet003,"""Tanner Anderson""",0,9,1
+sub,lastt001,"""Tommy La Stella""",1,8,11
+sub,chavj001,"""Jesse Chavez""",1,8,1
+sub,felim001,"""Michael Feliz""",0,9,1
+sub,heywj001,"""Jason Heyward""",1,4,9
+sub,happi001,"""Ian Happ""",1,5,7
+sub,almoa002,"""Albert Almora""",1,8,8
+sub,edwac001,"""Carl Edwards""",1,6,1
+sub,morac001,"""Colin Moran""",0,9,11
+sub,cishs001,"""Steve Cishek""",1,6,1
+sub,bellj005,"""Josh Bell""",0,3,11
+sub,bellj005,"""Josh Bell""",0,3,3
+sub,braus002,"""Steven Brault""",0,9,1
+sub,freem002,"""Mike Freeman""",1,6,4
+sub,wilsj004,"""Justin Wilson""",1,1,1
+sub,cervf001,"""Francisco Cervelli""",0,9,11
+sub,kramk001,"""Kevin Kramer""",0,9,12
+sub,garcj004,"""Jaime Garcia""",1,1,1
+sub,crick001,"""Kyle Crick""",0,9,1
+sub,kintb001,"""Brandon Kintzler""",1,1,1
+sub,rodrr008,"""Richard Rodriguez""",0,9,1
+sub,goret001,"""Terrance Gore""",1,5,12

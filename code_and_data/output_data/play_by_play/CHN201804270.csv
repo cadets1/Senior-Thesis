@@ -1,0 +1,48 @@
+id,CHN201804270
+info,visteam,MIL
+info,hometeam,CHN
+info,date,2018/04/27
+info,starttime,1:20PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,7
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,shawt001,"""Travis Shaw""",0,4,5
+start,santd002,"""Domingo Santana""",0,5,9
+start,pereh001,"""Hernan Perez""",0,6,4
+start,sogae001,"""Eric Sogard""",0,7,6
+start,pinam001,"""Manny Pina""",0,8,2
+start,suteb001,"""Brent Suter""",0,9,1
+start,almoa002,"""Albert Almora""",1,1,8
+start,baezj001,"""Javier Baez""",1,2,4
+start,rizza001,"""Anthony Rizzo""",1,3,3
+start,contw001,"""Willson Contreras""",1,4,2
+start,boted002,"""David Bote""",1,5,5
+start,happi001,"""Ian Happ""",1,6,7
+start,russa002,"""Addison Russell""",1,7,6
+start,heywj001,"""Jason Heyward""",1,8,9
+start,darvy001,"""Yu Darvish""",1,9,1
+play,1,0,cainl001,00,X,E9/F.B-2
+play,1,0,yelic001,12,FSBFS,K
+play,1,0,aguij001,01,C>C,SB3
+play,1,0,aguij001,02,C>C.X,7/F/SF.3-H(UR)
+play,1,0,shawt001,22,CSBBFS,K
+play,1,1,almoa002,11,BFX,D7/L
+play,1,1,baezj001,32,CBBBCX,S7/L+.2-H
+play,1,1,rizza001,00,1>C,SB2
+play,1,1,rizza001,12,1>C.CFBX,S7/L.2-H
+play,1,1,contw001,22,BBFFF1FFX,8/F
+play,1,1,boted002,12,CBTX,64(1)/FO/G
+play,1,1,happi001,00,X,S9/L.1-2
+play,1,1,russa002,21,C*BB+2X,5(2)/FO/G.1-2
+sub,willt003,"""Taylor Williams""",0,9,1
+sub,cishs001,"""Steve Cishek""",1,9,1
+sub,braur002,"""Ryan Braun""",0,9,11
+sub,duenb001,"""Brian Duensing""",1,9,1
+sub,strop001,"""Pedro Strop""",1,9,1
+sub,braur002,"""Ryan Braun""",0,9,3
+sub,jennd003,"""Dan Jennings""",0,3,1
+sub,carav001,"""Victor Caratini""",1,9,11
+sub,jeffj001,"""Jeremy Jeffress""",0,3,1
+sub,edwac001,"""Carl Edwards""",1,9,1
+sub,drako001,"""Oliver Drake""",0,3,1
+sub,morrb001,"""Brandon Morrow""",1,9,1
