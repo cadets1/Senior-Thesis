@@ -1,0 +1,49 @@
+id,MIA201806290
+info,visteam,NYN
+info,hometeam,MIA
+info,date,2018/06/29
+info,starttime,7:12PM
+start,nimmb001,"""Brandon Nimmo""",0,1,8
+start,bautj002,"""Jose Bautista""",0,2,9
+start,cabra002,"""Asdrubal Cabrera""",0,3,4
+start,confm001,"""Michael Conforto""",0,4,7
+start,florw001,"""Wilmer Flores""",0,5,3
+start,frazt001,"""Todd Frazier""",0,6,5
+start,mesod001,"""Devin Mesoraco""",0,7,2
+start,rosaa003,"""Amed Rosario""",0,8,6
+start,oswac001,"""Corey Oswalt""",0,9,1
+start,dietd001,"""Derek Dietrich""",1,1,7
+start,andeb006,"""Brian Anderson""",1,2,9
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,bourj002,"""Justin Bour""",1,4,3
+start,casts001,"""Starlin Castro""",1,5,4
+start,riddj001,"""J.T. Riddle""",1,6,6
+start,rojam002,"""Miguel Rojas""",1,7,5
+start,brinl001,"""Lewis Brinson""",1,8,8
+start,alcas001,"""Sandy Alcantara""",1,9,1
+play,3,1,brinl001,00,X,HR/7/F
+play,3,1,alcas001,22,FBBCX,31/G
+play,3,1,dietd001,31,CBBBB,W
+play,3,1,andeb006,32,CB>F*B1FB>X,S8/G.1-3
+play,3,1,realj001,20,B*BX,S7/G.3-H;1-2
+play,3,1,bourj002,32,BCBBFS,K
+play,3,1,casts001,01,CX,S8/G.2-H;1-3
+play,3,1,riddj001,01,F>C,SB2
+play,3,1,riddj001,12,F>C.BFX,HR/9/F.3-H;2-H
+play,3,1,rojam002,00,,NP
+sub,beckc002,"""Chris Beck""",0,9,1
+play,3,1,rojam002,11,.CBX,53/G
+sub,smitd008,"""Dominic Smith""",0,9,11
+sub,basht001,"""Tyler Bashlor""",0,9,1
+sub,rucid001,"""Drew Rucinski""",1,9,1
+sub,maybc001,"""Cameron Maybin""",1,9,11
+sub,plawk001,"""Kevin Plawecki""",0,9,2
+sub,blevj001,"""Jerry Blevins""",0,7,1
+sub,maybc001,"""Cameron Maybin""",1,9,7
+sub,meyeb002,"""Ben Meyer""",1,1,1
+sub,ziegb001,"""Brad Ziegler""",1,1,1
+sub,reyej001,"""Jose Reyes""",0,7,11
+sub,smitd009,"""Drew Smith""",0,7,1
+sub,rivey001,"""Yadiel Rivera""",1,1,5
+sub,rojam002,"""Miguel Rojas""",1,7,3
+sub,barrk002,"""Kyle Barraclough""",1,4,1

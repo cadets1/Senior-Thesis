@@ -1,0 +1,53 @@
+id,MIA201809180
+info,visteam,WAS
+info,hometeam,MIA
+info,date,2018/09/18
+info,starttime,7:10PM
+start,eatoa002,"""Adam Eaton""",0,1,9
+start,turnt001,"""Trea Turner""",0,2,6
+start,harpb003,"""Bryce Harper""",0,3,8
+start,renda001,"""Anthony Rendon""",0,4,5
+start,sotoj001,"""Juan Soto""",0,5,7
+start,zimmr001,"""Ryan Zimmerman""",0,6,3
+start,wietm001,"""Matt Wieters""",0,7,2
+start,difow001,"""Wilmer Difo""",0,8,4
+start,stras001,"""Stephen Strasburg""",0,9,1
+start,riddj001,"""J.T. Riddle""",1,1,6
+start,rojam002,"""Miguel Rojas""",1,2,4
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,obrip002,"""Peter O'Brien""",1,4,3
+start,andeb006,"""Brian Anderson""",1,5,5
+start,brinl001,"""Lewis Brinson""",1,6,8
+start,deana001,"""Austin Dean""",1,7,7
+start,sierm002,"""Magneuris Sierra""",1,8,9
+start,alcas001,"""Sandy Alcantara""",1,9,1
+play,3,0,zimmr001,02,CCX,8/F
+play,3,0,wietm001,10,BX,8/F
+play,3,0,difow001,31,CBBBB,W
+play,3,0,stras001,02,1TC>B,CS2(26)
+sub,guert001,"""Tayron Guerrero""",1,9,1
+sub,orter001,"""Rafael Ortega""",1,9,11
+play,6,0,stras001,00,,NP
+sub,kinlt001,"""Tyler Kinley""",1,9,1
+play,6,0,stras001,02,.CFC,K
+play,6,0,eatoa002,00,X,13/G
+play,6,0,turnt001,12,CCBH,HP
+play,6,0,harpb003,00,>S,SB2
+play,6,0,harpb003,32,>S.BCB*BB,W
+play,6,0,renda001,11,BFX,S9/G.2-H;1-3;B-2(E5)
+play,6,0,sotoj001,02,FFFC,K
+sub,rucid001,"""Drew Rucinski""",1,9,1
+sub,steva001,"""Andrew Stevenson""",0,9,11
+sub,gracm003,"""Matt Grace""",0,9,1
+sub,galli001,"""Isaac Galloway""",1,9,11
+sub,millj006,"""Justin Miller""",0,9,1
+sub,galli001,"""Isaac Galloway""",1,9,9
+sub,garcj006,"""Jarlin Garcia""",1,8,1
+sub,roblv001,"""Victor Robles""",0,1,11
+sub,guerj002,"""Javy Guerra""",1,8,1
+sub,roblv001,"""Victor Robles""",0,1,8
+sub,harpb003,"""Bryce Harper""",0,3,9
+sub,hollg001,"""Greg Holland""",0,9,1
+sub,reynm001,"""Mark Reynolds""",0,9,11
+sub,dools001,"""Sean Doolittle""",0,9,1
+sub,casts001,"""Starlin Castro""",1,8,11

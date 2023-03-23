@@ -1,0 +1,41 @@
+id,MIA201804290
+info,visteam,COL
+info,hometeam,MIA
+info,date,2018/04/29
+info,starttime,1:10PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,desmi001,"""Ian Desmond""",0,2,3
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,stort001,"""Trevor Story""",0,4,6
+start,dahld001,"""David Dahl""",0,5,7
+start,cuevn001,"""Noel Cuevas""",0,6,9
+start,valap001,"""Pat Valaika""",0,7,4
+start,woltt001,"""Tony Wolters""",0,8,2
+start,bettc001,"""Chad Bettis""",0,9,1
+start,realj001,"""J.T. Realmuto""",1,1,3
+start,dietd001,"""Derek Dietrich""",1,2,7
+start,casts001,"""Starlin Castro""",1,3,4
+start,andeb006,"""Brian Anderson""",1,4,5
+start,maybc001,"""Cameron Maybin""",1,5,9
+start,rojam002,"""Miguel Rojas""",1,6,6
+start,brinl001,"""Lewis Brinson""",1,7,8
+start,holab001,"""Bryan Holaday""",1,8,2
+start,smitc006,"""Caleb Smith""",1,9,1
+play,1,0,blacc001,31,BBBCX,7/F
+play,1,0,desmi001,02,TFFX,S7/G
+play,1,0,arenn001,22,BSS1FBS,K
+play,1,0,stort001,11,BS>B,CS2(24)
+play,7,1,maybc001,32,BCBCB*B,W
+play,7,1,rojam002,12,11CSB1C,K
+play,7,1,brinl001,10,B1>C,CS2(24)
+play,7,1,brinl001,22,B1>C.BFX,8/L
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+sub,parrg001,"""Gerardo Parra""",0,6,11
+sub,mcmar001,"""Ryan McMahon""",0,9,11
+sub,dahld001,"""David Dahl""",0,5,9
+sub,parrg001,"""Gerardo Parra""",0,6,7
+sub,shawb001,"""Bryan Shaw""",0,9,1
+sub,shucj001,"""J.B. Shuck""",1,9,11
+sub,maybc001,"""Cameron Maybin""",1,5,7
+sub,shucj001,"""J.B. Shuck""",1,9,9
+sub,ziegb001,"""Brad Ziegler""",1,2,1

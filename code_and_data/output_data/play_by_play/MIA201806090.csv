@@ -1,0 +1,59 @@
+id,MIA201806090
+info,visteam,SDN
+info,hometeam,MIA
+info,date,2018/06/09
+info,starttime,4:12PM
+start,jankt001,"""Travis Jankowski""",0,1,7
+start,hosme001,"""Eric Hosmer""",0,2,3
+start,pirej001,"""Jose Pirela""",0,3,4
+start,reyef001,"""Franmil Reyes""",0,4,9
+start,spanc001,"""Cory Spangenberg""",0,5,5
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,margm001,"""Manuel Margot""",0,7,8
+start,loper002,"""Rafael Lopez""",0,8,2
+start,rosst001,"""Tyson Ross""",0,9,1
+start,casts001,"""Starlin Castro""",1,1,4
+start,dietd001,"""Derek Dietrich""",1,2,7
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,bourj002,"""Justin Bour""",1,4,3
+start,andeb006,"""Brian Anderson""",1,5,9
+start,riddj001,"""J.T. Riddle""",1,6,6
+start,rojam002,"""Miguel Rojas""",1,7,5
+start,shucj001,"""J.B. Shuck""",1,8,8
+start,strad003,"""Dan Straily""",1,9,1
+play,1,0,jankt001,32,BBCBFFFX,S9/L.BX2(96)
+play,1,0,hosme001,00,X,S12/L+
+play,1,0,pirej001,12,1*BSSX,S7/G+.1-2
+play,1,0,reyef001,32,BFBBCC,K
+play,1,0,spanc001,32,CS*BBB>X,S8/L.2-H;1-3
+play,1,0,galvf001,11,SB1>S,SB2.3-H(PB)(NR);1-3
+play,1,0,galvf001,22,SB1>S.BX,D7/F.3-H
+play,1,0,margm001,12,FS*BX,8/L
+play,4,0,galvf001,11,TBX,HR/89/F
+play,4,0,margm001,31,BBFBX,S8/L
+play,4,0,loper002,32,S1BFBB>C,K+CS2(26)/DP
+play,4,0,rosst001,31,BCBBX,S8/L+
+play,4,0,jankt001,00,,NP
+sub,conla001,"""Adam Conley""",1,9,1
+play,4,0,jankt001,22,.C*BFF*BX,46(1)/FO/G
+sub,rivey001,"""Yadiel Rivera""",1,9,11
+sub,herne002,"""Elieser Hernandez""",1,9,1
+sub,jankt001,"""Travis Jankowski""",0,1,8
+sub,szczm001,"""Matt Szczur""",0,9,7
+sub,stamc001,"""Craig Stammen""",0,7,1
+play,7,0,szczm001,00,,NP
+sub,maybc001,"""Cameron Maybin""",1,9,8
+play,7,0,szczm001,00,,NP
+sub,stecd001,"""Drew Steckenrider""",1,8,1
+play,7,0,szczm001,32,..BCBBCB,W
+play,7,0,jankt001,32,C1BBBC>S,K+SB2
+play,7,0,hosme001,30,VVVV,IW
+play,7,0,pirej001,32,CBBBCC,K
+play,7,0,reyef001,12,FBSFS,K
+sub,rucid001,"""Drew Rucinski""",1,8,1
+sub,renfh001,"""Hunter Renfroe""",0,7,11
+sub,renfh001,"""Hunter Renfroe""",0,7,7
+sub,handb001,"""Brad Hand""",0,9,1
+sub,brinl001,"""Lewis Brinson""",1,6,11
+sub,yatek001,"""Kirby Yates""",0,9,1
+sub,holab001,"""Bryan Holaday""",1,8,11

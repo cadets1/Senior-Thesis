@@ -1,0 +1,44 @@
+id,MIA201808110
+info,visteam,NYN
+info,hometeam,MIA
+info,date,2018/08/11
+info,starttime,7:10PM
+start,rosaa003,"""Amed Rosario""",0,1,6
+start,mcnej002,"""Jeff McNeil""",0,2,4
+start,florw001,"""Wilmer Flores""",0,3,3
+start,confm001,"""Michael Conforto""",0,4,7
+start,nimmb001,"""Brandon Nimmo""",0,5,8
+start,frazt001,"""Todd Frazier""",0,6,5
+start,bautj002,"""Jose Bautista""",0,7,9
+start,mesod001,"""Devin Mesoraco""",0,8,2
+start,oswac001,"""Corey Oswalt""",0,9,1
+start,orter001,"""Rafael Ortega""",1,1,7
+start,realj001,"""J.T. Realmuto""",1,2,2
+start,casts001,"""Starlin Castro""",1,3,4
+start,andeb006,"""Brian Anderson""",1,4,9
+start,dietd001,"""Derek Dietrich""",1,5,3
+start,pradm001,"""Martin Prado""",1,6,5
+start,rojam002,"""Miguel Rojas""",1,7,6
+start,sierm002,"""Magneuris Sierra""",1,8,8
+start,strad003,"""Dan Straily""",1,9,1
+play,2,0,confm001,22,CFBBS,K
+play,2,0,nimmb001,32,CSBBBC,K
+play,2,0,frazt001,31,BBCB*B,W
+play,2,0,bautj002,00,>C,SB2
+play,2,0,bautj002,32,>C.TB*BBC,K
+sub,garcj006,"""Jarlin Garcia""",1,9,1
+sub,rivey001,"""Yadiel Rivera""",1,9,11
+sub,herne002,"""Elieser Hernandez""",1,9,1
+sub,guert001,"""Tayron Guerrero""",1,9,1
+sub,wahlb001,"""Bobby Wahl""",0,9,1
+sub,riddj001,"""J.T. Riddle""",1,9,11
+sub,conla001,"""Adam Conley""",1,9,1
+sub,sewap001,"""Paul Sewald""",0,9,1
+sub,galli001,"""Isaac Galloway""",1,9,11
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+sub,jacka001,"""Austin Jackson""",0,9,11
+sub,basht001,"""Tyler Bashlor""",0,9,1
+sub,rucid001,"""Drew Rucinski""",1,9,1
+sub,guerj002,"""Javy Guerra""",1,9,1
+sub,rhamj001,"""Jacob Rhame""",0,9,1
+sub,holab001,"""Bryan Holaday""",1,9,11

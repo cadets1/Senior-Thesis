@@ -1,0 +1,53 @@
+id,MIA201807040
+info,visteam,TBA
+info,hometeam,MIA
+info,date,2018/07/04
+info,starttime,1:10PM
+start,kierk001,"""Kevin Kiermaier""",0,1,8
+start,robed004,"""Daniel Robertson""",0,2,4
+start,bauej001,"""Jake Bauers""",0,3,7
+start,cronc002,"""C.J. Cron""",0,4,3
+start,wendj002,"""Joey Wendle""",0,5,5
+start,gomec002,"""Carlos Gomez""",0,6,9
+start,adamw002,"""Willy Adames""",0,7,6
+start,sucrj001,"""Jesus Sucre""",0,8,2
+start,andrm001,"""Matt Andriese""",0,9,1
+start,dietd001,"""Derek Dietrich""",1,1,7
+start,andeb006,"""Brian Anderson""",1,2,9
+start,bourj002,"""Justin Bour""",1,3,3
+start,casts001,"""Starlin Castro""",1,4,4
+start,riddj001,"""J.T. Riddle""",1,5,6
+start,shucj001,"""J.B. Shuck""",1,6,8
+start,rivey001,"""Yadiel Rivera""",1,7,5
+start,holab001,"""Bryan Holaday""",1,8,2
+start,urenj001,"""Jose Urena""",1,9,1
+play,3,0,sucrj001,32,BBBCFX,S7/G
+play,3,0,andrm001,00,,NP
+sub,fielj003,"""Johnny Field""",0,9,11
+play,3,0,fielj003,32,.CFFBBBFFX,64(1)/FO/G
+play,3,0,kierk001,10,1B11X,46(1)/FO/G
+play,3,0,robed004,20,BB>C,CS2(24)
+sub,weber001,"""Ryan Weber""",0,9,1
+play,5,0,wendj002,10,BX,S9/L
+play,5,0,gomec002,01,F1X,9/F
+play,5,0,adamw002,32,CBFBB>S,K+SB2
+play,5,0,sucrj001,30,VVVV,IW
+play,5,0,weber001,02,FFS,K
+sub,rojam002,"""Miguel Rojas""",1,9,11
+sub,rucid001,"""Drew Rucinski""",1,9,1
+play,6,1,bourj002,21,BBSX,43/G
+play,6,1,casts001,12,CCBFFFX,S8/L
+play,6,1,riddj001,00,1X,T8/F.1-H
+play,6,1,shucj001,21,BBCX,FC6/G.3-H
+play,6,1,rivey001,00,1>S,CS2(24)
+play,6,1,rivey001,02,1>S.FX,3/G
+sub,maybc001,"""Cameron Maybin""",1,9,11
+sub,maybc001,"""Cameron Maybin""",1,9,7
+sub,herne002,"""Elieser Hernandez""",1,1,1
+sub,smitm007,"""Mallex Smith""",0,7,11
+sub,duffm002,"""Matt Duffy""",0,9,11
+sub,robed004,"""Daniel Robertson""",0,2,6
+sub,wendj002,"""Joey Wendle""",0,5,4
+sub,duffm002,"""Matt Duffy""",0,9,5
+sub,woodh001,"""Hunter Wood""",0,7,1
+sub,ziegb001,"""Brad Ziegler""",1,1,1

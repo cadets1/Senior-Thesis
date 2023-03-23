@@ -1,0 +1,55 @@
+id,MIA201809170
+info,visteam,WAS
+info,hometeam,MIA
+info,date,2018/09/17
+info,starttime,7:11PM
+start,roblv001,"""Victor Robles""",0,1,8
+start,turnt001,"""Trea Turner""",0,2,6
+start,harpb003,"""Bryce Harper""",0,3,9
+start,renda001,"""Anthony Rendon""",0,4,5
+start,sotoj001,"""Juan Soto""",0,5,7
+start,zimmr001,"""Ryan Zimmerman""",0,6,3
+start,difow001,"""Wilmer Difo""",0,7,4
+start,kiebs001,"""Spencer Kieboom""",0,8,2
+start,fedde001,"""Erick Fedde""",0,9,1
+start,casts001,"""Starlin Castro""",1,1,4
+start,andeb006,"""Brian Anderson""",1,2,5
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,obrip002,"""Peter O'Brien""",1,4,3
+start,brinl001,"""Lewis Brinson""",1,5,8
+start,rojam002,"""Miguel Rojas""",1,6,6
+start,deana001,"""Austin Dean""",1,7,7
+start,sierm002,"""Magneuris Sierra""",1,8,9
+start,richt001,"""Trevor Richards""",1,9,1
+sub,dietd001,"""Derek Dietrich""",1,9,11
+sub,millj006,"""Justin Miller""",0,9,1
+sub,herne002,"""Elieser Hernandez""",1,9,1
+play,6,1,obrip002,00,,NP
+sub,cordj001,"""Jimmy Cordero""",0,9,1
+play,6,1,obrip002,10,.BX,53/G
+play,6,1,brinl001,02,FSX,S8/F
+play,6,1,rojam002,02,FFX,S6/G.1-2
+play,6,1,deana001,11,CB+1X,S7/G+.2-3;1-2
+play,6,1,sierm002,21,BF*BX,S9/G.3-H;2-H;1-3
+play,6,1,herne002,00,,NP
+sub,orter001,"""Rafael Ortega""",1,9,11
+play,6,1,orter001,00,,NP
+sub,suerw002,"""Wander Suero""",0,9,1
+play,6,1,orter001,01,..111SN,BK.3-H;1-2
+play,6,1,orter001,01,..111SN.X,23/G-
+play,6,1,casts001,20,BB>B,SB3
+play,6,1,casts001,31,BB>B.CX,8/F
+sub,rucid001,"""Drew Rucinski""",1,9,1
+sub,eatoa002,"""Adam Eaton""",0,8,11
+sub,wietm001,"""Matt Wieters""",0,9,11
+sub,garcj006,"""Jarlin Garcia""",1,9,1
+sub,wietm001,"""Matt Wieters""",0,9,2
+sub,glovk001,"""Koda Glover""",0,8,1
+sub,galli001,"""Isaac Galloway""",1,4,7
+sub,rojam002,"""Miguel Rojas""",1,6,3
+sub,riddj001,"""J.T. Riddle""",1,9,6
+sub,wittn001,"""Nick Wittgren""",1,7,1
+sub,collt001,"""Tim Collins""",0,8,1
+sub,willa003,"""Austen Williams""",0,8,1
+sub,conla001,"""Adam Conley""",1,7,1
+sub,reynm001,"""Mark Reynolds""",0,8,11

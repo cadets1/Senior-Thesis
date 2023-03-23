@@ -1,0 +1,50 @@
+id,MIA201807100
+info,visteam,MIL
+info,hometeam,MIA
+info,date,2018/07/10
+info,starttime,7:12PM
+start,thame001,"""Eric Thames""",0,1,9
+start,yelic001,"""Christian Yelich""",0,2,7
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,shawt001,"""Travis Shaw""",0,4,5
+start,salat001,"""Tyler Saladino""",0,5,6
+start,millb002,"""Brad Miller""",0,6,4
+start,broxk001,"""Keon Broxton""",0,7,8
+start,krate001,"""Erik Kratz""",0,8,2
+start,chacj001,"""Jhoulys Chacin""",0,9,1
+start,dietd001,"""Derek Dietrich""",1,1,7
+start,andeb006,"""Brian Anderson""",1,2,9
+start,casts001,"""Starlin Castro""",1,3,4
+start,coopg002,"""Garrett Cooper""",1,4,3
+start,riddj001,"""J.T. Riddle""",1,5,6
+start,rojam002,"""Miguel Rojas""",1,6,5
+start,maybc001,"""Cameron Maybin""",1,7,8
+start,holab001,"""Bryan Holaday""",1,8,2
+start,lopep002,"""Pablo Lopez""",1,9,1
+play,1,0,thame001,01,CX,S5/G
+play,1,0,yelic001,00,X,D7/L+.1-3
+play,1,0,aguij001,30,BBBB,W
+play,1,0,shawt001,10,*BX,6(1)/FO/G.3-H;2-3
+play,1,0,salat001,12,CBS1FFFF1FS,K
+play,1,0,millb002,22,BBCSF>B,SB2
+play,1,0,millb002,32,BBCSF>B.S,K
+play,5,0,aguij001,32,BFBCBX,6/P
+play,5,0,shawt001,22,BBSSX,3E1/G
+play,5,0,salat001,11,C*BX,64(1)/FO/G
+play,5,0,millb002,01,C>S,CS2(26)
+sub,rivey001,"""Yadiel Rivera""",1,9,11
+sub,jennd003,"""Dan Jennings""",0,9,1
+sub,conla001,"""Adam Conley""",1,9,1
+sub,orf-n001,"""Nate Orf""",0,9,11
+play,7,1,andeb006,00,,NP
+sub,jeffj001,"""Jeremy Jeffress""",0,9,1
+play,7,1,andeb006,02,.CCX,S8/G
+play,7,1,casts001,32,*BCBBC>S,K+CS2(24)/DP
+play,7,1,coopg002,32,SCBFBBX,S8/G
+play,7,1,riddj001,12,*BCFFX,63/G
+sub,guerj002,"""Javy Guerra""",1,9,1
+sub,villj001,"""Jonathan Villar""",0,9,4
+sub,burnc002,"""Corbin Burnes""",0,6,1
+sub,meyeb002,"""Ben Meyer""",1,9,1
+sub,pereh001,"""Hernan Perez""",0,1,9
+sub,pradm001,"""Martin Prado""",1,9,11

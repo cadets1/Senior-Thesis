@@ -1,0 +1,57 @@
+id,MIA201808120
+info,visteam,NYN
+info,hometeam,MIA
+info,date,2018/08/12
+info,starttime,1:12PM
+start,rosaa003,"""Amed Rosario""",0,1,6
+start,jacka001,"""Austin Jackson""",0,2,8
+start,florw001,"""Wilmer Flores""",0,3,3
+start,confm001,"""Michael Conforto""",0,4,7
+start,frazt001,"""Todd Frazier""",0,5,5
+start,bautj002,"""Jose Bautista""",0,6,9
+start,plawk001,"""Kevin Plawecki""",0,7,2
+start,reyej001,"""Jose Reyes""",0,8,4
+start,syndn001,"""Noah Syndergaard""",0,9,1
+start,orter001,"""Rafael Ortega""",1,1,7
+start,rojam002,"""Miguel Rojas""",1,2,6
+start,casts001,"""Starlin Castro""",1,3,4
+start,andeb006,"""Brian Anderson""",1,4,9
+start,dietd001,"""Derek Dietrich""",1,5,3
+start,pradm001,"""Martin Prado""",1,6,5
+start,holab001,"""Bryan Holaday""",1,7,2
+start,sierm002,"""Magneuris Sierra""",1,8,8
+start,chenw001,"""Wei-Yin Chen""",1,9,1
+play,1,0,rosaa003,32,FBCBFBB,W
+play,1,0,jacka001,01,1F>B,SB2
+play,1,0,jacka001,12,1F>B.CFX,9/F.2-3
+play,1,0,florw001,11,BSX,8/F/SF.3-H
+play,1,0,confm001,02,SFFS,K
+play,1,1,orter001,01,CX,S4/G
+play,1,1,rojam002,01,1C>B,SB2
+play,1,1,rojam002,11,1C>B.X,13/G
+play,1,1,casts001,02,SSX,S7/L.2-H
+play,1,1,andeb006,00,1X,53/G-.1-2
+play,1,1,dietd001,20,BBX,6/P
+play,5,1,chenw001,12,BSCS,K
+play,5,1,orter001,22,FCBFBFX,S9/G
+play,5,1,rojam002,00,111>C,SB2
+play,5,1,rojam002,02,111>C.FX,63/G.2-3
+play,5,1,casts001,01,SX,53/G
+play,6,1,andeb006,10,BX,23/G-
+play,6,1,dietd001,10,BX,43/G
+play,6,1,pradm001,32,CBBFBB,W
+play,6,1,holab001,10,B>C,SB2
+play,6,1,holab001,11,B>C.X,S8/L.2-H
+play,6,1,sierm002,00,X,E1/TH/G.1-2
+play,6,1,chenw001,00,,NP
+sub,riddj001,"""J.T. Riddle""",1,9,11
+play,6,1,riddj001,21,.CBBX,8/F
+sub,herne002,"""Elieser Hernandez""",1,9,1
+sub,gselr001,"""Robert Gsellman""",0,9,1
+sub,rivey001,"""Yadiel Rivera""",1,6,12
+sub,rivey001,"""Yadiel Rivera""",1,6,5
+sub,mcnej002,"""Jeff McNeil""",0,6,11
+sub,nimmb001,"""Brandon Nimmo""",0,9,9
+sub,lugos001,"""Seth Lugo""",0,6,1
+sub,realj001,"""J.T. Realmuto""",1,9,11
+sub,galli001,"""Isaac Galloway""",1,2,12

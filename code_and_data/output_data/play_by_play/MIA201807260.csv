@@ -1,0 +1,46 @@
+id,MIA201807260
+info,visteam,WAS
+info,hometeam,MIA
+info,date,2018/07/26
+info,starttime,7:10PM
+start,eatoa002,"""Adam Eaton""",0,1,9
+start,turnt001,"""Trea Turner""",0,2,6
+start,harpb003,"""Bryce Harper""",0,3,8
+start,zimmr001,"""Ryan Zimmerman""",0,4,3
+start,sotoj001,"""Juan Soto""",0,5,7
+start,reynm001,"""Mark Reynolds""",0,6,5
+start,wietm001,"""Matt Wieters""",0,7,2
+start,difow001,"""Wilmer Difo""",0,8,4
+start,milot001,"""Tom Milone""",0,9,1
+start,casts001,"""Starlin Castro""",1,1,4
+start,andeb006,"""Brian Anderson""",1,2,9
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,bourj002,"""Justin Bour""",1,4,3
+start,pradm001,"""Martin Prado""",1,5,5
+start,maybc001,"""Cameron Maybin""",1,6,7
+start,rojam002,"""Miguel Rojas""",1,7,6
+start,sierm002,"""Magneuris Sierra""",1,8,8
+start,strad003,"""Dan Straily""",1,9,1
+play,1,1,casts001,12,CSBX,S18/G
+play,1,1,andeb006,20,BBX,S7/G+.1-2
+play,1,1,realj001,12,BCCX,D7/L.2-H;1-3
+play,1,1,bourj002,22,FC*BBX,9/F/SF.3-H;2-3
+play,1,1,pradm001,32,SBBC*BFX,9/F
+play,1,1,maybc001,00,X,S8/G+.3-H
+play,1,1,rojam002,00,1,POCS2(134)
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+sub,millj006,"""Justin Miller""",0,9,1
+sub,conla001,"""Adam Conley""",1,9,1
+sub,taylm002,"""Michael Taylor""",0,9,11
+sub,riddj001,"""J.T. Riddle""",1,9,6
+sub,guerj002,"""Javy Guerra""",1,7,1
+sub,harpb003,"""Bryce Harper""",0,3,9
+sub,taylm002,"""Michael Taylor""",0,9,8
+sub,kintb001,"""Brandon Kintzler""",0,1,1
+sub,murpd006,"""Daniel Murphy""",0,1,11
+sub,herne002,"""Elieser Hernandez""",1,7,1
+sub,madsr001,"""Ryan Madson""",0,1,1
+sub,meyeb002,"""Ben Meyer""",1,7,1
+sub,adamm002,"""Matt Adams""",0,1,11
+sub,kells001,"""Shawn Kelley""",0,1,1
+sub,dietd001,"""Derek Dietrich""",1,7,11

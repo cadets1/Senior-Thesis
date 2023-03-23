@@ -1,0 +1,53 @@
+id,MIA201804300
+info,visteam,PHI
+info,hometeam,MIA
+info,date,2018/04/30
+info,starttime,7:10PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,hoskr001,"""Rhys Hoskins""",0,2,7
+start,herro001,"""Odubel Herrera""",0,3,8
+start,altha001,"""Aaron Altherr""",0,4,9
+start,santc002,"""Carlos Santana""",0,5,3
+start,kings001,"""Scott Kingery""",0,6,6
+start,franm004,"""Maikel Franco""",0,7,5
+start,alfaj002,"""Jorge Alfaro""",0,8,2
+start,arrij001,"""Jake Arrieta""",0,9,1
+start,realj001,"""J.T. Realmuto""",1,1,2
+start,pradm001,"""Martin Prado""",1,2,5
+start,casts001,"""Starlin Castro""",1,3,4
+start,dietd001,"""Derek Dietrich""",1,4,3
+start,andeb006,"""Brian Anderson""",1,5,9
+start,maybc001,"""Cameron Maybin""",1,6,7
+start,rojam002,"""Miguel Rojas""",1,7,6
+start,brinl001,"""Lewis Brinson""",1,8,8
+start,strad003,"""Dan Straily""",1,9,1
+play,2,1,andeb006,20,BBX,53/G
+play,2,1,maybc001,11,BCX,S7/L
+play,2,1,rojam002,22,1BCC1B>F1>F>X,S8/L+.1-3
+play,2,1,brinl001,10,B*B,SB2
+play,2,1,brinl001,21,B*B.SX,63/G.3-H
+play,2,1,strad003,32,BBBCCB,W
+play,2,1,realj001,31,BFBBX,46(1)/FO/G
+play,3,0,hoskr001,21,CBBX,7/F
+play,3,0,herro001,32,BBSCBB,W
+play,3,0,altha001,32,1BC11FB*BS,K
+play,3,0,santc002,01,F>B,CS2(26)
+sub,shucj001,"""J.B. Shuck""",1,9,11
+sub,riosy001,"""Yacksel Rios""",0,9,1
+sub,gonzm007,"""Merandy Gonzalez""",1,9,1
+sub,willn001,"""Nick Williams""",0,9,11
+play,6,1,brinl001,00,,NP
+sub,ramoe002,"""Edubray Ramos""",0,9,1
+play,6,1,brinl001,22,.BBCSFS,K
+play,6,1,gonzm007,00,,NP
+sub,rivey001,"""Yadiel Rivera""",1,9,11
+play,6,1,rivey001,22,.BBFFC,K
+play,6,1,realj001,32,FBBBCFX,S64/G-
+play,6,1,pradm001,02,CC1>B,CS2(26)
+sub,barrk002,"""Kyle Barraclough""",1,9,1
+sub,florp001,"""Pedro Florimon""",0,9,6
+sub,huntt002,"""Tommy Hunter""",0,6,1
+sub,guert001,"""Tayron Guerrero""",1,9,1
+sub,curtz001,"""Zac Curtis""",0,6,1
+sub,bourj002,"""Justin Bour""",1,9,11
+sub,ziegb001,"""Brad Ziegler""",1,9,1

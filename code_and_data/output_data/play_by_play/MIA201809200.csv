@@ -1,0 +1,45 @@
+id,MIA201809200
+info,visteam,CIN
+info,hometeam,MIA
+info,date,2018/09/20
+info,starttime,7:11PM
+start,sches001,"""Scott Schebler""",0,1,9
+start,peraj003,"""Jose Peraza""",0,2,6
+start,vottj001,"""Joey Votto""",0,3,3
+start,genns001,"""Scooter Gennett""",0,4,4
+start,suare001,"""Eugenio Suarez""",0,5,5
+start,willm007,"""Mason Williams""",0,6,7
+start,barnt001,"""Tucker Barnhart""",0,7,2
+start,reedc002,"""Cody Reed""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,rojam002,"""Miguel Rojas""",1,1,5
+start,casts001,"""Starlin Castro""",1,2,4
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,obrip002,"""Peter O'Brien""",1,4,3
+start,deana001,"""Austin Dean""",1,5,7
+start,brinl001,"""Lewis Brinson""",1,6,8
+start,galli001,"""Isaac Galloway""",1,7,9
+start,riddj001,"""J.T. Riddle""",1,8,6
+start,brigj002,"""Jeff Brigham""",1,9,1
+play,3,0,hamib001,31,BBFBB,W
+play,3,0,sches001,22,BB>FF1>B,SB2.1-3(E2/TH)
+play,3,0,sches001,32,BB>FF1>B.B,W
+play,3,0,peraj003,11,*BCX,9/F
+play,3,0,vottj001,12,CBTS,K
+play,3,0,genns001,10,BX,D8/F.3-H;1-H
+play,3,0,suare001,22,CBFBX,S9/G+.2-3
+play,3,0,willm007,12,CTB>X,9/L
+sub,bostc001,"""Chris Bostick""",1,9,11
+sub,herne002,"""Elieser Hernandez""",1,9,1
+sub,hernd002,"""David Hernandez""",0,8,1
+sub,orter001,"""Rafael Ortega""",1,7,11
+sub,orter001,"""Rafael Ortega""",1,7,9
+sub,guert001,"""Tayron Guerrero""",1,9,1
+sub,guerg001,"""Gabriel Guerrero""",0,8,11
+sub,hughj001,"""Jared Hughes""",0,8,1
+sub,sierm002,"""Magneuris Sierra""",1,9,11
+sub,igler001,"""Raisel Iglesias""",0,8,1
+sub,dietd001,"""Derek Dietrich""",1,5,11
+sub,dietd001,"""Derek Dietrich""",1,5,7
+sub,gravb001,"""Brett Graves""",1,9,1
+sub,andeb006,"""Brian Anderson""",1,9,11

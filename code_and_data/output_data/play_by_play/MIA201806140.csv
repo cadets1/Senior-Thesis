@@ -1,0 +1,53 @@
+id,MIA201806140
+info,visteam,SFN
+info,hometeam,MIA
+info,date,2018/06/14
+info,starttime,12:10PM
+start,panij002,"""Joe Panik""",0,1,4
+start,poseb001,"""Buster Posey""",0,2,2
+start,mccua001,"""Andrew McCutchen""",0,3,9
+start,crawb001,"""Brandon Crawford""",0,4,6
+start,longe001,"""Evan Longoria""",0,5,5
+start,sandp001,"""Pablo Sandoval""",0,6,3
+start,willm008,"""Mac Williamson""",0,7,7
+start,herng001,"""Gorkys Hernandez""",0,8,8
+start,rodrd001,"""Dereck Rodriguez""",0,9,1
+start,dietd001,"""Derek Dietrich""",1,1,7
+start,andeb006,"""Brian Anderson""",1,2,5
+start,bourj002,"""Justin Bour""",1,3,3
+start,casts001,"""Starlin Castro""",1,4,4
+start,riddj001,"""J.T. Riddle""",1,5,6
+start,brinl001,"""Lewis Brinson""",1,6,8
+start,shucj001,"""J.B. Shuck""",1,7,9
+start,holab001,"""Bryan Holaday""",1,8,2
+start,strad003,"""Dan Straily""",1,9,1
+play,2,1,casts001,10,BX,S8/L
+play,2,1,riddj001,01,CX,46(1)3/GDP
+play,2,1,brinl001,00,X,S7/G
+play,2,1,shucj001,20,BBX,7/F
+play,4,0,longe001,01,CH,HP
+play,4,0,sandp001,22,BCFFBS,K
+play,4,0,willm008,32,BFF1*BBX,64(1)/FO/G
+play,4,0,herng001,10,1B>C,CS2(24)
+sub,hansa001,"""Alen Hanson""",0,5,5
+sub,rojam002,"""Miguel Rojas""",1,9,11
+sub,meyeb002,"""Ben Meyer""",1,9,1
+sub,realj001,"""J.T. Realmuto""",1,9,11
+sub,pench001,"""Hunter Pence""",0,9,7
+sub,watst001,"""Tony Watson""",0,7,1
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+sub,conla001,"""Adam Conley""",1,9,1
+sub,jacka001,"""Austin Jackson""",0,7,11
+sub,strih001,"""Hunter Strickland""",0,7,1
+sub,barrk002,"""Kyle Barraclough""",1,9,1
+sub,blact002,"""Ty Blach""",0,7,1
+sub,maybc001,"""Cameron Maybin""",1,9,11
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+sub,rivey001,"""Yadiel Rivera""",1,9,6
+sub,herne002,"""Elieser Hernandez""",1,5,1
+play,12,1,brinl001,02,SCX,13/G
+play,12,1,shucj001,11,CBX,S8/L
+play,12,1,holab001,01,C>B,CS2(24)
+play,12,1,holab001,11,C>B.X,7/L
+sub,chenw001,"""Wei-Yin Chen""",1,5,11
+sub,dysos001,"""Sam Dyson""",0,7,1

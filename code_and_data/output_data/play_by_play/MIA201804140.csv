@@ -1,0 +1,37 @@
+id,MIA201804140
+info,visteam,PIT
+info,hometeam,MIA
+info,date,2018/04/14
+info,starttime,7:10PM
+start,harrj002,"""Josh Harrison""",0,1,4
+start,polag001,"""Gregory Polanco""",0,2,9
+start,marts002,"""Starling Marte""",0,3,8
+start,bellj005,"""Josh Bell""",0,4,3
+start,dickc002,"""Corey Dickerson""",0,5,7
+start,cervf001,"""Francisco Cervelli""",0,6,2
+start,morac001,"""Colin Moran""",0,7,5
+start,mercj002,"""Jordy Mercer""",0,8,6
+start,tailj001,"""Jameson Taillon""",0,9,1
+start,dietd001,"""Derek Dietrich""",1,1,7
+start,rojam002,"""Miguel Rojas""",1,2,6
+start,casts001,"""Starlin Castro""",1,3,4
+start,bourj002,"""Justin Bour""",1,4,3
+start,andeb006,"""Brian Anderson""",1,5,5
+start,shucj001,"""J.B. Shuck""",1,6,9
+start,brinl001,"""Lewis Brinson""",1,7,8
+start,holab001,"""Bryan Holaday""",1,8,2
+start,richt001,"""Trevor Richards""",1,9,1
+sub,felim001,"""Michael Feliz""",0,9,1
+sub,telit001,"""Tomas Telis""",1,9,11
+play,8,0,mercj002,00,,NP
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+play,8,0,mercj002,02,.CCS,K
+play,8,0,felim001,00,,NP
+sub,fraza001,"""Adam Frazier""",0,9,11
+play,8,0,fraza001,32,.BFCBFFBB,W
+play,8,0,harrj002,10,B1>S,CS2(24)
+play,8,0,harrj002,12,B1>S.SS,K
+sub,kontg001,"""George Kontos""",0,9,1
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+sub,rivef001,"""Felipe Rivero""",0,9,1
+sub,maybc001,"""Cameron Maybin""",1,9,11

@@ -1,0 +1,40 @@
+id,MIA201804270
+info,visteam,COL
+info,hometeam,MIA
+info,date,2018/04/27
+info,starttime,7:11PM
+start,lemad001,"""DJ LeMahieu""",0,1,4
+start,blacc001,"""Charlie Blackmon""",0,2,8
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,dahld001,"""David Dahl""",0,4,9
+start,stort001,"""Trevor Story""",0,5,6
+start,parrg001,"""Gerardo Parra""",0,6,7
+start,desmi001,"""Ian Desmond""",0,7,3
+start,iannc001,"""Chris Iannetta""",0,8,2
+start,andet002,"""Tyler Anderson""",0,9,1
+start,realj001,"""J.T. Realmuto""",1,1,2
+start,pradm001,"""Martin Prado""",1,2,5
+start,casts001,"""Starlin Castro""",1,3,4
+start,andeb006,"""Brian Anderson""",1,4,9
+start,bourj002,"""Justin Bour""",1,5,3
+start,maybc001,"""Cameron Maybin""",1,6,7
+start,rojam002,"""Miguel Rojas""",1,7,6
+start,brinl001,"""Lewis Brinson""",1,8,8
+start,urenj001,"""Jose Urena""",1,9,1
+sub,senza001,"""Antonio Senzatela""",0,9,1
+sub,valap001,"""Pat Valaika""",0,1,4
+play,6,0,blacc001,01,CX,43/G
+play,6,0,arenn001,31,BBBCX,8/F
+play,6,0,dahld001,01,CX,S7/G
+play,6,0,stort001,00,>C,CS2(24)
+sub,shawb001,"""Bryan Shaw""",0,9,1
+sub,mcgej001,"""Jake McGee""",0,9,1
+sub,telit001,"""Tomas Telis""",1,9,11
+sub,mcmar001,"""Ryan McMahon""",0,9,3
+sub,ottaa001,"""Adam Ottavino""",0,7,1
+sub,wittn001,"""Nick Wittgren""",1,9,1
+sub,barrk002,"""Kyle Barraclough""",1,9,1
+sub,cuevn001,"""Noel Cuevas""",0,7,11
+sub,daviw001,"""Wade Davis""",0,7,1
+sub,dietd001,"""Derek Dietrich""",1,6,11
+sub,shucj001,"""J.B. Shuck""",1,9,11

@@ -1,0 +1,71 @@
+id,MIA201807110
+info,visteam,MIL
+info,hometeam,MIA
+info,date,2018/07/11
+info,starttime,7:10PM
+start,thame001,"""Eric Thames""",0,1,9
+start,cainl001,"""Lorenzo Cain""",0,2,8
+start,yelic001,"""Christian Yelich""",0,3,7
+start,aguij001,"""Jesus Aguilar""",0,4,3
+start,shawt001,"""Travis Shaw""",0,5,5
+start,salat001,"""Tyler Saladino""",0,6,6
+start,pereh001,"""Hernan Perez""",0,7,4
+start,nottj001,"""Jacob Nottingham""",0,8,2
+start,peraf001,"""Freddy Peralta""",0,9,1
+start,dietd001,"""Derek Dietrich""",1,1,7
+start,andeb006,"""Brian Anderson""",1,2,9
+start,casts001,"""Starlin Castro""",1,3,4
+start,bourj002,"""Justin Bour""",1,4,3
+start,pradm001,"""Martin Prado""",1,5,5
+start,rojam002,"""Miguel Rojas""",1,6,6
+start,maybc001,"""Cameron Maybin""",1,7,8
+start,holab001,"""Bryan Holaday""",1,8,2
+start,strad003,"""Dan Straily""",1,9,1
+play,3,0,peraf001,02,CFX,6/P
+play,3,0,thame001,12,BCFX,D9/L
+play,3,0,cainl001,12,BFCS,K
+play,3,0,yelic001,12,SSBX,S68/L+.2-H
+play,3,0,aguij001,11,B1F1>B,CS2(24)
+sub,villj001,"""Jonathan Villar""",0,9,4
+sub,barnj002,"""Jacob Barnes""",0,7,1
+play,6,1,pradm001,22,CSBBX,S9/G
+play,6,1,rojam002,10,1*BX,E5/FO/G.1-2
+play,6,1,maybc001,10,B*B,OA.2-3;1X2(24)
+play,6,1,maybc001,31,B*B.F*BB,W
+play,6,1,holab001,10,11B>C,SB2
+play,6,1,holab001,12,11B>C.CX,S7/G.3-H(UR);2-3
+play,6,1,strad003,00,,NP
+sub,coopg002,"""Garrett Cooper""",1,9,11
+play,6,1,coopg002,12,.C1FBFF1S,K
+play,6,1,dietd001,00,,NP
+sub,orf-n001,"""Nate Orf""",0,7,5
+play,6,1,dietd001,00,,NP
+sub,jennd003,"""Dan Jennings""",0,5,1
+play,6,1,dietd001,02,..CSX,43/G
+play,7,0,salat001,00,,NP
+sub,coopg002,"""Garrett Cooper""",1,9,7
+play,7,0,salat001,00,,NP
+sub,ziegb001,"""Brad Ziegler""",1,1,1
+play,7,0,salat001,00,..H,HP
+play,7,0,orf-n001,21,C*BB>S,CS2(24)
+play,7,0,orf-n001,22,C*BB>S.X,53/G
+play,7,0,nottj001,22,CBFBX,S7/G+
+play,7,0,villj001,00,X,46(1)/FO/G
+sub,riddj001,"""J.T. Riddle""",1,1,6
+sub,rojam002,"""Miguel Rojas""",1,6,3
+sub,stecd001,"""Drew Steckenrider""",1,4,1
+sub,millb002,"""Brad Miller""",0,5,11
+sub,willt003,"""Taylor Williams""",0,5,1
+sub,barrk002,"""Kyle Barraclough""",1,4,1
+play,9,1,coopg002,00,,NP
+sub,knebc001,"""Corey Knebel""",0,5,1
+play,9,1,coopg002,12,.BSSFC,K
+play,9,1,riddj001,20,BBX,63/G
+play,9,1,andeb006,12,BTCX,S8/G
+play,9,1,casts001,22,B11FBF1F>B,CS2(24)
+sub,conla001,"""Adam Conley""",1,4,1
+sub,broxk001,"""Keon Broxton""",0,5,11
+sub,lopej004,"""Jorge Lopez""",0,5,1
+sub,rivey001,"""Yadiel Rivera""",1,4,11
+sub,rivey001,"""Yadiel Rivera""",1,4,5
+sub,herne002,"""Elieser Hernandez""",1,5,1

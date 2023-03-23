@@ -1,0 +1,44 @@
+id,MIA201806080
+info,visteam,SDN
+info,hometeam,MIA
+info,date,2018/06/08
+info,starttime,7:11PM
+start,pirej001,"""Jose Pirela""",0,1,4
+start,hosme001,"""Eric Hosmer""",0,2,3
+start,renfh001,"""Hunter Renfroe""",0,3,7
+start,villc002,"""Christian Villanueva""",0,4,5
+start,reyef001,"""Franmil Reyes""",0,5,9
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,ellia001,"""A.J. Ellis""",0,7,2
+start,margm001,"""Manuel Margot""",0,8,8
+start,lauee001,"""Eric Lauer""",0,9,1
+start,casts001,"""Starlin Castro""",1,1,4
+start,andeb006,"""Brian Anderson""",1,2,9
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,bourj002,"""Justin Bour""",1,4,3
+start,maybc001,"""Cameron Maybin""",1,5,7
+start,rojam002,"""Miguel Rojas""",1,6,6
+start,brinl001,"""Lewis Brinson""",1,7,8
+start,rivey001,"""Yadiel Rivera""",1,8,5
+start,smitc006,"""Caleb Smith""",1,9,1
+sub,jankt001,"""Travis Jankowski""",0,9,11
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+sub,spanc001,"""Cory Spangenberg""",0,4,11
+sub,spanc001,"""Cory Spangenberg""",0,4,5
+sub,jankt001,"""Travis Jankowski""",0,9,7
+sub,erlir001,"""Robbie Erlin""",0,3,1
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+sub,loper002,"""Rafael Lopez""",0,3,11
+play,8,1,stecd001,00,,NP
+sub,hughp001,"""Phil Hughes""",0,3,1
+play,8,1,stecd001,00,,NP
+sub,shucj001,"""J.B. Shuck""",1,9,11
+play,8,1,shucj001,02,..FCX,8/F
+play,8,1,casts001,31,BBBFB,W
+play,8,1,andeb006,02,CCC,K
+play,8,1,realj001,00,C,SB2
+play,8,1,realj001,31,C..BBBB,W
+play,8,1,bourj002,21,BCBX,8/L
+sub,rojam002,"""Miguel Rojas""",1,6,3
+sub,riddj001,"""J.T. Riddle""",1,9,6
+sub,barrk002,"""Kyle Barraclough""",1,4,1

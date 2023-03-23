@@ -1,0 +1,41 @@
+id,MIA201808310
+info,visteam,TOR
+info,hometeam,MIA
+info,date,2018/08/31
+info,starttime,7:11PM
+start,mckib001,"""Billy McKinney""",0,1,7
+start,gurrl001,"""Lourdes Gurriel""",0,2,6
+start,morak001,"""Kendrys Morales""",0,3,3
+start,gricr001,"""Randal Grichuk""",0,4,9
+start,pillk001,"""Kevin Pillar""",0,5,8
+start,jansd001,"""Danny Jansen""",0,6,2
+start,diaza003,"""Aledmys Diaz""",0,7,5
+start,travd001,"""Devon Travis""",0,8,4
+start,sanca006,"""Aaron Sanchez""",0,9,1
+start,orter001,"""Rafael Ortega""",1,1,9
+start,andeb006,"""Brian Anderson""",1,2,5
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,dietd001,"""Derek Dietrich""",1,4,3
+start,casts001,"""Starlin Castro""",1,5,4
+start,riddj001,"""J.T. Riddle""",1,6,6
+start,deana001,"""Austin Dean""",1,7,7
+start,sierm002,"""Magneuris Sierra""",1,8,8
+start,strad003,"""Dan Straily""",1,9,1
+play,2,1,casts001,32,BBCBCB,W
+play,2,1,riddj001,22,BBFSX,7/L
+play,2,1,deana001,32,BBBCC>S,K+CS2(24)/DP
+sub,barnd002,"""Danny Barnes""",0,9,1
+sub,granc001,"""Curtis Granderson""",0,9,11
+sub,smitm008,"""Murphy Smith""",0,9,1
+sub,mayzt001,"""Tim Mayza""",0,9,1
+sub,rojam002,"""Miguel Rojas""",1,4,3
+sub,hernt002,"""Teoscar Hernandez""",0,9,11
+sub,biagj001,"""Joe Biagini""",0,9,1
+sub,galli001,"""Isaac Galloway""",1,9,11
+sub,galli001,"""Isaac Galloway""",1,9,9
+sub,barrk002,"""Kyle Barraclough""",1,1,1
+sub,stecd001,"""Drew Steckenrider""",1,1,1
+sub,smoaj001,"""Justin Smoak""",0,9,11
+sub,smoaj001,"""Justin Smoak""",0,9,3
+sub,gilek001,"""Ken Giles""",0,3,1
+sub,rivey001,"""Yadiel Rivera""",1,4,12

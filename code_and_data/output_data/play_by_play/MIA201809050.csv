@@ -1,0 +1,44 @@
+id,MIA201809050
+info,visteam,PHI
+info,hometeam,MIA
+info,date,2018/09/05
+info,starttime,7:10PM
+start,santc002,"""Carlos Santana""",0,1,5
+start,bourj002,"""Justin Bour""",0,2,3
+start,cabra002,"""Asdrubal Cabrera""",0,3,6
+start,hoskr001,"""Rhys Hoskins""",0,4,7
+start,willn001,"""Nick Williams""",0,5,9
+start,hernc005,"""Cesar Hernandez""",0,6,4
+start,alfaj002,"""Jorge Alfaro""",0,7,2
+start,piven001,"""Nick Pivetta""",0,8,1
+start,quinr003,"""Roman Quinn""",0,9,8
+start,orter001,"""Rafael Ortega""",1,1,9
+start,casts001,"""Starlin Castro""",1,2,4
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,dietd001,"""Derek Dietrich""",1,4,3
+start,rojam002,"""Miguel Rojas""",1,5,6
+start,brinl001,"""Lewis Brinson""",1,6,8
+start,deana001,"""Austin Dean""",1,7,7
+start,rivey001,"""Yadiel Rivera""",1,8,5
+start,alcas001,"""Sandy Alcantara""",1,9,1
+play,5,0,alfaj002,02,CSX,S9/G+
+play,5,0,piven001,00,,NP
+sub,herro001,"""Odubel Herrera""",0,8,11
+play,5,0,herro001,00,.X,46(1)3/GDP
+play,5,0,quinr003,01,CH,HP
+play,5,0,santc002,11,BC>B,SB2
+play,5,0,santc002,21,BC>B.X,3/G
+sub,huntt002,"""Tommy Hunter""",0,8,1
+sub,ramow001,"""Wilson Ramos""",0,8,11
+sub,domis001,"""Seranthony Dominguez""",0,8,1
+sub,sierm002,"""Magneuris Sierra""",1,1,9
+sub,galli001,"""Isaac Galloway""",1,7,7
+sub,conla001,"""Adam Conley""",1,9,1
+sub,bautj002,"""Jose Bautista""",0,2,11
+sub,barrk002,"""Kyle Barraclough""",1,9,1
+sub,kings001,"""Scott Kingery""",0,3,12
+sub,santc002,"""Carlos Santana""",0,1,3
+sub,bautj002,"""Jose Bautista""",0,2,5
+sub,kings001,"""Scott Kingery""",0,3,6
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+sub,florp001,"""Pedro Florimon""",0,8,11

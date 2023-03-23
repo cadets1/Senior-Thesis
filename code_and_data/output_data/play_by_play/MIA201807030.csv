@@ -1,0 +1,79 @@
+id,MIA201807030
+info,visteam,TBA
+info,hometeam,MIA
+info,date,2018/07/03
+info,starttime,7:10PM
+start,kierk001,"""Kevin Kiermaier""",0,1,8
+start,duffm002,"""Matt Duffy""",0,2,5
+start,bauej001,"""Jake Bauers""",0,3,3
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,wendj002,"""Joey Wendle""",0,5,7
+start,robed004,"""Daniel Robertson""",0,6,4
+start,hecha001,"""Adeiny Hechavarria""",0,7,6
+start,smitm007,"""Mallex Smith""",0,8,9
+start,yarbr001,"""Ryan Yarbrough""",0,9,1
+start,casts001,"""Starlin Castro""",1,1,4
+start,andeb006,"""Brian Anderson""",1,2,9
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,bourj002,"""Justin Bour""",1,4,3
+start,maybc001,"""Cameron Maybin""",1,5,7
+start,rojam002,"""Miguel Rojas""",1,6,5
+start,riddj001,"""J.T. Riddle""",1,7,6
+start,brinl001,"""Lewis Brinson""",1,8,8
+start,richt001,"""Trevor Richards""",1,9,1
+sub,cronc002,"""C.J. Cron""",0,9,11
+sub,fielj003,"""Johnny Field""",0,8,9
+sub,pruia001,"""Austin Pruitt""",0,9,1
+sub,shucj001,"""J.B. Shuck""",1,9,11
+play,6,0,robed004,00,,NP
+sub,guert001,"""Tayron Guerrero""",1,9,1
+play,6,0,robed004,11,.BCX,S9/L
+play,6,0,hecha001,22,B1BFFX,9/F-
+play,6,0,fielj003,12,>FCB1FS,K
+play,6,0,pruia001,00,,NP
+sub,adamw002,"""Willy Adames""",0,9,11
+play,6,0,adamw002,21,.BBCX,S8/F-.1-3
+play,6,0,kierk001,10,BX,8/L+
+sub,woodh001,"""Hunter Wood""",0,9,1
+sub,lopep002,"""Pablo Lopez""",1,9,11
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+sub,barrk002,"""Kyle Barraclough""",1,9,1
+sub,gomec002,"""Carlos Gomez""",0,9,11
+sub,fielj003,"""Johnny Field""",0,8,7
+sub,gomec002,"""Carlos Gomez""",0,9,9
+sub,roe-c001,"""Chaz Roe""",0,5,1
+sub,dietd001,"""Derek Dietrich""",1,9,11
+play,10,0,robed004,00,,NP
+sub,maybc001,"""Cameron Maybin""",1,5,9
+play,10,0,robed004,00,,NP
+sub,dietd001,"""Derek Dietrich""",1,9,7
+play,10,0,robed004,00,,NP
+sub,herne002,"""Elieser Hernandez""",1,2,1
+play,10,0,robed004,31,...BBCBB,W
+play,10,0,hecha001,02,FFX,7/F
+play,10,0,fielj003,21,1B1FB>S,CS2(24)
+play,10,0,fielj003,22,1B1FB>S.C,K
+sub,romos001,"""Sergio Romo""",0,5,1
+sub,rivey001,"""Yadiel Rivera""",1,2,11
+sub,conla001,"""Adam Conley""",1,2,1
+sub,stanr002,"""Ryne Stanek""",0,5,1
+sub,holab001,"""Bryan Holaday""",1,2,2
+sub,realj001,"""J.T. Realmuto""",1,3,3
+sub,gravb001,"""Brett Graves""",1,4,1
+sub,nunov001,"""Vidal Nuno""",0,5,1
+play,16,0,fielj003,10,BX,S8/L
+play,16,0,gomec002,01,F1H,HP.1-2
+play,16,0,kierk001,00,X,64(1)5(2)/GDP
+play,16,0,duffm002,12,C>F1*B+1>B,SB2
+play,16,0,duffm002,32,C>F1*B+1>B.*BB,W
+play,16,0,bauej001,11,BCX,D9/L+.2-H;1-H
+play,16,0,ramow001,30,VVVV,IW
+play,16,0,nunov001,10,BX,S9/L.2-H;1-2
+play,16,0,robed004,00,,NP
+sub,eovan001,"""Nathan Eovaldi""",0,5,12
+play,16,0,robed004,32,CBC.BFBFX,D9/L.2-H;1-H
+play,16,0,hecha001,02,CSX,4/L
+sub,sucrj001,"""Jesus Sucre""",0,5,1
+sub,alvaj004,"""Jose Alvarado""",0,5,1
+sub,strad003,"""Dan Straily""",1,4,11

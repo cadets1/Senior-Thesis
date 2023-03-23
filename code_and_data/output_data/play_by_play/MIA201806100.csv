@@ -1,0 +1,39 @@
+id,MIA201806100
+info,visteam,SDN
+info,hometeam,MIA
+info,date,2018/06/10
+info,starttime,1:10PM
+start,jankt001,"""Travis Jankowski""",0,1,7
+start,hosme001,"""Eric Hosmer""",0,2,3
+start,pirej001,"""Jose Pirela""",0,3,4
+start,renfh001,"""Hunter Renfroe""",0,4,9
+start,villc002,"""Christian Villanueva""",0,5,5
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,margm001,"""Manuel Margot""",0,7,8
+start,loper002,"""Rafael Lopez""",0,8,2
+start,richc002,"""Clayton Richard""",0,9,1
+start,casts001,"""Starlin Castro""",1,1,4
+start,andeb006,"""Brian Anderson""",1,2,9
+start,realj001,"""J.T. Realmuto""",1,3,2
+start,bourj002,"""Justin Bour""",1,4,3
+start,maybc001,"""Cameron Maybin""",1,5,7
+start,brinl001,"""Lewis Brinson""",1,6,8
+start,rojam002,"""Miguel Rojas""",1,7,5
+start,riddj001,"""J.T. Riddle""",1,8,6
+start,urenj001,"""Jose Urena""",1,9,1
+sub,rivey001,"""Yadiel Rivera""",1,9,11
+play,7,0,galvf001,00,,NP
+sub,herne002,"""Elieser Hernandez""",1,9,1
+play,7,0,galvf001,22,.CFBFBX,8/L
+play,7,0,margm001,22,CBCBFX,S7/L
+play,7,0,loper002,32,FBTB*BB,W.1-2
+play,7,0,richc002,01,LX,14/BG/SH.2-3;1-2
+play,7,0,jankt001,10,B>3,POCSH(15)
+sub,dietd001,"""Derek Dietrich""",1,9,11
+sub,andeb006,"""Brian Anderson""",1,2,5
+sub,maybc001,"""Cameron Maybin""",1,5,9
+sub,rojam002,"""Miguel Rojas""",1,7,6
+sub,dietd001,"""Derek Dietrich""",1,9,7
+sub,guert001,"""Tayron Guerrero""",1,8,1
+sub,yatek001,"""Kirby Yates""",0,9,1
+sub,handb001,"""Brad Hand""",0,9,1

@@ -1,0 +1,67 @@
+id,MIA201804030
+info,visteam,BOS
+info,hometeam,MIA
+info,date,2018/04/03
+info,starttime,6:10PM
+start,nunee002,"""Eduardo Nunez""",0,1,4
+start,benia002,"""Andrew Benintendi""",0,2,7
+start,ramih003,"""Hanley Ramirez""",0,3,3
+start,martj006,"""J.D. Martinez""",0,4,9
+start,bogax001,"""Xander Bogaerts""",0,5,6
+start,dever001,"""Rafael Devers""",0,6,5
+start,vazqc001,"""Christian Vazquez""",0,7,2
+start,bradj001,"""Jackie Bradley""",0,8,8
+start,salec001,"""Chris Sale""",0,9,1
+start,brinl001,"""Lewis Brinson""",1,1,8
+start,dietd001,"""Derek Dietrich""",1,2,7
+start,casts001,"""Starlin Castro""",1,3,4
+start,andeb006,"""Brian Anderson""",1,4,5
+start,bourj002,"""Justin Bour""",1,5,3
+start,maybc001,"""Cameron Maybin""",1,6,9
+start,rojam002,"""Miguel Rojas""",1,7,6
+start,wallc001,"""Chad Wallach""",1,8,2
+start,urenj001,"""Jose Urena""",1,9,1
+play,1,0,nunee002,20,BBX,3/P
+play,1,0,benia002,31,BFBBB,W
+play,1,0,ramih003,10,B>C,SB2
+play,1,0,ramih003,22,B>C.FBFX,7/F
+play,1,0,martj006,30,BB*BX,S8/G+.2-H
+play,1,0,bogax001,32,BCSBFFB>S,K
+sub,poynb001,"""Bobby Poyner""",0,9,1
+play,7,1,andeb006,22,BFBFX,7/F
+play,7,1,bourj002,02,CCS,K
+play,7,1,maybc001,11,CBX,S7/L
+play,7,1,rojam002,00,,NP
+sub,smitc004,"""Carson Smith""",0,9,1
+play,7,1,rojam002,01,.11C1>B,SB2
+play,7,1,rojam002,12,.11C1>B..CFS,K
+play,8,0,bradj001,00,,NP
+sub,stecd001,"""Drew Steckenrider""",1,9,1
+play,8,0,bradj001,21,.FBBX,D8/L
+play,8,0,smitc004,00,,NP
+sub,morem001,"""Mitch Moreland""",0,9,11
+play,8,0,morem001,32,.BBF2FBX,8/F.2-3
+play,8,0,nunee002,00,X,FC4/G.3XH(42)
+play,8,0,benia002,11,1B1C>C,CS2(26)
+sub,kellj001,"""Joe Kelly""",0,9,1
+sub,telit001,"""Tomas Telis""",1,9,11
+sub,barrk002,"""Kyle Barraclough""",1,9,1
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+play,10,1,maybc001,00,,NP
+sub,kimbc001,"""Craig Kimbrel""",0,9,1
+play,10,1,maybc001,11,.CBX,43/G
+play,10,1,rojam002,00,X,S8/L
+play,10,1,wallc001,02,F1SFS,K
+play,10,1,ziegb001,00,,NP
+sub,rivey001,"""Yadiel Rivera""",1,9,11
+play,10,1,rivey001,22,.BSB>F>B,SB2
+play,10,1,rivey001,32,.BSB>F>B.B,W
+play,10,1,brinl001,20,BBX,9/F
+sub,despo001,"""Odrisamer Despaigne""",1,9,1
+sub,bettm001,"""Mookie Betts""",0,9,11
+sub,bettm001,"""Mookie Betts""",0,9,9
+sub,barnm001,"""Matt Barnes""",0,4,1
+sub,leons001,"""Sandy Leon""",0,4,2
+sub,hembh001,"""Heath Hembree""",0,7,1
+sub,holab001,"""Bryan Holaday""",1,9,11
+sub,guert001,"""Tayron Guerrero""",1,9,1

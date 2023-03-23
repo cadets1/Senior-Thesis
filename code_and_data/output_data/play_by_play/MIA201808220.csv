@@ -1,0 +1,44 @@
+id,MIA201808220
+info,visteam,NYA
+info,hometeam,MIA
+info,date,2018/08/22
+info,starttime,7:09PM
+start,gardb001,"""Brett Gardner""",0,1,7
+start,stanm004,"""Giancarlo Stanton""",0,2,9
+start,hicka001,"""Aaron Hicks""",0,3,8
+start,andum001,"""Miguel Andujar""",0,4,5
+start,walkn001,"""Neil Walker""",0,5,4
+start,torrg001,"""Gleyber Torres""",0,6,6
+start,birdg001,"""Greg Bird""",0,7,3
+start,romia002,"""Austin Romine""",0,8,2
+start,lynnl001,"""Lance Lynn""",0,9,1
+start,orter001,"""Rafael Ortega""",1,1,9
+start,realj001,"""J.T. Realmuto""",1,2,2
+start,andeb006,"""Brian Anderson""",1,3,5
+start,casts001,"""Starlin Castro""",1,4,4
+start,dietd001,"""Derek Dietrich""",1,5,3
+start,deana001,"""Austin Dean""",1,6,7
+start,rojam002,"""Miguel Rojas""",1,7,6
+start,sierm002,"""Magneuris Sierra""",1,8,8
+start,richt001,"""Trevor Richards""",1,9,1
+play,6,0,gardb001,02,CCX,S7/L
+play,6,0,stanm004,32,BCF11BB>S,K+SB2
+play,6,0,hicka001,31,C2B2BBX,S9/L.2-3;B-2(TH)
+play,6,0,andum001,30,B*BVV,IW
+play,6,0,walkn001,00,,NP
+sub,garcj006,"""Jarlin Garcia""",1,9,1
+play,6,0,walkn001,01,.CX,8/F/SF.3-H;2-3
+play,6,0,torrg001,01,SX,9/F
+sub,kahnt001,"""Tommy Kahnle""",0,9,1
+sub,rivey001,"""Yadiel Rivera""",1,9,11
+sub,conla001,"""Adam Conley""",1,9,1
+sub,voitl001,"""Luke Voit""",0,9,11
+sub,guert001,"""Tayron Guerrero""",1,9,1
+sub,adamc002,"""Chance Adams""",0,9,1
+sub,riddj001,"""J.T. Riddle""",1,9,11
+sub,colea002,"""A.J. Cole""",0,9,1
+sub,galli001,"""Isaac Galloway""",1,1,9
+sub,rojam002,"""Miguel Rojas""",1,7,3
+sub,riddj001,"""J.T. Riddle""",1,9,6
+sub,guerj002,"""Javy Guerra""",1,5,1
+sub,torrr001,"""Ronald Torreyes""",0,9,11
