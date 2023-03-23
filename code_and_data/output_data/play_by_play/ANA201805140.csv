@@ -1,0 +1,35 @@
+id,ANA201805140
+info,visteam,HOU
+info,hometeam,ANA
+info,date,2018/05/14
+info,starttime,7:08PM
+start,sprig001,"""George Springer""",0,1,8
+start,brega001,"""Alex Bregman""",0,2,5
+start,altuj001,"""Jose Altuve""",0,3,4
+start,corrc001,"""Carlos Correa""",0,4,6
+start,gurry001,"""Yulieski Gurriel""",0,5,3
+start,gatte001,"""Evan Gattis""",0,6,10
+start,reddj001,"""Josh Reddick""",0,7,9
+start,stasm001,"""Max Stassi""",0,8,2
+start,fishd001,"""Derek Fisher""",0,9,7
+start,mccul002,"""Lance McCullers""",0,0,1
+start,cozaz001,"""Zack Cozart""",1,1,5
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,10
+start,simma001,"""Andrelton Simmons""",1,5,6
+start,valbl001,"""Luis Valbuena""",1,6,3
+start,kinsi001,"""Ian Kinsler""",1,7,4
+start,calhk001,"""Kole Calhoun""",1,8,9
+start,maldm001,"""Martin Maldonado""",1,9,2
+start,heana001,"""Andrew Heaney""",1,0,1
+play,2,1,pujoa001,02,SFX,63/G
+play,2,1,simma001,12,BCCX,S9/L
+play,2,1,valbl001,22,B1FBS>B,SB2
+play,2,1,valbl001,32,B1FBS>B.X,S9/L.2-H
+play,2,1,kinsi001,12,BCFX,64(1)3/GDP
+sub,peacb001,"""Brad Peacock""",0,0,1
+sub,gonzm002,"""Marwin Gonzalez""",0,9,11
+sub,gonzm002,"""Marwin Gonzalez""",0,9,7
+sub,smitj002,"""Joe Smith""",0,0,1
+sub,andej005,"""Justin Anderson""",1,0,1

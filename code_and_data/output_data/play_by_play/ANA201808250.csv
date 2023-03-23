@@ -1,0 +1,39 @@
+id,ANA201808250
+info,visteam,HOU
+info,hometeam,ANA
+info,date,2018/08/25
+info,starttime,6:08PM
+start,brega001,"""Alex Bregman""",0,1,5
+start,altuj001,"""Jose Altuve""",0,2,4
+start,corrc001,"""Carlos Correa""",0,3,6
+start,whitt002,"""Tyler White""",0,4,10
+start,gonzm002,"""Marwin Gonzalez""",0,5,7
+start,gurry001,"""Yulieski Gurriel""",0,6,3
+start,reddj001,"""Josh Reddick""",0,7,9
+start,maldm001,"""Martin Maldonado""",0,8,2
+start,kempt001,"""Tony Kemp""",0,9,8
+start,verlj001,"""Justin Verlander""",0,0,1
+start,calhk001,"""Kole Calhoun""",1,1,9
+start,fletd002,"""David Fletcher""",1,2,4
+start,troum001,"""Mike Trout""",1,3,8
+start,ohtas001,"""Shohei Ohtani""",1,4,10
+start,pujoa001,"""Albert Pujols""",1,5,3
+start,simma001,"""Andrelton Simmons""",1,6,6
+start,arcif001,"""Francisco Arcia""",1,7,2
+start,wardt002,"""Taylor Ward""",1,8,5
+start,youne003,"""Eric Young""",1,9,7
+start,barrj003,"""Jaime Barria""",1,0,1
+play,2,1,ohtas001,02,FFX,D9/L
+play,2,1,pujoa001,02,TCX,53/G
+play,2,1,simma001,32,2C*BBCB>B,W+CS3(25)
+play,2,1,arcif001,11,FBX,9/F
+sub,alvaj003,"""Jose Alvarez""",1,0,1
+sub,johnj010,"""Jim Johnson""",1,0,1
+sub,buttt001,"""Ty Buttrey""",1,0,1
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,presr001,"""Ryan Pressly""",0,0,1
+sub,jerew001,"""Williams Jerez""",1,0,1
+sub,osunr001,"""Roberto Osuna""",0,0,1
+sub,mcgud001,"""Deck McGuire""",1,0,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,smitj002,"""Joe Smith""",0,0,1

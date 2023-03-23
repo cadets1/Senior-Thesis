@@ -1,0 +1,43 @@
+id,ANA201804070
+info,visteam,OAK
+info,hometeam,ANA
+info,date,2018/04/07
+info,starttime,6:08PM
+start,joycm001,"""Matt Joyce""",0,1,7
+start,semim001,"""Marcus Semien""",0,2,6
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,chapm001,"""Matt Chapman""",0,6,5
+start,maxwb001,"""Bruce Maxwell""",0,7,2
+start,piscs001,"""Stephen Piscotty""",0,8,9
+start,smolj002,"""Jake Smolinski""",0,9,8
+start,triga001,"""Andrew Triggs""",0,0,1
+start,cozaz001,"""Zack Cozart""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,10
+start,calhk001,"""Kole Calhoun""",1,5,9
+start,simma001,"""Andrelton Simmons""",1,6,6
+start,valbl001,"""Luis Valbuena""",1,7,5
+start,martj007,"""Jefry Marte""",1,8,3
+start,river003,"""Rene Rivera""",1,9,2
+start,ramij002,"""J.C. Ramirez""",1,0,1
+play,2,0,olsom001,12,CFBFX,7/F
+play,2,0,chapm001,31,BFBB*B,W
+play,2,0,maxwb001,00,1X,8/L+
+play,2,0,piscs001,00,X,D7/L+.1-H
+play,2,0,smolj002,10,BB,PB.2-3
+play,2,0,smolj002,32,BB.CCF*BB,W
+play,2,0,joycm001,12,SF*B*B,SB2
+play,2,0,joycm001,32,SF*B*B.BFB,W
+play,2,0,semim001,11,CBX,S8/L.3-H;2-H;1-2
+play,2,0,lowrj001,32,BTBFB>S,K
+sub,morra001,"""Akeel Morris""",1,0,1
+sub,bardl001,"""Luke Bard""",1,0,1
+sub,buchr001,"""Ryan Buchter""",0,0,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,pagae001,"""Emilio Pagan""",0,0,1
+sub,treib001,"""Blake Treinen""",0,0,1
+sub,ramin002,"""Noe Ramirez""",1,0,1
+sub,schir001,"""Ryan Schimpf""",1,8,11

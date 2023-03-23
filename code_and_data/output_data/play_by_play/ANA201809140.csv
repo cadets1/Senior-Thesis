@@ -1,0 +1,43 @@
+id,ANA201809140
+info,visteam,SEA
+info,hometeam,ANA
+info,date,2018/09/14
+info,starttime,7:08PM
+start,hanim001,"""Mitch Haniger""",0,1,9
+start,seguj002,"""Jean Segura""",0,2,6
+start,canor001,"""Robinson Cano""",0,3,4
+start,cruzn002,"""Nelson Cruz""",0,4,10
+start,spand001,"""Denard Span""",0,5,7
+start,healr001,"""Ryon Healy""",0,6,3
+start,seagk001,"""Kyle Seager""",0,7,5
+start,zunim001,"""Mike Zunino""",0,8,2
+start,gordd002,"""Dee Gordon""",0,9,8
+start,eliar001,"""Roenis Elias""",0,0,1
+start,calhk001,"""Kole Calhoun""",1,1,9
+start,fletd002,"""David Fletcher""",1,2,4
+start,troum001,"""Mike Trout""",1,3,8
+start,ohtas001,"""Shohei Ohtani""",1,4,10
+start,uptoj001,"""Justin Upton""",1,5,7
+start,simma001,"""Andrelton Simmons""",1,6,6
+start,fernj004,"""Jose Miguel Fernandez""",1,7,3
+start,wardt002,"""Taylor Ward""",1,8,5
+start,bricj001,"""Jose Briceno""",1,9,2
+start,shoem001,"""Matt Shoemaker""",1,0,1
+sub,warra001,"""Adam Warren""",0,0,1
+play,5,0,zunim001,21,BBFX,D7/L+
+play,5,0,gordd002,22,*BLFFBS,K
+play,5,0,hanim001,32,BS*BBSS,K
+play,5,0,seguj002,01,CX,E5/FO/G.2-3
+play,5,0,canor001,00,,NP
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+play,5,0,canor001,12,.CBC>B,CS2(26)
+sub,armss001,"""Shawn Armstrong""",0,0,1
+sub,roblh001,"""Hansel Robles""",1,0,1
+sub,vincn001,"""Nick Vincent""",0,0,1
+sub,hereg002,"""Guillermo Heredia""",0,9,8
+sub,almom001,"""Miguel Almonte""",1,0,1
+sub,negrk001,"""Kristopher Negron""",0,4,12
+sub,dukez001,"""Zach Duke""",0,0,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,cookr001,"""Ryan Cook""",0,0,1
+sub,arcif001,"""Francisco Arcia""",1,9,11

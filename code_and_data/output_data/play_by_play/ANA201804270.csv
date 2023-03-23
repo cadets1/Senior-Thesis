@@ -1,0 +1,42 @@
+id,ANA201804270
+info,visteam,NYA
+info,hometeam,ANA
+info,date,2018/04/27
+info,starttime,7:08PM
+start,hicka001,"""Aaron Hicks""",0,1,8
+start,judga001,"""Aaron Judge""",0,2,9
+start,gregd001,"""Didi Gregorius""",0,3,6
+start,stanm004,"""Giancarlo Stanton""",0,4,7
+start,sancg002,"""Gary Sanchez""",0,5,2
+start,walkn001,"""Neil Walker""",0,6,3
+start,andum001,"""Miguel Andujar""",0,7,10
+start,torrg001,"""Gleyber Torres""",0,8,4
+start,torrr001,"""Ronald Torreyes""",0,9,5
+start,sevel001,"""Luis Severino""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,ohtas001,"""Shohei Ohtani""",1,5,10
+start,simma001,"""Andrelton Simmons""",1,6,6
+start,cozaz001,"""Zack Cozart""",1,7,5
+start,calhk001,"""Kole Calhoun""",1,8,9
+start,maldm001,"""Martin Maldonado""",1,9,2
+start,heana001,"""Andrew Heaney""",1,0,1
+play,1,1,kinsi001,31,BBBCB,W
+play,1,1,troum001,10,B1>B,CS2(24)
+play,1,1,troum001,22,B1>B.FSX,7/F
+play,1,1,uptoj001,22,CFBBS,K
+sub,johnj010,"""Jim Johnson""",1,0,1
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+sub,valbl001,"""Luis Valbuena""",1,5,11
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,holdj002,"""Jonathan Holder""",0,0,1
+sub,middk001,"""Keynan Middleton""",1,0,1
+sub,gardb001,"""Brett Gardner""",0,9,11
+sub,andum001,"""Miguel Andujar""",0,7,5
+sub,robed002,"""David Robertson""",0,9,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,chapa001,"""Aroldis Chapman""",0,9,1
+sub,martj007,"""Jefry Marte""",1,5,11
+sub,younc004,"""Chris Young""",1,8,11

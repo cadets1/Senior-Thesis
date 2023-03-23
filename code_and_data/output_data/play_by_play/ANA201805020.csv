@@ -1,0 +1,46 @@
+id,ANA201805020
+info,visteam,BAL
+info,hometeam,ANA
+info,date,2018/05/02
+info,starttime,7:07PM
+start,manct001,"""Trey Mancini""",0,1,7
+start,gentc001,"""Craig Gentry""",0,2,9
+start,machm001,"""Manny Machado""",0,3,6
+start,jonea003,"""Adam Jones""",0,4,8
+start,valed001,"""Danny Valencia""",0,5,5
+start,trumm001,"""Mark Trumbo""",0,6,10
+start,davic003,"""Chris Davis""",0,7,3
+start,josec002,"""Caleb Joseph""",0,8,2
+start,viele001,"""Engelb Vielma""",0,9,4
+start,bundd001,"""Dylan Bundy""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,ohtas001,"""Shohei Ohtani""",1,5,10
+start,simma001,"""Andrelton Simmons""",1,6,6
+start,cozaz001,"""Zack Cozart""",1,7,5
+start,calhk001,"""Kole Calhoun""",1,8,9
+start,maldm001,"""Martin Maldonado""",1,9,2
+start,heana001,"""Andrew Heaney""",1,0,1
+play,2,1,simma001,01,CX,S9/L
+play,2,1,cozaz001,22,F1BB>F>F11>B,SB2
+play,2,1,cozaz001,32,F1BB>F>F11>B.FFFFS,K
+play,2,1,calhk001,12,SFBS,K
+play,2,1,maldm001,32,BBBCSX,9/F
+sub,wrigm001,"""Mike Wright""",0,0,1
+sub,ramin002,"""Noe Ramirez""",1,0,1
+sub,araup001,"""Pedro Araujo""",0,0,1
+sub,valbl001,"""Luis Valbuena""",1,6,11
+sub,younc004,"""Chris Young""",1,2,8
+sub,valbl001,"""Luis Valbuena""",1,6,5
+sub,cozaz001,"""Zack Cozart""",1,7,6
+sub,morra001,"""Akeel Morris""",1,0,1
+sub,martj007,"""Jefry Marte""",1,1,11
+sub,martj007,"""Jefry Marte""",1,1,3
+sub,schir001,"""Ryan Schimpf""",1,4,4
+sub,paree001,"""Eduardo Paredes""",1,0,1
+sub,santa003,"""Anthony Santander""",0,8,11
+sub,petej002,"""Jace Peterson""",0,9,11
+sub,johnj010,"""Jim Johnson""",1,0,1
+sub,alvap001,"""Pedro Alvarez""",0,2,11

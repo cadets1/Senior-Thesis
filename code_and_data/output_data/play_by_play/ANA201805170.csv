@@ -1,0 +1,51 @@
+id,ANA201805170
+info,visteam,TBA
+info,hometeam,ANA
+info,date,2018/05/17
+info,starttime,7:08PM
+start,spand001,"""Denard Span""",0,1,7
+start,cronc002,"""C.J. Cron""",0,2,10
+start,robed004,"""Daniel Robertson""",0,3,4
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,hecha001,"""Adeiny Hechavarria""",0,5,6
+start,millb002,"""Brad Miller""",0,6,3
+start,arroc001,"""Christian Arroyo""",0,7,5
+start,fielj003,"""Johnny Field""",0,8,8
+start,refsr001,"""Rob Refsnyder""",0,9,9
+start,archc001,"""Chris Archer""",0,0,1
+start,cozaz001,"""Zack Cozart""",1,1,5
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,ohtas001,"""Shohei Ohtani""",1,5,10
+start,simma001,"""Andrelton Simmons""",1,6,6
+start,kinsi001,"""Ian Kinsler""",1,7,4
+start,calhk001,"""Kole Calhoun""",1,8,9
+start,maldm001,"""Martin Maldonado""",1,9,2
+start,skagt001,"""Tyler Skaggs""",1,0,1
+sub,wendj002,"""Joey Wendle""",0,5,12
+sub,robed004,"""Daniel Robertson""",0,3,6
+sub,wendj002,"""Joey Wendle""",0,5,4
+sub,younc004,"""Chris Young""",1,3,12
+play,7,0,fielj003,00,,NP
+sub,younc004,"""Chris Young""",1,3,7
+play,7,0,fielj003,00,,NP
+sub,johnj010,"""Jim Johnson""",1,0,1
+play,7,0,fielj003,22,..SBBCX,S7/G
+play,7,0,refsr001,00,,NP
+sub,smitm007,"""Mallex Smith""",0,9,11
+play,7,0,smitm007,21,.B1SBX,7/F
+play,7,0,spand001,22,B*B1CC1FX,HR/9/L.1-H
+play,7,0,cronc002,32,BBCBFX,S5/G
+play,7,0,robed004,10,*B>S,SB2
+play,7,0,robed004,21,*B>S.BX,S8/G.2-H
+play,7,0,ramow001,00,,NP
+sub,penaf002,"""Felix Pena""",1,0,1
+play,7,0,ramow001,12,.BCS1FS,K
+play,7,0,wendj002,12,FFBX,S34/G.1-3
+play,7,0,millb002,22,*BBFFFX,E5/P.3-H(NR)(UR);1XH(62)
+sub,fielj003,"""Johnny Field""",0,8,9
+sub,smitm007,"""Mallex Smith""",0,9,8
+sub,pruia001,"""Austin Pruitt""",0,0,1
+sub,martj007,"""Jefry Marte""",1,4,3
+sub,paree001,"""Eduardo Paredes""",1,0,1

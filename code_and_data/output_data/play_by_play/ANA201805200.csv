@@ -1,0 +1,47 @@
+id,ANA201805200
+info,visteam,TBA
+info,hometeam,ANA
+info,date,2018/05/20
+info,starttime,1:09PM
+start,spand001,"""Denard Span""",0,1,7
+start,cronc002,"""C.J. Cron""",0,2,10
+start,wendj002,"""Joey Wendle""",0,3,4
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,millb002,"""Brad Miller""",0,5,3
+start,duffm002,"""Matt Duffy""",0,6,5
+start,smitm007,"""Mallex Smith""",0,7,8
+start,robed004,"""Daniel Robertson""",0,8,6
+start,fielj003,"""Johnny Field""",0,9,9
+start,romos001,"""Sergio Romo""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,10
+start,uptoj001,"""Justin Upton""",1,3,7
+start,simma001,"""Andrelton Simmons""",1,4,6
+start,cozaz001,"""Zack Cozart""",1,5,5
+start,martj007,"""Jefry Marte""",1,6,3
+start,maldm001,"""Martin Maldonado""",1,7,2
+start,younc004,"""Chris Young""",1,8,8
+start,hermm001,"""Michael Hermosillo""",1,9,9
+start,ohtas001,"""Shohei Ohtani""",1,0,1
+play,1,1,kinsi001,31,CBBBB,W
+play,1,1,troum001,00,>B,SB2
+play,1,1,troum001,32,>B.BBCCS,K
+play,1,1,uptoj001,22,CBBFS,K
+play,1,1,simma001,01,SX,53/G
+sub,andrm001,"""Matt Andriese""",0,0,1
+sub,valbl001,"""Luis Valbuena""",1,6,11
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+sub,valbl001,"""Luis Valbuena""",1,6,3
+play,5,1,troum001,32,BSBSBB,W
+play,5,1,uptoj001,12,CS1B>S,K+SB2
+play,5,1,simma001,10,B>B,SB3
+play,5,1,simma001,30,B>B.*BB,W
+play,5,1,cozaz001,21,BBCX,9/F/SF.3-H;1-2
+play,5,1,valbl001,00,,NP
+sub,banda001,"""Anthony Banda""",0,0,1
+play,5,1,valbl001,32,.F*BBF*BS,K
+sub,calhk001,"""Kole Calhoun""",1,9,9
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,refsr001,"""Rob Refsnyder""",0,4,12
+sub,sucrj001,"""Jesus Sucre""",0,4,2
+sub,parkb001,"""Blake Parker""",1,0,1

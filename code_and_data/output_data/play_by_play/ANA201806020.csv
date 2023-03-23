@@ -1,0 +1,40 @@
+id,ANA201806020
+info,visteam,TEX
+info,hometeam,ANA
+info,date,2018/06/02
+info,starttime,6:27PM
+start,choos001,"""Shin-Soo Choo""",0,1,9
+start,profj001,"""Jurickson Profar""",0,2,6
+start,mazan001,"""Nomar Mazara""",0,3,10
+start,belta001,"""Adrian Beltre""",0,4,5
+start,gallj002,"""Joey Gallo""",0,5,7
+start,odorr001,"""Rougned Odor""",0,6,4
+start,chirr001,"""Robinson Chirinos""",0,7,2
+start,guzmr001,"""Ronald Guzman""",0,8,3
+start,deshd002,"""Delino DeShields""",0,9,8
+start,hamec001,"""Cole Hamels""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,simma001,"""Andrelton Simmons""",1,5,6
+start,ohtas001,"""Shohei Ohtani""",1,6,10
+start,martj007,"""Jefry Marte""",1,7,5
+start,maldm001,"""Martin Maldonado""",1,8,2
+start,hermm001,"""Michael Hermosillo""",1,9,9
+start,richg002,"""Garrett Richards""",1,0,1
+play,6,1,kinsi001,12,CCBX,HR/7/F
+play,6,1,troum001,22,BFSFBFFX,S8/L+
+play,6,1,uptoj001,11,BF1,SB2
+play,6,1,uptoj001,11,BF1.X,7/F.2-3
+play,6,1,pujoa001,20,BBX,9/F
+play,6,1,simma001,10,BX,53/G
+sub,cowak001,"""Kaleb Cowart""",1,7,5
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,leclj001,"""Jose Leclerc""",0,0,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,toccc001,"""Carlos Tocci""",0,3,12
+sub,diekj001,"""Jake Diekman""",0,0,1
+sub,alvaj003,"""Jose Alvarez""",1,0,1
+sub,kelak001,"""Keone Kela""",0,0,1
+sub,valbl001,"""Luis Valbuena""",1,9,11

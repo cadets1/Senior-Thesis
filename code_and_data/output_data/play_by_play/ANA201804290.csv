@@ -1,0 +1,36 @@
+id,ANA201804290
+info,visteam,NYA
+info,hometeam,ANA
+info,date,2018/04/29
+info,starttime,5:08PM
+start,gardb001,"""Brett Gardner""",0,1,7
+start,judga001,"""Aaron Judge""",0,2,9
+start,gregd001,"""Didi Gregorius""",0,3,6
+start,stanm004,"""Giancarlo Stanton""",0,4,10
+start,sancg002,"""Gary Sanchez""",0,5,2
+start,hicka001,"""Aaron Hicks""",0,6,8
+start,walkn001,"""Neil Walker""",0,7,3
+start,andum001,"""Miguel Andujar""",0,8,5
+start,torrg001,"""Gleyber Torres""",0,9,4
+start,sabac001,"""CC Sabathia""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,simma001,"""Andrelton Simmons""",1,5,10
+start,cozaz001,"""Zack Cozart""",1,6,6
+start,martj007,"""Jefry Marte""",1,7,5
+start,younc004,"""Chris Young""",1,8,9
+start,river003,"""Rene Rivera""",1,9,2
+start,skagt001,"""Tyler Skaggs""",1,0,1
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,alvaj003,"""Jose Alvarez""",1,0,1
+sub,greec003,"""Chad Green""",0,0,1
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+play,9,1,martj007,00,,NP
+sub,chapa001,"""Aroldis Chapman""",0,0,1
+play,9,1,martj007,12,.FFBX,9/F
+play,9,1,younc004,31,BBBCB,W
+play,9,1,river003,22,B1FBFS,K
+play,9,1,kinsi001,02,CFFFF>B,SB2
+play,9,1,kinsi001,12,CFFFF>B.S,K

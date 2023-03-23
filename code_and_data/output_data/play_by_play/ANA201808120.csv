@@ -1,0 +1,47 @@
+id,ANA201808120
+info,visteam,OAK
+info,hometeam,ANA
+info,date,2018/08/12
+info,starttime,1:08PM
+start,martn003,"""Nick Martini""",0,1,7
+start,chapm001,"""Matt Chapman""",0,2,5
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,canhm001,"""Mark Canha""",0,6,8
+start,semim001,"""Marcus Semien""",0,7,6
+start,pindc001,"""Chad Pinder""",0,8,9
+start,phegj001,"""Josh Phegley""",0,9,2
+start,cahit001,"""Trevor Cahill""",0,0,1
+start,calhk001,"""Kole Calhoun""",1,1,9
+start,uptoj001,"""Justin Upton""",1,2,7
+start,ohtas001,"""Shohei Ohtani""",1,3,10
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,fernj004,"""Jose Miguel Fernandez""",1,5,5
+start,fletd002,"""David Fletcher""",1,6,6
+start,cowak001,"""Kaleb Cowart""",1,7,4
+start,arcif001,"""Francisco Arcia""",1,8,2
+start,youne003,"""Eric Young""",1,9,8
+start,colet001,"""Taylor Cole""",1,0,1
+sub,alvaj003,"""Jose Alvarez""",1,0,1
+sub,johnj010,"""Jim Johnson""",1,0,1
+sub,roblh001,"""Hansel Robles""",1,0,1
+play,5,1,uptoj001,10,BH,HP
+play,5,1,ohtas001,02,CS*B,SB2
+play,5,1,ohtas001,32,CS*B.BBFS,K
+play,5,1,pujoa001,00,X,53/G
+play,5,1,fernj004,01,SX,D9/L.2-H
+play,5,1,fletd002,00,,NP
+sub,petiy001,"""Yusmeiro Petit""",0,0,1
+play,5,1,fletd002,12,.BCFT,K
+sub,paree001,"""Eduardo Paredes""",1,0,1
+sub,buchr001,"""Ryan Buchter""",0,0,1
+sub,trivl001,"""Lou Trivino""",0,0,1
+sub,rodnf001,"""Fernando Rodney""",0,0,1
+sub,jerew001,"""Williams Jerez""",1,0,1
+sub,laurr001,"""Ramon Laureano""",0,1,11
+sub,laurr001,"""Ramon Laureano""",0,1,8
+sub,canhm001,"""Mark Canha""",0,6,7
+sub,famij001,"""Jeurys Familia""",0,0,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,treib001,"""Blake Treinen""",0,0,1

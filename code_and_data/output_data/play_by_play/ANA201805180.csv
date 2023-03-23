@@ -1,0 +1,37 @@
+id,ANA201805180
+info,visteam,TBA
+info,hometeam,ANA
+info,date,2018/05/18
+info,starttime,7:08PM
+start,spand001,"""Denard Span""",0,1,7
+start,cronc002,"""C.J. Cron""",0,2,10
+start,wendj002,"""Joey Wendle""",0,3,4
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,millb002,"""Brad Miller""",0,5,3
+start,robed004,"""Daniel Robertson""",0,6,6
+start,smitm007,"""Mallex Smith""",0,7,8
+start,arroc001,"""Christian Arroyo""",0,8,5
+start,fielj003,"""Johnny Field""",0,9,9
+start,snelb001,"""Blake Snell""",0,0,1
+start,cozaz001,"""Zack Cozart""",1,1,4
+start,simma001,"""Andrelton Simmons""",1,2,6
+start,troum001,"""Mike Trout""",1,3,8
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,ohtas001,"""Shohei Ohtani""",1,5,10
+start,martj007,"""Jefry Marte""",1,6,5
+start,maldm001,"""Martin Maldonado""",1,7,2
+start,younc004,"""Chris Young""",1,8,7
+start,hermm001,"""Michael Hermosillo""",1,9,9
+start,tropn001,"""Nick Tropeano""",1,0,1
+sub,ramin002,"""Noe Ramirez""",1,0,1
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,alvaj003,"""Jose Alvarez""",1,0,1
+sub,roe-c001,"""Chaz Roe""",0,0,1
+sub,paree001,"""Eduardo Paredes""",1,0,1
+sub,ventj001,"""Jonny Venters""",0,0,1
+play,9,0,smitm007,12,SSFFBFX,S3/G
+play,9,0,arroc001,00,>B,SB2
+play,9,0,arroc001,10,>B.X,43/G.2-3
+play,9,0,fielj003,22,CBBLX,S7/L.3-H
+play,9,0,spand001,00,X,46(1)3/GDP

@@ -1,0 +1,46 @@
+id,ANA201806040
+info,visteam,KCA
+info,hometeam,ANA
+info,date,2018/06/04
+info,starttime,7:07PM
+start,jay-j001,"""Jon Jay""",0,1,10
+start,merrw001,"""Whit Merrifield""",0,2,4
+start,mousm001,"""Mike Moustakas""",0,3,5
+start,peres002,"""Salvador Perez""",0,4,2
+start,solej001,"""Jorge Soler""",0,5,9
+start,gorda001,"""Alex Gordon""",0,6,7
+start,dozih001,"""Hunter Dozier""",0,7,3
+start,escoa003,"""Alcides Escobar""",0,8,6
+start,almoa001,"""Abraham Almonte""",0,9,8
+start,duffd001,"""Danny Duffy""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,10
+start,simma001,"""Andrelton Simmons""",1,5,6
+start,cozaz001,"""Zack Cozart""",1,6,5
+start,martj007,"""Jefry Marte""",1,7,3
+start,maldm001,"""Martin Maldonado""",1,8,2
+start,younc004,"""Chris Young""",1,9,9
+start,tropn001,"""Nick Tropeano""",1,0,1
+play,2,0,gorda001,00,X,8/F+
+play,2,0,dozih001,10,BX,D7/G
+play,2,0,escoa003,22,BCSFBX,S8/G.2-H
+play,2,0,almoa001,22,BCSB1>B,SB2
+play,2,0,almoa001,32,BCSB1>B.X,31/G.2-3
+play,2,0,jay-j001,11,CBX,S7/G.3-H
+play,2,0,merrw001,20,*BBX,9/F
+sub,johnj010,"""Jim Johnson""",1,0,1
+sub,alvaj003,"""Jose Alvarez""",1,0,1
+sub,mccak002,"""Kevin McCarthy""",0,0,1
+sub,ohtas001,"""Shohei Ohtani""",1,9,11
+sub,hermm001,"""Michael Hermosillo""",1,9,9
+sub,ramin002,"""Noe Ramirez""",1,0,1
+sub,adamj002,"""Jason Adam""",0,0,1
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+sub,hillt002,"""Tim Hill""",0,0,1
+sub,cowak001,"""Kaleb Cowart""",1,8,12
+sub,smitb005,"""Burch Smith""",0,0,1
+sub,bricj001,"""Jose Briceno""",1,7,2
+sub,cowak001,"""Kaleb Cowart""",1,8,3
+sub,parkb001,"""Blake Parker""",1,0,1

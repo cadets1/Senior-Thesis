@@ -1,0 +1,43 @@
+id,ANA201804200
+info,visteam,SFN
+info,hometeam,ANA
+info,date,2018/04/20
+info,starttime,7:08PM
+start,jacka001,"""Austin Jackson""",0,1,8
+start,panij002,"""Joe Panik""",0,2,4
+start,mccua001,"""Andrew McCutchen""",0,3,10
+start,poseb001,"""Buster Posey""",0,4,3
+start,longe001,"""Evan Longoria""",0,5,5
+start,hundn001,"""Nick Hundley""",0,6,2
+start,willm008,"""Mac Williamson""",0,7,7
+start,herng001,"""Gorkys Hernandez""",0,8,9
+start,tomlk001,"""Kelby Tomlinson""",0,9,6
+start,samaj001,"""Jeff Samardzija""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,3
+start,valbl001,"""Luis Valbuena""",1,5,5
+start,ohtas001,"""Shohei Ohtani""",1,6,10
+start,simma001,"""Andrelton Simmons""",1,7,6
+start,calhk001,"""Kole Calhoun""",1,8,9
+start,maldm001,"""Martin Maldonado""",1,9,2
+start,heana001,"""Andrew Heaney""",1,0,1
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+play,5,1,simma001,32,CBBBCFB,W
+play,5,1,calhk001,10,B>C,SB2
+play,5,1,calhk001,32,B>C.BFBB,W
+play,5,1,maldm001,12,BSSS,K
+play,5,1,kinsi001,21,CBBX,8/F.2-3
+play,5,1,troum001,30,BBBB,W.1-2
+play,5,1,uptoj001,00,X,7/F+
+sub,moror001,"""Reyes Moronta""",0,0,1
+sub,parkb001,"""Blake Parker""",1,0,1
+sub,ramin002,"""Noe Ramirez""",1,0,1
+sub,johnp001,"""Pierce Johnson""",0,0,1
+sub,martj007,"""Jefry Marte""",1,4,12
+sub,younc004,"""Chris Young""",1,2,8
+sub,martj007,"""Jefry Marte""",1,4,3
+sub,bardl001,"""Luke Bard""",1,0,1
+sub,sandp001,"""Pablo Sandoval""",0,3,11
+sub,osicj001,"""Josh Osich""",0,0,1

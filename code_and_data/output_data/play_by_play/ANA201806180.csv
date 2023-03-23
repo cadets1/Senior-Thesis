@@ -1,0 +1,40 @@
+id,ANA201806180
+info,visteam,ARI
+info,hometeam,ANA
+info,date,2018/06/18
+info,starttime,7:08PM
+start,jay-j001,"""Jon Jay""",0,1,9
+start,goldp001,"""Paul Goldschmidt""",0,2,3
+start,lambj001,"""Jake Lamb""",0,3,5
+start,perad001,"""David Peralta""",0,4,7
+start,descd001,"""Daniel Descalso""",0,5,10
+start,martk001,"""Ketel Marte""",0,6,4
+start,ahmen001,"""Nick Ahmed""",0,7,6
+start,mathj001,"""Jeff Mathis""",0,8,2
+start,dysoj001,"""Jarrod Dyson""",0,9,8
+start,greiz001,"""Zack Greinke""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,troum001,"""Mike Trout""",1,2,8
+start,uptoj001,"""Justin Upton""",1,3,7
+start,pujoa001,"""Albert Pujols""",1,4,10
+start,fernj004,"""Jose Miguel Fernandez""",1,5,3
+start,simma001,"""Andrelton Simmons""",1,6,6
+start,valbl001,"""Luis Valbuena""",1,7,5
+start,maldm001,"""Martin Maldonado""",1,8,2
+start,calhk001,"""Kole Calhoun""",1,9,9
+start,barrj003,"""Jaime Barria""",1,0,1
+play,1,1,kinsi001,20,BBX,3/P3F
+play,1,1,troum001,32,BCBFB*B,W
+play,1,1,uptoj001,32,CFBFBB>F>C,K+CS2(24)/DP
+sub,ramin002,"""Noe Ramirez""",1,0,1
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,hiray001,"""Yoshihisa Hirano""",0,0,1
+sub,morra001,"""Akeel Morris""",1,0,1
+sub,delaj001,"""Jorge de la Rosa""",0,0,1
+sub,fletd002,"""David Fletcher""",1,5,11
+sub,bricj001,"""Jose Briceno""",1,7,11
+sub,younc004,"""Chris Young""",1,9,11
+sub,brada001,"""Archie Bradley""",0,0,1
+sub,fletd002,"""David Fletcher""",1,5,5
+sub,bricj001,"""Jose Briceno""",1,7,3
+sub,younc004,"""Chris Young""",1,9,9

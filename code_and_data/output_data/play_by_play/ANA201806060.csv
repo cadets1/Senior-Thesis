@@ -1,0 +1,36 @@
+id,ANA201806060
+info,visteam,KCA
+info,hometeam,ANA
+info,date,2018/06/06
+info,starttime,7:08PM
+start,merrw001,"""Whit Merrifield""",0,1,8
+start,escoa003,"""Alcides Escobar""",0,2,6
+start,mousm001,"""Mike Moustakas""",0,3,5
+start,peres002,"""Salvador Perez""",0,4,2
+start,solej001,"""Jorge Soler""",0,5,9
+start,gorda001,"""Alex Gordon""",0,6,7
+start,dozih001,"""Hunter Dozier""",0,7,3
+start,goinr001,"""Ryan Goins""",0,8,4
+start,almoa001,"""Abraham Almonte""",0,9,10
+start,kenni001,"""Ian Kennedy""",0,0,1
+start,kinsi001,"""Ian Kinsler""",1,1,4
+start,cozaz001,"""Zack Cozart""",1,2,6
+start,troum001,"""Mike Trout""",1,3,8
+start,uptoj001,"""Justin Upton""",1,4,10
+start,valbl001,"""Luis Valbuena""",1,5,3
+start,maldm001,"""Martin Maldonado""",1,6,2
+start,younc004,"""Chris Young""",1,7,7
+start,cowak001,"""Kaleb Cowart""",1,8,5
+start,hermm001,"""Michael Hermosillo""",1,9,9
+start,ohtas001,"""Shohei Ohtani""",1,0,1
+play,5,0,merrw001,00,,NP
+sub,johnj010,"""Jim Johnson""",1,0,1
+play,5,0,merrw001,12,.BCFX,S8/L
+play,5,0,escoa003,10,11B1>C,CS2(24)
+play,5,0,escoa003,11,11B1>C.X,63/G
+play,5,0,mousm001,22,BCBSS,K23
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+sub,barls001,"""Scott Barlow""",0,0,1
+sub,alvaj003,"""Jose Alvarez""",1,0,1
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,parkb001,"""Blake Parker""",1,0,1

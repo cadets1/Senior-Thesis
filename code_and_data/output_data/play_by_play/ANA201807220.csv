@@ -1,0 +1,45 @@
+id,ANA201807220
+info,visteam,HOU
+info,hometeam,ANA
+info,date,2018/07/22
+info,starttime,1:08PM
+start,sprig001,"""George Springer""",0,1,9
+start,brega001,"""Alex Bregman""",0,2,6
+start,altuj001,"""Jose Altuve""",0,3,4
+start,gurry001,"""Yulieski Gurriel""",0,4,3
+start,gatte001,"""Evan Gattis""",0,5,10
+start,gonzm002,"""Marwin Gonzalez""",0,6,7
+start,davij006,"""J.D. Davis""",0,7,5
+start,fedet001,"""Tim Federowicz""",0,8,2
+start,kempt001,"""Tony Kemp""",0,9,8
+start,mccul002,"""Lance McCullers""",0,0,1
+start,calhk001,"""Kole Calhoun""",1,1,9
+start,simma001,"""Andrelton Simmons""",1,2,6
+start,troum001,"""Mike Trout""",1,3,8
+start,uptoj001,"""Justin Upton""",1,4,7
+start,ohtas001,"""Shohei Ohtani""",1,5,10
+start,kinsi001,"""Ian Kinsler""",1,6,4
+start,valbl001,"""Luis Valbuena""",1,7,3
+start,bricj001,"""Jose Briceno""",1,8,2
+start,fletd002,"""David Fletcher""",1,9,5
+start,heana001,"""Andrew Heaney""",1,0,1
+play,1,1,calhk001,12,FBFS,K
+play,1,1,simma001,01,FX,63/G
+play,1,1,troum001,22,CBCFFBX,S7/L
+play,1,1,uptoj001,21,C*BB>C,SB2
+play,1,1,uptoj001,32,C*BB>C.BFC,K
+sub,perec004,"""Cionel Perez""",0,0,1
+sub,peacb001,"""Brad Peacock""",0,0,1
+sub,bedrc001,"""Cam Bedrosian""",1,0,1
+sub,andej005,"""Justin Anderson""",1,0,1
+sub,harrw002,"""Will Harris""",0,0,1
+sub,devec001,"""Chris Devenski""",0,0,1
+sub,smitj002,"""Joe Smith""",0,0,1
+sub,calhk001,"""Kole Calhoun""",1,1,8
+sub,blasj001,"""Jabari Blash""",1,3,9
+sub,johnj010,"""Jim Johnson""",1,0,1
+sub,mcgud001,"""Deck McGuire""",1,0,1
+sub,tuckk001,"""Kyle Tucker""",0,5,7
+sub,gonzm002,"""Marwin Gonzalez""",0,6,5
+sub,davij006,"""J.D. Davis""",0,7,1
+sub,stasm001,"""Max Stassi""",0,3,12
