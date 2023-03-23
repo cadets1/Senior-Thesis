@@ -1,0 +1,64 @@
+id,CIN201805010
+info,visteam,MIL
+info,hometeam,CIN
+info,date,2018/05/01
+info,starttime,7:11PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,9
+start,braur002,"""Ryan Braun""",0,3,7
+start,shawt001,"""Travis Shaw""",0,4,5
+start,aguij001,"""Jesus Aguilar""",0,5,3
+start,pinam001,"""Manny Pina""",0,6,2
+start,villj001,"""Jonathan Villar""",0,7,4
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,andec001,"""Chase Anderson""",0,9,1
+start,peraj003,"""Jose Peraza""",1,1,6
+start,duvaa001,"""Adam Duvall""",1,2,7
+start,vottj001,"""Joey Votto""",1,3,3
+start,sches001,"""Scott Schebler""",1,4,9
+start,suare001,"""Eugenio Suarez""",1,5,5
+start,barnt001,"""Tucker Barnhart""",1,6,2
+start,herrr002,"""Rosell Herrera""",1,7,4
+start,bailh001,"""Homer Bailey""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+play,1,1,peraj003,11,BTX,S8/G+
+play,1,1,duvaa001,00,>B,SB2
+play,1,1,duvaa001,22,>B.CCBS,K
+play,1,1,vottj001,21,CBBX,S7/L+.2-H
+play,1,1,sches001,00,X,9/F
+play,1,1,suare001,00,X,HR/78/F.1-H
+play,1,1,barnt001,02,FFX,8/L
+play,2,1,herrr002,00,X,S9/G
+play,2,1,bailh001,00,1X,14/BG/SH.1-2
+play,2,1,hamib001,11,SBX,63/G-.2-3
+play,2,1,peraj003,30,BBBB,W
+play,2,1,duvaa001,02,CF>B,SB2
+play,2,1,duvaa001,32,CF>B.BBFS,K
+sub,hernd002,"""David Hernandez""",1,8,1
+play,6,1,barnt001,31,BBBCB,W
+play,6,1,herrr002,22,CFBFBX,7/L
+play,6,1,hernd002,00,,NP
+sub,genns001,"""Scooter Gennett""",1,8,11
+play,6,1,genns001,00,,NP
+sub,pereh001,"""Hernan Perez""",0,9,4
+play,6,1,genns001,00,,NP
+sub,albem001,"""Matt Albers""",0,7,1
+play,6,1,genns001,10,...BX,13/G-.1-2
+play,6,1,hamib001,01,FX,S8/L.2-H
+play,6,1,peraj003,00,1>B,CS2(24)
+sub,garra001,"""Amir Garrett""",1,8,1
+sub,blana002,"""Alex Blandino""",1,8,4
+sub,flord002,"""Dylan Floro""",1,7,1
+sub,barnj002,"""Jacob Barnes""",0,7,1
+sub,winkj002,"""Jesse Winker""",1,2,11
+sub,yelic001,"""Christian Yelich""",0,2,7
+sub,braur002,"""Ryan Braun""",0,3,3
+sub,philb002,"""Brett Phillips""",0,7,9
+sub,jeffj001,"""Jeremy Jeffress""",0,5,1
+play,9,0,philb002,00,,NP
+sub,winkj002,"""Jesse Winker""",1,2,7
+play,9,0,philb002,12,.CBCC,K
+play,9,0,arcio002,10,BX,S9/F
+play,9,0,pereh001,10,1B1>C,CS2(24)
+play,9,0,pereh001,12,1B1>C.SC,K
+sub,mesod001,"""Devin Mesoraco""",1,7,11

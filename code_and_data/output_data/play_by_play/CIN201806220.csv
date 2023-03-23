@@ -1,0 +1,57 @@
+id,CIN201806220
+info,visteam,CHN
+info,hometeam,CIN
+info,date,2018/06/22
+info,starttime,7:11PM
+start,bryak001,"""Kris Bryant""",0,1,5
+start,heywj001,"""Jason Heyward""",0,2,9
+start,zobrb001,"""Ben Zobrist""",0,3,4
+start,rizza001,"""Anthony Rizzo""",0,4,3
+start,baezj001,"""Javier Baez""",0,5,6
+start,schwk001,"""Kyle Schwarber""",0,6,7
+start,almoa002,"""Albert Almora""",0,7,8
+start,gimec001,"""Chris Gimenez""",0,8,2
+start,quinj001,"""Jose Quintana""",0,9,1
+start,peraj003,"""Jose Peraza""",1,1,6
+start,blana002,"""Alex Blandino""",1,2,4
+start,vottj001,"""Joey Votto""",1,3,3
+start,suare001,"""Eugenio Suarez""",1,4,5
+start,duvaa001,"""Adam Duvall""",1,5,7
+start,winkj002,"""Jesse Winker""",1,6,9
+start,casac001,"""Curt Casali""",1,7,2
+start,castl003,"""Luis Castillo""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+play,2,1,winkj002,12,CBCFX,31/G
+play,2,1,casac001,10,BX,D7/F
+play,2,1,castl003,00,X,S8/G.2-3
+play,2,1,hamib001,01,F1X,S9/L.3-H;1-2
+play,2,1,peraj003,21,CBBX,54(1)/FO/G.2-3
+play,2,1,blana002,22,CCBBF>B,SB2
+play,2,1,blana002,32,CCBBF>B.B,W
+play,2,1,vottj001,32,CCBBB>C,K
+play,5,1,peraj003,21,BCBX,S8/L+
+play,5,1,blana002,11,C*B1>B,SB2
+play,5,1,blana002,32,C*B1>B.FBC,K
+play,5,1,vottj001,21,BCBX,S8/L+.2-H
+play,5,1,suare001,10,*BX,HR/8/F.1-H
+play,5,1,duvaa001,32,BFFBBFB,W
+play,5,1,winkj002,12,CSBN1,POCS2(136E3).1-1
+play,5,1,winkj002,12,CSBN1.X,S7/L.1-2
+play,5,1,casac001,00,X,8/F
+play,5,1,castl003,00,X,64(1)/FO/G
+sub,crock001,"""Kyle Crockett""",1,8,1
+sub,bassa001,"""Anthony Bass""",0,9,1
+sub,hernd002,"""David Hernandez""",1,8,1
+sub,happi001,"""Ian Happ""",0,9,11
+sub,wilsj004,"""Justin Wilson""",0,9,1
+sub,ervip001,"""Phillip Ervin""",1,6,9
+play,8,1,hernd002,00,,NP
+sub,zastr001,"""Rob Zastryzny""",0,9,1
+play,8,1,hernd002,00,,NP
+sub,dixob001,"""Brandon Dixon""",1,8,11
+play,8,1,dixob001,12,..BSSX,9/F
+play,8,1,hamib001,10,BX,53/G
+play,8,1,peraj003,31,CBBBB,W
+play,8,1,blana002,11,B1C>B,SB2
+play,8,1,blana002,22,B1C>B.CX,S39/G.2-H;BX2(92634)
+sub,igler001,"""Raisel Iglesias""",1,8,1

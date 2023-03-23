@@ -1,0 +1,40 @@
+id,CIN201808180
+info,visteam,SFN
+info,hometeam,CIN
+info,date,2018/08/18
+info,starttime,7:11PM
+start,mccua001,"""Andrew McCutchen""",0,1,9
+start,panij002,"""Joe Panik""",0,2,4
+start,poseb001,"""Buster Posey""",0,3,2
+start,beltb001,"""Brandon Belt""",0,4,3
+start,longe001,"""Evan Longoria""",0,5,5
+start,crawb001,"""Brandon Crawford""",0,6,6
+start,hansa001,"""Alen Hanson""",0,7,7
+start,duggs001,"""Steven Duggar""",0,8,8
+start,bumgm001,"""Madison Bumgarner""",0,9,1
+start,hamib001,"""Billy Hamilton""",1,1,8
+start,peraj003,"""Jose Peraza""",1,2,6
+start,genns001,"""Scooter Gennett""",1,3,4
+start,suare001,"""Eugenio Suarez""",1,4,5
+start,ervip001,"""Phillip Ervin""",1,5,9
+start,barnt001,"""Tucker Barnhart""",1,6,2
+start,herrd002,"""Dilson Herrera""",1,7,7
+start,dixob001,"""Brandon Dixon""",1,8,3
+start,harvm001,"""Matt Harvey""",1,9,1
+play,2,1,suare001,12,FBCS,K
+play,2,1,ervip001,00,X,S8/G+
+play,2,1,barnt001,00,>S,SB2
+play,2,1,barnt001,12,>S.FFFBS,K
+play,2,1,herrd002,12,CSBS,K
+sub,ervip001,"""Phillip Ervin""",1,5,7
+sub,willm007,"""Mason Williams""",1,7,9
+sub,reedc002,"""Cody Reed""",1,9,1
+sub,herng001,"""Gorkys Hernandez""",0,8,11
+sub,pench001,"""Hunter Pence""",0,9,11
+sub,herng001,"""Gorkys Hernandez""",0,8,8
+sub,strih001,"""Hunter Strickland""",0,9,1
+sub,slata001,"""Austin Slater""",0,4,11
+sub,lorem002,"""Michael Lorenzen""",1,9,1
+sub,slata001,"""Austin Slater""",0,4,3
+sub,hundn001,"""Nick Hundley""",0,9,2
+sub,blact002,"""Ty Blach""",0,3,1

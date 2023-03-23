@@ -1,0 +1,48 @@
+id,CIN201806200
+info,visteam,DET
+info,hometeam,CIN
+info,date,2018/06/20
+info,starttime,12:38PM
+start,martl004,"""Leonys Martin""",0,1,8
+start,candj002,"""Jeimer Candelario""",0,2,5
+start,castn001,"""Nick Castellanos""",0,3,9
+start,goodn002,"""Niko Goodrum""",0,4,3
+start,mccaj001,"""James McCann""",0,5,2
+start,jonej006,"""JaCoby Jones""",0,6,7
+start,iglej001,"""Jose Iglesias""",0,7,6
+start,machd001,"""Dixon Machado""",0,8,4
+start,fulmm001,"""Michael Fulmer""",0,9,1
+start,sches001,"""Scott Schebler""",1,1,9
+start,barnt001,"""Tucker Barnhart""",1,2,2
+start,vottj001,"""Joey Votto""",1,3,3
+start,genns001,"""Scooter Gennett""",1,4,4
+start,suare001,"""Eugenio Suarez""",1,5,5
+start,winkj002,"""Jesse Winker""",1,6,7
+start,peraj003,"""Jose Peraza""",1,7,6
+start,mahlt001,"""Tyler Mahle""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+play,1,1,sches001,12,FFFBS,K
+play,1,1,barnt001,01,CH,HP
+play,1,1,vottj001,32,FBSBFB>F>C,K+CS2(26)/DP
+sub,wilsa001,"""Alex Wilson""",0,9,1
+sub,duvaa001,"""Adam Duvall""",1,8,11
+sub,duvaa001,"""Adam Duvall""",1,8,7
+sub,garra001,"""Amir Garrett""",1,6,1
+sub,lorem002,"""Michael Lorenzen""",1,6,1
+sub,hardb001,"""Blaine Hardy""",0,9,1
+sub,colel001,"""Louis Coleman""",0,9,1
+sub,blana002,"""Alex Blandino""",1,6,11
+play,8,0,goodn002,00,,NP
+sub,hughj001,"""Jared Hughes""",1,6,1
+play,8,0,goodn002,22,.CBSBX,43/G
+play,8,0,mccaj001,02,CFFS,K
+play,8,0,jonej006,00,X,S5/G
+play,8,0,iglej001,10,B>C,SB2
+play,8,0,iglej001,22,B>C.FBX,S2/G.2-H
+play,8,0,machd001,00,,NP
+sub,martv001,"""Victor Martinez""",0,8,11
+play,8,0,martv001,00,.X,7/L
+sub,goodn002,"""Niko Goodrum""",0,4,4
+sub,hickj001,"""John Hicks""",0,9,3
+sub,barbj001,"""John Barbato""",0,8,1
+sub,igler001,"""Raisel Iglesias""",1,6,1

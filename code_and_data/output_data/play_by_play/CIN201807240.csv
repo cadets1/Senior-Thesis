@@ -1,0 +1,54 @@
+id,CIN201807240
+info,visteam,SLN
+info,hometeam,CIN
+info,date,2018/07/24
+info,starttime,7:10PM
+start,carpm002,"""Matt Carpenter""",0,1,5
+start,moliy001,"""Yadier Molina""",0,2,2
+start,dejop001,"""Paul DeJong""",0,3,6
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,martj008,"""Jose Martinez""",0,5,3
+start,phamt001,"""Tommy Pham""",0,6,8
+start,fowld001,"""Dexter Fowler""",0,7,9
+start,munoy001,"""Yairo Munoz""",0,8,4
+start,gomba001,"""Austin Gomber""",0,9,1
+start,peraj003,"""Jose Peraza""",1,1,6
+start,genns001,"""Scooter Gennett""",1,2,4
+start,vottj001,"""Joey Votto""",1,3,3
+start,suare001,"""Eugenio Suarez""",1,4,5
+start,duvaa001,"""Adam Duvall""",1,5,7
+start,ervip001,"""Phillip Ervin""",1,6,9
+start,casac001,"""Curt Casali""",1,7,2
+start,bailh001,"""Homer Bailey""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+play,3,1,casac001,32,FSFFBBFBB,W
+play,3,1,bailh001,20,BBB,WP.1-2
+play,3,1,bailh001,31,BBB.CB,W
+play,3,1,hamib001,22,BBCFS,K
+play,3,1,peraj003,01,CX,64(1)/FO/G.2-3
+play,3,1,genns001,12,BFCN1,CSH(1362)
+play,7,0,martj008,12,CBSX,43/G+
+play,7,0,phamt001,12,BSFS,K
+play,7,0,fowld001,31,BBBFB,W
+play,7,0,munoy001,01,S1>B,SB2
+play,7,0,munoy001,32,S1>B.*BFBX,D7/L+.2-H
+play,7,0,gomba001,00,,NP
+sub,lorem002,"""Michael Lorenzen""",1,8,1
+play,7,0,gomba001,00,.X,S6/G.2-3
+play,7,0,carpm002,31,CBB*BB,W.1-2
+play,7,0,moliy001,22,CFF*B*BX,9/F
+sub,carpm002,"""Matt Carpenter""",0,1,3
+sub,garcg002,"""Greg Garcia""",0,5,4
+sub,munoy001,"""Yairo Munoz""",0,8,5
+sub,mayem001,"""Mike Mayers""",0,9,1
+sub,hickj002,"""Jordan Hicks""",0,9,1
+sub,herrd002,"""Dilson Herrera""",1,8,11
+sub,igler001,"""Raisel Iglesias""",1,8,1
+sub,badeh001,"""Harrison Bader""",0,9,11
+sub,lyont001,"""Tyler Lyons""",0,9,1
+sub,tuivs001,"""Sam Tuivailala""",0,9,1
+sub,barnt001,"""Tucker Barnhart""",1,8,11
+sub,barnt001,"""Tucker Barnhart""",1,8,2
+sub,garra001,"""Amir Garrett""",1,7,1
+sub,gyorj001,"""Jedd Gyorko""",0,9,11
+sub,norrb001,"""Bud Norris""",0,9,1

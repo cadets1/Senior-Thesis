@@ -1,0 +1,48 @@
+id,CIN201808280
+info,visteam,MIL
+info,hometeam,CIN
+info,date,2018/08/28
+info,starttime,7:12PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,9
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,shawt001,"""Travis Shaw""",0,4,4
+start,braur002,"""Ryan Braun""",0,5,7
+start,mousm001,"""Mike Moustakas""",0,6,5
+start,krate001,"""Erik Kratz""",0,7,2
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,guerj003,"""Junior Guerra""",0,9,1
+start,hamib001,"""Billy Hamilton""",1,1,8
+start,peraj003,"""Jose Peraza""",1,2,6
+start,genns001,"""Scooter Gennett""",1,3,4
+start,suare001,"""Eugenio Suarez""",1,4,5
+start,sches001,"""Scott Schebler""",1,5,9
+start,ervip001,"""Phillip Ervin""",1,6,7
+start,barnt001,"""Tucker Barnhart""",1,7,2
+start,casac001,"""Curt Casali""",1,8,3
+start,desca001,"""Anthony DeSclafani""",1,9,1
+play,2,1,hamib001,00,X,S7/F
+play,2,1,peraj003,10,1B>S,CS2(24361)
+play,2,1,peraj003,22,1B>S.BFX,S7/L
+play,2,1,genns001,12,F*BTX,S7/G.1-3
+play,2,1,suare001,32,FBSFFBBB,W.1-2
+play,2,1,sches001,00,,NP
+sub,lylej001,"""Jordan Lyles""",0,9,1
+play,2,1,sches001,31,.BBBC*B,W.3-H;2-3;1-2
+play,2,1,ervip001,01,CX,54(1)/FO/G.3-H;2-3
+play,2,1,barnt001,01,CX,7/F
+sub,schoj001,"""Jonathan Schoop""",0,9,11
+sub,jennd003,"""Dan Jennings""",0,9,1
+sub,yelic001,"""Christian Yelich""",0,2,7
+sub,pereh001,"""Hernan Perez""",0,9,9
+sub,albem001,"""Matt Albers""",0,5,1
+sub,willm007,"""Mason Williams""",1,9,7
+sub,hughj001,"""Jared Hughes""",1,6,1
+sub,sorij001,"""Joakim Soria""",0,5,1
+sub,peraw002,"""Wandy Peralta""",1,6,1
+sub,pinam001,"""Manny Pina""",0,5,11
+sub,dixob001,"""Brandon Dixon""",1,6,9
+sub,igler001,"""Raisel Iglesias""",1,5,1
+sub,pinam001,"""Manny Pina""",0,5,2
+sub,willt003,"""Taylor Williams""",0,7,1
+sub,thame001,"""Eric Thames""",0,8,11

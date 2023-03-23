@@ -1,0 +1,43 @@
+id,CIN201807210
+info,visteam,PIT
+info,hometeam,CIN
+info,date,2018/07/21
+info,starttime,7:14PM
+start,dickc002,"""Corey Dickerson""",0,1,7
+start,marts002,"""Starling Marte""",0,2,8
+start,polag001,"""Gregory Polanco""",0,3,9
+start,diaze005,"""Elias Diaz""",0,4,2
+start,morac001,"""Colin Moran""",0,5,5
+start,bellj005,"""Josh Bell""",0,6,3
+start,rodrs002,"""Sean Rodriguez""",0,7,4
+start,mercj002,"""Jordy Mercer""",0,8,6
+start,kingn001,"""Nick Kingham""",0,9,1
+start,peraj003,"""Jose Peraza""",1,1,6
+start,genns001,"""Scooter Gennett""",1,2,4
+start,vottj001,"""Joey Votto""",1,3,3
+start,suare001,"""Eugenio Suarez""",1,4,5
+start,winkj002,"""Jesse Winker""",1,5,9
+start,duvaa001,"""Adam Duvall""",1,6,7
+start,casac001,"""Curt Casali""",1,7,2
+start,desca001,"""Anthony DeSclafani""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+sub,crock001,"""Kyle Crockett""",1,8,1
+sub,lorem002,"""Michael Lorenzen""",1,8,11
+play,6,0,bellj005,00,,NP
+sub,lorem002,"""Michael Lorenzen""",1,8,1
+play,6,0,bellj005,00,.X,S7/G
+play,6,0,rodrs002,11,CBX,5/P5F
+play,6,0,mercj002,11,CBX,D7/L.1-3
+play,6,0,kingn001,22,B*BSSX,S8/G-.3-H;2-H
+play,6,0,dickc002,11,BCX,36(1)/FO/G
+play,6,0,marts002,21,BCB>S,SB2
+play,6,0,marts002,32,BCB>S.BFX,53/G-
+sub,garra001,"""Amir Garrett""",1,8,1
+sub,ervip001,"""Phillip Ervin""",1,8,11
+sub,sante002,"""Edgar Santana""",0,9,1
+sub,hughj001,"""Jared Hughes""",1,8,1
+sub,freed001,"""David Freese""",0,9,11
+sub,crick001,"""Kyle Crick""",0,9,1
+sub,igler001,"""Raisel Iglesias""",1,8,1
+sub,rivef001,"""Felipe Rivero""",0,9,1
+sub,barnt001,"""Tucker Barnhart""",1,8,11

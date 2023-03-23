@@ -1,0 +1,60 @@
+id,CIN201808170
+info,visteam,SFN
+info,hometeam,CIN
+info,date,2018/08/17
+info,starttime,7:13PM
+start,mccua001,"""Andrew McCutchen""",0,1,9
+start,hansa001,"""Alen Hanson""",0,2,7
+start,poseb001,"""Buster Posey""",0,3,2
+start,beltb001,"""Brandon Belt""",0,4,3
+start,longe001,"""Evan Longoria""",0,5,5
+start,crawb001,"""Brandon Crawford""",0,6,6
+start,panij002,"""Joe Panik""",0,7,4
+start,duggs001,"""Steven Duggar""",0,8,8
+start,kellc001,"""Casey Kelly""",0,9,1
+start,hamib001,"""Billy Hamilton""",1,1,8
+start,peraj003,"""Jose Peraza""",1,2,6
+start,genns001,"""Scooter Gennett""",1,3,4
+start,suare001,"""Eugenio Suarez""",1,4,5
+start,tuckp001,"""Preston Tucker""",1,5,7
+start,barnt001,"""Tucker Barnhart""",1,6,3
+start,willm007,"""Mason Williams""",1,7,9
+start,casac001,"""Curt Casali""",1,8,2
+start,desca001,"""Anthony DeSclafani""",1,9,1
+play,3,0,duggs001,11,BCX,D7/L
+play,3,0,kellc001,10,BX,14/BG/SH.2-3
+play,3,0,mccua001,11,BFX,S8/G.3-H
+play,3,0,hansa001,00,X,S8/G.1-2
+play,3,0,poseb001,32,FB*BFB>T,K+CS2(24)/DP
+play,5,0,panij002,01,CX,S7/L
+play,5,0,duggs001,32,*BBBCSC,K
+play,5,0,kellc001,00,>T,SB2
+play,5,0,kellc001,02,>T.FC,K
+play,5,0,mccua001,12,CBCX,13/G-
+play,5,1,peraj003,01,CX,S8/G+
+play,5,1,genns001,00,11>B,CS2(26)
+play,5,1,genns001,32,11>B.BFTBX,S8/G+
+play,5,1,suare001,00,,NP
+sub,moror001,"""Reyes Moronta""",0,9,1
+play,5,1,suare001,02,.CSS,K
+play,5,1,tuckp001,22,*BBFCFS,K
+sub,melam001,"""Mark Melancon""",0,9,1
+play,8,0,duggs001,11,CBX,9/F
+play,8,0,melam001,00,,NP
+sub,pench001,"""Hunter Pence""",0,9,11
+play,8,0,pench001,12,.FCBX,143/L
+play,8,0,mccua001,12,FFBX,S57/G
+play,8,0,hansa001,01,S1*B,SB2
+play,8,0,hansa001,32,S1*B.BCFBS,K+WP.2-3;B-1
+play,8,0,poseb001,00,,NP
+sub,hughj001,"""Jared Hughes""",1,9,1
+play,8,0,poseb001,11,.C*BX,64(1)/FO/G
+sub,watst001,"""Tony Watson""",0,9,1
+sub,ervip001,"""Phillip Ervin""",1,5,11
+sub,ervip001,"""Phillip Ervin""",1,5,7
+sub,dixob001,"""Brandon Dixon""",1,9,9
+sub,igler001,"""Raisel Iglesias""",1,7,1
+sub,dysos001,"""Sam Dyson""",0,9,1
+sub,herng001,"""Gorkys Hernandez""",0,9,11
+sub,blacr001,"""Ray Black""",0,9,1
+sub,hernd002,"""David Hernandez""",1,7,1

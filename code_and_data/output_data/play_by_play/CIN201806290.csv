@@ -1,0 +1,50 @@
+id,CIN201806290
+info,visteam,MIL
+info,hometeam,CIN
+info,date,2018/06/29
+info,starttime,7:11PM
+start,millb002,"""Brad Miller""",0,1,4
+start,thame001,"""Eric Thames""",0,2,9
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,shawt001,"""Travis Shaw""",0,4,5
+start,braur002,"""Ryan Braun""",0,5,7
+start,pinam001,"""Manny Pina""",0,6,2
+start,broxk001,"""Keon Broxton""",0,7,8
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,andec001,"""Chase Anderson""",0,9,1
+start,sches001,"""Scott Schebler""",1,1,9
+start,barnt001,"""Tucker Barnhart""",1,2,2
+start,vottj001,"""Joey Votto""",1,3,3
+start,genns001,"""Scooter Gennett""",1,4,4
+start,suare001,"""Eugenio Suarez""",1,5,5
+start,winkj002,"""Jesse Winker""",1,6,7
+start,peraj003,"""Jose Peraza""",1,7,6
+start,romas001,"""Sal Romano""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+play,5,0,thame001,01,CX,S9/G+
+play,5,0,aguij001,01,CX,7/F
+play,5,0,shawt001,01,F>B,SB2
+play,5,0,shawt001,32,F>B.F*BBB,W
+play,5,0,braur002,01,FX,8/F
+play,5,0,pinam001,01,CH,HP.2-3;1-2
+play,5,0,broxk001,31,B*BBCX,64(1)/FO/G
+sub,lorem002,"""Michael Lorenzen""",1,8,1
+sub,pereh001,"""Hernan Perez""",0,5,11
+sub,thame001,"""Eric Thames""",0,2,7
+sub,pereh001,"""Hernan Perez""",0,5,9
+sub,hadej001,"""Josh Hader""",0,9,1
+play,8,0,pinam001,01,CH,HP
+play,8,0,broxk001,21,BSBB,WP.1-2
+play,8,0,broxk001,31,BSBB.B,W
+play,8,0,arcio002,00,X,15(2)/FO/BG.1-2
+play,8,0,hadej001,00,,NP
+sub,villj001,"""Jonathan Villar""",0,9,11
+play,8,0,villj001,10,.B>C,SB3;SB2
+play,8,0,villj001,11,.B>C.>S,CS3(2528).3-H(NR)
+play,8,0,villj001,22,.B>C.>S.FBX,7/F
+sub,jeffj001,"""Jeremy Jeffress""",0,9,1
+sub,duvaa001,"""Adam Duvall""",1,8,11
+sub,crock001,"""Kyle Crockett""",1,8,1
+sub,stepj002,"""Jackson Stephens""",1,8,1
+sub,sogae001,"""Eric Sogard""",0,9,4
+sub,jennd003,"""Dan Jennings""",0,1,1

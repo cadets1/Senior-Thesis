@@ -1,0 +1,51 @@
+id,CIN201808140
+info,visteam,CLE
+info,hometeam,CIN
+info,date,2018/08/14
+info,starttime,7:10PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,alony001,"""Yonder Alonso""",0,4,3
+start,cabrm002,"""Melky Cabrera""",0,5,9
+start,kipnj001,"""Jason Kipnis""",0,6,4
+start,gomey001,"""Yan Gomes""",0,7,2
+start,alleg002,"""Greg Allen""",0,8,8
+start,klubc001,"""Corey Kluber""",0,9,1
+start,peraj003,"""Jose Peraza""",1,1,6
+start,vottj001,"""Joey Votto""",1,2,3
+start,suare001,"""Eugenio Suarez""",1,3,5
+start,genns001,"""Scooter Gennett""",1,4,4
+start,barnt001,"""Tucker Barnhart""",1,5,2
+start,willm007,"""Mason Williams""",1,6,9
+start,tuckp001,"""Preston Tucker""",1,7,7
+start,romas001,"""Sal Romano""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+play,1,0,lindf001,21,BCBX,S48/G
+play,1,0,branm003,31,FBB*BB,W.1-2
+play,1,0,ramij003,21,BBFX,S9/G+.2-H;1-3;B-2(TH)
+play,1,0,alony001,10,BX,S8/L.3-H;2-H
+play,1,0,cabrm002,10,BX,S7/G+.1-2
+play,1,0,kipnj001,21,CBBX,46(1)/FO/G.2-3
+play,1,0,gomey001,31,*BFBBX,53/G.3-H;1-2
+play,1,0,alleg002,30,VVVV,IW
+play,1,0,klubc001,12,BCSFF>B,SB3
+play,1,0,klubc001,22,BCSFF>B.S,K
+sub,lorem002,"""Michael Lorenzen""",1,8,1
+play,3,1,tuckp001,21,BBCX,S8/G+
+play,3,1,lorem002,20,BBX,46(1)3/GDP
+play,3,1,hamib001,31,BBBCB,W
+play,3,1,peraj003,10,B>C,CS2(26)
+sub,suare001,"""Eugenio Suarez""",1,3,6
+sub,herrd002,"""Dilson Herrera""",1,8,5
+sub,hughj001,"""Jared Hughes""",1,1,1
+sub,guyeb001,"""Brandon Guyer""",0,5,9
+sub,hernd002,"""David Hernandez""",1,1,1
+sub,gonze004,"""Erik Gonzalez""",0,9,11
+sub,gonze004,"""Erik Gonzalez""",0,9,6
+sub,ramin001,"""Neil Ramirez""",0,1,1
+sub,dixob001,"""Brandon Dixon""",1,1,11
+sub,dixob001,"""Brandon Dixon""",1,1,3
+sub,igler001,"""Raisel Iglesias""",1,2,1
+sub,davir003,"""Rajai Davis""",0,2,7
+sub,olsot002,"""Tyler Olson""",0,1,1

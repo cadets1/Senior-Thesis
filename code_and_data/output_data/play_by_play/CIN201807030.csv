@@ -1,0 +1,80 @@
+id,CIN201807030
+info,visteam,CHA
+info,hometeam,CIN
+info,date,2018/07/03
+info,starttime,7:12PM
+start,moncy001,"""Yoan Moncada""",0,1,4
+start,sancc001,"""Yolmer Sanchez""",0,2,5
+start,garca003,"""Avisail Garcia""",0,3,9
+start,palkd001,"""Daniel Palka""",0,4,7
+start,smitk002,"""Kevan Smith""",0,5,2
+start,andet001,"""Tim Anderson""",0,6,6
+start,davim005,"""Matt Davidson""",0,7,3
+start,engea001,"""Adam Engel""",0,8,8
+start,gioll001,"""Lucas Giolito""",0,9,1
+start,peraj003,"""Jose Peraza""",1,1,6
+start,genns001,"""Scooter Gennett""",1,2,4
+start,vottj001,"""Joey Votto""",1,3,3
+start,suare001,"""Eugenio Suarez""",1,4,5
+start,winkj002,"""Jesse Winker""",1,5,9
+start,duvaa001,"""Adam Duvall""",1,6,7
+start,casac001,"""Curt Casali""",1,7,2
+start,desca001,"""Anthony DeSclafani""",1,8,1
+start,hamib001,"""Billy Hamilton""",1,9,8
+play,1,0,moncy001,12,BCFX,7/F
+play,1,0,sancc001,02,SCC,K
+play,1,0,garca003,22,FSBBX,63/G
+play,2,0,palkd001,22,BCBSC,K
+play,2,0,smitk002,21,BBFX,63/G
+play,2,0,andet001,11,CBX,E5/G
+play,2,0,davim005,02,FC1>X,63/G-
+sub,lorem002,"""Michael Lorenzen""",1,8,1
+sub,tilsc001,"""Charlie Tilson""",0,9,11
+sub,cedex001,"""Xavier Cedeno""",0,9,1
+sub,garra001,"""Amir Garrett""",1,8,1
+sub,rondb001,"""Bruce Rondon""",0,9,1
+sub,sches001,"""Scott Schebler""",1,8,11
+sub,sches001,"""Scott Schebler""",1,8,9
+sub,hernd002,"""David Hernandez""",1,5,1
+sub,garcl004,"""Leury Garcia""",0,9,11
+play,8,1,hamib001,00,,NP
+sub,fry-j001,"""Jace Fry""",0,9,1
+play,8,1,hamib001,02,.FSX,S9/L
+play,8,1,peraj003,01,1LX,13/BG/SH.1-2
+play,8,1,genns001,11,BC>C,SB3
+play,8,1,genns001,12,BC>C.X,63/G.3-H(NR)
+play,8,1,vottj001,00,X,9/L
+sub,igler001,"""Raisel Iglesias""",1,5,1
+sub,blana002,"""Alex Blandino""",1,5,11
+sub,flord002,"""Dylan Floro""",1,5,1
+sub,sorij001,"""Joakim Soria""",0,9,1
+sub,barnt001,"""Tucker Barnhart""",1,7,11
+play,11,0,sorij001,00,,NP
+sub,barnt001,"""Tucker Barnhart""",1,7,2
+play,11,0,sorij001,00,,NP
+sub,abrej003,"""Jose Abreu""",0,9,11
+play,11,0,abrej003,12,..CBFX,43/G
+play,11,0,moncy001,21,BBFX,S7/L
+play,11,0,sancc001,21,BBS>B,SB2
+play,11,0,sancc001,31,BBS>B.B,W
+play,11,0,garca003,22,*BBCSFS,K
+play,11,0,palkd001,00,,NP
+sub,crock001,"""Kyle Crockett""",1,5,1
+play,11,0,palkd001,12,.C*BSX,E6/G.2-3;1-2
+play,11,0,smitk002,00,,NP
+sub,dixob001,"""Brandon Dixon""",1,5,9
+play,11,0,smitk002,00,,NP
+sub,stepj002,"""Jackson Stephens""",1,8,1
+play,11,0,smitk002,22,..C*BSBX,43/G
+sub,narvo001,"""Omar Narvaez""",0,9,2
+sub,santh001,"""Hector Santiago""",0,5,1
+play,12,0,andet001,31,BBFBX,E4/G
+play,12,0,davim005,10,B1>P,SB2
+play,12,0,davim005,32,B1>P.C*BFF*B,W
+play,12,0,engea001,11,L2BX,E5/TH/BG/SH.2-3;1-2
+play,12,0,narvo001,22,F*BF*BX,3/L
+play,12,0,moncy001,31,BBBCX,T9/L+.3-H(UR);2-H(UR);1-H(UR)
+play,12,0,sancc001,02,SCFX,T9/F.3-H(UR)
+play,12,0,garca003,30,BBBB,W
+play,12,0,palkd001,30,.VVVV,IW.1-2
+play,12,0,santh001,00,X,6(1)3/GDP

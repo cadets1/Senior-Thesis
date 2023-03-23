@@ -1,0 +1,49 @@
+id,CIN201804120
+info,visteam,SLN
+info,hometeam,CIN
+info,date,2018/04/12
+info,starttime,6:41PM
+start,fowld001,"""Dexter Fowler""",0,1,9
+start,phamt001,"""Tommy Pham""",0,2,8
+start,carpm002,"""Matt Carpenter""",0,3,5
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,martj008,"""Jose Martinez""",0,5,3
+start,moliy001,"""Yadier Molina""",0,6,2
+start,dejop001,"""Paul DeJong""",0,7,6
+start,wongk001,"""Kolten Wong""",0,8,4
+start,wachm001,"""Michael Wacha""",0,9,1
+start,hamib001,"""Billy Hamilton""",1,1,8
+start,peraj003,"""Jose Peraza""",1,2,6
+start,winkj002,"""Jesse Winker""",1,3,7
+start,duvaa001,"""Adam Duvall""",1,4,3
+start,genns001,"""Scooter Gennett""",1,5,4
+start,ervip001,"""Phillip Ervin""",1,6,9
+start,barnt001,"""Tucker Barnhart""",1,7,2
+start,blana002,"""Alex Blandino""",1,8,5
+start,romas001,"""Sal Romano""",1,9,1
+play,3,1,hamib001,22,CBBFX,S7/L
+play,3,1,peraj003,00,11X,S5/BG.1-2
+play,3,1,winkj002,32,BBCFBC,K
+play,3,1,duvaa001,30,B2*B*BB,W.2-3;1-2
+play,3,1,genns001,12,CSF*BX,S8/L.3-H;2-H;1-3
+play,3,1,ervip001,00,X,7/L
+play,3,1,barnt001,02,CS>B,SB2
+play,3,1,barnt001,32,CS>B.BBB,W
+play,3,1,blana002,12,CBCX,5(2)/FO/G.1-2
+sub,brica001,"""Austin Brice""",1,9,1
+sub,badeh001,"""Harrison Bader""",0,9,11
+sub,gossp001,"""Phil Gosselin""",1,9,3
+sub,garra001,"""Amir Garrett""",1,4,1
+sub,brebj001,"""John Brebbia""",0,9,1
+sub,weisz001,"""Zack Weiss""",1,4,1
+sub,pennc001,"""Cliff Pennington""",1,4,5
+sub,raint003,"""Tanner Rainey""",1,8,1
+sub,garcg002,"""Greg Garcia""",0,9,11
+sub,penaf001,"""Francisco Pena""",0,3,2
+sub,garcg002,"""Greg Garcia""",0,9,5
+sub,mayem001,"""Mike Mayers""",0,6,1
+sub,reedc002,"""Cody Reed""",1,8,1
+sub,mesod001,"""Devin Mesoraco""",1,8,11
+sub,mesod001,"""Devin Mesoraco""",1,8,3
+sub,gossp001,"""Phil Gosselin""",1,9,5
+sub,pennc001,"""Cliff Pennington""",1,4,1
