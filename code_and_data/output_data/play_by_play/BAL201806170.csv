@@ -1,0 +1,43 @@
+id,BAL201806170
+info,visteam,MIA
+info,hometeam,BAL
+info,date,2018/06/17
+info,starttime,1:07PM
+start,dietd001,"""Derek Dietrich""",0,1,7
+start,andeb006,"""Brian Anderson""",0,2,9
+start,realj001,"""J.T. Realmuto""",0,3,3
+start,bourj002,"""Justin Bour""",0,4,10
+start,casts001,"""Starlin Castro""",0,5,4
+start,maybc001,"""Cameron Maybin""",0,6,8
+start,riddj001,"""J.T. Riddle""",0,7,6
+start,rivey001,"""Yadiel Rivera""",0,8,5
+start,holab001,"""Bryan Holaday""",0,9,2
+start,richt001,"""Trevor Richards""",0,0,1
+start,josec001,"""Corban Joseph""",1,1,3
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,schoj001,"""Jonathan Schoop""",1,5,4
+start,manct001,"""Trey Mancini""",1,6,7
+start,petej002,"""Jace Peterson""",1,7,5
+start,gentc001,"""Craig Gentry""",1,8,9
+start,wynna001,"""Austin Wynns""",1,9,2
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,2,0,casts001,12,FBSX,53/G
+play,2,0,maybc001,22,BBSFX,S9/L
+play,2,0,riddj001,02,FFFN,BK.1-2
+play,2,0,riddj001,02,FFFN.X,9/L
+play,2,0,rivey001,01,F>S,SB3
+play,2,0,rivey001,02,F>S.S,K23
+sub,gonzm007,"""Merandy Gonzalez""",0,0,1
+sub,rickj001,"""Joey Rickard""",1,1,7
+sub,manct001,"""Trey Mancini""",1,6,3
+sub,castm002,"""Miguel Castro""",1,0,1
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,bracb001,"""Brad Brach""",1,0,1
+sub,shucj001,"""J.B. Shuck""",0,8,11
+sub,andeb006,"""Brian Anderson""",0,2,5
+sub,shucj001,"""J.B. Shuck""",0,8,9
+sub,gravb001,"""Brett Graves""",0,0,1
+sub,britz001,"""Zach Britton""",1,0,1

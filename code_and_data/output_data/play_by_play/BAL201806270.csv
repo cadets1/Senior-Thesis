@@ -1,0 +1,45 @@
+id,BAL201806270
+info,visteam,SEA
+info,hometeam,BAL
+info,date,2018/06/27
+info,starttime,7:08PM
+start,gordd002,"""Dee Gordon""",0,1,4
+start,seguj002,"""Jean Segura""",0,2,6
+start,hanim001,"""Mitch Haniger""",0,3,10
+start,seagk001,"""Kyle Seager""",0,4,5
+start,spand001,"""Denard Span""",0,5,7
+start,healr001,"""Ryon Healy""",0,6,3
+start,gameb001,"""Ben Gamel""",0,7,9
+start,zunim001,"""Mike Zunino""",0,8,2
+start,hereg002,"""Guillermo Heredia""",0,9,8
+start,leblw001,"""Wade LeBlanc""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,7
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,valed001,"""Danny Valencia""",1,4,9
+start,trumm001,"""Mark Trumbo""",1,5,10
+start,schoj001,"""Jonathan Schoop""",1,6,4
+start,davic003,"""Chris Davis""",1,7,3
+start,beckt001,"""Tim Beckham""",1,8,5
+start,josec002,"""Caleb Joseph""",1,9,2
+start,cobba001,"""Alex Cobb""",1,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1
+sub,pazoj001,"""James Pazos""",0,0,1
+sub,nicaj001,"""Juan Nicasio""",0,0,1
+play,8,0,zunim001,00,,NP
+sub,bracb001,"""Brad Brach""",1,0,1
+play,8,0,zunim001,00,.X,7/F
+play,8,0,hereg002,10,BX,5/P
+play,8,0,gordd002,32,CBBBCFX,S8/G
+play,8,0,seguj002,10,1B>B,SB2
+play,8,0,seguj002,21,1B>B.CX,3/L
+sub,coloa001,"""Alex Colome""",0,0,1
+sub,petej002,"""Jace Peterson""",1,1,7
+sub,rasmc001,"""Colby Rasmus""",1,4,9
+sub,britz001,"""Zach Britton""",1,0,1
+sub,vincn001,"""Nick Vincent""",0,0,1
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,bradc002,"""Chasen Bradford""",0,0,1
+sub,hartd002,"""Donnie Hart""",1,0,1
+sub,diaze006,"""Edwin Diaz""",0,0,1
+sub,wilks001,"""Steve Wilkerson""",1,9,11

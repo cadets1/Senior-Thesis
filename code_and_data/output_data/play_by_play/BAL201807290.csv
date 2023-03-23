@@ -1,0 +1,44 @@
+id,BAL201807290
+info,visteam,TBA
+info,hometeam,BAL
+info,date,2018/07/29
+info,starttime,1:09PM
+start,wendj002,"""Joey Wendle""",0,1,7
+start,duffm002,"""Matt Duffy""",0,2,5
+start,bauej001,"""Jake Bauers""",0,3,3
+start,cronc002,"""C.J. Cron""",0,4,10
+start,perem005,"""Michael Perez""",0,5,2
+start,robed004,"""Daniel Robertson""",0,6,4
+start,smitm007,"""Mallex Smith""",0,7,8
+start,gomec002,"""Carlos Gomez""",0,8,9
+start,adamw002,"""Willy Adames""",0,9,6
+start,chiry001,"""Yonny Chirinos""",0,0,1
+start,beckt001,"""Tim Beckham""",1,1,6
+start,schoj001,"""Jonathan Schoop""",1,2,4
+start,jonea003,"""Adam Jones""",1,3,8
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,davic003,"""Chris Davis""",1,5,3
+start,manct001,"""Trey Mancini""",1,6,7
+start,rickj001,"""Joey Rickard""",1,7,9
+start,petej002,"""Jace Peterson""",1,8,5
+start,wynna001,"""Austin Wynns""",1,9,2
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,1,0,wendj002,01,FH,HP
+play,1,0,duffm002,11,F1BX,9/L
+play,1,0,bauej001,00,1X,7/F7LF
+play,1,0,cronc002,00,>C,CS2(24)
+play,2,1,wynna001,01,CX,E6/G
+play,2,1,beckt001,10,BX,S7/G+.1-3(E7)
+play,2,1,schoj001,12,CSBS,K
+play,2,1,jonea003,00,X,S47/G+.3-H(UR);1-3
+play,2,1,trumm001,22,BFBSS,K
+play,2,1,davic003,12,C*BF>B,SB2
+play,2,1,davic003,22,C*BF>B.S,K
+sub,hecha001,"""Adeiny Hechavarria""",0,6,6
+sub,adamw002,"""Willy Adames""",0,9,4
+sub,woodh001,"""Hunter Wood""",0,0,1
+sub,kitta001,"""Andrew Kittredge""",0,0,1
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,castd002,"""Diego Castillo""",0,0,1
+sub,fry-p001,"""Paul Fry""",1,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1

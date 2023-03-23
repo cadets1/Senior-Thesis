@@ -1,0 +1,58 @@
+id,BAL201808100
+info,visteam,BOS
+info,hometeam,BAL
+info,date,2018/08/10
+info,starttime,7:08PM
+start,bettm001,"""Mookie Betts""",0,1,9
+start,benia002,"""Andrew Benintendi""",0,2,7
+start,morem001,"""Mitch Moreland""",0,3,3
+start,martj006,"""J.D. Martinez""",0,4,10
+start,bogax001,"""Xander Bogaerts""",0,5,6
+start,dever001,"""Rafael Devers""",0,6,5
+start,holtb002,"""Brock Holt""",0,7,4
+start,butld001,"""Dan Butler""",0,8,2
+start,bradj001,"""Jackie Bradley""",0,9,8
+start,eovan001,"""Nathan Eovaldi""",0,0,1
+start,villj001,"""Jonathan Villar""",1,1,4
+start,beckt001,"""Tim Beckham""",1,2,6
+start,jonea003,"""Adam Jones""",1,3,9
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,manct001,"""Trey Mancini""",1,5,7
+start,davic003,"""Chris Davis""",1,6,3
+start,nuner001,"""Renato Nunez""",1,7,5
+start,josec002,"""Caleb Joseph""",1,8,2
+start,mullc002,"""Cedric Mullins""",1,9,8
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,3,1,manct001,00,X,9/L
+play,3,1,davic003,01,CX,S8/G
+play,3,1,nuner001,11,BCX,S9/G.1-2
+play,3,1,josec002,22,CFBBX,E8/L.2-H(UR)(NR);1-3;B-2
+play,3,1,mullc002,11,CBX,S4/G+.3-H(UR);2-3
+play,3,1,villj001,21,BBF1X,13/BG/SH.3-H(UR);1-2
+play,3,1,beckt001,11,BFX,S7/G.2-H(UR)
+play,3,1,jonea003,00,,NP
+sub,workb001,"""Brandon Workman""",0,0,1
+play,3,1,jonea003,01,.C>B,CS2(24)
+play,4,1,jonea003,32,FBSBFBX,S8/G
+play,4,1,trumm001,32,BBCBC>S,K+SB2
+play,4,1,manct001,22,BBCSS,K
+play,4,1,davic003,12,BFCS,K
+play,5,0,benia002,31,BBCBX,5/P5F
+play,5,0,morem001,10,BX,D8/L+
+play,5,0,martj006,12,SCBX,43/G.2-3
+play,5,0,bogax001,30,BB*BB,W
+play,5,0,dever001,12,CBS>B,SB2
+play,5,0,dever001,22,CBS>B.X,8/F
+sub,pomed001,"""Drew Pomeranz""",0,0,1
+sub,castm002,"""Miguel Castro""",1,0,1
+sub,hartd002,"""Donnie Hart""",1,0,1
+sub,hembh001,"""Heath Hembree""",0,0,1
+sub,phile001,"""Evan Phillips""",1,0,1
+sub,brasr001,"""Ryan Brasier""",0,0,1
+sub,pears001,"""Steve Pearce""",0,8,11
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,leons001,"""Sandy Leon""",0,2,2
+sub,pears001,"""Steve Pearce""",0,8,7
+sub,barnm001,"""Matt Barnes""",0,0,1
+sub,rickj001,"""Joey Rickard""",1,3,9
+sub,kellj001,"""Joe Kelly""",0,0,1

@@ -1,0 +1,42 @@
+id,BAL201804200
+info,visteam,CLE
+info,hometeam,BAL
+info,date,2018/04/20
+info,starttime,7:07PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,kipnj001,"""Jason Kipnis""",0,2,4
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,branm003,"""Michael Brantley""",0,4,7
+start,encae001,"""Edwin Encarnacion""",0,5,10
+start,alony001,"""Yonder Alonso""",0,6,3
+start,perer003,"""Roberto Perez""",0,7,2
+start,naqut001,"""Tyler Naquin""",0,8,9
+start,zimmb001,"""Bradley Zimmer""",0,9,8
+start,bauet001,"""Trevor Bauer""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,7
+start,alvap001,"""Pedro Alvarez""",1,2,10
+start,machm001,"""Manny Machado""",1,3,6
+start,jonea003,"""Adam Jones""",1,4,8
+start,davic003,"""Chris Davis""",1,5,3
+start,beckt001,"""Tim Beckham""",1,6,5
+start,santa003,"""Anthony Santander""",1,7,9
+start,siscc001,"""Chance Sisco""",1,8,2
+start,sardl001,"""Luis Sardinas""",1,9,4
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,2,0,naqut001,12,BSSFX,S4/G-
+play,2,0,zimmb001,20,BBX,8/F
+play,2,0,lindf001,21,BBS11>B,CS2(26)
+play,2,0,lindf001,32,BBS11>B.SFFFX,6/P
+play,5,0,lindf001,30,BBBB,W
+play,5,0,kipnj001,00,>C,SB2
+play,5,0,kipnj001,12,>C.F*BFFS,K
+play,5,0,ramij003,20,BBX,9/F
+play,5,0,branm003,12,BCFX,7/F
+sub,bleir001,"""Richard Bleier""",1,0,1
+sub,davir003,"""Rajai Davis""",0,8,11
+sub,guyeb001,"""Brandon Guyer""",0,9,11
+sub,davir003,"""Rajai Davis""",0,8,8
+sub,guyeb001,"""Brandon Guyer""",0,9,9
+sub,gentc001,"""Craig Gentry""",1,1,7
+sub,mcalz001,"""Zach McAllister""",0,0,1
+sub,odayd001,"""Darren O'Day""",1,0,1

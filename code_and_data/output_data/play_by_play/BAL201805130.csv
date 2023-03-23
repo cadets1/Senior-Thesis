@@ -1,0 +1,48 @@
+id,BAL201805130
+info,visteam,TBA
+info,hometeam,BAL
+info,date,2018/05/13
+info,starttime,1:07PM
+start,spand001,"""Denard Span""",0,1,7
+start,cronc002,"""C.J. Cron""",0,2,10
+start,wendj002,"""Joey Wendle""",0,3,4
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,duffm002,"""Matt Duffy""",0,5,5
+start,millb002,"""Brad Miller""",0,6,3
+start,hecha001,"""Adeiny Hechavarria""",0,7,6
+start,smitm007,"""Mallex Smith""",0,8,8
+start,refsr001,"""Rob Refsnyder""",0,9,9
+start,snelb001,"""Blake Snell""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,3
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,schoj001,"""Jonathan Schoop""",1,4,4
+start,trumm001,"""Mark Trumbo""",1,5,10
+start,valed001,"""Danny Valencia""",1,6,5
+start,rickj001,"""Joey Rickard""",1,7,9
+start,gentc001,"""Craig Gentry""",1,8,7
+start,josec002,"""Caleb Joseph""",1,9,2
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,1,0,spand001,31,CBBBB,W
+play,1,0,cronc002,01,C>B,SB2
+play,1,0,cronc002,11,C>B.X,53/G
+play,1,0,wendj002,12,CBSS,K
+play,1,0,ramow001,02,FSC,K
+play,3,0,smitm007,32,BBBCCB,W
+play,3,0,refsr001,12,11F1BCFX,64(1)3/GDP
+play,3,0,spand001,31,FBBBB,W
+play,3,0,cronc002,00,>C,SB2.1-3(E2/TH)
+play,3,0,cronc002,12,>C.FBX,13/G
+sub,kitta001,"""Andrew Kittredge""",0,0,1
+sub,pruia001,"""Austin Pruitt""",0,0,1
+sub,petej002,"""Jace Peterson""",1,2,11
+sub,roe-c001,"""Chaz Roe""",0,0,1
+sub,manct001,"""Trey Mancini""",1,1,7
+sub,petej002,"""Jace Peterson""",1,2,4
+sub,siscc001,"""Chance Sisco""",1,3,2
+sub,schoj001,"""Jonathan Schoop""",1,4,6
+sub,gentc001,"""Craig Gentry""",1,8,8
+sub,josec002,"""Caleb Joseph""",1,9,3
+sub,hartd002,"""Donnie Hart""",1,0,1
+sub,fielj003,"""Johnny Field""",0,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1

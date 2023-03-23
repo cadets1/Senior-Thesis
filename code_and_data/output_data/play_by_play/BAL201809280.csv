@@ -1,0 +1,43 @@
+id,BAL201809280
+info,visteam,HOU
+info,hometeam,BAL
+info,date,2018/09/28
+info,starttime,7:08PM
+start,altuj001,"""Jose Altuve""",0,1,4
+start,reddj001,"""Josh Reddick""",0,2,9
+start,brega001,"""Alex Bregman""",0,3,5
+start,gonzm002,"""Marwin Gonzalez""",0,4,7
+start,corrc001,"""Carlos Correa""",0,5,6
+start,whitt002,"""Tyler White""",0,6,3
+start,mccab002,"""Brian McCann""",0,7,10
+start,maldm001,"""Martin Maldonado""",0,8,2
+start,kempt001,"""Tony Kemp""",0,9,8
+start,coleg001,"""Gerrit Cole""",0,0,1
+start,mullc002,"""Cedric Mullins""",1,1,8
+start,villj001,"""Jonathan Villar""",1,2,6
+start,manct001,"""Trey Mancini""",1,3,3
+start,jonea003,"""Adam Jones""",1,4,9
+start,stewd002,"""DJ Stewart""",1,5,7
+start,josec001,"""Corban Joseph""",1,6,10
+start,wilks001,"""Steve Wilkerson""",1,7,4
+start,petej002,"""Jace Peterson""",1,8,5
+start,wynna001,"""Austin Wynns""",1,9,2
+start,hessd001,"""David Hess""",1,0,1
+play,3,1,wynna001,02,CSS,K
+play,3,1,mullc002,21,BFBX,S9/G
+play,3,1,villj001,12,FCB>B,CS2(26)
+play,3,1,villj001,32,FCB>B.BFFFB,W
+play,3,1,manct001,12,B11F1SX,53/G
+sub,marij002,"""Jake Marisnick""",0,1,8
+sub,tuckk001,"""Kyle Tucker""",0,2,9
+sub,gonzm002,"""Marwin Gonzalez""",0,4,4
+sub,kempt001,"""Tony Kemp""",0,9,7
+sub,gatte001,"""Evan Gattis""",0,7,11
+sub,sippt001,"""Tony Sipp""",0,0,1
+sub,nuner001,"""Renato Nunez""",1,6,11
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,meisr001,"""Ryan Meisinger""",1,0,1
+sub,mchuc001,"""Collin McHugh""",0,0,1
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,osunr001,"""Roberto Osuna""",0,0,1
+sub,andrj001,"""John Andreoli""",1,5,12

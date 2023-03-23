@@ -1,0 +1,44 @@
+id,BAL201806260
+info,visteam,SEA
+info,hometeam,BAL
+info,date,2018/06/26
+info,starttime,7:07PM
+start,gordd002,"""Dee Gordon""",0,1,4
+start,seguj002,"""Jean Segura""",0,2,6
+start,hanim001,"""Mitch Haniger""",0,3,9
+start,seagk001,"""Kyle Seager""",0,4,5
+start,spand001,"""Denard Span""",0,5,10
+start,healr001,"""Ryon Healy""",0,6,3
+start,gameb001,"""Ben Gamel""",0,7,7
+start,zunim001,"""Mike Zunino""",0,8,2
+start,hereg002,"""Guillermo Heredia""",0,9,8
+start,paxtj001,"""James Paxton""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,7
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,valed001,"""Danny Valencia""",1,4,9
+start,trumm001,"""Mark Trumbo""",1,5,10
+start,schoj001,"""Jonathan Schoop""",1,6,4
+start,davic003,"""Chris Davis""",1,7,3
+start,beckt001,"""Tim Beckham""",1,8,5
+start,josec002,"""Caleb Joseph""",1,9,2
+start,gausk001,"""Kevin Gausman""",1,0,1
+play,1,0,gordd002,22,CFBFFBX,63/G
+play,1,0,seguj002,32,CCFBBBX,S7/G+
+play,1,0,hanim001,10,B>C,CS2(24)
+play,1,0,hanim001,22,B>C.FBX,D9/L+
+play,1,0,seagk001,21,*BBFX,5/P5F
+play,4,1,machm001,00,X,43/G+
+play,4,1,valed001,31,BBBCB,W
+play,4,1,trumm001,02,CFS,K
+play,4,1,schoj001,02,SF1,POCS2(134)
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,odayd001,"""Darren O'Day""",1,0,1
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,castm002,"""Miguel Castro""",1,0,1
+sub,coloa001,"""Alex Colome""",0,0,1
+sub,rasmc001,"""Colby Rasmus""",1,9,11
+sub,wynna001,"""Austin Wynns""",1,1,2
+sub,rasmc001,"""Colby Rasmus""",1,9,7
+sub,diaze006,"""Edwin Diaz""",0,0,1
+sub,petej002,"""Jace Peterson""",1,4,12

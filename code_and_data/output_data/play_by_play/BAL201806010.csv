@@ -1,0 +1,48 @@
+id,BAL201806010
+info,visteam,NYA
+info,hometeam,BAL
+info,date,2018/06/01
+info,starttime,7:10PM
+start,gardb001,"""Brett Gardner""",0,1,7
+start,judga001,"""Aaron Judge""",0,2,9
+start,birdg001,"""Greg Bird""",0,3,3
+start,stanm004,"""Giancarlo Stanton""",0,4,10
+start,gregd001,"""Didi Gregorius""",0,5,6
+start,hicka001,"""Aaron Hicks""",0,6,8
+start,walkn001,"""Neil Walker""",0,7,5
+start,romia002,"""Austin Romine""",0,8,2
+start,torrg001,"""Gleyber Torres""",0,9,4
+start,grays001,"""Sonny Gray""",0,0,1
+start,petej002,"""Jace Peterson""",1,1,5
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,schoj001,"""Jonathan Schoop""",1,5,4
+start,davic003,"""Chris Davis""",1,6,3
+start,manct001,"""Trey Mancini""",1,7,7
+start,siscc001,"""Chance Sisco""",1,8,2
+start,rickj001,"""Joey Rickard""",1,9,9
+start,casha001,"""Andrew Cashner""",1,0,1
+play,5,0,torrg001,22,CCBBX,D7/G+.BX3(75)
+play,5,0,gardb001,11,BCX,S18/L
+play,5,0,judga001,31,BB*BC>C,SB2
+play,5,0,judga001,32,BB*BC>C.X,8/F
+play,5,0,birdg001,01,SX,T8/F+.2-H
+play,5,0,stanm004,31,BSBBX,63/G
+play,6,0,gregd001,00,X,S8/L
+play,6,0,hicka001,11,CB>B,SB2
+play,6,0,hicka001,32,CB>B.LBS,K
+play,6,0,walkn001,12,BFSX,43/G.2-3
+play,6,0,romia002,00,X,D9/L+.3-H
+play,6,0,torrg001,30,B*BBX,6/P
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,greec003,"""Chad Green""",0,0,1
+sub,alvap001,"""Pedro Alvarez""",1,9,11
+sub,petej002,"""Jace Peterson""",1,1,9
+sub,alvap001,"""Pedro Alvarez""",1,9,5
+sub,bleir001,"""Richard Bleier""",1,0,1
+sub,betad001,"""Dellin Betances""",0,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1
+sub,chapa001,"""Aroldis Chapman""",0,0,1
+sub,gentc001,"""Craig Gentry""",1,8,11
+sub,susaa001,"""Andrew Susac""",1,9,11

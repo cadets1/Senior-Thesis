@@ -1,0 +1,42 @@
+id,BAL201808280
+info,visteam,TOR
+info,hometeam,BAL
+info,date,2018/08/28
+info,starttime,7:08PM
+start,gurrl001,"""Lourdes Gurriel""",0,1,6
+start,travd001,"""Devon Travis""",0,2,4
+start,smoaj001,"""Justin Smoak""",0,3,3
+start,gricr001,"""Randal Grichuk""",0,4,9
+start,pillk001,"""Kevin Pillar""",0,5,8
+start,hernt002,"""Teoscar Hernandez""",0,6,10
+start,jansd001,"""Danny Jansen""",0,7,2
+start,diaza003,"""Aledmys Diaz""",0,8,5
+start,mckib001,"""Billy McKinney""",0,9,7
+start,pannt001,"""Thomas Pannone""",0,0,1
+start,villj001,"""Jonathan Villar""",1,1,4
+start,gentc001,"""Craig Gentry""",1,2,7
+start,manct001,"""Trey Mancini""",1,3,10
+start,jonea003,"""Adam Jones""",1,4,9
+start,davic003,"""Chris Davis""",1,5,3
+start,beckt001,"""Tim Beckham""",1,6,6
+start,nuner001,"""Renato Nunez""",1,7,5
+start,andrj001,"""John Andreoli""",1,8,8
+start,josec002,"""Caleb Joseph""",1,9,2
+start,rogej003,"""Josh Rogers""",1,0,1
+play,4,1,josec002,32,BCBSBFFFX,9/F
+play,4,1,villj001,12,FFBX,S7/L+
+play,4,1,gentc001,00,>B,SB2
+play,4,1,gentc001,20,>B.BX,HR/78/F.2-H
+play,4,1,manct001,00,,NP
+sub,biagj001,"""Joe Biagini""",0,0,1
+play,4,1,manct001,02,.CSX,53/G
+play,4,1,jonea003,10,BX,S7/G
+play,4,1,davic003,01,CX,63/G
+sub,meisr001,"""Ryan Meisinger""",1,0,1
+sub,mayzt001,"""Tim Mayza""",0,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1
+sub,teper001,"""Ryan Tepera""",0,0,1
+sub,smitm008,"""Murphy Smith""",0,0,1
+sub,mullc002,"""Cedric Mullins""",1,4,8
+sub,andrj001,"""John Andreoli""",1,8,9
+sub,scott003,"""Tanner Scott""",1,0,1

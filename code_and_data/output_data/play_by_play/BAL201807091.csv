@@ -1,0 +1,44 @@
+id,BAL201807091
+info,visteam,NYA
+info,hometeam,BAL
+info,date,2018/07/09
+info,starttime,4:07PM
+start,hicka001,"""Aaron Hicks""",0,1,8
+start,judga001,"""Aaron Judge""",0,2,9
+start,gregd001,"""Didi Gregorius""",0,3,6
+start,stanm004,"""Giancarlo Stanton""",0,4,10
+start,frazc001,"""Clint Frazier""",0,5,7
+start,walkn001,"""Neil Walker""",0,6,3
+start,drurb001,"""Brandon Drury""",0,7,5
+start,higak001,"""Kyle Higashioka""",0,8,2
+start,wadet002,"""Tyler Wade""",0,9,4
+start,sabac001,"""CC Sabathia""",0,0,1
+start,beckt001,"""Tim Beckham""",1,1,5
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,schoj001,"""Jonathan Schoop""",1,5,4
+start,valed001,"""Danny Valencia""",1,6,9
+start,rickj001,"""Joey Rickard""",1,7,7
+start,manct001,"""Trey Mancini""",1,8,3
+start,josec002,"""Caleb Joseph""",1,9,2
+start,yacaj001,"""Jimmy Yacabonis""",1,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1
+play,6,1,trumm001,32,BSBSFBB,W
+play,6,1,schoj001,21,BBFX,D9/G+.1-3
+play,6,1,valed001,11,SBX,HR/8/F.3-H;2-H
+play,6,1,rickj001,00,,NP
+sub,holdj002,"""Jonathan Holder""",0,0,1
+play,6,1,rickj001,00,.X,S9/F
+play,6,1,manct001,21,F*BB>X,3/P3F
+play,6,1,josec002,21,11BC1B>B,SB2
+play,6,1,josec002,32,11BC1B>B.TFB,W
+play,6,1,beckt001,12,BFSS,K
+play,6,1,jonea003,12,SF*BX,3/P
+sub,colea002,"""A.J. Cole""",0,0,1
+sub,petej002,"""Jace Peterson""",1,6,7
+sub,rickj001,"""Joey Rickard""",1,7,9
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,britz001,"""Zach Britton""",1,0,1
+sub,andum001,"""Miguel Andujar""",0,6,11
+sub,gardb001,"""Brett Gardner""",0,9,11

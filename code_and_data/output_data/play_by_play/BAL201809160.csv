@@ -1,0 +1,57 @@
+id,BAL201809160
+info,visteam,CHA
+info,hometeam,BAL
+info,date,2018/09/16
+info,starttime,1:08PM
+start,moncy001,"""Yoan Moncada""",0,1,4
+start,sancc001,"""Yolmer Sanchez""",0,2,5
+start,abrej003,"""Jose Abreu""",0,3,10
+start,palkd001,"""Daniel Palka""",0,4,9
+start,davim005,"""Matt Davidson""",0,5,3
+start,delmn001,"""Nicky Delmonico""",0,6,7
+start,castw002,"""Welington Castillo""",0,7,2
+start,rondj002,"""Jose Rondon""",0,8,6
+start,engea001,"""Adam Engel""",0,9,8
+start,gioll001,"""Lucas Giolito""",0,0,1
+start,mullc002,"""Cedric Mullins""",1,1,8
+start,rickj001,"""Joey Rickard""",1,2,7
+start,villj001,"""Jonathan Villar""",1,3,6
+start,jonea003,"""Adam Jones""",1,4,9
+start,manct001,"""Trey Mancini""",1,5,3
+start,stewd002,"""DJ Stewart""",1,6,10
+start,nuner001,"""Renato Nunez""",1,7,5
+start,valeb001,"""Breyvic Valera""",1,8,4
+start,siscc001,"""Chance Sisco""",1,9,2
+start,hessd001,"""David Hess""",1,0,1
+play,1,1,mullc002,11,CBX,D8/L
+play,1,1,rickj001,00,X,FC2/BG
+play,1,1,villj001,10,BX,S8/G.2-H;1-3
+play,1,1,jonea003,02,TCX,S9/F.3-H;1-3
+play,1,1,manct001,12,BFFS,K
+play,1,1,stewd002,12,CF*B*B,SB2
+play,1,1,stewd002,22,CF*B*B.X,FC4/G.3-H
+play,1,1,nuner001,10,BX,E3/G.2-H(UR)(NR);1-3
+play,1,1,valeb001,12,FF*B1X,9/L/SF.3-H(UR)
+play,1,1,siscc001,10,BX,7/F
+play,2,1,mullc002,11,FBX,S6/P
+play,2,1,rickj001,21,1BB1F>X,7/F
+play,2,1,villj001,01,C>C,SB2
+play,2,1,villj001,32,C>C.*BBBFX,S9/L.2-3
+play,2,1,jonea003,00,111X,4(1)3/GDP
+play,3,0,engea001,12,BSFC,K
+play,3,0,moncy001,02,CFX,7/F
+play,3,0,sancc001,12,BCCX,E6/G
+play,3,0,abrej003,12,CFBFFH,HP.1-2
+play,3,0,palkd001,32,BBFBC>F,SB3
+play,3,0,palkd001,32,BBFBC>F.>X,43/G
+sub,wynna001,"""Austin Wynns""",1,9,2
+sub,meisr001,"""Ryan Meisinger""",1,0,1
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,castm002,"""Miguel Castro""",1,0,1
+sub,ruizj001,"""Jose Ruiz""",0,0,1
+sub,fry-p001,"""Paul Fry""",1,0,1
+sub,burrr002,"""Ryan Burr""",0,0,1
+sub,lamar001,"""Ryan LaMarre""",0,4,9
+sub,petej002,"""Jace Peterson""",1,7,12
+sub,scahr001,"""Rob Scahill""",0,0,1
+sub,petej002,"""Jace Peterson""",1,7,5

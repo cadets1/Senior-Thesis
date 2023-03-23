@@ -1,0 +1,38 @@
+id,BAL201806150
+info,visteam,MIA
+info,hometeam,BAL
+info,date,2018/06/15
+info,starttime,7:07PM
+start,dietd001,"""Derek Dietrich""",0,1,3
+start,andeb006,"""Brian Anderson""",0,2,9
+start,realj001,"""J.T. Realmuto""",0,3,2
+start,bourj002,"""Justin Bour""",0,4,10
+start,casts001,"""Starlin Castro""",0,5,4
+start,riddj001,"""J.T. Riddle""",0,6,6
+start,brinl001,"""Lewis Brinson""",0,7,8
+start,rojam002,"""Miguel Rojas""",0,8,5
+start,shucj001,"""J.B. Shuck""",0,9,7
+start,urenj001,"""Jose Urena""",0,0,1
+start,josec001,"""Corban Joseph""",1,1,3
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,valed001,"""Danny Valencia""",1,4,5
+start,manct001,"""Trey Mancini""",1,5,7
+start,schoj001,"""Jonathan Schoop""",1,6,4
+start,trumm001,"""Mark Trumbo""",1,7,9
+start,alvap001,"""Pedro Alvarez""",1,8,10
+start,siscc001,"""Chance Sisco""",1,9,2
+start,gausk001,"""Kevin Gausman""",1,0,1
+play,2,0,riddj001,12,CBFS,K
+play,2,0,brinl001,02,FFX,T8/L+
+play,2,0,rojam002,32,C*BFBBFFFB,W
+play,2,0,shucj001,22,CBBCC,K
+play,2,0,dietd001,12,FBF>F>B,SB2
+play,2,0,dietd001,22,FBF>F>B.X,7/F
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,rivey001,"""Yadiel Rivera""",0,8,12
+sub,rivey001,"""Yadiel Rivera""",0,8,5
+sub,castm002,"""Miguel Castro""",1,0,1
+sub,britz001,"""Zach Britton""",1,0,1
+sub,odayd001,"""Darren O'Day""",1,0,1
+sub,barrk002,"""Kyle Barraclough""",0,0,1

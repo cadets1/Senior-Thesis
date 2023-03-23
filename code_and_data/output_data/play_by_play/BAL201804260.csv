@@ -1,0 +1,58 @@
+id,BAL201804260
+info,visteam,TBA
+info,hometeam,BAL
+info,date,2018/04/26
+info,starttime,7:07PM
+start,spand001,"""Denard Span""",0,1,7
+start,cronc002,"""C.J. Cron""",0,2,3
+start,gomec002,"""Carlos Gomez""",0,3,9
+start,millb002,"""Brad Miller""",0,4,10
+start,robed004,"""Daniel Robertson""",0,5,5
+start,wendj002,"""Joey Wendle""",0,6,4
+start,ramow001,"""Wilson Ramos""",0,7,2
+start,smitm007,"""Mallex Smith""",0,8,8
+start,hecha001,"""Adeiny Hechavarria""",0,9,6
+start,archc001,"""Chris Archer""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,7
+start,petej002,"""Jace Peterson""",1,2,4
+start,machm001,"""Manny Machado""",1,3,6
+start,jonea003,"""Adam Jones""",1,4,8
+start,davic003,"""Chris Davis""",1,5,3
+start,alvap001,"""Pedro Alvarez""",1,6,10
+start,valed001,"""Danny Valencia""",1,7,5
+start,santa003,"""Anthony Santander""",1,8,9
+start,josec002,"""Caleb Joseph""",1,9,2
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,3,1,santa003,12,BCCX,63/G
+play,3,1,josec002,01,CX,S6/G
+play,3,1,manct001,10,BX,D9/F+.1-H;B-3(TH)
+play,3,1,petej002,31,BBSB*B,W
+play,3,1,machm001,10,*BX,S7/G.3-H;1-2
+play,3,1,jonea003,02,CSS,K
+play,3,1,davic003,32,SBSFBBN,SB3
+play,3,1,davic003,32,SBSFBBN.>S,K
+play,5,0,millb002,00,X,D9/L+
+play,5,0,robed004,12,CCFBS,K
+play,5,0,wendj002,01,FX,S8/L.2-H;B-2(E8)
+play,5,0,ramow001,00,X,8/F
+play,5,0,smitm007,00,X,S8/L.2-H(UR)
+play,5,0,hecha001,00,,NP
+sub,wrigm001,"""Mike Wright""",1,0,1
+play,5,0,hecha001,12,.BCSF>B,SB2
+play,5,0,hecha001,22,.BCSF>B.S,K
+sub,roe-c001,"""Chaz Roe""",0,0,1
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+sub,bracb001,"""Brad Brach""",1,0,1
+sub,romos001,"""Sergio Romo""",0,0,1
+sub,siscc001,"""Chance Sisco""",1,9,11
+play,9,0,cronc002,00,,NP
+sub,siscc001,"""Chance Sisco""",1,9,2
+play,9,0,cronc002,00,,NP
+sub,odayd001,"""Darren O'Day""",1,0,1
+play,9,0,cronc002,21,..BFBX,2/P3F
+play,9,0,gomec002,00,X,DGR/89/L+
+play,9,0,millb002,10,BX,7/L
+play,9,0,robed004,00,>C,SB3.2-H(UR)(E2/TH)(NR)
+play,9,0,robed004,02,>C.FFS,K
+sub,coloa001,"""Alex Colome""",0,0,1

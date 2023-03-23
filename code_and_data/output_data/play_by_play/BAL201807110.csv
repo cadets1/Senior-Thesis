@@ -1,0 +1,41 @@
+id,BAL201807110
+info,visteam,NYA
+info,hometeam,BAL
+info,date,2018/07/11
+info,starttime,7:08PM
+start,gardb001,"""Brett Gardner""",0,1,7
+start,judga001,"""Aaron Judge""",0,2,10
+start,gregd001,"""Didi Gregorius""",0,3,6
+start,stanm004,"""Giancarlo Stanton""",0,4,9
+start,hicka001,"""Aaron Hicks""",0,5,8
+start,birdg001,"""Greg Bird""",0,6,3
+start,andum001,"""Miguel Andujar""",0,7,5
+start,romia002,"""Austin Romine""",0,8,2
+start,wadet002,"""Tyler Wade""",0,9,4
+start,grays001,"""Sonny Gray""",0,0,1
+start,beckt001,"""Tim Beckham""",1,1,5
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,schoj001,"""Jonathan Schoop""",1,5,4
+start,davic003,"""Chris Davis""",1,6,3
+start,valed001,"""Danny Valencia""",1,7,9
+start,rickj001,"""Joey Rickard""",1,8,7
+start,josec002,"""Caleb Joseph""",1,9,2
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,1,0,gardb001,32,CBFBBB,W
+play,1,0,judga001,02,FSX,9/F
+play,1,0,gregd001,20,1BB>B,SB2
+play,1,0,gregd001,30,1BB>B.X,8/L
+play,1,0,stanm004,02,SSC,K
+sub,wrigm001,"""Mike Wright""",1,0,1
+sub,marij001,"""Jhan Marinez""",1,0,1
+sub,colea002,"""A.J. Cole""",0,0,1
+sub,hartd002,"""Donnie Hart""",1,0,1
+sub,frazc001,"""Clint Frazier""",0,1,7
+sub,higak001,"""Kyle Higashioka""",0,8,2
+sub,beckt001,"""Tim Beckham""",1,1,6
+sub,manct001,"""Trey Mancini""",1,2,7
+sub,petej002,"""Jace Peterson""",1,3,5
+sub,rickj001,"""Joey Rickard""",1,8,8
+sub,shrec001,"""Chasen Shreve""",0,0,1

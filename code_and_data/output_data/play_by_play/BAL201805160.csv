@@ -1,0 +1,41 @@
+id,BAL201805160
+info,visteam,PHI
+info,hometeam,BAL
+info,date,2018/05/16
+info,starttime,12:07PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,hoskr001,"""Rhys Hoskins""",0,2,10
+start,herro001,"""Odubel Herrera""",0,3,8
+start,santc002,"""Carlos Santana""",0,4,3
+start,willn001,"""Nick Williams""",0,5,9
+start,franm004,"""Maikel Franco""",0,6,5
+start,florp001,"""Pedro Florimon""",0,7,6
+start,valej006,"""Jesmuel Valentin""",0,8,7
+start,knapa001,"""Andrew Knapp""",0,9,2
+start,piven001,"""Nick Pivetta""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,7
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,schoj001,"""Jonathan Schoop""",1,4,4
+start,trumm001,"""Mark Trumbo""",1,5,9
+start,davic003,"""Chris Davis""",1,6,3
+start,siscc001,"""Chance Sisco""",1,7,2
+start,alvap001,"""Pedro Alvarez""",1,8,10
+start,petej002,"""Jace Peterson""",1,9,5
+start,casha001,"""Andrew Cashner""",1,0,1
+play,2,0,willn001,32,CBCBBFB,W
+play,2,0,franm004,12,CB1FS,K
+play,2,0,florp001,32,BBBCC>S,K+CS2(26)/DP
+sub,bleir001,"""Richard Bleier""",1,0,1
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,altha001,"""Aaron Altherr""",0,8,11
+sub,willn001,"""Nick Williams""",0,5,7
+sub,altha001,"""Aaron Altherr""",0,8,9
+sub,huntt002,"""Tommy Hunter""",0,0,1
+sub,garcl005,"""Luis Garcia""",0,0,1
+sub,gentc001,"""Craig Gentry""",1,1,12
+sub,gentc001,"""Craig Gentry""",1,1,7
+sub,bracb001,"""Brad Brach""",1,0,1
+sub,ramoe002,"""Edubray Ramos""",0,0,1
+sub,nerih001,"""Hector Neris""",0,0,1

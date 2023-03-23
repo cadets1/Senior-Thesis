@@ -1,0 +1,39 @@
+id,BAL201804100
+info,visteam,TOR
+info,hometeam,BAL
+info,date,2018/04/10
+info,starttime,7:08PM
+start,granc001,"""Curtis Granderson""",0,1,7
+start,donaj001,"""Josh Donaldson""",0,2,5
+start,smoaj001,"""Justin Smoak""",0,3,3
+start,solay001,"""Yangervis Solarte""",0,4,10
+start,pears001,"""Steve Pearce""",0,5,9
+start,martr004,"""Russell Martin""",0,6,2
+start,pillk001,"""Kevin Pillar""",0,7,8
+start,travd001,"""Devon Travis""",0,8,4
+start,diaza003,"""Aledmys Diaz""",0,9,6
+start,sanca006,"""Aaron Sanchez""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,7
+start,machm001,"""Manny Machado""",1,2,6
+start,schoj001,"""Jonathan Schoop""",1,3,4
+start,jonea003,"""Adam Jones""",1,4,8
+start,alvap001,"""Pedro Alvarez""",1,5,10
+start,davic003,"""Chris Davis""",1,6,3
+start,beckt001,"""Tim Beckham""",1,7,5
+start,santa003,"""Anthony Santander""",1,8,9
+start,siscc001,"""Chance Sisco""",1,9,2
+start,casha001,"""Andrew Cashner""",1,0,1
+play,1,1,manct001,01,CX,9/L+
+play,1,1,machm001,01,CX,63/G
+play,1,1,schoj001,01,FH,HP
+play,1,1,jonea003,22,CB*BS1,POCS2(1341)
+play,6,0,solay001,32,BCSBBFX,S9/L
+play,6,0,pears001,32,CBBBF>F>S,K+CS2(24)/DP
+play,6,0,martr004,00,X,8/F+
+sub,castm002,"""Miguel Castro""",1,0,1
+sub,gricr001,"""Randal Grichuk""",0,5,12
+sub,gricr001,"""Randal Grichuk""",0,5,9
+sub,gentc001,"""Craig Gentry""",1,8,12
+sub,gentc001,"""Craig Gentry""",1,8,9
+sub,odayd001,"""Darren O'Day""",1,0,1
+sub,osunr001,"""Roberto Osuna""",0,0,1

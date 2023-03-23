@@ -1,0 +1,46 @@
+id,BAL201808150
+info,visteam,NYN
+info,hometeam,BAL
+info,date,2018/08/15
+info,starttime,7:06PM
+start,nimmb001,"""Brandon Nimmo""",0,1,9
+start,mcnej002,"""Jeff McNeil""",0,2,4
+start,florw001,"""Wilmer Flores""",0,3,3
+start,confm001,"""Michael Conforto""",0,4,7
+start,frazt001,"""Todd Frazier""",0,5,10
+start,jacka001,"""Austin Jackson""",0,6,8
+start,bautj002,"""Jose Bautista""",0,7,5
+start,plawk001,"""Kevin Plawecki""",0,8,2
+start,reyej001,"""Jose Reyes""",0,9,6
+start,wheez001,"""Zack Wheeler""",0,0,1
+start,villj001,"""Jonathan Villar""",1,1,4
+start,nuner001,"""Renato Nunez""",1,2,5
+start,jonea003,"""Adam Jones""",1,3,9
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,manct001,"""Trey Mancini""",1,5,7
+start,davic003,"""Chris Davis""",1,6,3
+start,beckt001,"""Tim Beckham""",1,7,6
+start,mullc002,"""Cedric Mullins""",1,8,8
+start,wynna001,"""Austin Wynns""",1,9,2
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,1,0,nimmb001,32,BBCSFFBX,S8/L
+play,1,0,mcnej002,10,1B>X,S7/G.1-3
+play,1,0,florw001,10,BX,8/F/SF.3-H;1-2
+play,1,0,confm001,12,CF*BFFS,K
+play,1,0,frazt001,12,CBCX,S39/P-.2-H
+play,1,0,jacka001,00,>B,SB2
+play,1,0,jacka001,22,>B.CSFBFS,K
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,phile001,"""Evan Phillips""",1,0,1
+sub,reinj001,"""Jack Reinheimer""",0,7,12
+sub,gilms001,"""Sean Gilmartin""",1,0,1
+sub,reinj001,"""Jack Reinheimer""",0,7,5
+sub,blevj001,"""Jerry Blevins""",0,0,1
+sub,petet001,"""Tim Peterson""",0,0,1
+sub,petej002,"""Jace Peterson""",1,3,11
+sub,petej002,"""Jace Peterson""",1,3,9
+sub,manct001,"""Trey Mancini""",1,5,3
+sub,rickj001,"""Joey Rickard""",1,6,7
+sub,carrc004,"""Cody Carroll""",1,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1
+sub,smitd009,"""Drew Smith""",0,0,1

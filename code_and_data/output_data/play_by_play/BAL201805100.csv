@@ -1,0 +1,38 @@
+id,BAL201805100
+info,visteam,KCA
+info,hometeam,BAL
+info,date,2018/05/10
+info,starttime,7:07PM
+start,jay-j001,"""Jon Jay""",0,1,7
+start,solej001,"""Jorge Soler""",0,2,9
+start,mousm001,"""Mike Moustakas""",0,3,10
+start,peres002,"""Salvador Perez""",0,4,2
+start,dudal001,"""Lucas Duda""",0,5,3
+start,merrw001,"""Whit Merrifield""",0,6,4
+start,gorda001,"""Alex Gordon""",0,7,8
+start,cuthc001,"""Cheslor Cuthbert""",0,8,5
+start,escoa003,"""Alcides Escobar""",0,9,6
+start,kenni001,"""Ian Kennedy""",0,0,1
+start,manct001,"""Trey Mancini""",1,1,7
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,schoj001,"""Jonathan Schoop""",1,4,4
+start,davic003,"""Chris Davis""",1,5,3
+start,trumm001,"""Mark Trumbo""",1,6,9
+start,alvap001,"""Pedro Alvarez""",1,7,10
+start,petej002,"""Jace Peterson""",1,8,5
+start,siscc001,"""Chance Sisco""",1,9,2
+start,tillc001,"""Chris Tillman""",1,0,1
+sub,castm002,"""Miguel Castro""",1,0,1
+play,5,0,peres002,11,CBX,9/F
+play,5,0,dudal001,32,SCFBBBFFB,W
+play,5,0,merrw001,12,CFBX,54(1)/FO/G
+play,5,0,gorda001,12,SF1BF>B,SB2
+play,5,0,gorda001,22,SF1BF>B.X,43/G
+sub,flynb001,"""Brian Flynn""",0,0,1
+sub,santa003,"""Anthony Santander""",1,7,11
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,buted001,"""Drew Butera""",0,4,2
+sub,adamj002,"""Jason Adam""",0,0,1
+sub,gentc001,"""Craig Gentry""",1,6,9
+sub,givem001,"""Mychal Givens""",1,0,1

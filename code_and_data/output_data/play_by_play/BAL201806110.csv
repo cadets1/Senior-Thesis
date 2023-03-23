@@ -1,0 +1,62 @@
+id,BAL201806110
+info,visteam,BOS
+info,hometeam,BAL
+info,date,2018/06/11
+info,starttime,7:06PM
+start,bettm001,"""Mookie Betts""",0,1,9
+start,benia002,"""Andrew Benintendi""",0,2,7
+start,martj006,"""J.D. Martinez""",0,3,10
+start,morem001,"""Mitch Moreland""",0,4,3
+start,bogax001,"""Xander Bogaerts""",0,5,6
+start,dever001,"""Rafael Devers""",0,6,5
+start,nunee002,"""Eduardo Nunez""",0,7,4
+start,vazqc001,"""Christian Vazquez""",0,8,2
+start,bradj001,"""Jackie Bradley""",0,9,8
+start,wrigs001,"""Steven Wright""",0,0,1
+start,rickj001,"""Joey Rickard""",1,1,9
+start,jonea003,"""Adam Jones""",1,2,8
+start,schoj001,"""Jonathan Schoop""",1,3,4
+start,valed001,"""Danny Valencia""",1,4,5
+start,trumm001,"""Mark Trumbo""",1,5,10
+start,manct001,"""Trey Mancini""",1,6,7
+start,davic003,"""Chris Davis""",1,7,3
+start,siscc001,"""Chance Sisco""",1,8,2
+start,petej002,"""Jace Peterson""",1,9,6
+start,bundd001,"""Dylan Bundy""",1,0,1
+play,2,1,trumm001,01,CX,43/G
+play,2,1,manct001,31,BFBBB,W
+play,2,1,davic003,02,SFS,K
+play,2,1,siscc001,31,CBBBX,S7/G.1-2
+play,2,1,petej002,10,BX,7/F
+play,6,0,bradj001,32,BTBBFX,8/L
+play,6,0,bettm001,32,CBFFBBX,53/G
+play,6,0,benia002,30,BBBB,W
+play,6,0,martj006,31,BB>FB1>S,SB2
+play,6,0,martj006,32,BB>FB1>S.T,K
+sub,kellj001,"""Joe Kelly""",0,0,1
+sub,bleir001,"""Richard Bleier""",1,0,1
+play,9,1,davic003,00,,NP
+sub,johnb004,"""Brian Johnson""",0,0,1
+play,9,1,davic003,22,.SBSBX,5/P
+play,9,1,siscc001,32,FBFFBFFBX,43/G
+play,9,1,petej002,32,CBFFBBFB,W
+play,9,1,rickj001,00,,NP
+sub,workb001,"""Brandon Workman""",0,0,1
+play,9,1,rickj001,00,,NP
+sub,alvap001,"""Pedro Alvarez""",1,1,11
+play,9,1,alvap001,00,..>C,SB2
+play,9,1,alvap001,12,..>C.SBT,K
+sub,gentc001,"""Craig Gentry""",1,1,9
+sub,bracb001,"""Brad Brach""",1,0,1
+sub,holtb002,"""Brock Holt""",0,8,11
+sub,givem001,"""Mychal Givens""",1,0,1
+sub,leons001,"""Sandy Leon""",0,1,2
+sub,holtb002,"""Brock Holt""",0,8,9
+sub,hembh001,"""Heath Hembree""",0,0,1
+play,12,1,gentc001,00,,NP
+sub,kimbc001,"""Craig Kimbrel""",0,0,1
+play,12,1,gentc001,32,.BBCFFBFB,W
+play,12,1,jonea003,22,SSBBS,K
+play,12,1,schoj001,01,S>S,SB2
+play,12,1,schoj001,22,S>S.BBS,K
+play,12,1,valed001,22,CBS*BS,K

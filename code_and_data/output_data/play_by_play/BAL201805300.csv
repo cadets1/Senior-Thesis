@@ -1,0 +1,37 @@
+id,BAL201805300
+info,visteam,WAS
+info,hometeam,BAL
+info,date,2018/05/30
+info,starttime,7:06PM
+start,sotoj001,"""Juan Soto""",0,1,7
+start,turnt001,"""Trea Turner""",0,2,6
+start,harpb003,"""Bryce Harper""",0,3,9
+start,renda001,"""Anthony Rendon""",0,4,5
+start,adamm002,"""Matt Adams""",0,5,10
+start,reynm001,"""Mark Reynolds""",0,6,3
+start,taylm002,"""Michael Taylor""",0,7,8
+start,difow001,"""Wilmer Difo""",0,8,4
+start,sevep001,"""Pedro Severino""",0,9,2
+start,schem001,"""Max Scherzer""",0,0,1
+start,petej002,"""Jace Peterson""",1,1,5
+start,jonea003,"""Adam Jones""",1,2,8
+start,machm001,"""Manny Machado""",1,3,6
+start,schoj001,"""Jonathan Schoop""",1,4,4
+start,trumm001,"""Mark Trumbo""",1,5,10
+start,davic003,"""Chris Davis""",1,6,3
+start,manct001,"""Trey Mancini""",1,7,7
+start,siscc001,"""Chance Sisco""",1,8,2
+start,rickj001,"""Joey Rickard""",1,9,9
+start,hessd001,"""David Hess""",1,0,1
+sub,castm002,"""Miguel Castro""",1,0,1
+sub,hartd002,"""Donnie Hart""",1,0,1
+sub,wrigm001,"""Mike Wright""",1,0,1
+play,9,1,petej002,00,,NP
+sub,dools001,"""Sean Doolittle""",0,0,1
+play,9,1,petej002,00,,NP
+sub,gentc001,"""Craig Gentry""",1,1,11
+play,9,1,gentc001,32,..BBCBFX,S7/L
+play,9,1,jonea003,11,F*BX,S4/P.1-2
+play,9,1,machm001,01,CN,CS3(154)
+play,9,1,machm001,01,CN.X,7/F
+play,9,1,schoj001,20,BBX,4/P

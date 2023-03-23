@@ -1,0 +1,43 @@
+id,BAL201807092
+info,visteam,NYA
+info,hometeam,BAL
+info,date,2018/07/09
+info,starttime,7:42PM
+start,gardb001,"""Brett Gardner""",0,1,8
+start,judga001,"""Aaron Judge""",0,2,10
+start,gregd001,"""Didi Gregorius""",0,3,6
+start,stanm004,"""Giancarlo Stanton""",0,4,9
+start,birdg001,"""Greg Bird""",0,5,3
+start,andum001,"""Miguel Andujar""",0,6,5
+start,frazc001,"""Clint Frazier""",0,7,7
+start,romia002,"""Austin Romine""",0,8,2
+start,walkn001,"""Neil Walker""",0,9,4
+start,cessl001,"""Luis Cessa""",0,0,1
+start,beckt001,"""Tim Beckham""",1,1,5
+start,schoj001,"""Jonathan Schoop""",1,2,4
+start,machm001,"""Manny Machado""",1,3,6
+start,trumm001,"""Mark Trumbo""",1,4,10
+start,davic003,"""Chris Davis""",1,5,3
+start,valed001,"""Danny Valencia""",1,6,9
+start,petej002,"""Jace Peterson""",1,7,7
+start,rickj001,"""Joey Rickard""",1,8,8
+start,siscc001,"""Chance Sisco""",1,9,2
+start,ramiy001,"""Yefry Ramirez""",1,0,1
+play,3,0,gregd001,02,CSX,S9/G
+play,3,0,stanm004,22,1CBF1BX,S6/G+.1-2
+play,3,0,birdg001,32,*BBSS*BS,K
+play,3,0,andum001,22,BSFBFFFS,K
+play,3,0,frazc001,01,C>B,CS3(25)
+sub,meisr001,"""Ryan Meisinger""",1,0,1
+play,7,1,davic003,00,,NP
+sub,gallg001,"""Giovanny Gallegos""",0,0,1
+play,7,1,davic003,32,.BBFBCFB,W
+play,7,1,valed001,00,X,54(1)3/GDP
+play,7,1,petej002,32,BCBSFBB,W
+play,7,1,rickj001,10,B>B,CS2(24)
+sub,bracb001,"""Brad Brach""",1,0,1
+sub,scott003,"""Tanner Scott""",1,0,1
+sub,wadet002,"""Tyler Wade""",0,3,12
+sub,wadet002,"""Tyler Wade""",0,3,6
+sub,manct001,"""Trey Mancini""",1,7,7
+sub,fry-p001,"""Paul Fry""",1,0,1
