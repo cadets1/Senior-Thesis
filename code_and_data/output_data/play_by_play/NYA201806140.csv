@@ -1,0 +1,45 @@
+id,NYA201806140
+info,visteam,TBA
+info,hometeam,NYA
+info,date,2018/06/14
+info,starttime,7:10PM
+start,duffm002,"""Matt Duffy""",0,1,5
+start,bauej001,"""Jake Bauers""",0,2,3
+start,ramow001,"""Wilson Ramos""",0,3,2
+start,cronc002,"""C.J. Cron""",0,4,10
+start,wendj002,"""Joey Wendle""",0,5,4
+start,adamw002,"""Willy Adames""",0,6,6
+start,smitm007,"""Mallex Smith""",0,7,8
+start,gomec002,"""Carlos Gomez""",0,8,9
+start,fielj003,"""Johnny Field""",0,9,7
+start,snelb001,"""Blake Snell""",0,0,1
+start,hicka001,"""Aaron Hicks""",1,1,8
+start,judga001,"""Aaron Judge""",1,2,9
+start,stanm004,"""Giancarlo Stanton""",1,3,7
+start,sancg002,"""Gary Sanchez""",1,4,2
+start,torrg001,"""Gleyber Torres""",1,5,4
+start,andum001,"""Miguel Andujar""",1,6,5
+start,austt001,"""Tyler Austin""",1,7,10
+start,torrr001,"""Ronald Torreyes""",1,8,6
+start,walkn001,"""Neil Walker""",1,9,3
+start,germd001,"""Domingo German""",1,0,1
+play,6,0,bauej001,31,BBSBB,W
+play,6,0,ramow001,22,SSB*BFS,K
+play,6,0,cronc002,12,S*BS1F,FLE2
+play,6,0,cronc002,12,S*BS1FFFS,K
+play,6,0,wendj002,01,SB,WP.1-2
+play,6,0,wendj002,11,SB.X,S9/L.2-H
+play,6,0,adamw002,12,1*BSF*B,SB2
+play,6,0,adamw002,32,1*BSF*B.BFFS,K
+sub,nunov001,"""Vidal Nuno""",0,0,1
+play,7,0,smitm007,00,,NP
+sub,greec003,"""Chad Green""",1,0,1
+play,7,0,smitm007,11,.CBX,53/G
+play,7,0,gomec002,00,X,D8/L
+play,7,0,fielj003,02,FC>B,CS3(25)
+play,7,0,fielj003,32,FC>B.BBFFS,K
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,refsr001,"""Rob Refsnyder""",0,3,12
+sub,sucrj001,"""Jesus Sucre""",0,3,2
+sub,chapa001,"""Aroldis Chapman""",1,0,1
+sub,arroc001,"""Christian Arroyo""",0,5,11

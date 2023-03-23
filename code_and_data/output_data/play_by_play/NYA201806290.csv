@@ -1,0 +1,40 @@
+id,NYA201806290
+info,visteam,BOS
+info,hometeam,NYA
+info,date,2018/06/29
+info,starttime,7:09PM
+start,bettm001,"""Mookie Betts""",0,1,9
+start,benia002,"""Andrew Benintendi""",0,2,7
+start,martj006,"""J.D. Martinez""",0,3,10
+start,pears001,"""Steve Pearce""",0,4,3
+start,bogax001,"""Xander Bogaerts""",0,5,6
+start,nunee002,"""Eduardo Nunez""",0,6,4
+start,dever001,"""Rafael Devers""",0,7,5
+start,vazqc001,"""Christian Vazquez""",0,8,2
+start,bradj001,"""Jackie Bradley""",0,9,8
+start,rodre004,"""Eduardo Rodriguez""",0,0,1
+start,hicka001,"""Aaron Hicks""",1,1,8
+start,judga001,"""Aaron Judge""",1,2,9
+start,stanm004,"""Giancarlo Stanton""",1,3,10
+start,gregd001,"""Didi Gregorius""",1,4,6
+start,torrg001,"""Gleyber Torres""",1,5,4
+start,andum001,"""Miguel Andujar""",1,6,5
+start,birdg001,"""Greg Bird""",1,7,3
+start,romia002,"""Austin Romine""",1,8,2
+start,gardb001,"""Brett Gardner""",1,9,7
+start,sabac001,"""CC Sabathia""",1,0,1
+play,3,0,vazqc001,02,SSX,53/G
+play,3,0,bradj001,22,BBCSC,K
+play,3,0,bettm001,22,CBCBFX,S5/G-
+play,3,0,benia002,21,B+1CB>B,SB2
+play,3,0,benia002,31,B+1CB>B.B,W
+play,3,0,martj006,00,X,8/F+
+play,5,0,vazqc001,01,CX,7/L
+play,5,0,bradj001,22,BBCCFX,8/F
+play,5,0,bettm001,11,CBX,D8/L+
+play,5,0,benia002,21,BFBX,D9/L+.2-H
+play,5,0,martj006,20,BB>B,SB3
+play,5,0,martj006,31,BB>B.CX,9/F
+sub,halej001,"""Justin Haley""",0,0,1
+sub,greec003,"""Chad Green""",1,0,1
+sub,shrec001,"""Chasen Shreve""",1,0,1

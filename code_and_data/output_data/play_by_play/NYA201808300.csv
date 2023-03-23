@@ -1,0 +1,43 @@
+id,NYA201808300
+info,visteam,DET
+info,hometeam,NYA
+info,date,2018/08/30
+info,starttime,7:07PM
+start,candj002,"""Jeimer Candelario""",0,1,5
+start,mahtm001,"""Mikie Mahtook""",0,2,7
+start,castn001,"""Nick Castellanos""",0,3,9
+start,martv001,"""Victor Martinez""",0,4,10
+start,goodn002,"""Niko Goodrum""",0,5,3
+start,rodrr009,"""Ronny Rodriguez""",0,6,6
+start,mccaj001,"""James McCann""",0,7,2
+start,jonej006,"""JaCoby Jones""",0,8,8
+start,lugod001,"""Dawel Lugo""",0,9,4
+start,lirif001,"""Francisco Liriano""",0,0,1
+start,hicka001,"""Aaron Hicks""",1,1,8
+start,stanm004,"""Giancarlo Stanton""",1,2,10
+start,andum001,"""Miguel Andujar""",1,3,5
+start,voitl001,"""Luke Voit""",1,4,3
+start,torrg001,"""Gleyber Torres""",1,5,6
+start,walkn001,"""Neil Walker""",1,6,4
+start,higak001,"""Kyle Higashioka""",1,7,2
+start,robis001,"""Shane Robinson""",1,8,9
+start,gardb001,"""Brett Gardner""",1,9,7
+start,happj001,"""J.A. Happ""",1,0,1
+play,4,0,martv001,21,BFBX,53/G
+play,4,0,goodn002,02,FFX,S4/G
+play,4,0,rodrr009,00,>B,SB2
+play,4,0,rodrr009,22,>B.CS*BFFB,WP.2-3
+play,4,0,rodrr009,32,>B.CS*BFFB.X,HR/78/L.3-H
+play,4,0,mccaj001,00,X,S7/L
+play,4,0,jonej006,11,CBX,D7/L.1-3
+play,4,0,lugod001,12,BCFX,43/G
+play,4,0,candj002,02,FFT,K
+sub,greec003,"""Chad Green""",1,0,1
+sub,verhd001,"""Drew VerHagen""",0,0,1
+sub,stumd001,"""Daniel Stumpf""",0,0,1
+sub,robed002,"""David Robertson""",1,0,1
+sub,alcav001,"""Victor Alcantara""",0,0,1
+sub,britz001,"""Zach Britton""",1,0,1
+sub,wilsa001,"""Alex Wilson""",0,0,1
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,grees005,"""Shane Greene""",0,0,1

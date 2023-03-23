@@ -1,0 +1,45 @@
+id,NYA201807010
+info,visteam,BOS
+info,hometeam,NYA
+info,date,2018/07/01
+info,starttime,8:07PM
+start,bettm001,"""Mookie Betts""",0,1,9
+start,benia002,"""Andrew Benintendi""",0,2,7
+start,martj006,"""J.D. Martinez""",0,3,10
+start,morem001,"""Mitch Moreland""",0,4,3
+start,bogax001,"""Xander Bogaerts""",0,5,6
+start,dever001,"""Rafael Devers""",0,6,5
+start,holtb002,"""Brock Holt""",0,7,4
+start,vazqc001,"""Christian Vazquez""",0,8,2
+start,bradj001,"""Jackie Bradley""",0,9,8
+start,pricd001,"""David Price""",0,0,1
+start,hicka001,"""Aaron Hicks""",1,1,8
+start,judga001,"""Aaron Judge""",1,2,9
+start,stanm004,"""Giancarlo Stanton""",1,3,10
+start,gregd001,"""Didi Gregorius""",1,4,6
+start,torrg001,"""Gleyber Torres""",1,5,4
+start,andum001,"""Miguel Andujar""",1,6,5
+start,birdg001,"""Greg Bird""",1,7,3
+start,higak001,"""Kyle Higashioka""",1,8,2
+start,gardb001,"""Brett Gardner""",1,9,7
+start,sevel001,"""Luis Severino""",1,0,1
+play,3,0,vazqc001,10,BX,7/L
+play,3,0,bradj001,12,BSFS,K
+play,3,0,bettm001,31,BCBBB,W
+play,3,0,benia002,02,1SFFX,S7/L.1-3
+play,3,0,martj006,22,BBFC>B,SB2
+play,3,0,martj006,32,BBFC>B.FS,K
+sub,halej001,"""Justin Haley""",0,0,1
+sub,walkn001,"""Neil Walker""",1,4,11
+sub,walkn001,"""Neil Walker""",1,4,4
+sub,torrg001,"""Gleyber Torres""",1,5,6
+sub,robed002,"""David Robertson""",1,0,1
+sub,pears001,"""Steve Pearce""",0,1,9
+sub,swihb001,"""Blake Swihart""",0,5,4
+sub,holtb002,"""Brock Holt""",0,7,6
+sub,workb001,"""Brandon Workman""",0,0,1
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,velah001,"""Hector Velazquez""",0,0,1
+sub,drurb001,"""Brandon Drury""",1,3,11
+sub,chapa001,"""Aroldis Chapman""",1,0,1
+sub,leons001,"""Sandy Leon""",0,4,11

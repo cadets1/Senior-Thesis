@@ -1,0 +1,38 @@
+id,NYA201804190
+info,visteam,TOR
+info,hometeam,NYA
+info,date,2018/04/19
+info,starttime,6:38PM
+start,pears001,"""Steve Pearce""",0,1,10
+start,hernt002,"""Teoscar Hernandez""",0,2,7
+start,smoaj001,"""Justin Smoak""",0,3,3
+start,solay001,"""Yangervis Solarte""",0,4,5
+start,pillk001,"""Kevin Pillar""",0,5,8
+start,diaza003,"""Aledmys Diaz""",0,6,6
+start,gricr001,"""Randal Grichuk""",0,7,9
+start,maill001,"""Luke Maile""",0,8,2
+start,travd001,"""Devon Travis""",0,9,4
+start,sanca006,"""Aaron Sanchez""",0,0,1
+start,gardb001,"""Brett Gardner""",1,1,7
+start,judga001,"""Aaron Judge""",1,2,9
+start,gregd001,"""Didi Gregorius""",1,3,6
+start,stanm004,"""Giancarlo Stanton""",1,4,10
+start,sancg002,"""Gary Sanchez""",1,5,2
+start,hicka001,"""Aaron Hicks""",1,6,8
+start,walkn001,"""Neil Walker""",1,7,3
+start,wadet002,"""Tyler Wade""",1,8,4
+start,torrr001,"""Ronald Torreyes""",1,9,5
+start,sabac001,"""CC Sabathia""",1,0,1
+sub,greec003,"""Chad Green""",1,0,1
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,clipt001,"""Tyler Clippard""",0,0,1
+sub,robed002,"""David Robertson""",1,0,1
+sub,granc001,"""Curtis Granderson""",0,6,11
+play,8,1,sancg002,00,,NP
+sub,ngoeg001,"""Gift Ngoepe""",0,6,6
+play,8,1,sancg002,00,,NP
+sub,axfoj001,"""John Axford""",0,0,1
+play,8,1,sancg002,22,..BBCFX,3/G
+play,8,1,hicka001,32,CBBFBB,W
+play,8,1,walkn001,32,BBBSF>S,K+CS2(26)/DP
+sub,chapa001,"""Aroldis Chapman""",1,0,1

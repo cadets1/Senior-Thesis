@@ -1,0 +1,42 @@
+id,NYA201808110
+info,visteam,TEX
+info,hometeam,NYA
+info,date,2018/08/11
+info,starttime,1:10PM
+start,choos001,"""Shin-Soo Choo""",0,1,9
+start,odorr001,"""Rougned Odor""",0,2,4
+start,andre001,"""Elvis Andrus""",0,3,6
+start,belta001,"""Adrian Beltre""",0,4,10
+start,profj001,"""Jurickson Profar""",0,5,5
+start,gallj002,"""Joey Gallo""",0,6,7
+start,chirr001,"""Robinson Chirinos""",0,7,2
+start,guzmr001,"""Ronald Guzman""",0,8,3
+start,toccc001,"""Carlos Tocci""",0,9,8
+start,hutcd001,"""Drew Hutchison""",0,0,1
+start,gardb001,"""Brett Gardner""",1,1,7
+start,stanm004,"""Giancarlo Stanton""",1,2,10
+start,gregd001,"""Didi Gregorius""",1,3,6
+start,andum001,"""Miguel Andujar""",1,4,5
+start,birdg001,"""Greg Bird""",1,5,3
+start,torrg001,"""Gleyber Torres""",1,6,4
+start,walkn001,"""Neil Walker""",1,7,9
+start,higak001,"""Kyle Higashioka""",1,8,2
+start,robis001,"""Shane Robinson""",1,9,8
+start,lynnl001,"""Lance Lynn""",1,0,1
+play,1,0,choos001,10,BX,S8/L+
+play,1,0,odorr001,32,BTBFFF1B>C,K+SB2
+play,1,0,andre001,22,FS*BBT,K
+play,1,0,belta001,22,BSBCS,K
+play,5,0,choos001,11,CBX,9/L
+play,5,0,odorr001,32,BSCBFBFB,W
+play,5,0,andre001,01,11F>S,SB2
+play,5,0,andre001,12,11F>S.BC,K
+play,5,0,belta001,32,BBBCFT,K
+sub,robed002,"""David Robertson""",1,0,1
+sub,sprij001,"""Jeffrey Springs""",0,0,1
+sub,britz001,"""Zach Britton""",1,0,1
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,martc007,"""Chris Martin""",0,0,1
+sub,claua001,"""Alex Claudio""",0,0,1
+sub,chapa001,"""Aroldis Chapman""",1,0,1
+sub,kinei001,"""Isiah Kiner-Falefa""",0,9,11

@@ -1,0 +1,35 @@
+id,NYA201806150
+info,visteam,TBA
+info,hometeam,NYA
+info,date,2018/06/15
+info,starttime,7:09PM
+start,duffm002,"""Matt Duffy""",0,1,10
+start,bauej001,"""Jake Bauers""",0,2,3
+start,ramow001,"""Wilson Ramos""",0,3,2
+start,wendj002,"""Joey Wendle""",0,4,4
+start,adamw002,"""Willy Adames""",0,5,6
+start,smitm007,"""Mallex Smith""",0,6,8
+start,arroc001,"""Christian Arroyo""",0,7,5
+start,refsr001,"""Rob Refsnyder""",0,8,7
+start,fielj003,"""Johnny Field""",0,9,9
+start,eovan001,"""Nathan Eovaldi""",0,0,1
+start,gardb001,"""Brett Gardner""",1,1,7
+start,judga001,"""Aaron Judge""",1,2,9
+start,gregd001,"""Didi Gregorius""",1,3,6
+start,stanm004,"""Giancarlo Stanton""",1,4,10
+start,birdg001,"""Greg Bird""",1,5,3
+start,sancg002,"""Gary Sanchez""",1,6,2
+start,hicka001,"""Aaron Hicks""",1,7,8
+start,andum001,"""Miguel Andujar""",1,8,5
+start,torrg001,"""Gleyber Torres""",1,9,4
+start,loaij001,"""Jonathan Loaisiga""",1,0,1
+play,6,0,ramow001,00,,NP
+sub,holdj002,"""Jonathan Holder""",1,0,1
+play,6,0,ramow001,21,.BSBX,43/G+
+play,6,0,wendj002,02,CFX,7/F
+play,6,0,adamw002,32,CFBFBFBB,W
+play,6,0,smitm007,12,C11BS>B,CS2(26)
+sub,robed002,"""David Robertson""",1,0,1
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,ventj001,"""Jonny Venters""",0,0,1
+sub,warra001,"""Adam Warren""",1,0,1

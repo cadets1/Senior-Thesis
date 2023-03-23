@@ -1,0 +1,48 @@
+id,NYA201809230
+info,visteam,BAL
+info,hometeam,NYA
+info,date,2018/09/23
+info,starttime,1:08PM
+start,mullc002,"""Cedric Mullins""",0,1,8
+start,valeb001,"""Breyvic Valera""",0,2,4
+start,villj001,"""Jonathan Villar""",0,3,6
+start,manct001,"""Trey Mancini""",0,4,3
+start,beckt001,"""Tim Beckham""",0,5,10
+start,nuner001,"""Renato Nunez""",0,6,5
+start,rickj001,"""Joey Rickard""",0,7,7
+start,wynna001,"""Austin Wynns""",0,8,2
+start,andrj001,"""John Andreoli""",0,9,9
+start,cobba001,"""Alex Cobb""",0,0,1
+start,mccua001,"""Andrew McCutchen""",1,1,7
+start,stanm004,"""Giancarlo Stanton""",1,2,9
+start,voitl001,"""Luke Voit""",1,3,10
+start,torrg001,"""Gleyber Torres""",1,4,4
+start,andum001,"""Miguel Andujar""",1,5,5
+start,walkn001,"""Neil Walker""",1,6,3
+start,sancg002,"""Gary Sanchez""",1,7,2
+start,hecha001,"""Adeiny Hechavarria""",1,8,6
+start,gardb001,"""Brett Gardner""",1,9,8
+start,happj001,"""J.A. Happ""",1,0,1
+sub,wrigm001,"""Mike Wright""",0,0,1
+play,5,0,mullc002,22,BCBFX,8/F
+play,5,0,valeb001,31,CBBBX,T7/F+
+play,5,0,villj001,12,FCFFF*BFX,FC3/G.3XH(32)
+play,5,0,manct001,12,B1FF>B,CS2(24)
+sub,wilks001,"""Steve Wilkerson""",0,2,4
+sub,meisr001,"""Ryan Meisinger""",0,0,1
+sub,colea002,"""A.J. Cole""",1,0,1
+sub,kahnt001,"""Tommy Kahnle""",1,0,1
+sub,stewd002,"""DJ Stewart""",0,9,11
+sub,stewd002,"""DJ Stewart""",0,9,9
+sub,cessl001,"""Luis Cessa""",1,0,1
+sub,scott003,"""Tanner Scott""",0,0,1
+sub,hicka001,"""Aaron Hicks""",1,8,11
+sub,judga001,"""Aaron Judge""",1,9,11
+sub,torrr001,"""Ronald Torreyes""",1,1,4
+sub,stanm004,"""Giancarlo Stanton""",1,2,7
+sub,torrg001,"""Gleyber Torres""",1,4,6
+sub,hicka001,"""Aaron Hicks""",1,8,8
+sub,judga001,"""Aaron Judge""",1,9,9
+sub,petej002,"""Jace Peterson""",0,6,5
+sub,carrc004,"""Cody Carroll""",0,0,1
+sub,givem001,"""Mychal Givens""",0,0,1

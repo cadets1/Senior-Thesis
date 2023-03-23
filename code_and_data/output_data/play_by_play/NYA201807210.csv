@@ -1,0 +1,39 @@
+id,NYA201807210
+info,visteam,NYN
+info,hometeam,NYA
+info,date,2018/07/21
+info,starttime,1:11PM
+start,nimmb001,"""Brandon Nimmo""",0,1,9
+start,cabra002,"""Asdrubal Cabrera""",0,2,10
+start,florw001,"""Wilmer Flores""",0,3,3
+start,confm001,"""Michael Conforto""",0,4,7
+start,bautj002,"""Jose Bautista""",0,5,5
+start,plawk001,"""Kevin Plawecki""",0,6,2
+start,rosaa003,"""Amed Rosario""",0,7,6
+start,dendm001,"""Matt den Dekker""",0,8,8
+start,reyej001,"""Jose Reyes""",0,9,4
+start,matzs001,"""Steven Matz""",0,0,1
+start,hicka001,"""Aaron Hicks""",1,1,8
+start,judga001,"""Aaron Judge""",1,2,9
+start,stanm004,"""Giancarlo Stanton""",1,3,7
+start,sancg002,"""Gary Sanchez""",1,4,10
+start,gregd001,"""Didi Gregorius""",1,5,6
+start,andum001,"""Miguel Andujar""",1,6,5
+start,birdg001,"""Greg Bird""",1,7,3
+start,drurb001,"""Brandon Drury""",1,8,4
+start,romia002,"""Austin Romine""",1,9,2
+start,grays001,"""Sonny Gray""",1,0,1
+play,5,0,rosaa003,01,CX,S6/G
+play,5,0,dendm001,32,1BCBS1B>S,K+SB2
+play,5,0,reyej001,02,FCX,5/P5F
+play,5,0,nimmb001,22,CBCF*BH,HP
+play,5,0,cabra002,22,BBSFS,K
+sub,robed002,"""David Robertson""",1,0,1
+sub,petet001,"""Tim Peterson""",0,0,1
+sub,holdj002,"""Jonathan Holder""",1,0,1
+sub,mesod001,"""Devin Mesoraco""",0,2,11
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,swara001,"""Anthony Swarzak""",0,0,1
+sub,chapa001,"""Aroldis Chapman""",1,0,1
+sub,kellt001,"""Ty Kelly""",0,8,11
+sub,shrec001,"""Chasen Shreve""",1,0,1

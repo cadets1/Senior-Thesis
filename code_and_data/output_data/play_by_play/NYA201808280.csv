@@ -1,0 +1,36 @@
+id,NYA201808280
+info,visteam,CHA
+info,hometeam,NYA
+info,date,2018/08/28
+info,starttime,7:09PM
+start,sancc001,"""Yolmer Sanchez""",0,1,5
+start,delmn001,"""Nicky Delmonico""",0,2,7
+start,garca003,"""Avisail Garcia""",0,3,9
+start,palkd001,"""Daniel Palka""",0,4,10
+start,davim005,"""Matt Davidson""",0,5,3
+start,narvo001,"""Omar Narvaez""",0,6,2
+start,andet001,"""Tim Anderson""",0,7,6
+start,moncy001,"""Yoan Moncada""",0,8,4
+start,engea001,"""Adam Engel""",0,9,8
+start,shiej002,"""James Shields""",0,0,1
+start,gardb001,"""Brett Gardner""",1,1,7
+start,stanm004,"""Giancarlo Stanton""",1,2,9
+start,hicka001,"""Aaron Hicks""",1,3,8
+start,andum001,"""Miguel Andujar""",1,4,5
+start,voitl001,"""Luke Voit""",1,5,10
+start,torrg001,"""Gleyber Torres""",1,6,6
+start,birdg001,"""Greg Bird""",1,7,3
+start,romia002,"""Austin Romine""",1,8,2
+start,torrr001,"""Ronald Torreyes""",1,9,4
+start,lynnl001,"""Lance Lynn""",1,0,1
+play,1,0,sancc001,22,CFBBFFX,4E3/G
+play,1,0,delmn001,11,BCX,8/F
+play,1,0,garca003,12,CBF>S,K+SB2
+play,1,0,palkd001,22,BBCFS,K
+sub,holdj002,"""Jonathan Holder""",1,0,1
+sub,fry-j001,"""Jace Fry""",0,0,1
+sub,minaj001,"""Juan Minaya""",0,0,1
+sub,coved001,"""Dylan Covey""",0,0,1
+sub,betad001,"""Dellin Betances""",1,0,1
+sub,rondj002,"""Jose Rondon""",0,7,6
+sub,walkn001,"""Neil Walker""",1,9,11

@@ -1,0 +1,46 @@
+id,NYA201807281
+info,visteam,KCA
+info,hometeam,NYA
+info,date,2018/07/28
+info,starttime,1:10PM
+start,merrw001,"""Whit Merrifield""",0,1,4
+start,herrr002,"""Rosell Herrera""",0,2,10
+start,peres002,"""Salvador Perez""",0,3,2
+start,dudal001,"""Lucas Duda""",0,4,3
+start,bonij002,"""Jorge Bonifacio""",0,5,9
+start,gorda001,"""Alex Gordon""",0,6,7
+start,goodb001,"""Brian Goodwin""",0,7,8
+start,escoa003,"""Alcides Escobar""",0,8,5
+start,mondr003,"""Adalberto Mondesi""",0,9,6
+start,kellb003,"""Brad Keller""",0,0,1
+start,hicka001,"""Aaron Hicks""",1,1,8
+start,stanm004,"""Giancarlo Stanton""",1,2,10
+start,gregd001,"""Didi Gregorius""",1,3,6
+start,torrg001,"""Gleyber Torres""",1,4,4
+start,birdg001,"""Greg Bird""",1,5,3
+start,walkn001,"""Neil Walker""",1,6,5
+start,romia002,"""Austin Romine""",1,7,2
+start,wadet002,"""Tyler Wade""",1,8,7
+start,robis001,"""Shane Robinson""",1,9,9
+start,sevel001,"""Luis Severino""",1,0,1
+play,1,0,merrw001,00,X,S8/L
+play,1,0,herrr002,22,F1C*BBF>FS,K
+play,1,0,peres002,01,1S>S,SB2
+play,1,0,peres002,02,1S>S.X,FC6/G.2X3(65)
+play,1,0,dudal001,32,BFBC*B>X,31/G
+play,4,0,gorda001,12,CFBX,S9/L+
+play,4,0,goodb001,31,BBFBX,9/L+
+play,4,0,escoa003,10,B>B,CS2(24)
+play,4,0,escoa003,32,B>B.BCFFC,K
+sub,warra001,"""Adam Warren""",1,0,1
+sub,mccak002,"""Kevin McCarthy""",0,0,1
+sub,hillt002,"""Tim Hill""",0,0,1
+sub,andum001,"""Miguel Andujar""",1,8,11
+sub,walkn001,"""Neil Walker""",1,6,9
+sub,andum001,"""Miguel Andujar""",1,8,5
+sub,robis001,"""Shane Robinson""",1,9,7
+sub,robed002,"""David Robertson""",1,0,1
+sub,hammj002,"""Jason Hammel""",0,0,1
+sub,gardb001,"""Brett Gardner""",1,9,11
+sub,gardb001,"""Brett Gardner""",1,9,7
+sub,shrec001,"""Chasen Shreve""",1,0,1
