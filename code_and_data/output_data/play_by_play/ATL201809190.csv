@@ -1,0 +1,52 @@
+id,ATL201809190
+info,visteam,SLN
+info,hometeam,ATL
+info,date,2018/09/19
+info,starttime,12:11PM
+start,wongk001,"""Kolten Wong""",0,1,4
+start,martj008,"""Jose Martinez""",0,2,9
+start,dejop001,"""Paul DeJong""",0,3,6
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,gyorj001,"""Jedd Gyorko""",0,5,5
+start,moliy001,"""Yadier Molina""",0,6,2
+start,adamm002,"""Matt Adams""",0,7,3
+start,badeh001,"""Harrison Bader""",0,8,8
+start,flahj002,"""Jack Flaherty""",0,9,1
+start,acunr001,"""Ronald Acuna""",1,1,7
+start,incie001,"""Ender Inciarte""",1,2,8
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,camaj001,"""Johan Camargo""",1,5,5
+start,albio001,"""Ozzie Albies""",1,6,4
+start,flowt001,"""Tyler Flowers""",1,7,2
+start,swand001,"""Dansby Swanson""",1,8,6
+start,toust001,"""Touki Toussaint""",1,9,1
+play,4,0,martj008,01,CX,9/L
+play,4,0,dejop001,02,CFS,K
+play,4,0,ozunm001,11,BCX,S9/F
+play,4,0,gyorj001,22,CSBFFBX,S7/L.1-2
+play,4,0,moliy001,11,FB>C,SB3;SB2
+play,4,0,moliy001,12,FB>C.FS,K
+play,5,1,flowt001,00,X,D7/G
+play,5,1,swand001,01,CX,53/G
+play,5,1,toust001,01,SX,63/G.2-3
+play,5,1,acunr001,32,*BC*BFB*B,W
+play,5,1,incie001,10,BB,WP.3-H(NR);1-2
+play,5,1,incie001,31,BB.BCB,W
+play,5,1,freef001,21,BBCX,S9/L.2-H;1-3
+play,5,1,markn001,00,,NP
+sub,shrec001,"""Chasen Shreve""",0,9,1
+play,5,1,markn001,12,.BFF1>B,SBH;SB2
+play,5,1,markn001,32,.BFF1>B..BS,K
+sub,ventj001,"""Jonny Venters""",1,9,1
+sub,mayem001,"""Mike Mayers""",0,9,1
+sub,dudal001,"""Lucas Duda""",1,9,11
+sub,biddj001,"""Jesse Biddle""",1,9,1
+sub,oneit001,"""Tyler O'Neill""",0,9,11
+sub,webbt001,"""Tyler Webb""",0,9,1
+sub,carls002,"""Shane Carle""",1,9,1
+sub,cecib001,"""Brett Cecil""",0,9,1
+sub,duvaa001,"""Adam Duvall""",1,9,11
+sub,minta001,"""A.J. Minter""",1,9,1
+sub,wisdp001,"""Patrick Wisdom""",0,7,11
+sub,carpm002,"""Matt Carpenter""",0,9,11

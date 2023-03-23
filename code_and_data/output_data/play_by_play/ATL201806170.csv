@@ -1,0 +1,53 @@
+id,ATL201806170
+info,visteam,SDN
+info,hometeam,ATL
+info,date,2018/06/17
+info,starttime,1:37PM
+start,jankt001,"""Travis Jankowski""",0,1,7
+start,hosme001,"""Eric Hosmer""",0,2,3
+start,pirej001,"""Jose Pirela""",0,3,4
+start,renfh001,"""Hunter Renfroe""",0,4,9
+start,spanc001,"""Cory Spangenberg""",0,5,5
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,margm001,"""Manuel Margot""",0,7,8
+start,loper002,"""Rafael Lopez""",0,8,2
+start,stram001,"""Matt Strahm""",0,9,1
+start,swand001,"""Dansby Swanson""",1,1,6
+start,culbc001,"""Charlie Culberson""",1,2,7
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,suzuk001,"""Kurt Suzuki""",1,5,2
+start,incie001,"""Ender Inciarte""",1,6,8
+start,camaj001,"""Johan Camargo""",1,7,4
+start,flahr001,"""Ryan Flaherty""",1,8,5
+start,tehej001,"""Julio Teheran""",1,9,1
+play,1,0,jankt001,32,BCBBCFB,W
+play,1,0,hosme001,10,11B>B,SB2
+play,1,0,hosme001,32,11B>B.SF*BX,43/G.2-3
+play,1,0,pirej001,00,H,HP
+play,1,0,renfh001,12,CBS1S,K
+play,1,0,spanc001,20,BB>B,SB2
+play,1,0,spanc001,32,BB>B.CSC,K
+sub,flowt001,"""Tyler Flowers""",1,5,2
+sub,castj007,"""Jose Castillo""",0,9,1
+sub,jankt001,"""Travis Jankowski""",0,1,8
+sub,renfh001,"""Hunter Renfroe""",0,4,7
+sub,reyef001,"""Franmil Reyes""",0,9,9
+sub,stamc001,"""Craig Stammen""",0,7,1
+play,6,0,reyef001,12,CBFS,K
+play,6,0,jankt001,31,CBBBB,W
+play,6,0,hosme001,01,1F11.1>B,CS2(26)
+play,6,0,hosme001,32,1F11.1>B.FBBF*B,W
+play,6,0,pirej001,22,BCBFS,K
+sub,carls002,"""Shane Carle""",1,9,1
+sub,szczm001,"""Matt Szczur""",0,7,11
+sub,cimba001,"""Adam Cimber""",0,7,1
+sub,albio001,"""Ozzie Albies""",1,9,11
+sub,camaj001,"""Johan Camargo""",1,7,5
+sub,albio001,"""Ozzie Albies""",1,9,4
+sub,minta001,"""A.J. Minter""",1,8,1
+sub,pirej001,"""Jose Pirela""",0,3,7
+sub,spanc001,"""Cory Spangenberg""",0,5,4
+sub,villc002,"""Christian Villanueva""",0,7,5
+sub,handb001,"""Brad Hand""",0,4,1
+sub,vizca001,"""Arodys Vizcaino""",1,8,1

@@ -1,0 +1,53 @@
+id,ATL201806270
+info,visteam,CIN
+info,hometeam,ATL
+info,date,2018/06/27
+info,starttime,12:11PM
+start,sches001,"""Scott Schebler""",0,1,9
+start,peraj003,"""Jose Peraza""",0,2,6
+start,vottj001,"""Joey Votto""",0,3,3
+start,suare001,"""Eugenio Suarez""",0,4,5
+start,genns001,"""Scooter Gennett""",0,5,4
+start,duvaa001,"""Adam Duvall""",0,6,7
+start,casac001,"""Curt Casali""",0,7,2
+start,castl003,"""Luis Castillo""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,incie001,"""Ender Inciarte""",1,1,8
+start,santd001,"""Danny Santana""",1,2,7
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,suzuk001,"""Kurt Suzuki""",1,5,2
+start,culbc001,"""Charlie Culberson""",1,6,5
+start,camaj001,"""Johan Camargo""",1,7,4
+start,swand001,"""Dansby Swanson""",1,8,6
+start,newcs001,"""Sean Newcomb""",1,9,1
+sub,dixob001,"""Brandon Dixon""",0,3,3
+play,5,1,incie001,00,X,S4/G
+play,5,1,santd001,22,*B>FB11FH,HP.1-2
+play,5,1,freef001,00,,NP
+sub,crock001,"""Kyle Crockett""",0,8,1
+play,5,1,freef001,01,.F>S,SB3;SB2
+play,5,1,freef001,02,.F>S.S,K
+play,5,1,markn001,30,VVVV,IW
+play,5,1,suzuk001,00,,NP
+sub,duvaa001,"""Adam Duvall""",0,6,3
+play,5,1,suzuk001,00,,NP
+sub,winkj002,"""Jesse Winker""",0,8,7
+play,5,1,suzuk001,00,,NP
+sub,stepj002,"""Jackson Stephens""",0,3,1
+play,5,1,suzuk001,11,...BSX,3/P3F
+play,5,1,culbc001,20,BBX,E5/TH/FO/G.3-H(NR)(UR);2-3;1-2
+play,5,1,camaj001,02,CFS,K
+sub,bourp001,"""Peter Bourjos""",1,9,11
+sub,frees001,"""Sam Freeman""",1,9,1
+sub,blana002,"""Alex Blandino""",0,3,11
+sub,winkd001,"""Daniel Winkler""",1,9,1
+sub,hernd002,"""David Hernandez""",0,3,1
+sub,flahr001,"""Ryan Flaherty""",1,1,5
+sub,santd001,"""Danny Santana""",1,2,8
+sub,culbc001,"""Charlie Culberson""",1,6,7
+sub,hughj001,"""Jared Hughes""",0,3,1
+sub,minta001,"""A.J. Minter""",1,9,1
+sub,lorem002,"""Michael Lorenzen""",0,3,11
+sub,igler001,"""Raisel Iglesias""",0,3,1
+sub,flowt001,"""Tyler Flowers""",1,9,11

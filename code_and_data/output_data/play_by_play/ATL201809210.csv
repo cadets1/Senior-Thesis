@@ -1,0 +1,50 @@
+id,ATL201809210
+info,visteam,PHI
+info,hometeam,ATL
+info,date,2018/09/21
+info,starttime,7:36PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,hoskr001,"""Rhys Hoskins""",0,2,7
+start,cabra002,"""Asdrubal Cabrera""",0,3,6
+start,bourj002,"""Justin Bour""",0,4,3
+start,santc002,"""Carlos Santana""",0,5,5
+start,ramow001,"""Wilson Ramos""",0,6,2
+start,herro001,"""Odubel Herrera""",0,7,9
+start,piven001,"""Nick Pivetta""",0,8,1
+start,quinr003,"""Roman Quinn""",0,9,8
+start,acunr001,"""Ronald Acuna""",1,1,7
+start,incie001,"""Ender Inciarte""",1,2,8
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,camaj001,"""Johan Camargo""",1,5,5
+start,flowt001,"""Tyler Flowers""",1,6,2
+start,albio001,"""Ozzie Albies""",1,7,4
+start,swand001,"""Dansby Swanson""",1,8,6
+start,tehej001,"""Julio Teheran""",1,9,1
+play,3,0,piven001,11,CBX,43/G
+play,3,0,quinr003,30,BBBB,W
+play,3,0,hernc005,01,11CN,BK.1-2
+play,3,0,hernc005,12,11CN.BS>B,CS3(25)
+play,3,0,hernc005,32,11CN.BS>B.BFX,6/P
+sub,crawj002,"""J.P. Crawford""",0,8,11
+sub,domis001,"""Seranthony Dominguez""",0,8,1
+sub,kings001,"""Scott Kingery""",0,4,12
+sub,altha001,"""Aaron Altherr""",0,6,12
+sub,bautj002,"""Jose Bautista""",0,8,11
+sub,ventj001,"""Jonny Venters""",1,9,1
+sub,cabra002,"""Asdrubal Cabrera""",0,3,5
+sub,kings001,"""Scott Kingery""",0,4,6
+sub,santc002,"""Carlos Santana""",0,5,3
+sub,alfaj002,"""Jorge Alfaro""",0,6,2
+sub,bautj002,"""Jose Bautista""",0,8,9
+sub,neshp001,"""Pat Neshek""",0,7,1
+sub,dudal001,"""Lucas Duda""",1,9,11
+sub,adaml001,"""Lane Adams""",1,9,12
+sub,avill001,"""Luis Avilan""",0,7,1
+sub,ramoe002,"""Edubray Ramos""",0,7,1
+sub,soboc001,"""Chad Sobotka""",1,9,1
+sub,nerih001,"""Hector Neris""",0,7,1
+sub,tuckp001,"""Preston Tucker""",1,9,11
+sub,minta001,"""A.J. Minter""",1,9,1
+sub,franm004,"""Maikel Franco""",0,7,11
+sub,florp001,"""Pedro Florimon""",0,7,12

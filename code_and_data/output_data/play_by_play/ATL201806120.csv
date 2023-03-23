@@ -1,0 +1,45 @@
+id,ATL201806120
+info,visteam,NYN
+info,hometeam,ATL
+info,date,2018/06/12
+info,starttime,7:37PM
+start,confm001,"""Michael Conforto""",0,1,8
+start,frazt001,"""Todd Frazier""",0,2,5
+start,nimmb001,"""Brandon Nimmo""",0,3,7
+start,cabra002,"""Asdrubal Cabrera""",0,4,4
+start,brucj001,"""Jay Bruce""",0,5,9
+start,mesod001,"""Devin Mesoraco""",0,6,2
+start,smitd008,"""Dominic Smith""",0,7,3
+start,rosaa003,"""Amed Rosario""",0,8,6
+start,wheez001,"""Zack Wheeler""",0,9,1
+start,albio001,"""Ozzie Albies""",1,1,4
+start,swand001,"""Dansby Swanson""",1,2,6
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,flowt001,"""Tyler Flowers""",1,5,2
+start,camaj001,"""Johan Camargo""",1,6,5
+start,incie001,"""Ender Inciarte""",1,7,8
+start,culbc001,"""Charlie Culberson""",1,8,7
+start,foltm001,"""Mike Foltynewicz""",1,9,1
+sub,biddj001,"""Jesse Biddle""",1,9,1
+sub,carls002,"""Shane Carle""",1,9,1
+play,6,1,freef001,00,X,HR/9/F
+play,6,1,markn001,12,CFBX,S9/L
+play,6,1,flowt001,21,SBBX,64(1)/FO/G
+play,6,1,camaj001,22,BB1CFX,S9/L+.1X3(95);B-2(TH)
+play,6,1,incie001,02,CFX,S7/L.2-H
+play,6,1,culbc001,11,11CB1>B,SB2
+play,6,1,culbc001,32,11CB1>B.SBB,W
+play,6,1,carls002,00,,NP
+sub,tuckp001,"""Preston Tucker""",1,9,11
+play,6,1,tuckp001,11,.FB>B,SB3
+play,6,1,tuckp001,31,.FB>B.BB,W.1-2
+play,6,1,albio001,00,,NP
+sub,sewap001,"""Paul Sewald""",0,9,1
+play,6,1,albio001,11,.BFX,HR/9/F.3-H;2-H;1-H
+play,6,1,swand001,02,FCFFS,K
+sub,minta001,"""A.J. Minter""",1,9,1
+sub,frees001,"""Sam Freeman""",1,9,1
+sub,rhamj001,"""Jacob Rhame""",0,9,1
+sub,flahr001,"""Ryan Flaherty""",1,9,11
+sub,jackl001,"""Luke Jackson""",1,9,1

@@ -1,0 +1,56 @@
+id,ATL201808310
+info,visteam,PIT
+info,hometeam,ATL
+info,date,2018/08/31
+info,starttime,7:35PM
+start,marts002,"""Starling Marte""",0,1,8
+start,bellj005,"""Josh Bell""",0,2,3
+start,polag001,"""Gregory Polanco""",0,3,9
+start,freed001,"""David Freese""",0,4,5
+start,dickc002,"""Corey Dickerson""",0,5,7
+start,diaze005,"""Elias Diaz""",0,6,2
+start,harrj002,"""Josh Harrison""",0,7,4
+start,newmk001,"""Kevin Newman""",0,8,6
+start,tailj001,"""Jameson Taillon""",0,9,1
+start,acunr001,"""Ronald Acuna""",1,1,7
+start,incie001,"""Ender Inciarte""",1,2,8
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,camaj001,"""Johan Camargo""",1,5,5
+start,suzuk001,"""Kurt Suzuki""",1,6,2
+start,albio001,"""Ozzie Albies""",1,7,4
+start,swand001,"""Dansby Swanson""",1,8,6
+start,sanca004,"""Anibal Sanchez""",1,9,1
+play,1,0,marts002,22,SBSBX,S5/G
+play,1,0,bellj005,02,C1F>B,CS2(26)
+play,1,0,bellj005,32,C1F>B.BFBB,W
+play,1,0,polag001,12,1CS*B1S,K
+play,1,0,freed001,02,1CTFX,8/F
+play,1,1,acunr001,12,BFSX,7/F+
+play,1,1,incie001,12,BCCX,S8/F
+play,1,1,freef001,32,S1BF*B1FB>S,K+CS2(26)/DP
+sub,frees001,"""Sam Freeman""",1,9,1
+play,7,0,diaze005,00,,NP
+sub,jackl001,"""Luke Jackson""",1,9,1
+play,7,0,diaze005,21,.BBSX,63/G
+play,7,0,harrj002,10,BX,S8/L
+play,7,0,newmk001,02,1FFX,64(1)/FO/G
+play,7,0,tailj001,21,B1>FB1>C,CS2(26)
+sub,cervf001,"""Francisco Cervelli""",0,6,2
+sub,dudal001,"""Lucas Duda""",1,9,11
+play,8,0,tailj001,00,,NP
+sub,bracb001,"""Brad Brach""",1,9,1
+play,8,0,tailj001,00,,NP
+sub,fraza001,"""Adam Frazier""",0,9,11
+play,8,0,fraza001,32,..BBSBTB,W
+play,8,0,marts002,00,X,E4/FO/G.1-2
+play,8,0,bellj005,12,CBFX,8/L.2-3
+play,8,0,polag001,12,*B1CF.X,S8/L.3-H(UR);1-2
+play,8,0,freed001,00,>B,SB3;SB2
+play,8,0,freed001,32,>B.BBCFX,3/G
+play,8,0,dickc002,00,,NP
+sub,biddj001,"""Jesse Biddle""",1,9,1
+play,8,0,dickc002,22,.FBBSFS,K
+sub,kelak001,"""Keone Kela""",0,9,1
+sub,rivef001,"""Felipe Rivero""",0,9,1
+sub,duvaa001,"""Adam Duvall""",1,6,12

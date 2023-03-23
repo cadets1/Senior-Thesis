@@ -1,0 +1,50 @@
+id,ATL201806260
+info,visteam,CIN
+info,hometeam,ATL
+info,date,2018/06/26
+info,starttime,7:36PM
+start,sches001,"""Scott Schebler""",0,1,8
+start,barnt001,"""Tucker Barnhart""",0,2,2
+start,vottj001,"""Joey Votto""",0,3,3
+start,genns001,"""Scooter Gennett""",0,4,4
+start,suare001,"""Eugenio Suarez""",0,5,5
+start,winkj002,"""Jesse Winker""",0,6,9
+start,duvaa001,"""Adam Duvall""",0,7,7
+start,peraj003,"""Jose Peraza""",0,8,6
+start,harvm001,"""Matt Harvey""",0,9,1
+start,incie001,"""Ender Inciarte""",1,1,8
+start,albio001,"""Ozzie Albies""",1,2,4
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,flowt001,"""Tyler Flowers""",1,5,2
+start,culbc001,"""Charlie Culberson""",1,6,7
+start,camaj001,"""Johan Camargo""",1,7,5
+start,swand001,"""Dansby Swanson""",1,8,6
+start,sanca004,"""Anibal Sanchez""",1,9,1
+play,2,1,markn001,00,X,43/G
+play,2,1,flowt001,12,BSFX,9/L
+play,2,1,culbc001,30,BBBB,W
+play,2,1,camaj001,12,CFBF1>B,SB2
+play,2,1,camaj001,22,CFBF1>B.S,K
+play,3,0,peraj003,11,CBX,S8/L
+play,3,0,harvm001,11,1B1LX,8/F
+play,3,0,sches001,01,F111>S,SB2
+play,3,0,sches001,02,F111>S.S,K
+play,3,0,barnt001,02,CFX,9/F
+play,4,0,vottj001,32,BBCCBT,K
+play,4,0,genns001,31,BBCBB,W
+play,4,0,suare001,01,C11>B,SB2
+play,4,0,suare001,11,C11>B.X,9/F.2-3
+play,4,0,winkj002,01,CX,S4/G.3-H
+play,4,0,duvaa001,01,FX,9/F
+sub,wislm001,"""Matt Wisler""",1,9,1
+sub,santd001,"""Danny Santana""",1,9,11
+sub,hamib001,"""Billy Hamilton""",0,9,8
+sub,garra001,"""Amir Garrett""",0,1,1
+sub,carls002,"""Shane Carle""",1,9,1
+sub,lorem002,"""Michael Lorenzen""",0,1,1
+sub,bourp001,"""Peter Bourjos""",1,5,12
+sub,dixob001,"""Brandon Dixon""",0,1,9
+sub,igler001,"""Raisel Iglesias""",0,6,1
+sub,suzuk001,"""Kurt Suzuki""",1,5,2
+sub,flahr001,"""Ryan Flaherty""",1,9,11

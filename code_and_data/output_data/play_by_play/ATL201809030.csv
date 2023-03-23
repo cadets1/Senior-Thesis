@@ -1,0 +1,49 @@
+id,ATL201809030
+info,visteam,BOS
+info,hometeam,ATL
+info,date,2018/09/03
+info,starttime,1:08PM
+start,bettm001,"""Mookie Betts""",0,1,8
+start,benia002,"""Andrew Benintendi""",0,2,7
+start,martj006,"""J.D. Martinez""",0,3,9
+start,bogax001,"""Xander Bogaerts""",0,4,6
+start,morem001,"""Mitch Moreland""",0,5,3
+start,nunee002,"""Eduardo Nunez""",0,6,5
+start,kinsi001,"""Ian Kinsler""",0,7,4
+start,vazqc001,"""Christian Vazquez""",0,8,2
+start,eovan001,"""Nathan Eovaldi""",0,9,1
+start,acunr001,"""Ronald Acuna""",1,1,7
+start,incie001,"""Ender Inciarte""",1,2,8
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,camaj001,"""Johan Camargo""",1,5,5
+start,suzuk001,"""Kurt Suzuki""",1,6,2
+start,albio001,"""Ozzie Albies""",1,7,4
+start,swand001,"""Dansby Swanson""",1,8,6
+start,toust001,"""Touki Toussaint""",1,9,1
+sub,workb001,"""Brandon Workman""",0,9,1
+sub,swihb001,"""Blake Swihart""",0,9,11
+sub,frees001,"""Sam Freeman""",1,9,1
+sub,wrigs001,"""Steven Wright""",0,9,1
+sub,jackl001,"""Luke Jackson""",1,9,1
+sub,kellj001,"""Joe Kelly""",0,9,1
+sub,tuckp001,"""Preston Tucker""",1,9,11
+sub,carls002,"""Shane Carle""",1,9,1
+sub,travs001,"""Sam Travis""",0,9,11
+sub,brasr001,"""Ryan Brasier""",0,9,1
+sub,hembh001,"""Heath Hembree""",0,9,1
+sub,biddj001,"""Jesse Biddle""",1,9,1
+play,8,1,swand001,00,,NP
+sub,barnm001,"""Matt Barnes""",0,9,1
+play,8,1,swand001,12,.CCFBX,S6/G-
+play,8,1,biddj001,00,,NP
+sub,dudal001,"""Lucas Duda""",1,9,11
+play,8,1,dudal001,01,.C>B,SB2
+play,8,1,dudal001,12,.C>B.SX,23/G-.2-3
+play,8,1,acunr001,32,FBCB*BS,K
+play,8,1,incie001,31,B*BBCX,9/F
+sub,wilsb003,"""Bryse Wilson""",1,9,1
+sub,holtb002,"""Brock Holt""",0,9,11
+sub,bettm001,"""Mookie Betts""",0,1,9
+sub,bradj001,"""Jackie Bradley""",0,9,8
+sub,kimbc001,"""Craig Kimbrel""",0,3,1

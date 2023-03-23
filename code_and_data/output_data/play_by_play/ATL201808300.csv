@@ -1,0 +1,41 @@
+id,ATL201808300
+info,visteam,CHN
+info,hometeam,ATL
+info,date,2018/08/30
+info,starttime,7:36PM
+start,murpd006,"""Daniel Murphy""",0,1,4
+start,baezj001,"""Javier Baez""",0,2,6
+start,rizza001,"""Anthony Rizzo""",0,3,3
+start,zobrb001,"""Ben Zobrist""",0,4,9
+start,heywj001,"""Jason Heyward""",0,5,8
+start,contw001,"""Willson Contreras""",0,6,2
+start,schwk001,"""Kyle Schwarber""",0,7,7
+start,montm002,"""Mike Montgomery""",0,8,1
+start,boted002,"""David Bote""",0,9,5
+start,acunr001,"""Ronald Acuna""",1,1,8
+start,camaj001,"""Johan Camargo""",1,2,5
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,suzuk001,"""Kurt Suzuki""",1,5,2
+start,albio001,"""Ozzie Albies""",1,6,4
+start,duvaa001,"""Adam Duvall""",1,7,7
+start,swand001,"""Dansby Swanson""",1,8,6
+start,foltm001,"""Mike Foltynewicz""",1,9,1
+play,1,1,acunr001,10,BX,S7/G
+play,1,1,camaj001,11,BF1,POCS2(136)
+play,1,1,camaj001,12,BF1.FX,8/F
+play,1,1,freef001,12,SBFS,K
+sub,almoa002,"""Albert Almora""",0,5,8
+sub,kintb001,"""Brandon Kintzler""",0,8,1
+sub,lastt001,"""Tommy La Stella""",0,8,11
+sub,chavj001,"""Jesse Chavez""",0,8,1
+sub,dudal001,"""Lucas Duda""",1,9,11
+sub,winkd001,"""Daniel Winkler""",1,9,1
+sub,wilsj004,"""Justin Wilson""",0,8,1
+sub,ventj001,"""Jonny Venters""",1,9,1
+sub,edwac001,"""Carl Edwards""",0,8,1
+sub,happi001,"""Ian Happ""",0,8,11
+sub,zobrb001,"""Ben Zobrist""",0,4,4
+sub,happi001,"""Ian Happ""",0,8,9
+sub,strop001,"""Pedro Strop""",0,1,1
+sub,incie001,"""Ender Inciarte""",1,9,11

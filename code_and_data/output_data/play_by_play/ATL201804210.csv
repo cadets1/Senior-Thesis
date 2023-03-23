@@ -1,0 +1,57 @@
+id,ATL201804210
+info,visteam,NYN
+info,hometeam,ATL
+info,date,2018/04/21
+info,starttime,7:12PM
+start,confm001,"""Michael Conforto""",0,1,8
+start,cespy001,"""Yoenis Cespedes""",0,2,7
+start,cabra002,"""Asdrubal Cabrera""",0,3,4
+start,brucj001,"""Jay Bruce""",0,4,9
+start,frazt001,"""Todd Frazier""",0,5,5
+start,gonza003,"""Adrian Gonzalez""",0,6,3
+start,lobaj001,"""Jose Lobaton""",0,7,2
+start,degrj001,"""Jacob deGrom""",0,8,1
+start,reyej001,"""Jose Reyes""",0,9,6
+start,incie001,"""Ender Inciarte""",1,1,8
+start,albio001,"""Ozzie Albies""",1,2,4
+start,freef001,"""Freddie Freeman""",1,3,3
+start,markn001,"""Nick Markakis""",1,4,9
+start,tuckp001,"""Preston Tucker""",1,5,7
+start,swand001,"""Dansby Swanson""",1,6,6
+start,camaj001,"""Johan Camargo""",1,7,5
+start,perec003,"""Carlos Perez""",1,8,2
+start,tehej001,"""Julio Teheran""",1,9,1
+play,3,0,degrj001,01,CX,7/L
+play,3,0,reyej001,10,BX,S8/L
+play,3,0,confm001,11,1C1B>B,SB2
+play,3,0,confm001,32,1C1B>B.C*B2F2X,S9/L.2-3
+play,3,0,cespy001,02,FFFS,K
+play,3,0,cabra002,02,CS>FF>FS,K
+play,6,1,incie001,01,FX,S4/G-
+play,6,1,albio001,00,1>B,SB2
+play,6,1,albio001,10,1>B.>B,CS3(25)
+play,6,1,albio001,20,1>B.>B.X,5/P5F
+play,6,1,freef001,22,CBBFX,D9/L+
+play,6,1,markn001,11,BFX,5/P
+play,7,1,tuckp001,32,SBBSBS,K
+play,7,1,swand001,01,CX,S9/G
+play,7,1,camaj001,22,11BSFBS,K
+play,7,1,perec003,00,1>C,SB2
+play,7,1,perec003,02,1>C.CFS,K
+sub,frees001,"""Sam Freeman""",1,9,1
+sub,florw001,"""Wilmer Flores""",0,8,11
+sub,carls002,"""Shane Carle""",1,9,1
+sub,ramoa001,"""A.J. Ramos""",0,8,1
+sub,flahr001,"""Ryan Flaherty""",1,9,11
+sub,blevj001,"""Jerry Blevins""",0,8,1
+sub,nidot001,"""Tomas Nido""",0,8,2
+sub,famij001,"""Jeurys Familia""",0,7,1
+play,9,0,nidot001,00,,NP
+sub,biddj001,"""Jesse Biddle""",1,9,1
+play,9,0,nidot001,00,.X,63/G
+play,9,0,reyej001,10,BX,63/G
+play,9,0,confm001,32,BTTBFBFB,W
+play,9,0,cespy001,00,>B,SB2.1-3(E2/TH)
+play,9,0,cespy001,21,>B.FBX,63/G
+sub,suzuk001,"""Kurt Suzuki""",1,8,11
+sub,culbc001,"""Charlie Culberson""",1,9,11
