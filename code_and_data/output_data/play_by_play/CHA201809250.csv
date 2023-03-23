@@ -1,0 +1,43 @@
+id,CHA201809250
+info,visteam,CLE
+info,hometeam,CHA
+info,date,2018/09/25
+info,starttime,8:01PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,4
+start,encae001,"""Edwin Encarnacion""",0,4,3
+start,donaj001,"""Josh Donaldson""",0,5,5
+start,alony001,"""Yonder Alonso""",0,6,10
+start,cabrm002,"""Melky Cabrera""",0,7,9
+start,gomey001,"""Yan Gomes""",0,8,2
+start,kipnj001,"""Jason Kipnis""",0,9,8
+start,bauet001,"""Trevor Bauer""",0,0,1
+start,sancc001,"""Yolmer Sanchez""",1,1,5
+start,garcl004,"""Leury Garcia""",1,2,6
+start,palkd001,"""Daniel Palka""",1,3,10
+start,garca003,"""Avisail Garcia""",1,4,9
+start,narvo001,"""Omar Narvaez""",1,5,2
+start,davim005,"""Matt Davidson""",1,6,3
+start,delmn001,"""Nicky Delmonico""",1,7,7
+start,moncy001,"""Yoan Moncada""",1,8,4
+start,engea001,"""Adam Engel""",1,9,8
+start,shiej002,"""James Shields""",1,0,1
+sub,lamar001,"""Ryan LaMarre""",1,7,7
+sub,carrc003,"""Carlos Carrasco""",0,0,1
+play,6,0,alony001,32,TSBBBB,W
+play,6,0,cabrm002,02,CFX,S9/L.1-3
+play,6,0,gomey001,00,,NP
+sub,alleg002,"""Greg Allen""",0,7,12
+play,6,0,gomey001,22,.11B*BS>F1>B,SB2
+play,6,0,gomey001,32,.11B*BS>F1>B.X,5/L
+play,6,0,kipnj001,01,SX,9/F
+play,6,0,lindf001,32,CSB*B*BS,K
+sub,guyeb001,"""Brandon Guyer""",0,2,9
+sub,alleg002,"""Greg Allen""",0,7,7
+sub,minaj001,"""Juan Minaya""",1,0,1
+sub,frarc001,"""Caleb Frare""",1,0,1
+sub,rondj002,"""Jose Rondon""",1,6,12
+sub,rondj002,"""Jose Rondon""",1,6,3
+sub,hamii001,"""Ian Hamilton""",1,0,1
+sub,barnb002,"""Brandon Barnes""",0,9,8

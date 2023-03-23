@@ -1,0 +1,51 @@
+id,CHA201806030
+info,visteam,MIL
+info,hometeam,CHA
+info,date,2018/06/03
+info,starttime,1:10PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,7
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,shawt001,"""Travis Shaw""",0,4,5
+start,santd002,"""Domingo Santana""",0,5,9
+start,choij001,"""Ji-Man Choi""",0,6,10
+start,villj001,"""Jonathan Villar""",0,7,4
+start,pinam001,"""Manny Pina""",0,8,2
+start,arcio002,"""Orlando Arcia""",0,9,6
+start,suteb001,"""Brent Suter""",0,0,1
+start,andet001,"""Tim Anderson""",1,1,6
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,rondj002,"""Jose Rondon""",1,4,10
+start,engea001,"""Adam Engel""",1,5,8
+start,moncy001,"""Yoan Moncada""",1,6,4
+start,thomt002,"""Trayce Thompson""",1,7,9
+start,tilsc001,"""Charlie Tilson""",1,8,7
+start,gonza006,"""Alfredo Gonzalez""",1,9,2
+start,coved001,"""Dylan Covey""",1,0,1
+play,6,0,santd002,10,BX,S4/G
+play,6,0,choij001,00,,NP
+sub,avill001,"""Luis Avilan""",1,0,1
+play,6,0,choij001,00,,NP
+sub,braur002,"""Ryan Braun""",0,6,11
+play,6,0,braur002,01,..1CX,4/L/DP.1X1(43)
+play,6,0,villj001,10,BX,S1/G-
+play,6,0,pinam001,00,,NP
+sub,volsc001,"""Chris Volstad""",1,0,1
+play,6,0,pinam001,02,.11CC>B,CS2(24)
+play,6,1,sancc001,22,.CSBBFX,S8/L
+play,6,1,abrej003,00,,NP
+sub,albem001,"""Matt Albers""",0,0,1
+play,6,1,abrej003,21,.1BT1*BX,6/P
+play,6,1,rondj002,00,,NP
+sub,palkd001,"""Daniel Palka""",1,4,11
+play,6,1,palkd001,10,.B>S,SB2.1-3(E2/TH)
+play,6,1,palkd001,32,.B>S.FBBFX,HR/9/F.3-H
+play,6,1,engea001,10,BX,HR/8/F
+play,6,1,moncy001,00,X,9/L
+play,6,1,thomt002,22,BCCBC,K
+sub,sorij001,"""Joakim Soria""",1,0,1
+sub,jeffj001,"""Jeremy Jeffress""",0,0,1
+sub,fry-j001,"""Jace Fry""",1,0,1
+sub,jennd003,"""Dan Jennings""",0,0,1
+sub,beckc002,"""Chris Beck""",1,0,1

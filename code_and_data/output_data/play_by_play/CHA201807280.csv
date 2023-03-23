@@ -1,0 +1,53 @@
+id,CHA201807280
+info,visteam,TOR
+info,hometeam,CHA
+info,date,2018/07/28
+info,starttime,6:10PM
+start,granc001,"""Curtis Granderson""",0,1,9
+start,gurrl001,"""Lourdes Gurriel""",0,2,6
+start,smoaj001,"""Justin Smoak""",0,3,3
+start,morak001,"""Kendrys Morales""",0,4,10
+start,solay001,"""Yangervis Solarte""",0,5,4
+start,hernt002,"""Teoscar Hernandez""",0,6,7
+start,martr004,"""Russell Martin""",0,7,2
+start,gricr001,"""Randal Grichuk""",0,8,8
+start,drurb001,"""Brandon Drury""",0,9,5
+start,axfoj001,"""John Axford""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,garca003,"""Avisail Garcia""",1,4,9
+start,delmn001,"""Nicky Delmonico""",1,5,7
+start,davim005,"""Matt Davidson""",1,6,10
+start,smitk002,"""Kevan Smith""",1,7,2
+start,garcl004,"""Leury Garcia""",1,8,8
+start,andet001,"""Tim Anderson""",1,9,6
+start,gioll001,"""Lucas Giolito""",1,0,1
+sub,petrj001,"""Jake Petricka""",0,0,1
+play,5,0,smoaj001,00,X,D7/L+
+play,5,0,morak001,00,X,63/G.2-3
+play,5,0,solay001,02,FSX,S9/L.3-H
+play,5,0,hernt002,00,,NP
+sub,danit001,"""Tyler Danish""",1,0,1
+play,5,0,hernt002,00,.X,9/L
+play,5,0,martr004,12,BCCX,S1/G.1-2
+play,5,0,gricr001,10,*BH,HP.2-3;1-2
+play,5,0,drurb001,01,C2N,CSH(14251)
+play,6,1,andet001,00,,NP
+sub,loupa001,"""Aaron Loup""",0,0,1
+play,6,1,andet001,02,.CFX,S8/L
+play,6,1,moncy001,22,CBC*BX,64(1)/FO/G
+play,6,1,sancc001,12,BSC>B,SB2
+play,6,1,sancc001,22,BSC>B.S,K
+play,6,1,abrej003,00,,NP
+sub,clipt001,"""Tyler Clippard""",0,0,1
+play,6,1,abrej003,12,.CSBX,8/F
+sub,cedex001,"""Xavier Cedeno""",1,0,1
+sub,minaj001,"""Juan Minaya""",1,0,1
+sub,garcj004,"""Jaime Garcia""",0,0,1
+sub,teper001,"""Ryan Tepera""",0,0,1
+sub,palkd001,"""Daniel Palka""",1,6,11
+sub,drako001,"""Oliver Drake""",0,0,1
+sub,engea001,"""Adam Engel""",1,5,8
+sub,garcl004,"""Leury Garcia""",1,8,7
+sub,fry-j001,"""Jace Fry""",1,0,1

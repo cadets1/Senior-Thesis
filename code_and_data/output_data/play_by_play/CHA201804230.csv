@@ -1,0 +1,35 @@
+id,CHA201804230
+info,visteam,SEA
+info,hometeam,CHA
+info,date,2018/04/23
+info,starttime,7:10PM
+start,gordd002,"""Dee Gordon""",0,1,8
+start,seguj002,"""Jean Segura""",0,2,6
+start,canor001,"""Robinson Cano""",0,3,4
+start,cruzn002,"""Nelson Cruz""",0,4,10
+start,seagk001,"""Kyle Seager""",0,5,5
+start,hanim001,"""Mitch Haniger""",0,6,9
+start,voged001,"""Daniel Vogelbach""",0,7,3
+start,zunim001,"""Mike Zunino""",0,8,2
+start,gameb001,"""Ben Gamel""",0,9,7
+start,leakm001,"""Mike Leake""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,garca003,"""Avisail Garcia""",1,2,9
+start,abrej003,"""Jose Abreu""",1,3,3
+start,delmn001,"""Nicky Delmonico""",1,4,7
+start,castw002,"""Welington Castillo""",1,5,2
+start,sancc001,"""Yolmer Sanchez""",1,6,10
+start,davim005,"""Matt Davidson""",1,7,5
+start,andet001,"""Tim Anderson""",1,8,6
+start,engea001,"""Adam Engel""",1,9,8
+start,fulmc001,"""Carson Fulmer""",1,0,1
+sub,thomt002,"""Trayce Thompson""",1,2,9
+sub,leblw001,"""Wade LeBlanc""",0,0,1
+play,5,1,sancc001,01,CX,S8/L+
+play,5,1,davim005,22,CSFBBC,K
+play,5,1,andet001,01,S1>S,SB2
+play,5,1,andet001,02,S1>S.X,53/G-
+play,5,1,engea001,00,X,S7/L+.2-H
+play,5,1,moncy001,02,C11S>B,SB2
+play,5,1,moncy001,32,C11S>B.BBC,K
+sub,beckc002,"""Chris Beck""",1,0,1

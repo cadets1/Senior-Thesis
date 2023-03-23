@@ -1,0 +1,38 @@
+id,CHA201806120
+info,visteam,CLE
+info,hometeam,CHA
+info,date,2018/06/12
+info,starttime,7:11PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,alony001,"""Yonder Alonso""",0,5,3
+start,kipnj001,"""Jason Kipnis""",0,6,4
+start,gomey001,"""Yan Gomes""",0,7,2
+start,chisl001,"""Lonnie Chisenhall""",0,8,9
+start,alleg002,"""Greg Allen""",0,9,8
+start,pluta001,"""Adam Plutko""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,palkd001,"""Daniel Palka""",1,4,9
+start,davim005,"""Matt Davidson""",1,5,10
+start,narvo001,"""Omar Narvaez""",1,6,2
+start,andet001,"""Tim Anderson""",1,7,6
+start,tilsc001,"""Charlie Tilson""",1,8,7
+start,engea001,"""Adam Engel""",1,9,8
+start,shiej002,"""James Shields""",1,0,1
+play,2,1,tilsc001,10,BX,S7/L
+play,2,1,engea001,10,B1X,8/F
+play,2,1,moncy001,01,C1>B,CS2(26)
+play,2,1,moncy001,22,C1>B.FBS,K
+sub,mcalz001,"""Zach McAllister""",0,0,1
+sub,thomt002,"""Trayce Thompson""",1,4,9
+sub,fry-j001,"""Jace Fry""",1,0,1
+sub,olsot002,"""Tyler Olson""",0,0,1
+sub,rondj002,"""Jose Rondon""",1,5,12
+sub,tomlj001,"""Josh Tomlin""",0,0,1
+sub,jonen001,"""Nate Jones""",1,0,1
+sub,cedex001,"""Xavier Cedeno""",1,0,1
+sub,sorij001,"""Joakim Soria""",1,0,1

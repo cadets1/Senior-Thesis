@@ -1,0 +1,90 @@
+id,CHA201806280
+info,visteam,MIN
+info,hometeam,CHA
+info,date,2018/06/28
+info,starttime,1:10PM
+start,grosr001,"""Robbie Grossman""",0,1,10
+start,rosae001,"""Eddie Rosario""",0,2,7
+start,escoe001,"""Eduardo Escobar""",0,3,5
+start,dozib001,"""Brian Dozier""",0,4,4
+start,morrl001,"""Logan Morrison""",0,5,3
+start,adrie001,"""Ehire Adrianza""",0,6,6
+start,cavej001,"""Jake Cave""",0,7,8
+start,mottt001,"""Taylor Motter""",0,8,9
+start,wilsb002,"""Bobby Wilson""",0,9,2
+start,odorj001,"""Jake Odorizzi""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,garca003,"""Avisail Garcia""",1,2,9
+start,abrej003,"""Jose Abreu""",1,3,3
+start,davim005,"""Matt Davidson""",1,4,10
+start,smitk002,"""Kevan Smith""",1,5,2
+start,sancc001,"""Yolmer Sanchez""",1,6,5
+start,andet001,"""Tim Anderson""",1,7,6
+start,tilsc001,"""Charlie Tilson""",1,8,7
+start,engea001,"""Adam Engel""",1,9,8
+start,gioll001,"""Lucas Giolito""",1,0,1
+play,1,0,grosr001,31,BFBBB,W
+play,1,0,rosae001,02,CCX,13/G-.1-2
+play,1,0,escoe001,00,X,31/G.2-3
+play,1,0,dozib001,31,B*BBCB,W
+play,1,0,morrl001,11,FB>B,SB2
+play,1,0,morrl001,31,FB>B.*BB,W
+play,1,0,adrie001,32,BBBCF>F>X,6/P
+play,1,1,moncy001,21,CBBX,8/F
+play,1,1,garca003,22,BFSBS,K
+play,1,1,abrej003,22,CFBBFS,K
+play,3,1,andet001,22,BCSBFX,S9/L
+play,3,1,tilsc001,12,111LS1B>C,K+SB2
+play,3,1,engea001,32,FBSBBC,K
+play,3,1,moncy001,12,BCFS,K
+play,7,0,morrl001,32,TBBBFX,HR/9/F
+play,7,0,adrie001,00,X,23/BG
+play,7,0,cavej001,12,FFBX,S7/G
+play,7,0,mottt001,00,,NP
+sub,keplm001,"""Max Kepler""",0,8,11
+play,7,0,keplm001,20,.11BB1X,S9/G.1-3
+play,7,0,wilsb002,12,1>FB1FF*B,SB2
+play,7,0,wilsb002,32,1>FB1FF*B.FBFFB,W
+play,7,0,grosr001,00,,NP
+sub,avill001,"""Luis Avilan""",1,0,1
+play,7,0,grosr001,22,.CBCBX,4/L/DP.2X2(4)
+sub,keplm001,"""Max Kepler""",0,8,9
+sub,dukez001,"""Zach Duke""",0,0,1
+sub,rondb001,"""Bruce Rondon""",1,0,1
+sub,hildt001,"""Trevor Hildenberger""",0,0,1
+sub,fry-j001,"""Jace Fry""",1,0,1
+play,9,1,davim005,00,,NP
+sub,rodnf001,"""Fernando Rodney""",0,0,1
+play,9,1,davim005,32,.CBFBBFC,K
+play,9,1,smitk002,20,BBX,53/G
+play,9,1,sancc001,10,BX,S7/F
+play,9,1,andet001,11,BF1H,HP.1-2
+play,9,1,tilsc001,22,CBSF*B>B,SB3;SB2
+play,9,1,tilsc001,32,CBSF*B>B.FFFB,W
+play,9,1,engea001,00,,NP
+sub,palkd001,"""Daniel Palka""",1,9,11
+play,9,1,palkd001,30,.BBBB,W.3-H;2-3;1-2
+play,9,1,moncy001,22,BBCSFC,K
+sub,garcl004,"""Leury Garcia""",1,9,8
+sub,sorij001,"""Joakim Soria""",1,0,1
+sub,reeda001,"""Addison Reed""",0,0,1
+sub,cedex001,"""Xavier Cedeno""",1,0,1
+play,11,1,sancc001,00,,NP
+sub,roget001,"""Taylor Rogers""",0,0,1
+play,11,1,sancc001,10,.BX,63/G
+play,11,1,andet001,01,CX,S9/L
+play,11,1,tilsc001,12,CF111FPF11>S,K+CS2(26)/DP
+sub,davim005,"""Matt Davidson""",1,4,5
+sub,sancc001,"""Yolmer Sanchez""",1,6,6
+sub,santh001,"""Hector Santiago""",1,7,1
+sub,busea001,"""Alan Busenitz""",0,0,1
+sub,mauej001,"""Joe Mauer""",0,9,11
+play,13,1,smitk002,00,,NP
+sub,garvm001,"""Mitch Garver""",0,9,2
+play,13,1,smitk002,00,.X,S7/L
+play,13,1,sancc001,00,*B,SB2
+play,13,1,sancc001,10,*B.X,63/G
+play,13,1,santh001,00,,NP
+sub,narvo001,"""Omar Narvaez""",1,7,11
+play,13,1,narvo001,32,.*BBCBSS,K
+play,13,1,tilsc001,00,X,63/G

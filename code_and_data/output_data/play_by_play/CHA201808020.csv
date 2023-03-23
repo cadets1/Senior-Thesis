@@ -1,0 +1,56 @@
+id,CHA201808020
+info,visteam,KCA
+info,hometeam,CHA
+info,date,2018/08/02
+info,starttime,1:10PM
+start,mondr003,"""Adalberto Mondesi""",0,1,4
+start,gorda001,"""Alex Gordon""",0,2,7
+start,peres002,"""Salvador Perez""",0,3,2
+start,dudal001,"""Lucas Duda""",0,4,10
+start,bonij002,"""Jorge Bonifacio""",0,5,9
+start,philb002,"""Brett Phillips""",0,6,8
+start,dozih001,"""Hunter Dozier""",0,7,5
+start,ohear001,"""Ryan O'Hearn""",0,8,3
+start,escoa003,"""Alcides Escobar""",0,9,6
+start,kellb003,"""Brad Keller""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,garca003,"""Avisail Garcia""",1,4,9
+start,narvo001,"""Omar Narvaez""",1,5,2
+start,davim005,"""Matt Davidson""",1,6,10
+start,garcl004,"""Leury Garcia""",1,7,8
+start,delmn001,"""Nicky Delmonico""",1,8,7
+start,andet001,"""Tim Anderson""",1,9,6
+start,loper003,"""Reynaldo Lopez""",1,0,1
+play,3,1,garcl004,00,X,6/L
+play,3,1,delmn001,31,CBBB*B,W
+play,3,1,andet001,11,CB>B,CS2(24)
+play,3,1,andet001,21,CB>B.X,9/F
+sub,hillt002,"""Tim Hill""",0,0,1
+sub,engea001,"""Adam Engel""",1,8,11
+play,8,0,escoa003,00,,NP
+sub,garcl004,"""Leury Garcia""",1,7,7
+play,8,0,escoa003,00,,NP
+sub,engea001,"""Adam Engel""",1,8,8
+play,8,0,escoa003,32,..BBCFBX,D7/L
+play,8,0,mondr003,10,BX,S1/BG.2-3
+play,8,0,gorda001,00,,NP
+sub,fry-j001,"""Jace Fry""",1,0,1
+play,8,0,gorda001,22,.FBBT>F1S,K
+play,8,0,peres002,00,,NP
+sub,minaj001,"""Juan Minaya""",1,0,1
+play,8,0,peres002,01,.1S11>S,SB2
+play,8,0,peres002,02,.1S11>S.S,K
+play,8,0,dudal001,00,,NP
+sub,cedex001,"""Xavier Cedeno""",1,0,1
+play,8,0,dudal001,00,,NP
+sub,merrw001,"""Whit Merrifield""",0,4,11
+play,8,0,merrw001,21,..BCBX,HR/8/F.3-H;2-H
+play,8,0,bonij002,21,BSBX,5/L
+sub,adamj002,"""Jason Adam""",0,0,1
+sub,hammj002,"""Jason Hammel""",0,0,1
+sub,palkd001,"""Daniel Palka""",1,6,11
+sub,gomej002,"""Jeanmar Gomez""",1,0,1
+sub,avill001,"""Luis Avilan""",1,0,1
+sub,herrr002,"""Rosell Herrera""",0,8,11

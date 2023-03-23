@@ -1,0 +1,42 @@
+id,CHA201808100
+info,visteam,CLE
+info,hometeam,CHA
+info,date,2018/08/10
+info,starttime,7:10PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,guyeb001,"""Brandon Guyer""",0,5,9
+start,alony001,"""Yonder Alonso""",0,6,3
+start,gomey001,"""Yan Gomes""",0,7,2
+start,kipnj001,"""Jason Kipnis""",0,8,4
+start,davir003,"""Rajai Davis""",0,9,8
+start,biebs001,"""Shane Bieber""",0,0,1
+start,delmn001,"""Nicky Delmonico""",1,1,7
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,palkd001,"""Daniel Palka""",1,4,10
+start,garca003,"""Avisail Garcia""",1,5,9
+start,narvo001,"""Omar Narvaez""",1,6,2
+start,andet001,"""Tim Anderson""",1,7,6
+start,moncy001,"""Yoan Moncada""",1,8,4
+start,lamar001,"""Ryan LaMarre""",1,9,8
+start,rodoc001,"""Carlos Rodon""",1,0,1
+play,1,0,lindf001,32,BFBBFB,W
+play,1,0,branm003,21,BBCX,9/F
+play,1,0,ramij003,10,BX,3/P2F
+play,1,0,encae001,01,F1>C,SB2
+play,1,0,encae001,32,F1>C.F*BBBB,W
+play,1,0,guyeb001,21,CBB>C,SB3;SB2
+play,1,0,guyeb001,22,CBB>C.S,K
+sub,cabrm002,"""Melky Cabrera""",0,4,11
+sub,pereo002,"""Oliver Perez""",0,0,1
+sub,engea001,"""Adam Engel""",1,1,11
+sub,ramin001,"""Neil Ramirez""",0,0,1
+sub,engea001,"""Adam Engel""",1,1,8
+sub,lamar001,"""Ryan LaMarre""",1,9,7
+sub,cedex001,"""Xavier Cedeno""",1,0,1
+sub,alleg002,"""Greg Allen""",0,4,12
+sub,minaj001,"""Juan Minaya""",1,0,1
+sub,fry-j001,"""Jace Fry""",1,0,1

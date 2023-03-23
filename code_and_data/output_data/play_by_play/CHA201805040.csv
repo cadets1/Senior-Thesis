@@ -1,0 +1,48 @@
+id,CHA201805040
+info,visteam,MIN
+info,hometeam,CHA
+info,date,2018/05/04
+info,starttime,7:10PM
+start,mauej001,"""Joe Mauer""",0,1,3
+start,dozib001,"""Brian Dozier""",0,2,4
+start,keplm001,"""Max Kepler""",0,3,9
+start,rosae001,"""Eddie Rosario""",0,4,7
+start,escoe001,"""Eduardo Escobar""",0,5,5
+start,morrl001,"""Logan Morrison""",0,6,10
+start,adrie001,"""Ehire Adrianza""",0,7,6
+start,castj006,"""Jason Castro""",0,8,2
+start,lamar001,"""Ryan LaMarre""",0,9,8
+start,berrj001,"""Jose Berrios""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,delmn001,"""Nicky Delmonico""",1,4,7
+start,davim005,"""Matt Davidson""",1,5,10
+start,palkd001,"""Daniel Palka""",1,6,9
+start,garcl004,"""Leury Garcia""",1,7,8
+start,andet001,"""Tim Anderson""",1,8,6
+start,narvo001,"""Omar Narvaez""",1,9,2
+start,fulmc001,"""Carson Fulmer""",1,0,1
+sub,bumma001,"""Aaron Bummer""",1,0,1
+play,5,0,rosae001,00,X,D8/G+
+play,5,0,escoe001,32,CBBS*BX,D9/G+.2-H
+play,5,0,morrl001,00,X,63/G.2-3
+play,5,0,adrie001,11,CB>M,POCSH(25)
+play,5,0,adrie001,32,CB>M.BFBFFS,K
+sub,engea001,"""Adam Engel""",1,1,12
+sub,engea001,"""Adam Engel""",1,1,8
+sub,garcl004,"""Leury Garcia""",1,7,4
+sub,volsc001,"""Chris Volstad""",1,0,1
+sub,fry-j001,"""Jace Fry""",1,0,1
+sub,dukez001,"""Zach Duke""",0,0,1
+sub,presr001,"""Ryan Pressly""",0,0,1
+sub,sorij001,"""Joakim Soria""",1,0,1
+play,8,1,palkd001,00,,NP
+sub,hildt001,"""Trevor Hildenberger""",0,0,1
+play,8,1,palkd001,12,.SSFBS,K
+play,8,1,garcl004,00,X,S7/G+
+play,8,1,andet001,01,C1X,36(1)/FO/G
+play,8,1,narvo001,10,B>S,SB2
+play,8,1,narvo001,11,B>S.X,6/P
+sub,beckc002,"""Chris Beck""",1,0,1
+sub,rodnf001,"""Fernando Rodney""",0,0,1

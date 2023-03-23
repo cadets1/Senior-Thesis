@@ -1,0 +1,52 @@
+id,CHA201809210
+info,visteam,CHN
+info,hometeam,CHA
+info,date,2018/09/21
+info,starttime,3:11PM
+start,murpd006,"""Daniel Murphy""",0,1,4
+start,bryak001,"""Kris Bryant""",0,2,5
+start,rizza001,"""Anthony Rizzo""",0,3,3
+start,baezj001,"""Javier Baez""",0,4,6
+start,zobrb001,"""Ben Zobrist""",0,5,7
+start,heywj001,"""Jason Heyward""",0,6,9
+start,carav001,"""Victor Caratini""",0,7,2
+start,schwk001,"""Kyle Schwarber""",0,8,10
+start,almoa002,"""Albert Almora""",0,9,8
+start,quinj001,"""Jose Quintana""",0,0,1
+start,andet001,"""Tim Anderson""",1,1,6
+start,rondj002,"""Jose Rondon""",1,2,5
+start,garca003,"""Avisail Garcia""",1,3,9
+start,davim005,"""Matt Davidson""",1,4,3
+start,castw002,"""Welington Castillo""",1,5,2
+start,smitk002,"""Kevan Smith""",1,6,10
+start,moncy001,"""Yoan Moncada""",1,7,4
+start,lamar001,"""Ryan LaMarre""",1,8,7
+start,engea001,"""Adam Engel""",1,9,8
+start,loper003,"""Reynaldo Lopez""",1,0,1
+play,4,1,smitk002,02,CFX,D9/L
+play,4,1,moncy001,32,SBBBSC,K
+play,4,1,lamar001,00,X,D7/L.2-H
+play,4,1,engea001,21,CB*B2,POCS3(145)
+play,4,1,engea001,32,CB*B2.BFFX,S5/G
+play,4,1,andet001,00,1X,9/F
+sub,mapld001,"""Dillon Maples""",0,0,1
+sub,palkd001,"""Daniel Palka""",1,6,11
+sub,garcj004,"""Jaime Garcia""",0,0,1
+sub,boted002,"""David Bote""",0,6,12
+sub,bryak001,"""Kris Bryant""",0,2,9
+sub,boted002,"""David Bote""",0,6,5
+sub,rosar002,"""Randy Rosario""",0,0,1
+sub,norwj001,"""James Norwood""",0,0,1
+sub,cordr001,"""Ryan Cordell""",1,3,9
+sub,fry-j001,"""Jace Fry""",1,0,1
+sub,davit004,"""Taylor Davis""",0,3,11
+sub,ruizj001,"""Jose Ruiz""",1,0,1
+sub,goret001,"""Terrance Gore""",0,5,12
+sub,bumma001,"""Aaron Bummer""",1,0,1
+sub,davit004,"""Taylor Davis""",0,3,3
+sub,happi001,"""Ian Happ""",0,4,5
+sub,goret001,"""Terrance Gore""",0,5,7
+sub,boted002,"""David Bote""",0,6,6
+sub,duenb001,"""Brian Duensing""",0,0,1
+sub,kintb001,"""Brandon Kintzler""",0,0,1
+sub,jonen001,"""Nate Jones""",1,0,1

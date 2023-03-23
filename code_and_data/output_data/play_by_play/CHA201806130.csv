@@ -1,0 +1,38 @@
+id,CHA201806130
+info,visteam,CLE
+info,hometeam,CHA
+info,date,2018/06/13
+info,starttime,7:10PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,alony001,"""Yonder Alonso""",0,5,3
+start,cabrm002,"""Melky Cabrera""",0,6,9
+start,kipnj001,"""Jason Kipnis""",0,7,4
+start,perer003,"""Roberto Perez""",0,8,2
+start,alleg002,"""Greg Allen""",0,9,8
+start,bauet001,"""Trevor Bauer""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,palkd001,"""Daniel Palka""",1,4,10
+start,smitk002,"""Kevan Smith""",1,5,2
+start,andet001,"""Tim Anderson""",1,6,6
+start,tilsc001,"""Charlie Tilson""",1,7,7
+start,engea001,"""Adam Engel""",1,8,8
+start,thomt002,"""Trayce Thompson""",1,9,9
+start,coved001,"""Dylan Covey""",1,0,1
+play,5,1,andet001,32,BSCFBBB,W
+play,5,1,tilsc001,10,B>C,SB2.1-3(E2/TH)
+play,5,1,tilsc001,11,B>C.X,T9/L.3-H
+play,5,1,engea001,12,BSCS,K
+play,5,1,thomt002,11,S*B>X,23/BG/SH.3-H
+play,5,1,moncy001,00,X,9/F+
+sub,fry-j001,"""Jace Fry""",1,0,1
+sub,davir003,"""Rajai Davis""",0,4,12
+sub,gonze004,"""Erik Gonzalez""",0,5,12
+sub,gonze004,"""Erik Gonzalez""",0,5,3
+sub,oterd001,"""Dan Otero""",0,0,1
+sub,sorij001,"""Joakim Soria""",1,0,1
+sub,chisl001,"""Lonnie Chisenhall""",0,9,11

@@ -1,0 +1,41 @@
+id,CHA201805090
+info,visteam,PIT
+info,hometeam,CHA
+info,date,2018/05/09
+info,starttime,1:10PM
+start,fraza001,"""Adam Frazier""",0,1,7
+start,polag001,"""Gregory Polanco""",0,2,9
+start,marts002,"""Starling Marte""",0,3,8
+start,bellj005,"""Josh Bell""",0,4,3
+start,dickc002,"""Corey Dickerson""",0,5,10
+start,diaze005,"""Elias Diaz""",0,6,2
+start,morac001,"""Colin Moran""",0,7,5
+start,rodrs002,"""Sean Rodriguez""",0,8,4
+start,mercj002,"""Jordy Mercer""",0,9,6
+start,willt002,"""Trevor Williams""",0,0,1
+start,garcl004,"""Leury Garcia""",1,1,4
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,10
+start,delmn001,"""Nicky Delmonico""",1,4,7
+start,castw002,"""Welington Castillo""",1,5,2
+start,palkd001,"""Daniel Palka""",1,6,9
+start,davim005,"""Matt Davidson""",1,7,3
+start,andet001,"""Tim Anderson""",1,8,6
+start,engea001,"""Adam Engel""",1,9,8
+start,loper003,"""Reynaldo Lopez""",1,0,1
+sub,garcl004,"""Leury Garcia""",1,1,7
+sub,rondj002,"""Jose Rondon""",1,4,4
+play,6,1,castw002,00,,NP
+sub,braus002,"""Steven Brault""",0,0,1
+play,6,1,castw002,11,.CBX,63/G
+play,6,1,palkd001,11,BFX,S7/G
+play,6,1,davim005,22,CCBB>T,K+SB2
+play,6,1,andet001,12,BSFS,K
+sub,thomt002,"""Trayce Thompson""",1,1,7
+sub,fry-j001,"""Jace Fry""",1,0,1
+sub,osunj001,"""Jose Osuna""",0,1,11
+sub,morom001,"""Max Moroff""",0,1,4
+sub,rodrs002,"""Sean Rodriguez""",0,8,7
+sub,rodrr008,"""Richard Rodriguez""",0,0,1
+sub,jonen001,"""Nate Jones""",1,0,1
+sub,rivef001,"""Felipe Rivero""",0,0,1

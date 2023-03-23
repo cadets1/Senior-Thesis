@@ -1,0 +1,54 @@
+id,CHA201804200
+info,visteam,HOU
+info,hometeam,CHA
+info,date,2018/04/20
+info,starttime,7:10PM
+start,sprig001,"""George Springer""",0,1,10
+start,altuj001,"""Jose Altuve""",0,2,4
+start,corrc001,"""Carlos Correa""",0,3,6
+start,reddj001,"""Josh Reddick""",0,4,9
+start,gurry001,"""Yulieski Gurriel""",0,5,3
+start,brega001,"""Alex Bregman""",0,6,5
+start,mccab002,"""Brian McCann""",0,7,2
+start,gonzm002,"""Marwin Gonzalez""",0,8,7
+start,fishd001,"""Derek Fisher""",0,9,8
+start,verlj001,"""Justin Verlander""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,garca003,"""Avisail Garcia""",1,2,9
+start,abrej003,"""Jose Abreu""",1,3,3
+start,delmn001,"""Nicky Delmonico""",1,4,7
+start,castw002,"""Welington Castillo""",1,5,10
+start,sancc001,"""Yolmer Sanchez""",1,6,5
+start,andet001,"""Tim Anderson""",1,7,6
+start,narvo001,"""Omar Narvaez""",1,8,2
+start,engea001,"""Adam Engel""",1,9,8
+start,shiej002,"""James Shields""",1,0,1
+play,4,0,gurry001,00,X,D7/L
+play,4,0,brega001,10,BX,S9/L.2-H;B-2(E9)
+play,4,0,mccab002,01,CX,S9/L.2-H
+play,4,0,gonzm002,31,BBBCB,W.1-2
+play,4,0,fishd001,22,BFCBX,8/L.2-3
+play,4,0,sprig001,11,F*BX,D7/L.3-H;1-H;B-H(E6/TH)
+play,4,0,altuj001,02,CFFFX,S7/G
+play,4,0,corrc001,32,BBC1BC1>C,K+CS2(24)/DP
+play,4,1,moncy001,32,CBBSBB,W
+play,4,1,garca003,32,C*B1F*B*B>S,K+SB2
+play,4,1,abrej003,12,CSFBX,53/G
+play,4,1,delmn001,32,CFFBFFB*BFB,W
+play,4,1,castw002,12,BCSS,K
+play,5,1,sancc001,22,BSCBX,53/G
+play,5,1,andet001,12,CBFX,S7/G+
+play,5,1,narvo001,30,BBB>B,W.1-2
+play,5,1,engea001,10,BN,CS2(154)
+play,5,1,engea001,32,BN.BBCFX,8/L
+sub,farqd001,"""Danny Farquhar""",1,0,1
+sub,marij002,"""Jake Marisnick""",0,2,8
+sub,gonzm002,"""Marwin Gonzalez""",0,8,4
+sub,fishd001,"""Derek Fisher""",0,9,7
+sub,bumma001,"""Aaron Bummer""",1,0,1
+sub,smitj002,"""Joe Smith""",0,0,1
+sub,thomt002,"""Trayce Thompson""",1,2,9
+sub,fulmc001,"""Carson Fulmer""",1,0,1
+sub,gatte001,"""Evan Gattis""",0,7,2
+sub,mchuc001,"""Collin McHugh""",0,0,1
+sub,gilek001,"""Ken Giles""",0,0,1

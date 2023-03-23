@@ -1,0 +1,52 @@
+id,CHA201809040
+info,visteam,DET
+info,hometeam,CHA
+info,date,2018/09/04
+info,starttime,7:10PM
+start,candj002,"""Jeimer Candelario""",0,1,5
+start,adduj002,"""Jim Adduci""",0,2,3
+start,castn001,"""Nick Castellanos""",0,3,9
+start,martv001,"""Victor Martinez""",0,4,10
+start,goodn002,"""Niko Goodrum""",0,5,6
+start,mahtm001,"""Mikie Mahtook""",0,6,7
+start,greig001,"""Grayson Greiner""",0,7,2
+start,jonej006,"""JaCoby Jones""",0,8,8
+start,lugod001,"""Dawel Lugo""",0,9,4
+start,lirif001,"""Francisco Liriano""",0,0,1
+start,andet001,"""Tim Anderson""",1,1,6
+start,rondj002,"""Jose Rondon""",1,2,5
+start,castw002,"""Welington Castillo""",1,3,10
+start,davim005,"""Matt Davidson""",1,4,3
+start,smitk002,"""Kevan Smith""",1,5,2
+start,moncy001,"""Yoan Moncada""",1,6,4
+start,lamar001,"""Ryan LaMarre""",1,7,7
+start,engea001,"""Adam Engel""",1,8,8
+start,cordr001,"""Ryan Cordell""",1,9,9
+start,gioll001,"""Lucas Giolito""",1,0,1
+sub,santh001,"""Hector Santiago""",1,0,1
+play,3,0,martv001,12,CSBFFX,63/G
+play,3,0,goodn002,32,FBFBFFFBB,W
+play,3,0,mahtm001,22,11CCBFB>B,SB2
+play,3,0,mahtm001,32,11CCBFB>B.S,K
+play,3,0,greig001,20,BB+2F,FLE2
+play,3,0,greig001,21,BB+2FX,S9/L.2-H(UR)
+play,3,0,jonej006,12,SBCC,K
+sub,gomej002,"""Jeanmar Gomez""",1,0,1
+play,6,0,mahtm001,32,CBCBFBX,S8/G+
+play,6,0,greig001,01,F>B,SB2
+play,6,0,greig001,22,F>B.FBS,K
+play,6,0,jonej006,12,BSCH,HP
+play,6,0,lugod001,02,SFC,K
+play,6,0,candj002,00,,NP
+sub,bumma001,"""Aaron Bummer""",1,0,1
+play,6,0,candj002,22,.SBS*BN,BK.2-3;1-2
+play,6,0,candj002,22,.SBS*BN.S,K
+sub,baezs001,"""Sandy Baez""",0,0,1
+sub,burrr002,"""Ryan Burr""",1,0,1
+sub,jimej003,"""Joe Jimenez""",0,0,1
+sub,narvo001,"""Omar Narvaez""",1,5,11
+sub,narvo001,"""Omar Narvaez""",1,5,2
+sub,vieit001,"""Thyago Vieira""",1,0,1
+sub,reyev001,"""Victor Reyes""",0,4,12
+sub,wilsa001,"""Alex Wilson""",0,0,1
+sub,delmn001,"""Nicky Delmonico""",1,7,11

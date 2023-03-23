@@ -1,0 +1,70 @@
+id,CHA201804090
+info,visteam,TBA
+info,hometeam,CHA
+info,date,2018/04/09
+info,starttime,1:31PM
+start,spand001,"""Denard Span""",0,1,7
+start,wendj002,"""Joey Wendle""",0,2,4
+start,gomec002,"""Carlos Gomez""",0,3,8
+start,cronc002,"""C.J. Cron""",0,4,3
+start,duffm002,"""Matt Duffy""",0,5,5
+start,ramow001,"""Wilson Ramos""",0,6,2
+start,robed004,"""Daniel Robertson""",0,7,6
+start,smitm007,"""Mallex Smith""",0,8,9
+start,refsr001,"""Rob Refsnyder""",0,9,10
+start,archc001,"""Chris Archer""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,garca003,"""Avisail Garcia""",1,2,9
+start,abrej003,"""Jose Abreu""",1,3,3
+start,delmn001,"""Nicky Delmonico""",1,4,7
+start,sancc001,"""Yolmer Sanchez""",1,5,5
+start,andet001,"""Tim Anderson""",1,6,6
+start,garcl004,"""Leury Garcia""",1,7,8
+start,salat001,"""Tyler Saladino""",1,8,10
+start,narvo001,"""Omar Narvaez""",1,9,2
+start,gonzm003,"""Miguel Gonzalez""",1,0,1
+sub,infag001,"""Gregory Infante""",1,0,1
+play,6,0,smitm007,00,,NP
+sub,bumma001,"""Aaron Bummer""",1,0,1
+play,6,0,smitm007,02,.LFX,S7/L
+play,6,0,refsr001,11,BCB,WP.1-2
+play,6,0,refsr001,22,BCB.S>B,SB3
+play,6,0,refsr001,32,BCB.S>B.FS,K
+play,6,0,spand001,21,BF*BX,S9/L.3-H
+play,6,0,wendj002,22,1BCF1B>B,SB2
+play,6,0,wendj002,32,1BCF1B>B.S,K
+play,6,0,gomec002,00,,NP
+sub,farqd001,"""Danny Farquhar""",1,0,1
+play,6,0,gomec002,22,.FB*BST,K
+play,6,1,andet001,22,SBBSS,K
+play,6,1,garcl004,22,BSBFX,E6/G
+play,6,1,salat001,12,BF1C>S,K+SB2
+play,6,1,narvo001,10,BX,D7/L.2-H(UR)
+play,6,1,moncy001,32,BFBBCFB,W
+play,6,1,garca003,00,,NP
+sub,roe-c001,"""Chaz Roe""",0,0,1
+play,6,1,garca003,11,.BCX,54(1)/FO/G
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+sub,romos001,"""Sergio Romo""",0,0,1
+play,8,0,smitm007,00,,NP
+sub,avill001,"""Luis Avilan""",1,0,1
+play,8,0,smitm007,02,.MFX,D9/L
+play,8,0,refsr001,21,C2BBX,7/F
+play,8,0,spand001,00,2>B,SB3
+play,8,0,spand001,32,2>B.CF*B*BB,W
+play,8,0,wendj002,11,BSN1,CSH(132)
+play,8,0,wendj002,11,BSN1.1X,S8/G.1-2
+play,8,0,gomec002,02,FCS,K
+play,8,1,garcl004,11,FBX,S9/L
+play,8,1,salat001,10,B1X,3/BG/SH.1-2
+play,8,1,narvo001,31,B*BBCB,W
+play,8,1,moncy001,00,,NP
+sub,engea001,"""Adam Engel""",1,9,12
+play,8,1,moncy001,12,.CBSS,K
+play,8,1,garca003,00,>B,SB3;SB2
+play,8,1,garca003,12,>B.FSS,K
+sub,castw002,"""Welington Castillo""",1,2,2
+sub,garcl004,"""Leury Garcia""",1,7,9
+sub,engea001,"""Adam Engel""",1,9,8
+sub,sorij001,"""Joakim Soria""",1,0,1
+sub,coloa001,"""Alex Colome""",0,0,1

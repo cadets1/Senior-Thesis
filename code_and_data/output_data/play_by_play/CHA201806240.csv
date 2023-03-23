@@ -1,0 +1,46 @@
+id,CHA201806240
+info,visteam,OAK
+info,hometeam,CHA
+info,date,2018/06/24
+info,starttime,1:10PM
+start,semim001,"""Marcus Semien""",0,1,6
+start,pindc001,"""Chad Pinder""",0,2,7
+start,lowrj001,"""Jed Lowrie""",0,3,5
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,piscs001,"""Stephen Piscotty""",0,6,9
+start,canhm001,"""Mark Canha""",0,7,8
+start,lucrj001,"""Jonathan Lucroy""",0,8,2
+start,barrf001,"""Franklin Barreto""",0,9,4
+start,blacp001,"""Paul Blackburn""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,garca003,"""Avisail Garcia""",1,2,9
+start,abrej003,"""Jose Abreu""",1,3,3
+start,palkd001,"""Daniel Palka""",1,4,10
+start,andet001,"""Tim Anderson""",1,5,6
+start,sancc001,"""Yolmer Sanchez""",1,6,5
+start,narvo001,"""Omar Narvaez""",1,7,2
+start,garcl004,"""Leury Garcia""",1,8,7
+start,engea001,"""Adam Engel""",1,9,8
+start,rodoc001,"""Carlos Rodon""",1,0,1
+play,2,1,palkd001,20,BBX,9/F
+play,2,1,andet001,11,CBX,53/G
+play,2,1,sancc001,11,BCX,S6/G
+play,2,1,narvo001,01,S>B,SB2.1-3(E2/TH)
+play,2,1,narvo001,22,S>B.BFS,K
+play,5,1,andet001,10,BX,S8/G
+play,5,1,sancc001,00,11>B,CS2(26)
+play,5,1,sancc001,11,11>B.FX,63/G
+play,5,1,narvo001,12,CCBX,S9/L
+play,5,1,garcl004,22,BSSFFBX,S9/L.1-3
+play,5,1,engea001,01,S1H,HP.1-2
+play,5,1,moncy001,00,X,D9/L.3-H;2-H;1-H
+play,5,1,garca003,12,FSBX,S7/L.2-H;B-2(TH)
+play,5,1,abrej003,11,BCX,S7/L.2-H;BX2(74)
+sub,hendl001,"""Liam Hendriks""",0,0,1
+sub,lucaj001,"""Josh Lucas""",0,0,1
+sub,phegj001,"""Josh Phegley""",0,8,2
+sub,pindc001,"""Chad Pinder""",0,2,5
+sub,martn003,"""Nick Martini""",0,3,7
+sub,rondb001,"""Bruce Rondon""",1,0,1
+sub,cedex001,"""Xavier Cedeno""",1,0,1

@@ -1,0 +1,54 @@
+id,CHA201806140
+info,visteam,CLE
+info,hometeam,CHA
+info,date,2018/06/14
+info,starttime,1:10PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,davir003,"""Rajai Davis""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,encae001,"""Edwin Encarnacion""",0,4,10
+start,guyeb001,"""Brandon Guyer""",0,5,9
+start,gomey001,"""Yan Gomes""",0,6,2
+start,alony001,"""Yonder Alonso""",0,7,3
+start,gonze004,"""Erik Gonzalez""",0,8,4
+start,alleg002,"""Greg Allen""",0,9,8
+start,clevm001,"""Mike Clevinger""",0,0,1
+start,sancc001,"""Yolmer Sanchez""",1,1,4
+start,rondj002,"""Jose Rondon""",1,2,6
+start,abrej003,"""Jose Abreu""",1,3,3
+start,palkd001,"""Daniel Palka""",1,4,10
+start,smitk002,"""Kevan Smith""",1,5,2
+start,davim005,"""Matt Davidson""",1,6,5
+start,tilsc001,"""Charlie Tilson""",1,7,7
+start,engea001,"""Adam Engel""",1,8,8
+start,thomt002,"""Trayce Thompson""",1,9,9
+start,rodoc001,"""Carlos Rodon""",1,0,1
+play,3,0,lindf001,00,X,4/P
+play,3,0,davir003,32,CBBBFFF*B,W
+play,3,0,ramij003,12,CCBX,7/F
+play,3,0,encae001,20,111BB>C,SB2
+play,3,0,encae001,32,111BB>C.BCB,W
+play,3,0,guyeb001,02,CFH,HP.2-3;1-2
+play,3,0,gomey001,32,FBFBB*B,W.3-H;2-3;1-2
+play,3,0,alony001,12,CFBS,K
+play,5,1,thomt002,02,CFFX,S9/G
+play,5,1,sancc001,22,CB11T>FB1>B,CS2(26)
+play,5,1,sancc001,32,CB11T>FB1>B.B,W
+play,5,1,rondj002,12,F1FBS,K
+play,5,1,abrej003,22,BTTBS,K
+sub,volsc001,"""Chris Volstad""",1,0,1
+play,7,0,alleg002,02,CCX,43/G
+play,7,0,lindf001,01,CX,S8/G+
+play,7,0,davir003,01,FX,4/P
+play,7,0,ramij003,00,>B,SB2
+play,7,0,ramij003,22,>B.CBSFX,HR/89/F.2-H
+play,7,0,encae001,21,BCBX,43/G
+sub,minaj001,"""Juan Minaya""",1,0,1
+sub,ramin001,"""Neil Ramirez""",0,0,1
+sub,moncy001,"""Yoan Moncada""",1,2,11
+sub,pereo002,"""Oliver Perez""",0,0,1
+sub,andet001,"""Tim Anderson""",1,4,11
+sub,sancc001,"""Yolmer Sanchez""",1,1,6
+sub,moncy001,"""Yoan Moncada""",1,2,4
+sub,santh001,"""Hector Santiago""",1,0,1
+sub,allec002,"""Cody Allen""",0,0,1

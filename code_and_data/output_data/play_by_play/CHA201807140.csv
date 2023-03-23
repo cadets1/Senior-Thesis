@@ -1,0 +1,45 @@
+id,CHA201807140
+info,visteam,KCA
+info,hometeam,CHA
+info,date,2018/07/14
+info,starttime,1:31PM
+start,merrw001,"""Whit Merrifield""",0,1,4
+start,bonij002,"""Jorge Bonifacio""",0,2,9
+start,mousm001,"""Mike Moustakas""",0,3,5
+start,peres002,"""Salvador Perez""",0,4,2
+start,dudal001,"""Lucas Duda""",0,5,3
+start,dozih001,"""Hunter Dozier""",0,6,10
+start,gorda001,"""Alex Gordon""",0,7,7
+start,orlap001,"""Paulo Orlando""",0,8,8
+start,escoa003,"""Alcides Escobar""",0,9,6
+start,duffd001,"""Danny Duffy""",0,0,1
+start,andet001,"""Tim Anderson""",1,1,6
+start,garcl004,"""Leury Garcia""",1,2,9
+start,abrej003,"""Jose Abreu""",1,3,3
+start,davim005,"""Matt Davidson""",1,4,10
+start,smitk002,"""Kevan Smith""",1,5,2
+start,moncy001,"""Yoan Moncada""",1,6,4
+start,lamar001,"""Ryan LaMarre""",1,7,7
+start,sancc001,"""Yolmer Sanchez""",1,8,5
+start,engea001,"""Adam Engel""",1,9,8
+start,loper003,"""Reynaldo Lopez""",1,0,1
+play,3,0,escoa003,02,FSFFX,S9/L
+play,3,0,merrw001,02,CSS,K
+play,3,0,bonij002,21,B1FBX,7/L
+play,3,0,mousm001,12,FBF1F*B,SB2
+play,3,0,mousm001,22,FBF1F*B.X,43/G
+sub,garcl004,"""Leury Garcia""",1,2,4
+sub,palkd001,"""Daniel Palka""",1,6,7
+sub,lamar001,"""Ryan LaMarre""",1,7,9
+play,8,0,merrw001,12,CBFX,S9/L
+play,8,0,bonij002,00,1>B,SB2
+play,8,0,bonij002,10,1>B.X,FC1/BG.2X3(15)
+play,8,0,mousm001,21,BBCX,9/F
+play,8,0,peres002,02,SFX,HR/9/F.1-H
+play,8,0,dudal001,00,,NP
+sub,fry-j001,"""Jace Fry""",1,0,1
+play,8,0,dudal001,22,.CFBBS,K
+sub,hammj002,"""Jason Hammel""",0,0,1
+sub,volsc001,"""Chris Volstad""",1,0,1
+sub,peraw001,"""Wily Peralta""",0,0,1
+sub,tilsc001,"""Charlie Tilson""",1,9,11

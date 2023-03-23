@@ -1,0 +1,42 @@
+id,CHA201809050
+info,visteam,DET
+info,hometeam,CHA
+info,date,2018/09/05
+info,starttime,7:11PM
+start,candj002,"""Jeimer Candelario""",0,1,5
+start,adduj002,"""Jim Adduci""",0,2,3
+start,castn001,"""Nick Castellanos""",0,3,9
+start,martv001,"""Victor Martinez""",0,4,10
+start,mahtm001,"""Mikie Mahtook""",0,5,7
+start,mccaj001,"""James McCann""",0,6,2
+start,rodrr009,"""Ronny Rodriguez""",0,7,6
+start,jonej006,"""JaCoby Jones""",0,8,8
+start,lugod001,"""Dawel Lugo""",0,9,4
+start,zimmj003,"""Jordan Zimmermann""",0,0,1
+start,delmn001,"""Nicky Delmonico""",1,1,7
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,castw002,"""Welington Castillo""",1,3,2
+start,palkd001,"""Daniel Palka""",1,4,9
+start,davim005,"""Matt Davidson""",1,5,3
+start,moncy001,"""Yoan Moncada""",1,6,4
+start,andet001,"""Tim Anderson""",1,7,6
+start,smitk002,"""Kevan Smith""",1,8,10
+start,cordr001,"""Ryan Cordell""",1,9,8
+start,kopem001,"""Michael Kopech""",1,0,1
+play,2,0,mccaj001,12,CBFFX,43/G
+play,2,0,rodrr009,32,BSFBBFB,W
+play,2,0,jonej006,02,1CS*B,SB2
+play,2,0,jonej006,12,1CS*B.X,5/L+
+play,2,0,lugod001,22,C*BFBFS,K
+sub,coved001,"""Dylan Covey""",1,0,1
+sub,frarc001,"""Caleb Frare""",1,0,1
+sub,reyev001,"""Victor Reyes""",0,4,12
+sub,ruizj001,"""Jose Ruiz""",1,0,1
+sub,farmb001,"""Buck Farmer""",0,0,1
+sub,rondj002,"""Jose Rondon""",1,7,6
+sub,minaj001,"""Juan Minaya""",1,0,1
+sub,stumd001,"""Daniel Stumpf""",0,0,1
+sub,narvo001,"""Omar Narvaez""",1,3,2
+sub,colel001,"""Louis Coleman""",0,0,1
+sub,vieit001,"""Thyago Vieira""",1,0,1
+sub,alcav001,"""Victor Alcantara""",0,0,1

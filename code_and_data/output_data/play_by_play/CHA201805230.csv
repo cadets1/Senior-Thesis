@@ -1,0 +1,56 @@
+id,CHA201805230
+info,visteam,BAL
+info,hometeam,CHA
+info,date,2018/05/23
+info,starttime,7:10PM
+start,manct001,"""Trey Mancini""",0,1,7
+start,jonea003,"""Adam Jones""",0,2,8
+start,machm001,"""Manny Machado""",0,3,6
+start,schoj001,"""Jonathan Schoop""",0,4,4
+start,davic003,"""Chris Davis""",0,5,3
+start,valed001,"""Danny Valencia""",0,6,10
+start,siscc001,"""Chance Sisco""",0,7,2
+start,rickj001,"""Joey Rickard""",0,8,9
+start,petej002,"""Jace Peterson""",0,9,5
+start,cobba001,"""Alex Cobb""",0,0,1
+start,moncy001,"""Yoan Moncada""",1,1,4
+start,sancc001,"""Yolmer Sanchez""",1,2,5
+start,abrej003,"""Jose Abreu""",1,3,3
+start,palkd001,"""Daniel Palka""",1,4,9
+start,castw002,"""Welington Castillo""",1,5,2
+start,garcl004,"""Leury Garcia""",1,6,7
+start,rondj002,"""Jose Rondon""",1,7,10
+start,andet001,"""Tim Anderson""",1,8,6
+start,engea001,"""Adam Engel""",1,9,8
+start,coved001,"""Dylan Covey""",1,0,1
+play,4,1,rondj002,22,CBFFBX,6/P
+play,4,1,andet001,00,X,8/L
+play,4,1,engea001,02,CCX,S7/G
+play,4,1,moncy001,12,BC1S1>B,SB2
+play,4,1,moncy001,22,BC1S1>B.B,WP.2-3
+play,4,1,moncy001,32,BC1S1>B.B.B,W
+play,4,1,sancc001,11,BCX,S9/L.3-H;1-2
+play,4,1,abrej003,32,C*BBFB>X,S8/L.2-H;1-3
+play,4,1,palkd001,00,,NP
+sub,araup001,"""Pedro Araujo""",0,0,1
+play,4,1,palkd001,10,.BX,63/G
+play,5,1,castw002,32,BBCBCX,63/G
+play,5,1,garcl004,32,BBSSB*B,W
+play,5,1,rondj002,00,>S,SB2
+play,5,1,rondj002,22,>S.CBF*B>B,SB3
+play,5,1,rondj002,00,,NP
+sub,thomt002,"""Trayce Thompson""",1,6,12
+play,5,1,rondj002,32,>S.CBF*B>B..*B,W
+play,5,1,andet001,00,*B,SB2.3XH(21)
+play,5,1,andet001,21,*B.S*BX,S8/F.2-H
+play,5,1,engea001,10,BX,HR/7/F.1-H
+play,5,1,moncy001,12,SBCX,43/G
+sub,thomt002,"""Trayce Thompson""",1,6,7
+sub,scott003,"""Tanner Scott""",0,0,1
+sub,gentc001,"""Craig Gentry""",0,2,8
+sub,volsc001,"""Chris Volstad""",1,0,1
+sub,alvap001,"""Pedro Alvarez""",0,3,5
+sub,schoj001,"""Jonathan Schoop""",0,4,6
+sub,petej002,"""Jace Peterson""",0,9,4
+sub,wrigm001,"""Mike Wright""",0,0,1
+sub,bumma001,"""Aaron Bummer""",1,0,1
