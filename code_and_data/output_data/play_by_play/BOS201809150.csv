@@ -1,0 +1,51 @@
+id,BOS201809150
+info,visteam,NYN
+info,hometeam,BOS
+info,date,2018/09/15
+info,starttime,4:06PM
+start,rosaa003,"""Amed Rosario""",0,1,6
+start,mcnej002,"""Jeff McNeil""",0,2,4
+start,confm001,"""Michael Conforto""",0,3,7
+start,brucj001,"""Jay Bruce""",0,4,10
+start,frazt001,"""Todd Frazier""",0,5,5
+start,nimmb001,"""Brandon Nimmo""",0,6,9
+start,smitd008,"""Dominic Smith""",0,7,3
+start,plawk001,"""Kevin Plawecki""",0,8,2
+start,jacka001,"""Austin Jackson""",0,9,8
+start,oswac001,"""Corey Oswalt""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,7
+start,martj006,"""J.D. Martinez""",1,3,10
+start,bogax001,"""Xander Bogaerts""",1,4,6
+start,pears001,"""Steve Pearce""",1,5,3
+start,kinsi001,"""Ian Kinsler""",1,6,4
+start,bradj001,"""Jackie Bradley""",1,7,8
+start,dever001,"""Rafael Devers""",1,8,5
+start,leons001,"""Sandy Leon""",1,9,2
+start,porcr001,"""Rick Porcello""",1,0,1
+play,1,1,bettm001,11,BCH,HP
+play,1,1,benia002,20,BBX,E3/TH/FO/G.1-3
+play,1,1,martj006,02,SSS,K
+play,1,1,bogax001,22,BCBS1>F1FX,S8/G.3-H(UR);1-3
+play,1,1,pears001,21,C*BBX,4/P
+play,1,1,kinsi001,21,BBC>B,SB2
+play,1,1,kinsi001,31,BBC>B.*B,W
+play,1,1,bradj001,11,BSX,9/F+
+sub,zamod001,"""Daniel Zamora""",0,0,1
+play,4,0,mcnej002,32,BBCTBFFX,S9/G
+play,4,0,confm001,12,CFBFFX,5/L+
+play,4,0,brucj001,00,>C,SB2
+play,4,0,brucj001,02,>C.FS,K
+play,4,0,frazt001,32,BBSFFFFBB,W
+play,4,0,nimmb001,12,FFFBX,HR/89/F.2-H;1-H
+play,4,0,smitd008,12,BFSX,8/F+
+sub,sewap001,"""Paul Sewald""",0,0,1
+sub,smitd009,"""Drew Smith""",0,0,1
+sub,holtb002,"""Brock Holt""",1,9,11
+sub,vazqc001,"""Christian Vazquez""",1,9,2
+sub,poynb001,"""Bobby Poyner""",1,0,1
+sub,wrigs001,"""Steven Wright""",1,0,1
+sub,gagnd001,"""Drew Gagnon""",0,0,1
+sub,brasr001,"""Ryan Brasier""",1,0,1
+sub,rhamj001,"""Jacob Rhame""",0,0,1
+sub,kimbc001,"""Craig Kimbrel""",1,0,1

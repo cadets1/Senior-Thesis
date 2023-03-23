@@ -1,0 +1,51 @@
+id,BOS201804050
+info,visteam,TBA
+info,hometeam,BOS
+info,date,2018/04/05
+info,starttime,2:07PM
+start,duffm002,"""Matt Duffy""",0,1,5
+start,kierk001,"""Kevin Kiermaier""",0,2,8
+start,gomec002,"""Carlos Gomez""",0,3,9
+start,cronc002,"""C.J. Cron""",0,4,10
+start,ramow001,"""Wilson Ramos""",0,5,2
+start,millb002,"""Brad Miller""",0,6,3
+start,hecha001,"""Adeiny Hechavarria""",0,7,6
+start,robed004,"""Daniel Robertson""",0,8,4
+start,refsr001,"""Rob Refsnyder""",0,9,7
+start,chiry001,"""Yonny Chirinos""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,7
+start,ramih003,"""Hanley Ramirez""",1,3,3
+start,martj006,"""J.D. Martinez""",1,4,10
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,dever001,"""Rafael Devers""",1,6,5
+start,nunee002,"""Eduardo Nunez""",1,7,4
+start,bradj001,"""Jackie Bradley""",1,8,8
+start,vazqc001,"""Christian Vazquez""",1,9,2
+start,pricd001,"""David Price""",1,0,1
+play,2,1,martj006,10,BX,T8/F
+play,2,1,bogax001,01,FX,13/G-
+play,2,1,dever001,20,*BBX,3/G
+play,2,1,nunee002,10,BX,63/G
+sub,roe-c001,"""Chaz Roe""",0,0,1
+sub,romos001,"""Sergio Romo""",0,0,1
+sub,smitc004,"""Carson Smith""",1,0,1
+sub,smitm007,"""Mallex Smith""",0,9,11
+sub,smitm007,"""Mallex Smith""",0,9,7
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+sub,velah001,"""Hector Velazquez""",1,0,1
+sub,coloa001,"""Alex Colome""",0,0,1
+sub,kimbc001,"""Craig Kimbrel""",1,0,1
+sub,spand001,"""Denard Span""",0,8,11
+sub,wendj002,"""Joey Wendle""",0,8,4
+sub,kitta001,"""Andrew Kittredge""",0,0,1
+sub,poynb001,"""Bobby Poyner""",1,0,1
+sub,swihb001,"""Blake Swihart""",1,4,12
+play,12,1,bradj001,21,CBBX,D8/L+
+play,12,1,vazqc001,00,X,14/BG/SH.2-3
+play,12,1,bettm001,30,VVVV,IW
+play,12,1,benia002,00,,NP
+sub,yarbr001,"""Ryan Yarbrough""",0,0,1
+play,12,1,benia002,02,.CF>B,SB2
+play,12,1,benia002,32,.CF>B.FFBBB,W
+play,12,1,ramih003,00,X,S9/L+.3-H;2-3;1-2

@@ -1,0 +1,42 @@
+id,BOS201807150
+info,visteam,TOR
+info,hometeam,BOS
+info,date,2018/07/15
+info,starttime,1:07PM
+start,gricr001,"""Randal Grichuk""",0,1,8
+start,solay001,"""Yangervis Solarte""",0,2,5
+start,hernt002,"""Teoscar Hernandez""",0,3,7
+start,smoaj001,"""Justin Smoak""",0,4,3
+start,morak001,"""Kendrys Morales""",0,5,10
+start,martr004,"""Russell Martin""",0,6,2
+start,travd001,"""Devon Travis""",0,7,4
+start,smitd007,"""Dwight Smith""",0,8,9
+start,diaza003,"""Aledmys Diaz""",0,9,6
+start,strom001,"""Marcus Stroman""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,bogax001,"""Xander Bogaerts""",1,2,6
+start,martj006,"""J.D. Martinez""",1,3,7
+start,morem001,"""Mitch Moreland""",1,4,3
+start,pears001,"""Steve Pearce""",1,5,10
+start,holtb002,"""Brock Holt""",1,6,4
+start,nunee002,"""Eduardo Nunez""",1,7,5
+start,leons001,"""Sandy Leon""",1,8,2
+start,bradj001,"""Jackie Bradley""",1,9,8
+start,johnb004,"""Brian Johnson""",1,0,1
+sub,workb001,"""Brandon Workman""",1,0,1
+sub,thort001,"""Tyler Thornburg""",1,0,1
+sub,loupa001,"""Aaron Loup""",0,0,1
+sub,petrj001,"""Jake Petricka""",0,0,1
+sub,brasr001,"""Ryan Brasier""",1,0,1
+play,7,1,bradj001,00,,NP
+sub,teper001,"""Ryan Tepera""",0,0,1
+play,7,1,bradj001,32,.FBBSFBX,4/P
+play,7,1,bettm001,32,CBSBBB,W
+play,7,1,bogax001,02,C11FS,K
+play,7,1,martj006,02,FS>F1>B,SB2
+play,7,1,martj006,22,FS>F1>B.*BFF*B,OA.2X3(25)
+sub,hembh001,"""Heath Hembree""",1,0,1
+sub,garcj004,"""Jaime Garcia""",0,0,1
+sub,rowlc001,"""Chris Rowley""",0,0,1
+sub,kimbc001,"""Craig Kimbrel""",1,0,1
+sub,granc001,"""Curtis Granderson""",0,9,11

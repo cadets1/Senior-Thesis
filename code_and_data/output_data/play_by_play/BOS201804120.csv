@@ -1,0 +1,43 @@
+id,BOS201804120
+info,visteam,NYA
+info,hometeam,BOS
+info,date,2018/04/12
+info,starttime,7:12PM
+start,gardb001,"""Brett Gardner""",0,1,8
+start,judga001,"""Aaron Judge""",0,2,9
+start,stanm004,"""Giancarlo Stanton""",0,3,7
+start,gregd001,"""Didi Gregorius""",0,4,6
+start,sancg002,"""Gary Sanchez""",0,5,2
+start,hicka001,"""Aaron Hicks""",0,6,10
+start,walkn001,"""Neil Walker""",0,7,3
+start,wadet002,"""Tyler Wade""",0,8,4
+start,torrr001,"""Ronald Torreyes""",0,9,5
+start,grays001,"""Sonny Gray""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,7
+start,ramih003,"""Hanley Ramirez""",1,3,3
+start,martj006,"""J.D. Martinez""",1,4,10
+start,dever001,"""Rafael Devers""",1,5,5
+start,nunee002,"""Eduardo Nunez""",1,6,4
+start,bradj001,"""Jackie Bradley""",1,7,8
+start,leons001,"""Sandy Leon""",1,8,2
+start,holtb002,"""Brock Holt""",1,9,6
+start,porcr001,"""Rick Porcello""",1,0,1
+sub,morem001,"""Mitch Moreland""",1,3,12
+sub,morem001,"""Mitch Moreland""",1,3,3
+sub,germd001,"""Domingo German""",0,0,1
+sub,lin-t001,"""Tzu-Wei Lin""",1,6,6
+sub,holtb002,"""Brock Holt""",1,9,4
+sub,kahnt001,"""Tommy Kahnle""",0,0,1
+sub,waldm002,"""Marcus Walden""",1,0,1
+sub,warra001,"""Adam Warren""",0,0,1
+play,9,0,judga001,31,CBBBB,W
+play,9,0,stanm004,10,BX,S5/G.1-3(E5/TH)
+play,9,0,gregd001,20,BB>B,SB2
+play,9,0,gregd001,31,BB>B.CB,W
+play,9,0,sancg002,00,X,D8/L+.3-H;2-H;1-H
+play,9,0,hicka001,00,,NP
+sub,kimbc001,"""Craig Kimbrel""",1,0,1
+play,9,0,hicka001,22,.BSBFFFX,31/G.2-3
+play,9,0,walkn001,02,CSFS,K
+play,9,0,wadet002,02,CFS,K

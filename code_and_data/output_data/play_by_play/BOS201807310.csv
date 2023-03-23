@@ -1,0 +1,44 @@
+id,BOS201807310
+info,visteam,PHI
+info,hometeam,BOS
+info,date,2018/07/31
+info,starttime,7:12PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,hoskr001,"""Rhys Hoskins""",0,2,7
+start,santc002,"""Carlos Santana""",0,3,3
+start,cabra002,"""Asdrubal Cabrera""",0,4,10
+start,willn001,"""Nick Williams""",0,5,9
+start,franm004,"""Maikel Franco""",0,6,5
+start,quinr003,"""Roman Quinn""",0,7,8
+start,alfaj002,"""Jorge Alfaro""",0,8,2
+start,kings001,"""Scott Kingery""",0,9,6
+start,arrij001,"""Jake Arrieta""",0,0,1
+start,benia002,"""Andrew Benintendi""",1,1,7
+start,swihb001,"""Blake Swihart""",1,2,2
+start,morem001,"""Mitch Moreland""",1,3,3
+start,martj006,"""J.D. Martinez""",1,4,9
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,kinsi001,"""Ian Kinsler""",1,6,4
+start,nunee002,"""Eduardo Nunez""",1,7,5
+start,holtb002,"""Brock Holt""",1,8,10
+start,bradj001,"""Jackie Bradley""",1,9,8
+start,pomed001,"""Drew Pomeranz""",1,0,1
+play,1,1,benia002,02,CCX,S8/L
+play,1,1,swihb001,31,BBBC1>X,7/F
+play,1,1,morem001,01,1C>C,SB2
+play,1,1,morem001,02,1C>C.S,K
+play,1,1,martj006,21,*BBCB,WP.2-3
+play,1,1,martj006,32,*BBCB.FH,HP
+play,1,1,bogax001,22,BBFF>B,CSH(242)
+play,6,0,quinr003,00,,NP
+sub,kellj001,"""Joe Kelly""",1,0,1
+play,6,0,quinr003,11,.CBX,S8/G+
+play,6,0,alfaj002,11,*B11F>S,CS2(24)
+play,6,0,alfaj002,22,*B11F>S.FFBFX,8/F
+play,6,0,kings001,11,CBX,9/F
+sub,hembh001,"""Heath Hembree""",1,0,1
+sub,barnm001,"""Matt Barnes""",1,0,1
+sub,huntt002,"""Tommy Hunter""",0,0,1
+sub,velah001,"""Hector Velazquez""",1,0,1
+sub,domis001,"""Seranthony Dominguez""",0,0,1
+sub,bettm001,"""Mookie Betts""",1,7,11

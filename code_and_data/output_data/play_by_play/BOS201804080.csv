@@ -1,0 +1,48 @@
+id,BOS201804080
+info,visteam,TBA
+info,hometeam,BOS
+info,date,2018/04/08
+info,starttime,1:07PM
+start,duffm002,"""Matt Duffy""",0,1,5
+start,kierk001,"""Kevin Kiermaier""",0,2,8
+start,gomec002,"""Carlos Gomez""",0,3,9
+start,cronc002,"""C.J. Cron""",0,4,10
+start,robed004,"""Daniel Robertson""",0,5,4
+start,millb002,"""Brad Miller""",0,6,3
+start,sucrj001,"""Jesus Sucre""",0,7,2
+start,hecha001,"""Adeiny Hechavarria""",0,8,6
+start,refsr001,"""Rob Refsnyder""",0,9,7
+start,kitta001,"""Andrew Kittredge""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,8
+start,ramih003,"""Hanley Ramirez""",1,3,10
+start,martj006,"""J.D. Martinez""",1,4,7
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,morem001,"""Mitch Moreland""",1,6,3
+start,nunee002,"""Eduardo Nunez""",1,7,4
+start,dever001,"""Rafael Devers""",1,8,5
+start,vazqc001,"""Christian Vazquez""",1,9,2
+start,rodre004,"""Eduardo Rodriguez""",1,0,1
+sub,yarbr001,"""Ryan Yarbrough""",0,0,1
+sub,velah001,"""Hector Velazquez""",1,0,1
+play,5,0,gomec002,00,X,3/P
+play,5,0,cronc002,10,BX,53/G+
+play,5,0,robed004,22,CBFBX,S5/G
+play,5,0,millb002,02,CF>B,SB2
+play,5,0,millb002,12,CF>B.X,S8/G.2-H
+play,5,0,sucrj001,01,CX,4(1)/FO/G
+sub,poynb001,"""Bobby Poyner""",1,0,1
+sub,johnb004,"""Brian Johnson""",1,0,1
+sub,wendj002,"""Joey Wendle""",0,6,11
+sub,holtb002,"""Brock Holt""",1,5,6
+sub,hembh001,"""Heath Hembree""",1,0,1
+sub,robed004,"""Daniel Robertson""",0,5,3
+sub,wendj002,"""Joey Wendle""",0,6,4
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+sub,smitc004,"""Carson Smith""",1,0,1
+sub,smitm007,"""Mallex Smith""",0,9,11
+sub,smitm007,"""Mallex Smith""",0,9,7
+sub,andrm001,"""Matt Andriese""",0,0,1
+sub,coloa001,"""Alex Colome""",0,0,1
+sub,kimbc001,"""Craig Kimbrel""",1,0,1
+sub,spand001,"""Denard Span""",0,7,11

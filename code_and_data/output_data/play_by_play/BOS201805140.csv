@@ -1,0 +1,39 @@
+id,BOS201805140
+info,visteam,OAK
+info,hometeam,BOS
+info,date,2018/05/14
+info,starttime,7:12PM
+start,semim001,"""Marcus Semien""",0,1,6
+start,joycm001,"""Matt Joyce""",0,2,7
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,chapm001,"""Matt Chapman""",0,6,5
+start,canhm001,"""Mark Canha""",0,7,9
+start,lucrj001,"""Jonathan Lucroy""",0,8,2
+start,fowld002,"""Dustin Fowler""",0,9,8
+start,manas001,"""Sean Manaea""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,8
+start,ramih003,"""Hanley Ramirez""",1,3,3
+start,martj006,"""J.D. Martinez""",1,4,7
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,nunee002,"""Eduardo Nunez""",1,6,4
+start,swihb001,"""Blake Swihart""",1,7,10
+start,dever001,"""Rafael Devers""",1,8,5
+start,leons001,"""Sandy Leon""",1,9,2
+start,porcr001,"""Rick Porcello""",1,0,1
+play,3,1,dever001,02,FFS,K
+play,3,1,leons001,12,BFSS,K
+play,3,1,bettm001,22,FFBBX,S8/G+
+play,3,1,benia002,00,>C,SB2
+play,3,1,benia002,01,>C.B,WP.2-3
+play,3,1,benia002,32,>C.B.BFBFX,S5/G.3-H;B-2(E5/TH)
+play,3,1,ramih003,01,FX,S9/L.2-H(UR)
+play,3,1,martj006,10,BX,53/G
+sub,hembh001,"""Heath Hembree""",1,0,1
+sub,petiy001,"""Yusmeiro Petit""",0,0,1
+sub,smitc004,"""Carson Smith""",1,0,1
+sub,johnb004,"""Brian Johnson""",1,0,1
+sub,treib001,"""Blake Treinen""",0,0,1
+sub,morem001,"""Mitch Moreland""",1,9,11

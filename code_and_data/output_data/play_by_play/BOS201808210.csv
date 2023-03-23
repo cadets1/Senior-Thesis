@@ -1,0 +1,41 @@
+id,BOS201808210
+info,visteam,CLE
+info,hometeam,BOS
+info,date,2018/08/21
+info,starttime,7:12PM
+start,lindf001,"""Francisco Lindor""",0,1,6
+start,branm003,"""Michael Brantley""",0,2,7
+start,ramij003,"""Jose Ramirez""",0,3,5
+start,diazy001,"""Yandy Diaz""",0,4,10
+start,alony001,"""Yonder Alonso""",0,5,3
+start,cabrm002,"""Melky Cabrera""",0,6,9
+start,kipnj001,"""Jason Kipnis""",0,7,4
+start,gomey001,"""Yan Gomes""",0,8,2
+start,alleg002,"""Greg Allen""",0,9,8
+start,biebs001,"""Shane Bieber""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,7
+start,martj006,"""J.D. Martinez""",1,3,10
+start,bogax001,"""Xander Bogaerts""",1,4,6
+start,morem001,"""Mitch Moreland""",1,5,3
+start,kinsi001,"""Ian Kinsler""",1,6,4
+start,nunee002,"""Eduardo Nunez""",1,7,5
+start,leons001,"""Sandy Leon""",1,8,2
+start,bradj001,"""Jackie Bradley""",1,9,8
+start,eovan001,"""Nathan Eovaldi""",1,0,1
+sub,kellj001,"""Joe Kelly""",1,0,1
+play,7,0,ramij003,00,,NP
+sub,workb001,"""Brandon Workman""",1,0,1
+play,7,0,ramij003,32,.BCCBFB*B,W
+play,7,0,diazy001,00,1>C,SB2
+play,7,0,diazy001,01,1>C.X,63/G-.2-3
+play,7,0,alony001,12,CC*BX,9/F/SF.3-H
+play,7,0,cabrm002,12,CBSC,K
+sub,guyeb001,"""Brandon Guyer""",0,6,9
+sub,cimba001,"""Adam Cimber""",0,0,1
+sub,thort001,"""Tyler Thornburg""",1,0,1
+sub,milla002,"""Andrew Miller""",0,0,1
+sub,pears001,"""Steve Pearce""",1,8,11
+sub,swihb001,"""Blake Swihart""",1,8,2
+sub,pomed001,"""Drew Pomeranz""",1,0,1
+sub,handb001,"""Brad Hand""",0,0,1

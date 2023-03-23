@@ -1,0 +1,56 @@
+id,BOS201809261
+info,visteam,BAL
+info,hometeam,BOS
+info,date,2018/09/26
+info,starttime,1:06PM
+start,mullc002,"""Cedric Mullins""",0,1,8
+start,villj001,"""Jonathan Villar""",0,2,6
+start,jonea003,"""Adam Jones""",0,3,7
+start,manct001,"""Trey Mancini""",0,4,3
+start,beckt001,"""Tim Beckham""",0,5,10
+start,nuner001,"""Renato Nunez""",0,6,5
+start,rickj001,"""Joey Rickard""",0,7,9
+start,wynna001,"""Austin Wynns""",0,8,2
+start,wilks001,"""Steve Wilkerson""",0,9,4
+start,meisr001,"""Ryan Meisinger""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,8
+start,benia002,"""Andrew Benintendi""",1,2,7
+start,martj006,"""J.D. Martinez""",1,3,10
+start,bogax001,"""Xander Bogaerts""",1,4,6
+start,morem001,"""Mitch Moreland""",1,5,3
+start,kinsi001,"""Ian Kinsler""",1,6,4
+start,dever001,"""Rafael Devers""",1,7,5
+start,swihb001,"""Blake Swihart""",1,8,9
+start,leons001,"""Sandy Leon""",1,9,2
+start,pricd001,"""David Price""",1,0,1
+sub,hartd002,"""Donnie Hart""",0,0,1
+play,2,1,bettm001,32,CBBBCB,W
+play,2,1,benia002,02,11CF>B,SB2
+play,2,1,benia002,32,11CF>B.BFBFX,7/L
+play,2,1,martj006,11,FBX,9/F.2-3
+play,2,1,bogax001,01,CX,8/F+
+sub,meanj001,"""John Means""",0,0,1
+play,5,0,villj001,32,BTSBFFBX,S7/L+
+play,5,0,jonea003,01,CX,13/G-.1-2
+play,5,0,manct001,12,BCCS,K
+play,5,0,beckt001,00,>C,SB3
+play,5,0,beckt001,01,>C.X,43/G
+sub,lin-t001,"""Tzu-Wei Lin""",1,1,11
+sub,lin-t001,"""Tzu-Wei Lin""",1,1,8
+sub,wrigs001,"""Steven Wright""",1,0,1
+sub,carrc004,"""Cody Carroll""",0,0,1
+sub,lin-t001,"""Tzu-Wei Lin""",1,1,6
+sub,benia002,"""Andrew Benintendi""",1,2,8
+sub,travs001,"""Sam Travis""",1,4,7
+sub,petej002,"""Jace Peterson""",0,2,4
+sub,andrj001,"""John Andreoli""",0,3,9
+sub,rickj001,"""Joey Rickard""",0,7,7
+sub,wilks001,"""Steve Wilkerson""",0,9,6
+sub,hembh001,"""Heath Hembree""",1,0,1
+sub,josec002,"""Caleb Joseph""",0,4,3
+sub,josec001,"""Corban Joseph""",0,5,4
+sub,petej002,"""Jace Peterson""",0,2,1
+sub,vazqc001,"""Christian Vazquez""",1,3,11
+sub,vazqc001,"""Christian Vazquez""",1,3,5
+sub,workb001,"""Brandon Workman""",1,7,1
+sub,stewd002,"""DJ Stewart""",0,7,11

@@ -1,0 +1,38 @@
+id,BOS201805160
+info,visteam,OAK
+info,hometeam,BOS
+info,date,2018/05/16
+info,starttime,7:11PM
+start,semim001,"""Marcus Semien""",0,1,6
+start,canhm001,"""Mark Canha""",0,2,8
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,chapm001,"""Matt Chapman""",0,5,5
+start,olsom001,"""Matt Olson""",0,6,3
+start,piscs001,"""Stephen Piscotty""",0,7,9
+start,pindc001,"""Chad Pinder""",0,8,7
+start,lucrj001,"""Jonathan Lucroy""",0,9,2
+start,cahit001,"""Trevor Cahill""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,8
+start,ramih003,"""Hanley Ramirez""",1,3,10
+start,martj006,"""J.D. Martinez""",1,4,7
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,morem001,"""Mitch Moreland""",1,6,3
+start,nunee002,"""Eduardo Nunez""",1,7,4
+start,dever001,"""Rafael Devers""",1,8,5
+start,vazqc001,"""Christian Vazquez""",1,9,2
+start,salec001,"""Chris Sale""",1,0,1
+play,2,1,dever001,02,FSX,43/G+
+play,2,1,vazqc001,22,BCBFFX,13/G
+play,2,1,bettm001,31,BCBBX,S7/L
+play,2,1,benia002,00,>P,CS2(26)
+sub,barnm001,"""Matt Barnes""",1,0,1
+sub,dullr001,"""Ryan Dull""",0,0,1
+sub,hembh001,"""Heath Hembree""",1,0,1
+sub,joycm001,"""Matt Joyce""",0,8,11
+sub,joycm001,"""Matt Joyce""",0,8,7
+sub,hatcc002,"""Chris Hatcher""",0,0,1
+sub,kellj001,"""Joe Kelly""",1,0,1
+sub,could001,"""Daniel Coulombe""",0,0,1
+sub,kimbc001,"""Craig Kimbrel""",1,0,1

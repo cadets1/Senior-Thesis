@@ -1,0 +1,63 @@
+id,BOS201807280
+info,visteam,MIN
+info,hometeam,BOS
+info,date,2018/07/28
+info,starttime,7:10PM
+start,mauej001,"""Joe Mauer""",0,1,3
+start,rosae001,"""Eddie Rosario""",0,2,7
+start,polaj001,"""Jorge Polanco""",0,3,6
+start,dozib001,"""Brian Dozier""",0,4,4
+start,morrl001,"""Logan Morrison""",0,5,10
+start,sanom001,"""Miguel Sano""",0,6,5
+start,grosr001,"""Robbie Grossman""",0,7,9
+start,garvm001,"""Mitch Garver""",0,8,2
+start,cavej001,"""Jake Cave""",0,9,8
+start,odorj001,"""Jake Odorizzi""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,7
+start,martj006,"""J.D. Martinez""",1,3,10
+start,morem001,"""Mitch Moreland""",1,4,3
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,dever001,"""Rafael Devers""",1,6,5
+start,nunee002,"""Eduardo Nunez""",1,7,4
+start,leons001,"""Sandy Leon""",1,8,2
+start,bradj001,"""Jackie Bradley""",1,9,8
+start,porcr001,"""Rick Porcello""",1,0,1
+play,6,0,dozib001,32,BCCFBFBFB,W
+play,6,0,morrl001,11,BFB,PB.1-2
+play,6,0,morrl001,32,BFB.BCX,8/F
+play,6,0,sanom001,32,BBBCFFFS,K
+play,6,0,grosr001,00,,NP
+sub,hembh001,"""Heath Hembree""",1,0,1
+play,6,0,grosr001,12,.BCS*B,SB3
+play,6,0,grosr001,22,.BCS*B.X,63/G
+play,6,1,leons001,00,,NP
+sub,moyag001,"""Gabriel Moya""",0,0,1
+play,6,1,leons001,00,.X,D8/F
+play,6,1,bradj001,32,BSBCFFBF*B,W
+play,6,1,bettm001,22,CBBFC,K
+play,6,1,benia002,11,BSB,WP.2-3;1-2
+play,6,1,benia002,21,BSB.X,S9/L.3-H;2-3
+play,6,1,martj006,00,,NP
+sub,magim001,"""Matt Magill""",0,0,1
+play,6,1,martj006,12,.F1SBS,K
+play,6,1,morem001,11,BF>B,SB2
+play,6,1,morem001,22,BF>B.SFS,K
+sub,thort001,"""Tyler Thornburg""",1,0,1
+play,8,1,bradj001,31,BCBBB,W
+play,8,1,bettm001,10,BX,D9/F+.1-H
+play,8,1,benia002,00,,NP
+sub,roget001,"""Taylor Rogers""",0,0,1
+play,8,1,benia002,02,.CFFS,K
+play,8,1,martj006,30,VVVV,IW
+play,8,1,morem001,11,CB>T,SB3
+play,8,1,morem001,22,CB>T.BS,K
+play,8,1,bogax001,30,VVVV,IW.1-2
+play,8,1,dever001,32,BBBCC>F>F>B,W.3-H;2-3;1-2
+play,8,1,nunee002,00,X,D8/L.3-H;2-H;1-3
+play,8,1,leons001,00,,NP
+sub,holtb002,"""Brock Holt""",1,6,12
+play,8,1,leons001,22,.CCBFF*BC,K
+sub,holtb002,"""Brock Holt""",1,6,4
+sub,nunee002,"""Eduardo Nunez""",1,7,5
+sub,kellj001,"""Joe Kelly""",1,0,1

@@ -1,0 +1,52 @@
+id,BOS201804270
+info,visteam,TBA
+info,hometeam,BOS
+info,date,2018/04/27
+info,starttime,7:10PM
+start,duffm002,"""Matt Duffy""",0,1,5
+start,cronc002,"""C.J. Cron""",0,2,10
+start,gomec002,"""Carlos Gomez""",0,3,9
+start,ramow001,"""Wilson Ramos""",0,4,2
+start,robed004,"""Daniel Robertson""",0,5,4
+start,millb002,"""Brad Miller""",0,6,3
+start,hecha001,"""Adeiny Hechavarria""",0,7,6
+start,smitm007,"""Mallex Smith""",0,8,8
+start,refsr001,"""Rob Refsnyder""",0,9,7
+start,snelb001,"""Blake Snell""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,ramih003,"""Hanley Ramirez""",1,2,10
+start,martj006,"""J.D. Martinez""",1,3,7
+start,morem001,"""Mitch Moreland""",1,4,3
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,nunee002,"""Eduardo Nunez""",1,6,5
+start,bradj001,"""Jackie Bradley""",1,7,8
+start,vazqc001,"""Christian Vazquez""",1,8,2
+start,lin-t001,"""Tzu-Wei Lin""",1,9,4
+start,pomed001,"""Drew Pomeranz""",1,0,1
+play,4,1,bettm001,31,BSBBB,W
+play,4,1,ramih003,12,C*BFC,K
+play,4,1,martj006,00,>C,SB2
+play,4,1,martj006,01,>C.X,3E1/G.2-3
+play,4,1,morem001,32,SBS*BBX,64(1)3/GDP
+play,5,0,refsr001,31,CBBBB,W
+play,5,0,duffm002,22,BCB1C>S,K+CS2(24)/DP
+play,5,0,cronc002,32,BBFFBB,W
+play,5,0,gomec002,22,BFSF*BS,K
+sub,velah001,"""Hector Velazquez""",1,0,1
+sub,swihb001,"""Blake Swihart""",1,9,11
+sub,roe-c001,"""Chaz Roe""",0,0,1
+play,9,0,smitm007,00,,NP
+sub,nunee002,"""Eduardo Nunez""",1,6,4
+play,9,0,smitm007,00,,NP
+sub,dever001,"""Rafael Devers""",1,9,5
+play,9,0,smitm007,00,..X,7/F
+play,9,0,refsr001,00,,NP
+sub,spand001,"""Denard Span""",0,9,11
+play,9,0,spand001,32,.BFCFFBFFFB*B,W
+play,9,0,duffm002,00,,NP
+sub,hembh001,"""Heath Hembree""",1,0,1
+play,9,0,duffm002,00,.1>B,CS2(26)
+play,9,0,duffm002,22,.1>B.CFBS,K
+sub,spand001,"""Denard Span""",0,9,7
+sub,coloa001,"""Alex Colome""",0,0,1
+sub,benia002,"""Andrew Benintendi""",1,8,11

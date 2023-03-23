@@ -1,0 +1,58 @@
+id,BOS201808280
+info,visteam,MIA
+info,hometeam,BOS
+info,date,2018/08/28
+info,starttime,7:12PM
+start,orter001,"""Rafael Ortega""",0,1,9
+start,andeb006,"""Brian Anderson""",0,2,5
+start,realj001,"""J.T. Realmuto""",0,3,3
+start,casts001,"""Starlin Castro""",0,4,4
+start,dietd001,"""Derek Dietrich""",0,5,10
+start,deana001,"""Austin Dean""",0,6,7
+start,rojam002,"""Miguel Rojas""",0,7,6
+start,galli001,"""Isaac Galloway""",0,8,8
+start,holab001,"""Bryan Holaday""",0,9,2
+start,urenj001,"""Jose Urena""",0,0,1
+start,bettm001,"""Mookie Betts""",1,1,9
+start,benia002,"""Andrew Benintendi""",1,2,7
+start,morem001,"""Mitch Moreland""",1,3,3
+start,martj006,"""J.D. Martinez""",1,4,10
+start,bogax001,"""Xander Bogaerts""",1,5,6
+start,nunee002,"""Eduardo Nunez""",1,6,5
+start,kinsi001,"""Ian Kinsler""",1,7,4
+start,swihb001,"""Blake Swihart""",1,8,2
+start,bradj001,"""Jackie Bradley""",1,9,8
+start,johnb004,"""Brian Johnson""",1,0,1
+play,5,0,holab001,12,FCBX,9/F
+play,5,0,orter001,10,BX,S8/L
+play,5,0,andeb006,00,,NP
+sub,workb001,"""Brandon Workman""",1,0,1
+play,5,0,andeb006,02,.1CS>B,CS2(24)
+play,5,0,andeb006,32,.1CS>B.BBB,W
+play,5,0,realj001,12,BFSX,S7/G.1-2
+play,5,0,casts001,00,X,5(2)/FO/G.1-2
+sub,kellj001,"""Joe Kelly""",1,0,1
+play,7,1,bradj001,00,,NP
+sub,barrk002,"""Kyle Barraclough""",0,0,1
+play,7,1,bradj001,31,.BBCBB,W
+play,7,1,bettm001,00,>C,SB2
+play,7,1,bettm001,32,>C.BBBFF2B,W
+play,7,1,benia002,10,*BX,5(2)3/GDP.1-2
+play,7,1,morem001,01,CX,9/F
+sub,barnm001,"""Matt Barnes""",1,0,1
+sub,hembh001,"""Heath Hembree""",1,0,1
+sub,sierm002,"""Magneuris Sierra""",0,6,12
+sub,riddj001,"""J.T. Riddle""",0,9,11
+sub,orter001,"""Rafael Ortega""",0,1,7
+sub,realj001,"""J.T. Realmuto""",0,3,2
+sub,sierm002,"""Magneuris Sierra""",0,6,8
+sub,rojam002,"""Miguel Rojas""",0,7,3
+sub,galli001,"""Isaac Galloway""",0,8,9
+sub,riddj001,"""J.T. Riddle""",0,9,6
+sub,guert001,"""Tayron Guerrero""",0,0,1
+sub,conla001,"""Adam Conley""",0,0,1
+sub,kimbc001,"""Craig Kimbrel""",1,0,1
+sub,rivey001,"""Yadiel Rivera""",0,4,12
+sub,rivey001,"""Yadiel Rivera""",0,4,4
+sub,pears001,"""Steve Pearce""",1,3,11
+sub,stecd001,"""Drew Steckenrider""",0,0,1
