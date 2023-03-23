@@ -1,0 +1,56 @@
+id,MIL201809040
+info,visteam,CHN
+info,hometeam,MIL
+info,date,2018/09/04
+info,starttime,7:10PM
+start,almoa002,"""Albert Almora""",0,1,8
+start,baezj001,"""Javier Baez""",0,2,4
+start,rizza001,"""Anthony Rizzo""",0,3,3
+start,bryak001,"""Kris Bryant""",0,4,7
+start,boted002,"""David Bote""",0,5,5
+start,zobrb001,"""Ben Zobrist""",0,6,9
+start,contw001,"""Willson Contreras""",0,7,2
+start,montm002,"""Mike Montgomery""",0,8,1
+start,russa002,"""Addison Russell""",0,9,6
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,9
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,braur002,"""Ryan Braun""",1,4,7
+start,pereh001,"""Hernan Perez""",1,5,4
+start,shawt001,"""Travis Shaw""",1,6,5
+start,krate001,"""Erik Kratz""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,milew001,"""Wade Miley""",1,9,1
+play,3,1,cainl001,32,BBCBFFB,W
+play,3,1,yelic001,02,C1S1>S,K+SB2
+play,3,1,aguij001,02,CSX,53/G.2-3
+play,3,1,braur002,00,X,63/G
+play,4,1,pereh001,02,CFFFX,S7/L
+play,4,1,shawt001,11,1LBX,S4/G+.1-2
+play,4,1,krate001,00,>C,SB3
+play,4,1,krate001,12,>C.LB1X,9/F/SF.3-H
+play,4,1,arcio002,10,BX,8/F
+play,4,1,milew001,22,BSBFC,K
+sub,schwk001,"""Kyle Schwarber""",0,8,11
+sub,kintb001,"""Brandon Kintzler""",0,8,1
+sub,carav001,"""Victor Caratini""",0,8,3
+sub,delaj001,"""Jorge de la Rosa""",0,3,1
+sub,santd002,"""Domingo Santana""",1,9,11
+sub,mapld001,"""Dillon Maples""",0,3,1
+sub,duenb001,"""Brian Duensing""",0,3,1
+sub,knebc001,"""Corey Knebel""",1,9,1
+sub,schoj001,"""Jonathan Schoop""",1,9,11
+sub,goret001,"""Terrance Gore""",0,3,7
+sub,bryak001,"""Kris Bryant""",0,4,9
+sub,norwj001,"""James Norwood""",0,6,1
+sub,broxk001,"""Keon Broxton""",1,2,8
+sub,pereh001,"""Hernan Perez""",1,5,9
+sub,schoj001,"""Jonathan Schoop""",1,9,4
+sub,lylej001,"""Jordan Lyles""",1,1,1
+sub,lastt001,"""Tommy La Stella""",0,2,11
+sub,lastt001,"""Tommy La Stella""",0,2,4
+sub,happi001,"""Ian Happ""",0,4,9
+sub,davit004,"""Taylor Davis""",0,7,2
+sub,thame001,"""Eric Thames""",1,1,11
+sub,nottj001,"""Jacob Nottingham""",1,1,2
+sub,albem001,"""Matt Albers""",1,7,1

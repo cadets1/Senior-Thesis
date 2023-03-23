@@ -1,0 +1,50 @@
+id,MIL201804020
+info,visteam,SLN
+info,hometeam,MIL
+info,date,2018/04/02
+info,starttime,1:10PM
+start,fowld001,"""Dexter Fowler""",0,1,9
+start,phamt001,"""Tommy Pham""",0,2,8
+start,carpm002,"""Matt Carpenter""",0,3,4
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,martj008,"""Jose Martinez""",0,5,3
+start,moliy001,"""Yadier Molina""",0,6,2
+start,dejop001,"""Paul DeJong""",0,7,6
+start,gyorj001,"""Jedd Gyorko""",0,8,5
+start,mikom001,"""Miles Mikolas""",0,9,1
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,9
+start,braur002,"""Ryan Braun""",1,3,7
+start,shawt001,"""Travis Shaw""",1,4,5
+start,thame001,"""Eric Thames""",1,5,3
+start,pinam001,"""Manny Pina""",1,6,2
+start,villj001,"""Jonathan Villar""",1,7,4
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,daviz001,"""Zach Davies""",1,9,1
+play,3,0,dejop001,01,CX,S7/L
+play,3,0,gyorj001,30,BBBX,D8/F.1-H
+play,3,0,mikom001,10,BX,5/BP5F-
+play,3,0,fowld001,01,C2,PO2(E1).2-3
+play,3,0,fowld001,01,C2.X,S8/F-.3-H(UR)
+play,3,0,phamt001,12,FSBS,K
+play,3,0,carpm002,10,B>B,CS2(26)
+play,6,0,phamt001,00,X,S8/G
+play,6,0,carpm002,31,B1CB1B>C,CS2(26)
+play,6,0,carpm002,32,B1CB1B>C.X,S9/L
+play,6,0,ozunm001,10,BX,S8/L+.1-3
+play,6,0,martj008,22,CBBSFX,8/F/SF.3-H
+play,6,0,moliy001,01,FX,S7/L.1-3
+play,6,0,dejop001,00,,NP
+sub,woodb005,"""Brandon Woodruff""",1,9,1
+play,6,0,dejop001,10,.BX,HR/78/F.3-H;1-H
+play,6,0,gyorj001,11,BCX,S6/G
+play,6,0,mikom001,02,CSC,K
+sub,garcg002,"""Greg Garcia""",0,8,5
+sub,norrb001,"""Bud Norris""",0,9,1
+sub,sogae001,"""Eric Sogard""",1,9,11
+sub,wongk001,"""Kolten Wong""",0,9,4
+sub,lyont001,"""Tyler Lyons""",0,3,1
+sub,drako001,"""Oliver Drake""",1,9,1
+sub,munoy001,"""Yairo Munoz""",0,3,5
+sub,hickj002,"""Jordan Hicks""",0,8,1
+sub,aguij001,"""Jesus Aguilar""",1,9,11

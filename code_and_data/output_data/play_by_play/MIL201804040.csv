@@ -1,0 +1,38 @@
+id,MIL201804040
+info,visteam,SLN
+info,hometeam,MIL
+info,date,2018/04/04
+info,starttime,6:40PM
+start,fowld001,"""Dexter Fowler""",0,1,9
+start,phamt001,"""Tommy Pham""",0,2,8
+start,carpm002,"""Matt Carpenter""",0,3,5
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,martj008,"""Jose Martinez""",0,5,3
+start,moliy001,"""Yadier Molina""",0,6,2
+start,dejop001,"""Paul DeJong""",0,7,6
+start,wongk001,"""Kolten Wong""",0,8,4
+start,martc006,"""Carlos Martinez""",0,9,1
+start,thame001,"""Eric Thames""",1,1,3
+start,yelic001,"""Christian Yelich""",1,2,7
+start,cainl001,"""Lorenzo Cain""",1,3,8
+start,shawt001,"""Travis Shaw""",1,4,5
+start,santd002,"""Domingo Santana""",1,5,9
+start,villj001,"""Jonathan Villar""",1,6,4
+start,pinam001,"""Manny Pina""",1,7,2
+start,sogae001,"""Eric Sogard""",1,8,6
+start,chacj001,"""Jhoulys Chacin""",1,9,1
+play,2,1,santd002,00,H,HP
+play,2,1,villj001,00,X,S8/G.1-2
+play,2,1,pinam001,10,BX,8/L.2-3
+play,2,1,sogae001,32,*BBCSB>F>F>T,K+SB2
+play,2,1,chacj001,02,SSS,K
+sub,drako001,"""Oliver Drake""",1,9,1
+sub,pereh001,"""Hernan Perez""",1,2,7
+sub,jeffj001,"""Jeremy Jeffress""",1,9,1
+sub,aguij001,"""Jesus Aguilar""",1,9,11
+sub,aguij001,"""Jesus Aguilar""",1,9,3
+sub,jennd003,"""Dan Jennings""",1,1,1
+sub,munoy001,"""Yairo Munoz""",0,3,11
+sub,munoy001,"""Yairo Munoz""",0,3,5
+sub,tuivs001,"""Sam Tuivailala""",0,9,1
+sub,norrb001,"""Bud Norris""",0,9,1

@@ -1,0 +1,53 @@
+id,MIL201809090
+info,visteam,SFN
+info,hometeam,MIL
+info,date,2018/09/09
+info,starttime,1:10PM
+start,blang001,"""Gregor Blanco""",0,1,7
+start,panij002,"""Joe Panik""",0,2,4
+start,longe001,"""Evan Longoria""",0,3,5
+start,crawb001,"""Brandon Crawford""",0,4,6
+start,slata001,"""Austin Slater""",0,5,9
+start,hundn001,"""Nick Hundley""",0,6,2
+start,joner005,"""Ryder Jones""",0,7,3
+start,herng001,"""Gorkys Hernandez""",0,8,8
+start,bumgm001,"""Madison Bumgarner""",0,9,1
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,9
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,braur002,"""Ryan Braun""",1,4,7
+start,schoj001,"""Jonathan Schoop""",1,5,4
+start,mousm001,"""Mike Moustakas""",1,6,5
+start,pereh001,"""Hernan Perez""",1,7,6
+start,krate001,"""Erik Kratz""",1,8,2
+start,daviz001,"""Zach Davies""",1,9,1
+play,1,1,cainl001,22,CBFBX,S8/G
+play,1,1,yelic001,11,1SBX,8/F
+play,1,1,aguij001,02,CSX,53/G.1-2
+play,1,1,braur002,21,S*BBX,D8/L+.2-H
+play,1,1,schoj001,00,>B,SB3
+play,1,1,schoj001,32,>B.CS*B*BC,K
+sub,beltb001,"""Brandon Belt""",0,7,11
+sub,beltb001,"""Brandon Belt""",0,7,3
+play,6,0,longe001,00,,NP
+sub,burnc002,"""Corbin Burnes""",1,9,1
+play,6,0,longe001,20,.BBX,7/L+
+play,6,0,crawb001,31,BBBCX,E6/G+
+play,6,0,slata001,02,1CS>S,K+SB2
+play,6,0,hundn001,12,SSBC,K
+sub,santd002,"""Domingo Santana""",1,9,11
+sub,pereh001,"""Hernan Perez""",1,7,5
+sub,arcio002,"""Orlando Arcia""",1,6,6
+sub,woodb005,"""Brandon Woodruff""",1,9,1
+sub,hansa001,"""Alen Hanson""",0,9,11
+sub,cedex001,"""Xavier Cedeno""",1,9,1
+sub,pench001,"""Hunter Pence""",0,9,11
+sub,darnc001,"""Chase d'Arnaud""",0,1,11
+sub,pench001,"""Hunter Pence""",0,9,7
+sub,blacr001,"""Ray Black""",0,1,1
+sub,thame001,"""Eric Thames""",1,9,11
+sub,sorij001,"""Joakim Soria""",1,9,1
+sub,knebc001,"""Corey Knebel""",1,9,1
+sub,melam001,"""Mark Melancon""",0,1,1
+sub,yelic001,"""Christian Yelich""",1,2,7
+sub,broxk001,"""Keon Broxton""",1,4,9

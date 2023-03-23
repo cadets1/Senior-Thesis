@@ -1,0 +1,41 @@
+id,MIL201806120
+info,visteam,CHN
+info,hometeam,MIL
+info,date,2018/06/12
+info,starttime,7:11PM
+start,almoa002,"""Albert Almora""",0,1,8
+start,heywj001,"""Jason Heyward""",0,2,9
+start,bryak001,"""Kris Bryant""",0,3,5
+start,rizza001,"""Anthony Rizzo""",0,4,3
+start,zobrb001,"""Ben Zobrist""",0,5,7
+start,contw001,"""Willson Contreras""",0,6,2
+start,baezj001,"""Javier Baez""",0,7,4
+start,russa002,"""Addison Russell""",0,8,6
+start,chatt001,"""Tyler Chatwood""",0,9,1
+start,thame001,"""Eric Thames""",1,1,3
+start,yelic001,"""Christian Yelich""",1,2,7
+start,cainl001,"""Lorenzo Cain""",1,3,8
+start,shawt001,"""Travis Shaw""",1,4,5
+start,santd002,"""Domingo Santana""",1,5,9
+start,villj001,"""Jonathan Villar""",1,6,4
+start,pinam001,"""Manny Pina""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,andec001,"""Chase Anderson""",1,9,1
+play,5,1,yelic001,12,BFFX,13/G
+play,5,1,cainl001,12,CBCX,43/G
+play,5,1,shawt001,32,BBSBSB,W
+play,5,1,santd002,12,SF*B>B,CS2(24)
+sub,schwk001,"""Kyle Schwarber""",0,9,11
+sub,farrl001,"""Luke Farrell""",0,9,1
+play,7,1,andec001,00,,NP
+sub,sogae001,"""Eric Sogard""",1,9,11
+play,7,1,sogae001,12,.FBCX,S7/L-
+play,7,1,thame001,22,BSBCC,K
+play,7,1,yelic001,32,BT*BSF*B>F>F>F1>S,K+SB2
+play,7,1,cainl001,11,F*BX,63/G
+sub,willt003,"""Taylor Williams""",1,9,1
+sub,lastt001,"""Tommy La Stella""",0,9,11
+sub,bassa001,"""Anthony Bass""",0,9,1
+sub,pereh001,"""Hernan Perez""",1,6,12
+sub,pereh001,"""Hernan Perez""",1,6,4
+sub,barnj002,"""Jacob Barnes""",1,9,1

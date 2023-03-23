@@ -1,0 +1,50 @@
+id,MIL201807240
+info,visteam,WAS
+info,hometeam,MIL
+info,date,2018/07/24
+info,starttime,7:29PM
+start,eatoa002,"""Adam Eaton""",0,1,9
+start,renda001,"""Anthony Rendon""",0,2,5
+start,sotoj001,"""Juan Soto""",0,3,7
+start,zimmr001,"""Ryan Zimmerman""",0,4,3
+start,murpd006,"""Daniel Murphy""",0,5,4
+start,taylm002,"""Michael Taylor""",0,6,8
+start,difow001,"""Wilmer Difo""",0,7,6
+start,kiebs001,"""Spencer Kieboom""",0,8,2
+start,hellj001,"""Jeremy Hellickson""",0,9,1
+start,thame001,"""Eric Thames""",1,1,9
+start,cainl001,"""Lorenzo Cain""",1,2,8
+start,yelic001,"""Christian Yelich""",1,3,7
+start,aguij001,"""Jesus Aguilar""",1,4,3
+start,shawt001,"""Travis Shaw""",1,5,5
+start,salat001,"""Tyler Saladino""",1,6,6
+start,millb002,"""Brad Miller""",1,7,4
+start,pinam001,"""Manny Pina""",1,8,2
+start,guerj003,"""Junior Guerra""",1,9,1
+sub,millj006,"""Justin Miller""",0,9,1
+sub,jeffj001,"""Jeremy Jeffress""",1,9,1
+sub,harpb003,"""Bryce Harper""",0,9,11
+sub,kintb001,"""Brandon Kintzler""",0,9,1
+sub,braur002,"""Ryan Braun""",1,9,11
+sub,burnc002,"""Corbin Burnes""",1,9,1
+sub,madsr001,"""Ryan Madson""",0,9,1
+sub,knebc001,"""Corey Knebel""",1,9,1
+sub,adamm002,"""Matt Adams""",0,9,11
+sub,herrk001,"""Kelvin Herrera""",0,9,1
+sub,philb002,"""Brett Phillips""",1,9,11
+play,10,0,renda001,00,,NP
+sub,philb002,"""Brett Phillips""",1,9,9
+play,10,0,renda001,00,,NP
+sub,willt003,"""Taylor Williams""",1,1,1
+play,10,0,renda001,21,..BCBX,3/P
+play,10,0,sotoj001,22,CBCBFC,K
+play,10,0,zimmr001,32,BSBBSX,S8/L
+play,10,0,murpd006,00,,NP
+sub,jennd003,"""Dan Jennings""",1,1,1
+play,10,0,murpd006,00,,NP
+sub,turnt001,"""Trea Turner""",0,4,12
+play,10,0,murpd006,22,..1C1BBF11,POCS2(135)
+sub,reynm001,"""Mark Reynolds""",0,9,3
+sub,gracm003,"""Matt Grace""",0,4,1
+sub,taylm002,"""Michael Taylor""",0,6,3
+sub,reynm001,"""Mark Reynolds""",0,9,8

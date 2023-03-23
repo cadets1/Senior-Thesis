@@ -1,0 +1,54 @@
+id,MIL201806150
+info,visteam,PHI
+info,hometeam,MIL
+info,date,2018/06/15
+info,starttime,7:10PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,hoskr001,"""Rhys Hoskins""",0,2,7
+start,herro001,"""Odubel Herrera""",0,3,8
+start,santc002,"""Carlos Santana""",0,4,3
+start,kings001,"""Scott Kingery""",0,5,6
+start,willn001,"""Nick Williams""",0,6,9
+start,alfaj002,"""Jorge Alfaro""",0,7,2
+start,arrij001,"""Jake Arrieta""",0,8,1
+start,crawj002,"""J.P. Crawford""",0,9,5
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,9
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,shawt001,"""Travis Shaw""",1,4,5
+start,braur002,"""Ryan Braun""",1,5,7
+start,pereh001,"""Hernan Perez""",1,6,4
+start,pinam001,"""Manny Pina""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,suteb001,"""Brent Suter""",1,9,1
+play,2,1,pereh001,00,X,S67/G
+play,2,1,pinam001,10,BX,S9/G.1-2
+play,2,1,arcio002,02,SFX,S8/L.2-3;1-2
+play,2,1,suteb001,12,FBFH,HP.3-H;2-3;1-2
+play,2,1,cainl001,00,X,E6/FO/G+.3-H;2-H(NR)(UR);1-3
+play,2,1,yelic001,00,>S,SB2
+play,2,1,yelic001,01,>S.X,43/G
+play,2,1,aguij001,22,TBFBX,9/F9LF/SF.3-H(UR);2-3
+play,2,1,shawt001,32,BBCCBB,W+WP.3-H(NR)(UR)
+play,2,1,braur002,12,FCFBF>FX,9/L
+sub,leitm002,"""Mark Leiter""",0,8,1
+sub,hoskr001,"""Rhys Hoskins""",0,2,3
+sub,willn001,"""Nick Williams""",0,6,7
+sub,altha001,"""Aaron Altherr""",0,8,9
+sub,aranv001,"""Victor Arano""",0,4,1
+sub,franm004,"""Maikel Franco""",0,1,5
+sub,kings001,"""Scott Kingery""",0,5,4
+sub,crawj002,"""J.P. Crawford""",0,9,6
+sub,ramoe002,"""Edubray Ramos""",0,4,1
+sub,thame001,"""Eric Thames""",1,9,11
+sub,yelic001,"""Christian Yelich""",1,2,8
+sub,thame001,"""Eric Thames""",1,9,9
+sub,jennd003,"""Dan Jennings""",1,1,1
+sub,valej006,"""Jesmuel Valentin""",0,4,1
+sub,sogae001,"""Eric Sogard""",1,4,11
+sub,santd002,"""Domingo Santana""",1,5,11
+sub,sogae001,"""Eric Sogard""",1,4,4
+sub,santd002,"""Domingo Santana""",1,5,9
+sub,pereh001,"""Hernan Perez""",1,6,5
+sub,thame001,"""Eric Thames""",1,9,7
+sub,logab001,"""Boone Logan""",1,1,1

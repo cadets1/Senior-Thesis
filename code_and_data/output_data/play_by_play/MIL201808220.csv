@@ -1,0 +1,42 @@
+id,MIL201808220
+info,visteam,CIN
+info,hometeam,MIL
+info,date,2018/08/22
+info,starttime,1:10PM
+start,hamib001,"""Billy Hamilton""",0,1,8
+start,peraj003,"""Jose Peraza""",0,2,6
+start,genns001,"""Scooter Gennett""",0,3,4
+start,willm007,"""Mason Williams""",0,4,9
+start,ervip001,"""Phillip Ervin""",0,5,7
+start,barnt001,"""Tucker Barnhart""",0,6,3
+start,casac001,"""Curt Casali""",0,7,2
+start,herrd002,"""Dilson Herrera""",0,8,5
+start,stepr002,"""Robert Stephenson""",0,9,1
+start,yelic001,"""Christian Yelich""",1,1,9
+start,cainl001,"""Lorenzo Cain""",1,2,8
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,aguij001,"""Jesus Aguilar""",1,4,3
+start,shawt001,"""Travis Shaw""",1,5,4
+start,braur002,"""Ryan Braun""",1,6,7
+start,schoj001,"""Jonathan Schoop""",1,7,6
+start,pinam001,"""Manny Pina""",1,8,2
+start,peraf001,"""Freddy Peralta""",1,9,1
+play,3,1,yelic001,10,BX,D8/L+
+play,3,1,cainl001,00,*B,CS3(25)
+play,3,1,cainl001,22,*B.SBFX,S8/G
+play,3,1,mousm001,11,1BCX,43/G.1-2
+play,3,1,aguij001,11,BCX,7/F+
+play,4,0,peraj003,10,BX,S7/L+
+play,4,0,genns001,02,S11CC,K
+play,4,0,willm007,31,1BBF1BX,7/F
+play,4,0,ervip001,11,BC>S,SB2
+play,4,0,ervip001,22,BC>S.BS,K
+sub,peraw002,"""Wandy Peralta""",0,9,1
+sub,arcio002,"""Orlando Arcia""",1,3,6
+sub,shawt001,"""Travis Shaw""",1,5,5
+sub,schoj001,"""Jonathan Schoop""",1,7,4
+sub,willt003,"""Taylor Williams""",1,9,1
+sub,tuckp001,"""Preston Tucker""",0,9,11
+sub,pereh001,"""Hernan Perez""",1,9,4
+sub,jeffj001,"""Jeremy Jeffress""",1,7,1
+sub,garra001,"""Amir Garrett""",0,9,1

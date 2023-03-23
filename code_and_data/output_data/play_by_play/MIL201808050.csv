@@ -1,0 +1,81 @@
+id,MIL201808050
+info,visteam,COL
+info,hometeam,MIL
+info,date,2018/08/05
+info,starttime,1:10PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,lemad001,"""DJ LeMahieu""",0,2,4
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,stort001,"""Trevor Story""",0,4,6
+start,gonzc001,"""Carlos Gonzalez""",0,5,9
+start,desmi001,"""Ian Desmond""",0,6,7
+start,valap001,"""Pat Valaika""",0,7,3
+start,murpt002,"""Tom Murphy""",0,8,2
+start,grayj003,"""Jon Gray""",0,9,1
+start,yelic001,"""Christian Yelich""",1,1,8
+start,thame001,"""Eric Thames""",1,2,9
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,shawt001,"""Travis Shaw""",1,4,3
+start,braur002,"""Ryan Braun""",1,5,7
+start,schoj001,"""Jonathan Schoop""",1,6,4
+start,krate001,"""Erik Kratz""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,milew001,"""Wade Miley""",1,9,1
+play,5,1,braur002,00,X,S5/G+
+play,5,1,schoj001,10,BX,7/F+
+play,5,1,krate001,01,CX,9/F
+play,5,1,arcio002,20,*BB>B,SB2
+play,5,1,arcio002,30,*BB>B.B,W
+play,5,1,milew001,00,,NP
+sub,aguij001,"""Jesus Aguilar""",1,9,11
+play,5,1,aguij001,22,.*BBFSX,64(1)/FO/G
+sub,sorij001,"""Joakim Soria""",1,9,1
+sub,parrg001,"""Gerardo Parra""",0,7,11
+play,6,1,yelic001,00,,NP
+sub,desmi001,"""Ian Desmond""",0,6,3
+play,6,1,yelic001,00,,NP
+sub,parrg001,"""Gerardo Parra""",0,7,7
+play,6,1,yelic001,00,..X,S9/L
+play,6,1,thame001,00,1X,8/L
+play,6,1,mousm001,30,BB1BB,W.1-2
+play,6,1,shawt001,32,SFBF*BBS,K
+play,6,1,braur002,00,>B,SB3
+play,6,1,braur002,11,>B.CX,53/G
+sub,jeffj001,"""Jeremy Jeffress""",1,9,1
+sub,hadej001,"""Josh Hader""",1,9,1
+sub,cainl001,"""Lorenzo Cain""",1,9,11
+play,9,0,blacc001,00,,NP
+sub,burnc002,"""Corbin Burnes""",1,9,1
+play,9,0,blacc001,22,.BFFFBX,8/F
+play,9,0,lemad001,31,BSBBB,W
+play,9,0,arenn001,02,S1F1X,S7/L.1-3
+play,9,0,stort001,00,X,64(1)/FO/G.3-H
+play,9,0,gonzc001,01,111C111,SB2
+play,9,0,gonzc001,01,111C111.X,7/L
+play,9,1,mousm001,00,,NP
+sub,ottaa001,"""Adam Ottavino""",0,9,1
+play,9,1,mousm001,01,.CX,HR/9/F
+play,9,1,shawt001,22,CSFBBX,13/G-
+play,9,1,braur002,12,BCFX,C/E2
+play,9,1,schoj001,00,>B,SB2
+play,9,1,schoj001,22,>B.SBTC,K
+play,9,1,krate001,22,CBFBFFS,K+WP.2-3;B-1
+play,9,1,arcio002,12,CBFX,D7/L.3-H(UR);1-3
+play,9,1,burnc002,00,,NP
+sub,pereh001,"""Hernan Perez""",1,9,11
+play,9,1,pereh001,01,.CB,WP.3-H(NR);2-3
+play,9,1,pereh001,12,.CB.LS,K
+play,10,0,desmi001,00,,NP
+sub,knebc001,"""Corey Knebel""",1,9,1
+play,10,0,desmi001,12,.BFFS,K
+play,10,0,parrg001,00,X,53/L
+play,10,0,murpt002,00,,NP
+sub,dahld001,"""David Dahl""",0,8,11
+play,10,0,dahld001,32,.BBBCSFB,W
+play,10,0,ottaa001,00,,NP
+sub,mcmar001,"""Ryan McMahon""",0,9,11
+play,10,0,mcmar001,00,.>C,SB2
+play,10,0,mcmar001,02,.>C.CFS,K
+sub,woltt001,"""Tony Wolters""",0,8,2
+sub,obers001,"""Scott Oberg""",0,9,1
+sub,oh--s001,"""Seung Hwan Oh""",0,9,1

@@ -1,0 +1,46 @@
+id,MIL201809070
+info,visteam,SFN
+info,hometeam,MIL
+info,date,2018/09/07
+info,starttime,7:11PM
+start,panij002,"""Joe Panik""",0,1,4
+start,slata001,"""Austin Slater""",0,2,9
+start,longe001,"""Evan Longoria""",0,3,5
+start,beltb001,"""Brandon Belt""",0,4,3
+start,hundn001,"""Nick Hundley""",0,5,2
+start,shawc001,"""Chris Shaw""",0,6,7
+start,herng001,"""Gorkys Hernandez""",0,7,8
+start,hansa001,"""Alen Hanson""",0,8,6
+start,holld003,"""Derek Holland""",0,9,1
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,9
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,braur002,"""Ryan Braun""",1,4,7
+start,schoj001,"""Jonathan Schoop""",1,5,4
+start,shawt001,"""Travis Shaw""",1,6,5
+start,pereh001,"""Hernan Perez""",1,7,6
+start,pinam001,"""Manny Pina""",1,8,2
+start,andec001,"""Chase Anderson""",1,9,1
+play,3,0,hansa001,10,BX,S9/G
+play,3,0,holld003,02,L1LM,K
+play,3,0,panij002,11,BF1>C,SB2
+play,3,0,panij002,12,BF1>C.FS,K
+play,3,0,slata001,21,*BBFX,3/P-
+sub,santd002,"""Domingo Santana""",1,9,11
+sub,hadej001,"""Josh Hader""",1,9,1
+sub,pench001,"""Hunter Pence""",0,9,11
+sub,strih001,"""Hunter Strickland""",0,9,1
+sub,granc001,"""Curtis Granderson""",1,8,11
+sub,thame001,"""Eric Thames""",1,9,11
+sub,watst001,"""Tony Watson""",0,9,1
+sub,yelic001,"""Christian Yelich""",1,2,7
+sub,krate001,"""Erik Kratz""",1,5,2
+sub,pereh001,"""Hernan Perez""",1,7,4
+sub,granc001,"""Curtis Granderson""",1,8,9
+sub,arcio002,"""Orlando Arcia""",1,4,6
+sub,sorij001,"""Joakim Soria""",1,9,1
+sub,okers001,"""Steven Okert""",0,9,1
+sub,broxk001,"""Keon Broxton""",1,8,11
+sub,salat001,"""Tyler Saladino""",1,9,11
+sub,broxk001,"""Keon Broxton""",1,8,9
+sub,jeffj001,"""Jeremy Jeffress""",1,9,1

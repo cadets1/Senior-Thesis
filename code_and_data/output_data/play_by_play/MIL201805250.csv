@@ -1,0 +1,46 @@
+id,MIL201805250
+info,visteam,NYN
+info,hometeam,MIL
+info,date,2018/05/25
+info,starttime,7:10PM
+start,nimmb001,"""Brandon Nimmo""",0,1,7
+start,cabra002,"""Asdrubal Cabrera""",0,2,4
+start,florw001,"""Wilmer Flores""",0,3,5
+start,brucj001,"""Jay Bruce""",0,4,9
+start,confm001,"""Michael Conforto""",0,5,8
+start,mesod001,"""Devin Mesoraco""",0,6,2
+start,gonza003,"""Adrian Gonzalez""",0,7,3
+start,syndn001,"""Noah Syndergaard""",0,8,1
+start,rosaa003,"""Amed Rosario""",0,9,6
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,7
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,shawt001,"""Travis Shaw""",1,4,5
+start,santd002,"""Domingo Santana""",1,5,9
+start,villj001,"""Jonathan Villar""",1,6,4
+start,pinam001,"""Manny Pina""",1,7,2
+start,salat001,"""Tyler Saladino""",1,8,6
+start,guerj003,"""Junior Guerra""",1,9,1
+play,3,1,guerj003,01,CX,43/G
+play,3,1,cainl001,11,CBX,S9/F-
+play,3,1,yelic001,00,*B,SB2
+play,3,1,yelic001,10,*B.X,S8/G.2-H
+play,3,1,aguij001,00,11>B,SB2
+play,3,1,aguij001,12,11>B.SFX,9/F
+play,3,1,shawt001,00,X,S8/G.2-H
+play,3,1,santd002,32,S1BBBF>C,K
+sub,sogae001,"""Eric Sogard""",1,9,4
+sub,hadej001,"""Josh Hader""",1,6,1
+sub,bautj002,"""Jose Bautista""",0,7,11
+sub,reyej001,"""Jose Reyes""",0,8,11
+sub,florw001,"""Wilmer Flores""",0,3,3
+sub,bautj002,"""Jose Bautista""",0,7,5
+sub,lugos001,"""Seth Lugo""",0,8,1
+sub,knebc001,"""Corey Knebel""",1,6,1
+sub,guill001,"""Luis Guillorme""",0,8,11
+sub,braur002,"""Ryan Braun""",1,6,3
+sub,jeffj001,"""Jeremy Jeffress""",1,3,1
+sub,gselr001,"""Robert Gsellman""",0,8,1
+sub,blevj001,"""Jerry Blevins""",0,8,1
+sub,pereh001,"""Hernan Perez""",1,3,11
+sub,ramoa001,"""A.J. Ramos""",0,8,1

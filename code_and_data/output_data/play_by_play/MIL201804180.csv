@@ -1,0 +1,39 @@
+id,MIL201804180
+info,visteam,CIN
+info,hometeam,MIL
+info,date,2018/04/18
+info,starttime,12:40PM
+start,winkj002,"""Jesse Winker""",0,1,9
+start,peraj003,"""Jose Peraza""",0,2,6
+start,vottj001,"""Joey Votto""",0,3,3
+start,duvaa001,"""Adam Duvall""",0,4,7
+start,genns001,"""Scooter Gennett""",0,5,4
+start,barnt001,"""Tucker Barnhart""",0,6,2
+start,blana002,"""Alex Blandino""",0,7,5
+start,mahlt001,"""Tyler Mahle""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,thame001,"""Eric Thames""",1,1,3
+start,yelic001,"""Christian Yelich""",1,2,8
+start,santd002,"""Domingo Santana""",1,3,9
+start,shawt001,"""Travis Shaw""",1,4,5
+start,pereh001,"""Hernan Perez""",1,5,7
+start,villj001,"""Jonathan Villar""",1,6,4
+start,arcio002,"""Orlando Arcia""",1,7,6
+start,bandj001,"""Jett Bandy""",1,8,2
+start,daviz001,"""Zach Davies""",1,9,1
+sub,brica001,"""Austin Brice""",0,8,1
+sub,ervip001,"""Phillip Ervin""",0,8,11
+sub,jennd003,"""Dan Jennings""",1,9,1
+sub,peraw002,"""Wandy Peralta""",0,8,1
+sub,yelic001,"""Christian Yelich""",1,2,7
+sub,pereh001,"""Hernan Perez""",1,5,9
+sub,cainl001,"""Lorenzo Cain""",1,9,8
+sub,barnj002,"""Jacob Barnes""",1,3,1
+play,8,1,pereh001,00,,NP
+sub,hughj001,"""Jared Hughes""",0,8,1
+play,8,1,pereh001,11,.SBX,53/G-
+play,8,1,villj001,12,BSSX,S8/G
+play,8,1,arcio002,00,X,8/F
+play,8,1,bandj001,11,1C1P1>B,SB2
+play,8,1,bandj001,22,1C1P1>B.F>X,9/F
+sub,pennc001,"""Cliff Pennington""",0,8,11

@@ -1,0 +1,65 @@
+id,MIL201808210
+info,visteam,CIN
+info,hometeam,MIL
+info,date,2018/08/21
+info,starttime,7:10PM
+start,hamib001,"""Billy Hamilton""",0,1,8
+start,ervip001,"""Phillip Ervin""",0,2,7
+start,genns001,"""Scooter Gennett""",0,3,4
+start,suare001,"""Eugenio Suarez""",0,4,6
+start,willm007,"""Mason Williams""",0,5,9
+start,barnt001,"""Tucker Barnhart""",0,6,2
+start,herrd002,"""Dilson Herrera""",0,7,5
+start,dixob001,"""Brandon Dixon""",0,8,3
+start,romas001,"""Sal Romano""",0,9,1
+start,yelic001,"""Christian Yelich""",1,1,7
+start,cainl001,"""Lorenzo Cain""",1,2,8
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,aguij001,"""Jesus Aguilar""",1,4,3
+start,shawt001,"""Travis Shaw""",1,5,4
+start,thame001,"""Eric Thames""",1,6,9
+start,krate001,"""Erik Kratz""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,guerj003,"""Junior Guerra""",1,9,1
+play,5,0,willm007,12,CBSX,7/L
+play,5,0,barnt001,32,CBCFBB*B,W
+play,5,0,herrd002,11,1F*B>S,CS2(24)
+play,5,0,herrd002,12,1F*B>S.S,K
+sub,lorem002,"""Michael Lorenzen""",0,9,11
+sub,yelic001,"""Christian Yelich""",1,1,9
+sub,braur002,"""Ryan Braun""",1,9,7
+sub,burnc002,"""Corbin Burnes""",1,6,1
+play,6,1,krate001,00,,NP
+sub,lorem002,"""Michael Lorenzen""",0,9,1
+play,6,1,krate001,32,.CBFBBS,K
+play,6,1,arcio002,02,FSS,K
+play,6,1,braur002,22,BCFFBFX,S9/L+
+play,6,1,yelic001,11,C*B>S,SB2
+play,6,1,yelic001,32,C*B>S.FBBB,W
+play,6,1,cainl001,02,FFX,53/G
+sub,reedc002,"""Cody Reed""",0,9,1
+sub,tuckp001,"""Preston Tucker""",0,9,11
+play,8,1,burnc002,00,,NP
+sub,suare001,"""Eugenio Suarez""",0,4,5
+play,8,1,burnc002,00,,NP
+sub,peraj003,"""Jose Peraza""",0,7,6
+play,8,1,burnc002,00,,NP
+sub,hernd002,"""David Hernandez""",0,9,1
+play,8,1,burnc002,00,,NP
+sub,schoj001,"""Jonathan Schoop""",1,6,11
+play,8,1,schoj001,01,....CX,HR/7/F
+play,8,1,krate001,22,SBSBX,S8/L
+play,8,1,arcio002,00,,NP
+sub,broxk001,"""Keon Broxton""",1,7,12
+play,8,1,arcio002,11,.LB1>B,SB2
+play,8,1,arcio002,32,.LB1>B.BSS,K
+play,8,1,braur002,00,,NP
+sub,igler001,"""Raisel Iglesias""",0,9,1
+play,8,1,braur002,02,.CCX,D8/L+.2-H
+play,8,1,yelic001,00,X,7/L+
+play,8,1,cainl001,22,CTFF*B*BX,9/F
+sub,pinam001,"""Manny Pina""",1,6,2
+sub,broxk001,"""Keon Broxton""",1,7,9
+sub,willt003,"""Taylor Williams""",1,1,1
+sub,jennd003,"""Dan Jennings""",1,1,1
+sub,knebc001,"""Corey Knebel""",1,1,1

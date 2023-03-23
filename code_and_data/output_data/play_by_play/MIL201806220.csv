@@ -1,0 +1,38 @@
+id,MIL201806220
+info,visteam,SLN
+info,hometeam,MIL
+info,date,2018/06/22
+info,starttime,7:10PM
+start,carpm002,"""Matt Carpenter""",0,1,5
+start,phamt001,"""Tommy Pham""",0,2,8
+start,martj008,"""Jose Martinez""",0,3,3
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,moliy001,"""Yadier Molina""",0,5,2
+start,fowld001,"""Dexter Fowler""",0,6,9
+start,munoy001,"""Yairo Munoz""",0,7,6
+start,wongk001,"""Kolten Wong""",0,8,4
+start,flahj002,"""Jack Flaherty""",0,9,1
+start,thame001,"""Eric Thames""",1,1,7
+start,yelic001,"""Christian Yelich""",1,2,9
+start,cainl001,"""Lorenzo Cain""",1,3,8
+start,shawt001,"""Travis Shaw""",1,4,5
+start,aguij001,"""Jesus Aguilar""",1,5,3
+start,villj001,"""Jonathan Villar""",1,6,4
+start,pinam001,"""Manny Pina""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,guerj003,"""Junior Guerra""",1,9,1
+sub,badeh001,"""Harrison Bader""",0,2,8
+sub,pereh001,"""Hernan Perez""",1,9,6
+sub,hadej001,"""Josh Hader""",1,8,1
+play,6,1,pereh001,02,CFS,K
+play,6,1,thame001,31,SBBBB,W
+play,6,1,yelic001,32,BCSB*B>S,K+SB2
+play,6,1,cainl001,21,BCBB,PB.2-3
+play,6,1,cainl001,32,BCBB.FC,K
+sub,barnj002,"""Jacob Barnes""",1,8,1
+sub,jeffj001,"""Jeremy Jeffress""",1,8,1
+sub,hickj002,"""Jordan Hicks""",0,9,1
+sub,sogae001,"""Eric Sogard""",1,8,11
+sub,knebc001,"""Corey Knebel""",1,8,1
+sub,garcg002,"""Greg Garcia""",0,9,11
+sub,norrb001,"""Bud Norris""",0,9,1

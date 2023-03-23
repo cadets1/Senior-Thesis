@@ -1,0 +1,50 @@
+id,MIL201804030
+info,visteam,SLN
+info,hometeam,MIL
+info,date,2018/04/03
+info,starttime,6:40PM
+start,fowld001,"""Dexter Fowler""",0,1,9
+start,phamt001,"""Tommy Pham""",0,2,8
+start,carpm002,"""Matt Carpenter""",0,3,5
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,martj008,"""Jose Martinez""",0,5,3
+start,moliy001,"""Yadier Molina""",0,6,2
+start,dejop001,"""Paul DeJong""",0,7,6
+start,wongk001,"""Kolten Wong""",0,8,4
+start,flahj002,"""Jack Flaherty""",0,9,1
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,9
+start,braur002,"""Ryan Braun""",1,3,7
+start,shawt001,"""Travis Shaw""",1,4,5
+start,thame001,"""Eric Thames""",1,5,3
+start,pinam001,"""Manny Pina""",1,6,2
+start,villj001,"""Jonathan Villar""",1,7,4
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,andec001,"""Chase Anderson""",1,9,1
+play,4,0,wongk001,22,SBFBS,K
+play,4,0,flahj002,22,CSBBX,53/G
+play,4,0,fowld001,00,X,S8/L
+play,4,0,phamt001,02,F1T1F1X,S9/L.1-3
+play,4,0,carpm002,20,BB>B,SB2
+play,4,0,carpm002,32,BB>B.CCFX,43/G
+sub,jeffj001,"""Jeremy Jeffress""",1,9,1
+sub,santd002,"""Domingo Santana""",1,9,11
+sub,barnj002,"""Jacob Barnes""",1,9,1
+sub,badeh001,"""Harrison Bader""",0,9,11
+sub,sherr001,"""Ryan Sherriff""",0,9,1
+sub,aguij001,"""Jesus Aguilar""",1,9,11
+sub,munoy001,"""Yairo Munoz""",0,9,5
+sub,bowmm001,"""Matt Bowman""",0,3,1
+play,8,0,martj008,00,,NP
+sub,albem001,"""Matt Albers""",1,9,1
+play,8,0,martj008,32,.CCBBFBFX,43/G
+play,8,0,moliy001,22,BCBFFX,E5/TH/G
+play,8,0,dejop001,00,C,SB2
+play,8,0,dejop001,12,C.BCX,S9/L.2-3
+play,8,0,wongk001,22,FBF1BX,3/P3F
+play,8,0,munoy001,12,BFSC,K
+sub,lyont001,"""Tyler Lyons""",0,3,1
+sub,garcg002,"""Greg Garcia""",0,3,4
+sub,leond003,"""Dominic Leone""",0,8,1
+sub,jennd003,"""Dan Jennings""",1,9,1
+sub,sogae001,"""Eric Sogard""",1,9,11

@@ -1,0 +1,41 @@
+id,MIL201809160
+info,visteam,PIT
+info,hometeam,MIL
+info,date,2018/09/16
+info,starttime,1:11PM
+start,fraza001,"""Adam Frazier""",0,1,4
+start,marts002,"""Starling Marte""",0,2,8
+start,bellj005,"""Josh Bell""",0,3,3
+start,luplj001,"""Jordan Luplow""",0,4,9
+start,dickc002,"""Corey Dickerson""",0,5,7
+start,morac001,"""Colin Moran""",0,6,5
+start,newmk001,"""Kevin Newman""",0,7,6
+start,stalj001,"""Jacob Stallings""",0,8,2
+start,willt002,"""Trevor Williams""",0,9,1
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,9
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,shawt001,"""Travis Shaw""",1,4,4
+start,braur002,"""Ryan Braun""",1,5,7
+start,mousm001,"""Mike Moustakas""",1,6,5
+start,krate001,"""Erik Kratz""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,chacj001,"""Jhoulys Chacin""",1,9,1
+sub,thame001,"""Eric Thames""",1,9,11
+play,6,0,bellj005,00,,NP
+sub,knebc001,"""Corey Knebel""",1,9,1
+play,6,0,bellj005,32,.BBSBC*B,W
+play,6,0,luplj001,12,CB1SS,K
+play,6,0,dickc002,12,SS11B>S,K+CS2(26)/DP
+sub,sorij001,"""Joakim Soria""",1,9,1
+sub,rodrr008,"""Richard Rodriguez""",0,9,1
+sub,schoj001,"""Jonathan Schoop""",1,8,11
+sub,schoj001,"""Jonathan Schoop""",1,8,6
+sub,kramk001,"""Kevin Kramer""",0,9,11
+sub,cedex001,"""Xavier Cedeno""",1,9,1
+sub,osunj001,"""Jose Osuna""",0,9,11
+sub,crick001,"""Kyle Crick""",0,9,1
+sub,granc001,"""Curtis Granderson""",1,9,11
+sub,burnc002,"""Corbin Burnes""",1,9,1
+sub,rivef001,"""Felipe Rivero""",0,9,1
+sub,santd002,"""Domingo Santana""",1,4,11

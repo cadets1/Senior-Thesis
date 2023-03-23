@@ -1,0 +1,51 @@
+id,MIL201804060
+info,visteam,CHN
+info,hometeam,MIL
+info,date,2018/04/06
+info,starttime,7:10PM
+start,zobrb001,"""Ben Zobrist""",0,1,9
+start,bryak001,"""Kris Bryant""",0,2,5
+start,schwk001,"""Kyle Schwarber""",0,3,7
+start,contw001,"""Willson Contreras""",0,4,2
+start,russa002,"""Addison Russell""",0,5,6
+start,carav001,"""Victor Caratini""",0,6,3
+start,heywj001,"""Jason Heyward""",0,7,8
+start,baezj001,"""Javier Baez""",0,8,4
+start,hendk001,"""Kyle Hendricks""",0,9,1
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,thame001,"""Eric Thames""",1,2,3
+start,braur002,"""Ryan Braun""",1,3,7
+start,shawt001,"""Travis Shaw""",1,4,5
+start,santd002,"""Domingo Santana""",1,5,9
+start,pinam001,"""Manny Pina""",1,6,2
+start,villj001,"""Jonathan Villar""",1,7,4
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,woodb005,"""Brandon Woodruff""",1,9,1
+sub,hadej001,"""Josh Hader""",1,9,1
+play,6,0,russa002,32,BCBSBB,W
+play,6,0,carav001,32,BCB1SBFF,BK.1-2
+play,6,0,carav001,32,BCB1SBFF.FFC,K
+play,6,0,heywj001,02,CSX,3/P
+play,6,0,baezj001,00,,NP
+sub,sogae001,"""Eric Sogard""",1,9,4
+play,6,0,baezj001,00,,NP
+sub,jeffj001,"""Jeremy Jeffress""",1,7,1
+play,6,0,baezj001,12,..FF*BX,T9/L.2-H;B-H(E4/TH)(NR)
+play,6,0,hendk001,00,,NP
+sub,happi001,"""Ian Happ""",0,9,11
+play,6,0,happi001,02,.SFX,S7/L
+play,6,0,zobrb001,02,1SF>B,SB2
+play,6,0,zobrb001,32,1SF>B.BBX,63/G
+sub,duenb001,"""Brian Duensing""",0,9,1
+sub,strop001,"""Pedro Strop""",0,9,1
+sub,wilsj004,"""Justin Wilson""",0,9,1
+sub,aguij001,"""Jesus Aguilar""",1,7,11
+sub,cishs001,"""Steve Cishek""",0,9,1
+sub,albem001,"""Matt Albers""",1,7,1
+sub,edwac001,"""Carl Edwards""",0,9,1
+sub,lastt001,"""Tommy La Stella""",0,9,11
+sub,zobrb001,"""Ben Zobrist""",0,1,7
+sub,heywj001,"""Jason Heyward""",0,7,9
+sub,almoa002,"""Albert Almora""",0,9,8
+sub,montm002,"""Mike Montgomery""",0,3,1
+sub,pereh001,"""Hernan Perez""",1,7,11

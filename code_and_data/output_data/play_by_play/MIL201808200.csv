@@ -1,0 +1,48 @@
+id,MIL201808200
+info,visteam,CIN
+info,hometeam,MIL
+info,date,2018/08/20
+info,starttime,7:11PM
+start,hamib001,"""Billy Hamilton""",0,1,8
+start,peraj003,"""Jose Peraza""",0,2,6
+start,genns001,"""Scooter Gennett""",0,3,4
+start,suare001,"""Eugenio Suarez""",0,4,5
+start,tuckp001,"""Preston Tucker""",0,5,7
+start,ervip001,"""Phillip Ervin""",0,6,9
+start,barnt001,"""Tucker Barnhart""",0,7,2
+start,dixob001,"""Brandon Dixon""",0,8,3
+start,bailh001,"""Homer Bailey""",0,9,1
+start,yelic001,"""Christian Yelich""",1,1,9
+start,cainl001,"""Lorenzo Cain""",1,2,8
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,aguij001,"""Jesus Aguilar""",1,4,3
+start,shawt001,"""Travis Shaw""",1,5,4
+start,braur002,"""Ryan Braun""",1,6,7
+start,schoj001,"""Jonathan Schoop""",1,7,6
+start,pinam001,"""Manny Pina""",1,8,2
+start,andec001,"""Chase Anderson""",1,9,1
+play,1,1,yelic001,12,BCFX,43/G
+play,1,1,cainl001,00,H,HP
+play,1,1,mousm001,22,C1BBS>S,K+SB2
+play,1,1,aguij001,21,*BBCX,9/F
+play,2,1,shawt001,32,CFBBBX,63/G
+play,2,1,braur002,01,FX,53/G
+play,2,1,schoj001,31,BSBB*B,W
+play,2,1,pinam001,10,BX,S8/L.1-3
+play,2,1,andec001,12,SBFF>B,SB2
+play,2,1,andec001,32,SBFF>B.*BS,K
+sub,arcio002,"""Orlando Arcia""",1,9,11
+sub,arcio002,"""Orlando Arcia""",1,9,6
+sub,hadej001,"""Josh Hader""",1,7,1
+sub,herrd002,"""Dilson Herrera""",0,5,11
+sub,herrd002,"""Dilson Herrera""",0,5,7
+sub,reedc002,"""Cody Reed""",0,9,1
+sub,hughj001,"""Jared Hughes""",0,9,1
+sub,pereh001,"""Hernan Perez""",1,5,11
+sub,pereh001,"""Hernan Perez""",1,5,4
+sub,broxk001,"""Keon Broxton""",1,7,11
+sub,peraw002,"""Wandy Peralta""",0,9,1
+sub,yelic001,"""Christian Yelich""",1,1,7
+sub,broxk001,"""Keon Broxton""",1,7,9
+sub,jeffj001,"""Jeremy Jeffress""",1,6,1
+sub,willm007,"""Mason Williams""",0,9,11

@@ -1,0 +1,50 @@
+id,MIL201805300
+info,visteam,SLN
+info,hometeam,MIL
+info,date,2018/05/30
+info,starttime,12:10PM
+start,carpm002,"""Matt Carpenter""",0,1,5
+start,gyorj001,"""Jedd Gyorko""",0,2,4
+start,martj008,"""Jose Martinez""",0,3,3
+start,oneit001,"""Tyler O'Neill""",0,4,7
+start,badeh001,"""Harrison Bader""",0,5,8
+start,fowld001,"""Dexter Fowler""",0,6,9
+start,munoy001,"""Yairo Munoz""",0,7,6
+start,kellc002,"""Carson Kelly""",0,8,2
+start,reyea004,"""Alex Reyes""",0,9,1
+start,cainl001,"""Lorenzo Cain""",1,1,8
+start,yelic001,"""Christian Yelich""",1,2,7
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,shawt001,"""Travis Shaw""",1,4,5
+start,santd002,"""Domingo Santana""",1,5,9
+start,villj001,"""Jonathan Villar""",1,6,4
+start,sogae001,"""Eric Sogard""",1,7,6
+start,krate001,"""Erik Kratz""",1,8,2
+start,guerj003,"""Junior Guerra""",1,9,1
+play,2,1,shawt001,32,FCFBBBFB,W
+play,2,1,santd002,02,C1FX,S7/G.1-2
+play,2,1,villj001,11,BLX,46(1)3/GDP.2-3
+play,2,1,sogae001,30,BBBB,W
+play,2,1,krate001,12,*BCC>FFF>B,SB2
+play,2,1,krate001,22,*BCC>FFF>B.H,HP
+play,2,1,guerj003,01,FX,7/L
+play,5,0,munoy001,12,SBFX,S4/G
+play,5,0,kellc002,01,F>B,SB2
+play,5,0,kellc002,22,F>B.SBX,34/BG/SH.2-3
+play,5,0,reyea004,00,,NP
+sub,garcg002,"""Greg Garcia""",0,9,11
+play,5,0,garcg002,22,.CCBBS,K
+play,5,0,carpm002,12,CBCC,K
+sub,gantj002,"""John Gant""",0,9,1
+sub,braur002,"""Ryan Braun""",1,9,11
+sub,arcio002,"""Orlando Arcia""",1,7,6
+sub,jeffj001,"""Jeremy Jeffress""",1,9,1
+sub,phamt001,"""Tommy Pham""",0,9,11
+sub,lyont001,"""Tyler Lyons""",0,9,1
+sub,tuivs001,"""Sam Tuivailala""",0,9,1
+sub,pinam001,"""Manny Pina""",1,9,2
+sub,hadej001,"""Josh Hader""",1,8,1
+sub,penaf001,"""Francisco Pena""",0,8,11
+sub,ozunm001,"""Marcell Ozuna""",0,9,11
+sub,pereh001,"""Hernan Perez""",1,8,3
+sub,knebc001,"""Corey Knebel""",1,3,1

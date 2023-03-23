@@ -1,0 +1,34 @@
+id,MIL201808030
+info,visteam,COL
+info,hometeam,MIL
+info,date,2018/08/03
+info,starttime,7:12PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,lemad001,"""DJ LeMahieu""",0,2,4
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,gonzc001,"""Carlos Gonzalez""",0,4,9
+start,stort001,"""Trevor Story""",0,5,6
+start,parrg001,"""Gerardo Parra""",0,6,7
+start,desmi001,"""Ian Desmond""",0,7,3
+start,murpt002,"""Tom Murphy""",0,8,2
+start,marqg001,"""German Marquez""",0,9,1
+start,yelic001,"""Christian Yelich""",1,1,7
+start,cainl001,"""Lorenzo Cain""",1,2,8
+start,mousm001,"""Mike Moustakas""",1,3,5
+start,aguij001,"""Jesus Aguilar""",1,4,3
+start,shawt001,"""Travis Shaw""",1,5,4
+start,schoj001,"""Jonathan Schoop""",1,6,6
+start,thame001,"""Eric Thames""",1,7,9
+start,pinam001,"""Manny Pina""",1,8,2
+start,guerj003,"""Junior Guerra""",1,9,1
+play,2,0,gonzc001,00,X,8/F
+play,2,0,stort001,21,BBCX,4/P
+play,2,0,parrg001,31,BBBCB,W
+play,2,0,desmi001,12,SC*B1>B,CS2(26)
+sub,mcmar001,"""Ryan McMahon""",0,9,11
+sub,ottaa001,"""Adam Ottavino""",0,9,1
+sub,braur002,"""Ryan Braun""",1,9,11
+sub,jennd003,"""Dan Jennings""",1,9,1
+sub,burnc002,"""Corbin Burnes""",1,9,1
+sub,daviw001,"""Wade Davis""",0,9,1
+sub,arcio002,"""Orlando Arcia""",1,4,12

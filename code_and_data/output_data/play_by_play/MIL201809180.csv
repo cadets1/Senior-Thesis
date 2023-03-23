@@ -1,0 +1,55 @@
+id,MIL201809180
+info,visteam,CIN
+info,hometeam,MIL
+info,date,2018/09/18
+info,starttime,6:40PM
+start,sches001,"""Scott Schebler""",0,1,9
+start,peraj003,"""Jose Peraza""",0,2,6
+start,vottj001,"""Joey Votto""",0,3,3
+start,genns001,"""Scooter Gennett""",0,4,4
+start,barnt001,"""Tucker Barnhart""",0,5,2
+start,ervip001,"""Phillip Ervin""",0,6,7
+start,willm007,"""Mason Williams""",0,7,8
+start,dixob001,"""Brandon Dixon""",0,8,5
+start,lorem002,"""Michael Lorenzen""",0,9,1
+start,granc001,"""Curtis Granderson""",1,1,9
+start,yelic001,"""Christian Yelich""",1,2,7
+start,cainl001,"""Lorenzo Cain""",1,3,8
+start,shawt001,"""Travis Shaw""",1,4,4
+start,aguij001,"""Jesus Aguilar""",1,5,3
+start,mousm001,"""Mike Moustakas""",1,6,5
+start,schoj001,"""Jonathan Schoop""",1,7,6
+start,pinam001,"""Manny Pina""",1,8,2
+start,andec001,"""Chase Anderson""",1,9,1
+play,2,1,shawt001,00,H,HP
+play,2,1,aguij001,12,BCFC,K
+play,2,1,mousm001,12,CBFX,43/G.1-2
+play,2,1,schoj001,12,CBFX,S9/L.2-H(E9)(NR)(UR)
+play,2,1,pinam001,02,C1S*B,SB2
+play,2,1,pinam001,12,C1S*B.X,63/G
+sub,pereh001,"""Hernan Perez""",1,4,6
+sub,schoj001,"""Jonathan Schoop""",1,7,4
+sub,willt003,"""Taylor Williams""",1,9,1
+sub,broxk001,"""Keon Broxton""",1,3,8
+sub,cedex001,"""Xavier Cedeno""",1,9,1
+sub,romas001,"""Sal Romano""",0,9,1
+sub,burnc002,"""Corbin Burnes""",1,9,1
+play,6,1,burnc002,00,,NP
+sub,salat001,"""Tyler Saladino""",1,9,11
+play,6,1,salat001,12,.CBSS,K
+play,6,1,granc001,11,CBX,8/F
+play,6,1,yelic001,00,X,S7/L
+play,6,1,broxk001,12,*BFS*B,SB2
+play,6,1,broxk001,32,*BFS*B.*BS,K
+sub,jennd003,"""Dan Jennings""",1,9,1
+sub,garra001,"""Amir Garrett""",0,9,1
+sub,barnj002,"""Jacob Barnes""",1,9,1
+sub,hamib001,"""Billy Hamilton""",0,9,8
+sub,hernd002,"""David Hernandez""",0,7,1
+sub,thame001,"""Eric Thames""",1,8,11
+sub,braur002,"""Ryan Braun""",1,9,11
+sub,krate001,"""Erik Kratz""",1,8,2
+sub,lylej001,"""Jordan Lyles""",1,9,1
+sub,suare001,"""Eugenio Suarez""",0,7,5
+sub,igler001,"""Raisel Iglesias""",0,8,1
+sub,santd002,"""Domingo Santana""",1,3,11

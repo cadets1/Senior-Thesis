@@ -1,0 +1,54 @@
+id,MIL201809190
+info,visteam,CIN
+info,hometeam,MIL
+info,date,2018/09/19
+info,starttime,6:41PM
+start,sches001,"""Scott Schebler""",0,1,9
+start,peraj003,"""Jose Peraza""",0,2,6
+start,vottj001,"""Joey Votto""",0,3,3
+start,suare001,"""Eugenio Suarez""",0,4,5
+start,genns001,"""Scooter Gennett""",0,5,4
+start,ervip001,"""Phillip Ervin""",0,6,7
+start,barnt001,"""Tucker Barnhart""",0,7,2
+start,harvm001,"""Matt Harvey""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,granc001,"""Curtis Granderson""",1,1,7
+start,yelic001,"""Christian Yelich""",1,2,8
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,shawt001,"""Travis Shaw""",1,4,4
+start,santd002,"""Domingo Santana""",1,5,9
+start,mousm001,"""Mike Moustakas""",1,6,5
+start,pinam001,"""Manny Pina""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,gonzg003,"""Gio Gonzalez""",1,9,1
+play,2,0,suare001,10,BX,63/G
+play,2,0,genns001,32,CBFBFBB,W
+play,2,0,ervip001,00,X,S9/G.1-3
+play,2,0,barnt001,32,F>LB*B*B>F1>S,K+SB2
+play,2,0,harvm001,02,SCS,K
+play,6,1,shawt001,12,CFBFFC,K
+play,6,1,santd002,00,X,T9/L
+play,6,1,mousm001,30,VVVV,IW
+play,6,1,pinam001,22,BFFFFBFF>FF>B,SB2
+play,6,1,pinam001,32,BFFFFBFF>FF>B.FX,HR/7/F.3-H;2-H
+play,6,1,arcio002,00,,NP
+sub,wislm001,"""Matt Wisler""",0,8,1
+play,6,1,arcio002,12,.BCFS,K
+play,6,1,gonzg003,00,,NP
+sub,broxk001,"""Keon Broxton""",1,9,11
+play,6,1,broxk001,10,.BX,53/G
+sub,granc001,"""Curtis Granderson""",1,1,9
+sub,yelic001,"""Christian Yelich""",1,2,7
+sub,broxk001,"""Keon Broxton""",1,9,8
+sub,knebc001,"""Corey Knebel""",1,5,1
+sub,trahb001,"""Blake Trahan""",0,2,6
+sub,fedet001,"""Tim Federowicz""",0,7,2
+sub,shawt001,"""Travis Shaw""",1,4,3
+sub,schoj001,"""Jonathan Schoop""",1,5,4
+sub,guerj003,"""Junior Guerra""",1,3,1
+sub,willm007,"""Mason Williams""",0,8,11
+sub,willm007,"""Mason Williams""",0,8,8
+sub,guerg001,"""Gabriel Guerrero""",0,9,9
+sub,stepj002,"""Jackson Stephens""",0,1,1
+sub,peraf001,"""Freddy Peralta""",1,3,1
+sub,dixob001,"""Brandon Dixon""",0,3,12

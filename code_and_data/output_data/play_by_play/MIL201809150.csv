@@ -1,0 +1,54 @@
+id,MIL201809150
+info,visteam,PIT
+info,hometeam,MIL
+info,date,2018/09/15
+info,starttime,6:10PM
+start,fraza001,"""Adam Frazier""",0,1,4
+start,marts002,"""Starling Marte""",0,2,8
+start,bellj005,"""Josh Bell""",0,3,3
+start,cervf001,"""Francisco Cervelli""",0,4,2
+start,dickc002,"""Corey Dickerson""",0,5,7
+start,luplj001,"""Jordan Luplow""",0,6,9
+start,morac001,"""Colin Moran""",0,7,5
+start,newmk001,"""Kevin Newman""",0,8,6
+start,novai001,"""Ivan Nova""",0,9,1
+start,granc001,"""Curtis Granderson""",1,1,9
+start,yelic001,"""Christian Yelich""",1,2,7
+start,cainl001,"""Lorenzo Cain""",1,3,8
+start,shawt001,"""Travis Shaw""",1,4,4
+start,aguij001,"""Jesus Aguilar""",1,5,3
+start,mousm001,"""Mike Moustakas""",1,6,5
+start,krate001,"""Erik Kratz""",1,7,2
+start,arcio002,"""Orlando Arcia""",1,8,6
+start,daviz001,"""Zach Davies""",1,9,1
+sub,salat001,"""Tyler Saladino""",1,9,11
+play,6,0,fraza001,00,,NP
+sub,jennd003,"""Dan Jennings""",1,9,1
+play,6,0,fraza001,21,.BCBX,43/G
+play,6,0,marts002,00,,NP
+sub,barnj002,"""Jacob Barnes""",1,9,1
+play,6,0,marts002,22,.BSFFFFBX,D7/G
+play,6,0,bellj005,31,BBFBB,W
+play,6,0,cervf001,11,BC>S,SB3;SB2.2-H(UR)(E2/TH)(NR)
+play,6,0,cervf001,22,BC>S.FFBC,K/C
+play,6,0,dickc002,32,..STFBBBF*B,W
+play,6,0,luplj001,00,,NP
+sub,guerj003,"""Junior Guerra""",1,9,1
+play,6,0,luplj001,21,.BCBX,9/F
+sub,stalj001,"""Jacob Stallings""",0,4,2
+sub,kramk001,"""Kevin Kramer""",0,9,11
+sub,rodrr008,"""Richard Rodriguez""",0,9,1
+sub,schoj001,"""Jonathan Schoop""",1,8,11
+sub,schoj001,"""Jonathan Schoop""",1,8,6
+sub,crick001,"""Kyle Crick""",0,9,1
+sub,thame001,"""Eric Thames""",1,9,11
+play,9,0,dickc002,00,,NP
+sub,lylej001,"""Jordan Lyles""",1,9,1
+play,9,0,dickc002,31,.CBBBX,6/P
+play,9,0,luplj001,32,SBFBBFB,W
+play,9,0,morac001,00,>C,CS2(26)
+play,9,0,morac001,22,>C.CBBFS,K
+sub,rivef001,"""Felipe Rivero""",0,9,1
+sub,braur002,"""Ryan Braun""",1,4,11
+sub,broxk001,"""Keon Broxton""",1,5,12
+sub,santd002,"""Domingo Santana""",1,7,11

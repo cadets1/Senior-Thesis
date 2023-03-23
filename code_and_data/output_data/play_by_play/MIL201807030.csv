@@ -1,0 +1,44 @@
+id,MIL201807030
+info,visteam,MIN
+info,hometeam,MIL
+info,date,2018/07/03
+info,starttime,3:11PM
+start,mauej001,"""Joe Mauer""",0,1,3
+start,polaj001,"""Jorge Polanco""",0,2,6
+start,rosae001,"""Eddie Rosario""",0,3,7
+start,escoe001,"""Eduardo Escobar""",0,4,5
+start,keplm001,"""Max Kepler""",0,5,9
+start,astuw001,"""Willians Astudillo""",0,6,4
+start,cavej001,"""Jake Cave""",0,7,8
+start,wilsb002,"""Bobby Wilson""",0,8,2
+start,odorj001,"""Jake Odorizzi""",0,9,1
+start,millb002,"""Brad Miller""",1,1,6
+start,thame001,"""Eric Thames""",1,2,9
+start,aguij001,"""Jesus Aguilar""",1,3,3
+start,shawt001,"""Travis Shaw""",1,4,5
+start,braur002,"""Ryan Braun""",1,5,7
+start,villj001,"""Jonathan Villar""",1,6,4
+start,krate001,"""Erik Kratz""",1,7,2
+start,broxk001,"""Keon Broxton""",1,8,8
+start,guerj003,"""Junior Guerra""",1,9,1
+play,5,1,guerj003,00,,NP
+sub,orf-n001,"""Nate Orf""",1,9,11
+play,5,1,orf-n001,31,.CBBBB,W
+play,5,1,millb002,32,B11BCSB1>S,K+SB2
+play,5,1,thame001,01,FX,HR/9/L.2-H
+play,5,1,aguij001,12,BSFS,K
+play,5,1,shawt001,32,CBBCFBX,S7/L.B-2(E7)
+play,5,1,braur002,22,CBFBX,7/L
+sub,pereh001,"""Hernan Perez""",1,1,7
+sub,orf-n001,"""Nate Orf""",1,9,6
+sub,hadej001,"""Josh Hader""",1,5,1
+sub,presr001,"""Ryan Pressly""",0,9,1
+sub,dozib001,"""Brian Dozier""",0,9,11
+sub,dozib001,"""Brian Dozier""",0,9,4
+sub,moyag001,"""Gabriel Moya""",0,6,1
+sub,sogae001,"""Eric Sogard""",1,5,11
+sub,pereh001,"""Hernan Perez""",1,1,9
+sub,yelic001,"""Christian Yelich""",1,2,7
+sub,knebc001,"""Corey Knebel""",1,5,1
+sub,grosr001,"""Robbie Grossman""",0,6,11
+sub,morrl001,"""Logan Morrison""",0,8,11
