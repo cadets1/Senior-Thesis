@@ -1,0 +1,216 @@
+library(randomForest)
+library(pROC)
+library(caret)
+
+set.seed(25)
+
+full_data <- read.csv('full_data.csv', header=TRUE)
+
+full_data <- data.frame(lapply(full_data, function(v) {
+  if (is.character(v)) return(toupper(v))
+  else return(v)
+}))
+
+# modify variable types
+full_data$outcome <- as.factor(full_data$outcome)
+full_data$on_third <- as.integer(as.logical(full_data$on_third))
+full_data$is_hitters_count <- as.integer(as.logical(full_data$is_hitters_count))
+full_data$is_pitchers_count <- as.integer(as.logical(full_data$is_pitchers_count))
+full_data$strike_on_event <- as.integer(as.logical(full_data$strike_on_event))
+full_data$swing_on_event <- as.integer(as.logical(full_data$swing_on_event))
+full_data$pitchout_on_event <- as.integer(as.logical(full_data$pitchout_on_event))
+full_data$blocked_on_event <- as.integer(as.logical(full_data$blocked_on_event))
+full_data$pitcher_throws_left <- as.integer(as.logical(full_data$pitcher_throws_left))
+full_data$batter_bats_left <- as.integer(as.logical(full_data$batter_bats_left))
+
+# perform mean imputation
+full_data$p_sb_rate_2017[is.na(full_data$p_sb_rate_2017)] <- mean(full_data$p_sb_rate_2017, na.rm=TRUE)
+full_data$p_pickoff_rate_2018[is.na(full_data$p_pickoff_rate_2018)] <- mean(full_data$p_pickoff_rate_2018, na.rm=TRUE)
+full_data$p_fastball_rate_2018[is.na(full_data$p_fastball_rate_2018)] <- mean(full_data$p_fastball_rate_2018, na.rm=TRUE)
+full_data$r_sb_rate_2017[is.na(full_data$r_sb_rate_2017)] <- mean(full_data$r_sb_rate_2017, na.rm=TRUE)
+full_data$r_sprint_speed_2018[is.na(full_data$r_sprint_speed_2018)] <- mean(full_data$r_sprint_speed_2018, na.rm=TRUE)
+full_data$c_sb_rate_2017[is.na(full_data$c_sb_rate_2017)] <- mean(full_data$c_sb_rate_2017, na.rm=TRUE)
+full_data$c_pop_2b_sba_2018[is.na(full_data$c_pop_2b_sba_2018)] <- mean(full_data$c_pop_2b_sba_2018, na.rm=TRUE)
+
+
+# exclude observations that didn't occur on a pitch
+full_data <- na.omit(full_data)
+
+full_x <- full_data[,-1]
+full_y <- full_data[,1]
+full_k <- dim(full_data)[1]
+
+# variable selection
+full_stepwise_glm <- glm(outcome ~ outs + on_third + num_pitches + is_hitters_count + is_pitchers_count
+				+ strike_on_event + swing_on_event + pitchout_on_event
+				+ blocked_on_event + pickoffs_to_first + pitchouts
+				+ pitches_run_on + b_score_difference + pitcher_throws_left
+				+ batter_bats_left + start_speed + p_sb_rate_2017
+				+ p_pickoff_rate_2018 + p_fastball_rate_2018 + r_sb_rate_2017
+				+ r_sprint_speed_2018 + c_sb_rate_2017 + c_pop_2b_sba_2018
+				+ p_sb_rate_2017*r_sb_rate_2017 + c_sb_rate_2017*r_sb_rate_2017
+				+ c_pop_2b_sba_2018*r_sprint_speed_2018,
+				data=full_data, family="binomial")
+best_full_glm <- step(full_stepwise_glm)
+summary(best_full_glm)
+
+# restrict data to the best subset of variables
+reduced_data <- subset(full_data, select=c(outcome, outs, on_third, num_pitches,
+					   is_hitters_count, is_pitchers_count,
+					   strike_on_event, pitchout_on_event, blocked_on_event,
+					   pitcher_throws_left, batter_bats_left, start_speed, 
+					   p_fastball_rate_2018, r_sb_rate_2017, r_sprint_speed_2018,
+					   c_pop_2b_sba_2018))
+reduced_x <- reduced_data[,-1]
+reduced_y <- reduced_data[,1]
+reduced_k <- dim(reduced_data)[1]
+
+# perform leave-one-out cross-validation
+reduced_glm_predictions <- c()
+for (i in 1:reduced_k) {
+  reduced_glm <- glm(outcome ~ outs + on_third + num_pitches + is_hitters_count + is_pitchers_count
+		+ strike_on_event + pitchout_on_event + blocked_on_event
+		+ pitcher_throws_left + batter_bats_left + start_speed + p_fastball_rate_2018
+		+ r_sb_rate_2017 + r_sprint_speed_2018 + c_pop_2b_sba_2018,
+		data=reduced_data[-i,], family="binomial")
+  reduced_glm_predictions <- c(reduced_glm_predictions, predict(reduced_glm, newdata=reduced_x[i,], type="response"))
+}
+
+# calculate the AUC score and plot the ROC curve
+reduced_glm_roc <- roc(reduced_y, reduced_glm_predictions)
+reduced_glm_roc$auc
+plot(reduced_glm_roc)
+
+# confusion matrix and misclassification rate
+reduced_glm_class_predictions <- as.factor(ifelse(reduced_glm_predictions > 0.5, "SUCCESS", "FAILURE"))
+confusionMatrix(data=reduced_glm_class_predictions, reference=reduced_y, positive="SUCCESS")
+
+
+# Random Forest
+# can't use leave-one-out CV - takes too long
+train_control <- trainControl(method = "cv", 
+                              number = 5, 
+                              savePredictions = TRUE, 
+                              classProbs = TRUE)
+full_rf <- train(outcome ~ outs + on_third + num_pitches + is_hitters_count + is_pitchers_count 
+				+ strike_on_event + swing_on_event + pitchout_on_event
+				+ blocked_on_event + pickoffs_to_first + pitchouts
+				+ pitches_run_on + b_score_difference + pitcher_throws_left
+				+ batter_bats_left + start_speed + p_sb_rate_2017
+				+ p_pickoff_rate_2018 + p_fastball_rate_2018 + r_sb_rate_2017
+				+ r_sprint_speed_2018 + c_sb_rate_2017 + c_pop_2b_sba_2018,
+				data=full_data, method="rf", trControl=train_control)
+
+# calculate the AUC score and plot the ROC curve
+full_rf_roc <- roc(full_rf$pred$obs, full_rf$pred$SUCCESS)
+full_rf_roc$auc
+plot(full_rf_roc)
+
+# confusion matrix and misclassification rate
+confusionMatrix(data=full_rf$pred$pred, reference=full_rf$pred$obs, positive="SUCCESS")
+
+# estimate variable importance
+final_full_rf <- randomForest(outcome ~ outs + on_third + num_pitches + is_hitters_count + is_pitchers_count 
+				+ strike_on_event + swing_on_event + pitchout_on_event
+				+ blocked_on_event + pickoffs_to_first + pitchouts
+				+ pitches_run_on + b_score_difference + pitcher_throws_left
+				+ batter_bats_left + start_speed + p_sb_rate_2017
+				+ p_pickoff_rate_2018 + p_fastball_rate_2018 + r_sb_rate_2017
+				+ r_sprint_speed_2018 + c_sb_rate_2017 + c_pop_2b_sba_2018,
+				data=full_data, method="class", importance=TRUE)
+importance(final_full_rf)
+
+
+### Models without pitch data
+
+pitchless_data <- read.csv('pitchless_data.csv', header=TRUE)
+
+pitchless_data <- data.frame(lapply(pitchless_data, function(v) {
+  if (is.character(v)) return(toupper(v))
+  else return(v)
+}))
+
+# modify variable types
+pitchless_data$outcome <- as.factor(pitchless_data$outcome)
+pitchless_data$on_third <- as.integer(as.logical(pitchless_data$on_third))
+pitchless_data$is_hitters_count <- as.integer(as.logical(pitchless_data$is_hitters_count))
+pitchless_data$is_pitchers_count <- as.integer(as.logical(pitchless_data$is_pitchers_count))
+pitchless_data$pitcher_throws_left <- as.integer(as.logical(pitchless_data$pitcher_throws_left))
+pitchless_data$batter_bats_left <- as.integer(as.logical(pitchless_data$batter_bats_left))
+
+# mean imputation
+pitchless_data$p_sb_rate_2017[is.na(pitchless_data$p_sb_rate_2017)] <- mean(pitchless_data$p_sb_rate_2017, na.rm=TRUE)
+pitchless_data$p_pickoff_rate_2018[is.na(pitchless_data$p_pickoff_rate_2018)] <- mean(pitchless_data$p_pickoff_rate_2018, na.rm=TRUE)
+pitchless_data$p_fastball_rate_2018[is.na(pitchless_data$p_fastball_rate_2018)] <- mean(pitchless_data$p_fastball_rate_2018, na.rm=TRUE)
+pitchless_data$r_sb_rate_2017[is.na(pitchless_data$r_sb_rate_2017)] <- mean(pitchless_data$r_sb_rate_2017, na.rm=TRUE)
+pitchless_data$r_sprint_speed_2018[is.na(pitchless_data$r_sprint_speed_2018)] <- mean(pitchless_data$r_sprint_speed_2018, na.rm=TRUE)
+pitchless_data$c_sb_rate_2017[is.na(pitchless_data$c_sb_rate_2017)] <- mean(pitchless_data$c_sb_rate_2017, na.rm=TRUE)
+pitchless_data$c_pop_2b_sba_2018[is.na(pitchless_data$c_pop_2b_sba_2018)] <- mean(pitchless_data$c_pop_2b_sba_2018, na.rm=TRUE)
+
+pitchless_x <- pitchless_data[,-1]
+pitchless_y <- pitchless_data[,1]
+pitchless_k <- dim(pitchless_data)[1]
+
+# variable selection
+pitchless_stepwise_glm <- glm(outcome ~ outs + on_third + num_pitches + is_hitters_count 
+				+ is_pitchers_count + pickoffs_to_first + pitchouts 
+				+ pitches_run_on + pitcher_throws_left + batter_bats_left
+				+ p_sb_rate_2017 + p_pickoff_rate_2018 + p_fastball_rate_2018
+				+ r_sb_rate_2017 + r_sprint_speed_2018 + c_sb_rate_2017
+				+ c_pop_2b_sba_2018 + p_sb_rate_2017*r_sb_rate_2017 
+				+ c_sb_rate_2017*r_sb_rate_2017 + c_pop_2b_sba_2018*r_sprint_speed_2018,
+				data=pitchless_data, family="binomial")
+best_pitchless_glm <- step(pitchless_stepwise_glm)
+summary(best_pitchless_glm)
+
+reduced_pitchless_data <- subset(pitchless_data, select=c(outcome, outs, on_third, num_pitches,
+				is_hitters_count, is_pitchers_count, pickoffs_to_first, pitchouts, 
+				pitches_run_on, r_sb_rate_2017, r_sprint_speed_2018,
+				c_pop_2b_sba_2018))
+reduced_pitchless_x <- reduced_pitchless_data[,-1]
+reduced_pitchless_y <- reduced_pitchless_data[,1]
+reduced_pitchless_k <- dim(reduced_pitchless_data)[1]
+
+# perform leave-one-out cross-validation
+reduced_pitchless_glm_predictions <- c()
+for (i in 1:reduced_pitchless_k) {
+  reduced_pitchless_glm <- glm(outcome ~ outs + on_third + num_pitches + is_hitters_count 
+				+ is_pitchers_count + pickoffs_to_first + pitchouts + pitches_run_on
+				+ r_sb_rate_2017 + r_sprint_speed_2018 + c_pop_2b_sba_2018,
+				data=reduced_pitchless_data[-i,], family="binomial")
+  reduced_pitchless_glm_predictions <- c(reduced_pitchless_glm_predictions, predict(reduced_pitchless_glm, newdata=reduced_pitchless_x[i,], type="response"))
+}
+
+# plot ROC curve and get AUC score
+reduced_pitchless_glm_roc <- roc(reduced_pitchless_y, reduced_pitchless_glm_predictions)
+reduced_pitchless_glm_roc$auc
+plot(reduced_pitchless_glm_roc)
+
+# confusion matrix and related metrics
+reduced_pitchless_glm_class_predictions <- as.factor(ifelse(reduced_pitchless_glm_predictions > 0.5, "SUCCESS", "FAILURE"))
+confusionMatrix(data=reduced_pitchless_glm_class_predictions, reference=reduced_pitchless_y, positive="SUCCESS")
+
+
+pitchless_rf <- train(outcome ~ outs + on_third + num_pitches + is_hitters_count 
+				+ is_pitchers_count + pickoffs_to_first + pitchouts 
+				+ pitches_run_on + pitcher_throws_left + batter_bats_left
+				+ p_sb_rate_2017 + p_pickoff_rate_2018 + p_fastball_rate_2018
+				+ r_sb_rate_2017 + r_sprint_speed_2018 + c_sb_rate_2017 + c_pop_2b_sba_2018,
+				data=pitchless_data, method="rf", trControl=train_control)
+
+# plot ROC curve and get AUC score
+pitchless_rf_roc <- roc(pitchless_rf$pred$obs, pitchless_rf$pred$SUCCESS)
+pitchless_rf_roc$auc
+plot(pitchless_rf_roc)
+
+# confusion matrix and related metrics
+confusionMatrix(data=pitchless_rf$pred$pred, reference=pitchless_rf$pred$obs, positive="SUCCESS")
+
+# estimate variable importance
+final_pitchless_rf <- randomForest(outcome ~ outs + on_third + num_pitches + is_hitters_count 
+				+ is_pitchers_count + pickoffs_to_first + pitchouts 
+				+ pitches_run_on + pitcher_throws_left + batter_bats_left
+				+ p_sb_rate_2017 + p_pickoff_rate_2018 + p_fastball_rate_2018
+				+ r_sb_rate_2017 + r_sprint_speed_2018 + c_sb_rate_2017 + c_pop_2b_sba_2018,
+				data=pitchless_data, method="class", importance=TRUE)
+importance(final_pitchless_rf)
