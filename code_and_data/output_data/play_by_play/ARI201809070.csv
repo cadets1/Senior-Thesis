@@ -1,0 +1,61 @@
+id,ARI201809070
+info,visteam,ATL
+info,hometeam,ARI
+info,date,2018/09/07
+info,starttime,6:40PM
+start,acunr001,"""Ronald Acuna""",0,1,7
+start,camaj001,"""Johan Camargo""",0,2,5
+start,freef001,"""Freddie Freeman""",0,3,3
+start,markn001,"""Nick Markakis""",0,4,9
+start,flowt001,"""Tyler Flowers""",0,5,2
+start,albio001,"""Ozzie Albies""",0,6,4
+start,incie001,"""Ender Inciarte""",0,7,8
+start,swand001,"""Dansby Swanson""",0,8,6
+start,gausk001,"""Kevin Gausman""",0,9,1
+start,jay-j001,"""Jon Jay""",1,1,9
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,perad001,"""David Peralta""",1,4,7
+start,polla001,"""A.J. Pollock""",1,5,8
+start,descd001,"""Daniel Descalso""",1,6,4
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,avila001,"""Alex Avila""",1,8,2
+start,corbp001,"""Patrick Corbin""",1,9,1
+sub,acunr001,"""Ronald Acuna""",0,1,8
+sub,duvaa001,"""Adam Duvall""",0,7,7
+sub,frees001,"""Sam Freeman""",0,9,1
+play,6,1,ahmen001,22,SBSBX,43/G
+play,6,1,avila001,01,CX,S7/G
+play,6,1,corbp001,00,,NP
+sub,owinc001,"""Chris Owings""",1,9,11
+play,6,1,owinc001,00,.X,64(1)/FO/G
+play,6,1,jay-j001,20,B*B>B,SB2
+play,6,1,jay-j001,30,B*B>B.B,W
+play,6,1,escoe001,02,SFX,63/G
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,dudal001,"""Lucas Duda""",0,9,11
+sub,wrigk001,"""Kyle Wright""",0,9,1
+play,8,0,acunr001,00,,NP
+sub,martk001,"""Ketel Marte""",1,9,4
+play,8,0,acunr001,00,,NP
+sub,brada001,"""Archie Bradley""",1,6,1
+play,8,0,acunr001,00,..X,S8/G
+play,8,0,camaj001,21,1B11CB>S,SB2
+play,8,0,camaj001,22,1B11CB>S.X,D7/L.2-H
+play,8,0,freef001,22,BFBSX,13/G
+play,8,0,markn001,31,BBBCX,S6/G.2-2
+play,8,0,flowt001,32,BCBCBX,S1/G-.2-3;1-2
+play,8,0,albio001,00,,NP
+sub,adaml001,"""Lane Adams""",0,5,12
+play,8,0,albio001,00,,NP
+sub,ziegb001,"""Brad Ziegler""",1,6,1
+play,8,0,albio001,11,..BFX,FC4.1X2(4E6);3-H;2-3;B-1
+play,8,0,duvaa001,12,SBSFFFC,K
+play,8,0,swand001,12,.CBSX,8/F
+sub,suzuk001,"""Kurt Suzuki""",0,5,2
+sub,kivlp001,"""Patrick Kivlehan""",1,8,12
+sub,jackl001,"""Luke Jackson""",0,9,1
+sub,mathj001,"""Jeff Mathis""",1,8,2
+sub,chafa001,"""Andrew Chafin""",1,6,1
+sub,culbc001,"""Charlie Culberson""",0,9,11
+sub,boxbb001,"""Brad Boxberger""",1,6,1

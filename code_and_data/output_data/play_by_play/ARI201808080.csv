@@ -1,0 +1,35 @@
+id,ARI201808080
+info,visteam,PHI
+info,hometeam,ARI
+info,date,2018/08/08
+info,starttime,12:40PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,hoskr001,"""Rhys Hoskins""",0,2,7
+start,willn001,"""Nick Williams""",0,3,9
+start,santc002,"""Carlos Santana""",0,4,3
+start,cabra002,"""Asdrubal Cabrera""",0,5,5
+start,herro001,"""Odubel Herrera""",0,6,8
+start,kings001,"""Scott Kingery""",0,7,6
+start,velav001,"""Vincent Velasquez""",0,8,1
+start,knapa001,"""Andrew Knapp""",0,9,2
+start,jay-j001,"""Jon Jay""",1,1,9
+start,goldp001,"""Paul Goldschmidt""",1,2,3
+start,perad001,"""David Peralta""",1,3,7
+start,polla001,"""A.J. Pollock""",1,4,8
+start,escoe001,"""Eduardo Escobar""",1,5,5
+start,descd001,"""Daniel Descalso""",1,6,4
+start,martk001,"""Ketel Marte""",1,7,6
+start,avila001,"""Alex Avila""",1,8,2
+start,corbp001,"""Patrick Corbin""",1,9,1
+play,1,0,hernc005,21,BBCX,S9/G
+play,1,0,hoskr001,32,BBCBCC,K
+play,1,0,willn001,22,C>FF1B*B1FF1F>S,K+CS2(26)/DP
+sub,davia003,"""Austin Davis""",0,8,1
+sub,quinr003,"""Roman Quinn""",0,8,11
+sub,morga001,"""Adam Morgan""",0,8,1
+sub,franm004,"""Maikel Franco""",0,8,5
+sub,deloe001,"""Enyel De Los Santos""",0,5,1
+sub,martk001,"""Ketel Marte""",1,7,4
+sub,ahmen001,"""Nick Ahmed""",1,9,6
+sub,ziegb001,"""Brad Ziegler""",1,6,1
+sub,andrm001,"""Matt Andriese""",1,6,1

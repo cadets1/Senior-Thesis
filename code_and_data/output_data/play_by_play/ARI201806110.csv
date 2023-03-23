@@ -1,0 +1,49 @@
+id,ARI201806110
+info,visteam,PIT
+info,hometeam,ARI
+info,date,2018/06/11
+info,starttime,6:39PM
+start,harrj002,"""Josh Harrison""",0,1,4
+start,meada001,"""Austin Meadows""",0,2,9
+start,marts002,"""Starling Marte""",0,3,8
+start,freed001,"""David Freese""",0,4,5
+start,dickc002,"""Corey Dickerson""",0,5,7
+start,diaze005,"""Elias Diaz""",0,6,2
+start,bellj005,"""Josh Bell""",0,7,3
+start,mercj002,"""Jordy Mercer""",0,8,6
+start,musgj001,"""Joe Musgrove""",0,9,1
+start,descd001,"""Daniel Descalso""",1,1,7
+start,goldp001,"""Paul Goldschmidt""",1,2,3
+start,lambj001,"""Jake Lamb""",1,3,5
+start,murpj001,"""John Ryan Murphy""",1,4,2
+start,perad001,"""David Peralta""",1,5,9
+start,martk001,"""Ketel Marte""",1,6,4
+start,owinc001,"""Chris Owings""",1,7,8
+start,ahmen001,"""Nick Ahmed""",1,8,6
+start,corbp001,"""Patrick Corbin""",1,9,1
+sub,shipb001,"""Braden Shipley""",1,9,1
+sub,sante002,"""Edgar Santana""",0,9,1
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,morac001,"""Colin Moran""",0,9,11
+play,8,1,martk001,00,,NP
+sub,rodrs002,"""Sean Rodriguez""",0,1,4
+play,8,1,martk001,00,,NP
+sub,crick001,"""Kyle Crick""",0,9,1
+play,8,1,martk001,10,..BX,S8/G
+play,8,1,owinc001,31,1BBBCB,W.1-2
+play,8,1,ahmen001,10,B+2N,SB3
+play,8,1,ahmen001,10,B+2N.B,WP.3-H(NR);1-2
+play,8,1,ahmen001,21,B+2N.B.LN,BK.2-3
+play,8,1,ahmen001,22,B+2N.B.LN.SFX,63/G
+play,8,1,brada001,00,,NP
+sub,jay-j001,"""Jon Jay""",1,9,11
+play,8,1,jay-j001,00,,NP
+sub,neved001,"""Dovydas Neverauskas""",0,9,1
+play,8,1,jay-j001,32,..B+3*BSBCB,W
+play,8,1,descd001,00,X,T8/F+.3-H;1-H
+play,8,1,goldp001,12,BTCC,K
+play,8,1,lambj001,01,SB,WP.3-H(NR)
+play,8,1,lambj001,21,SB.BX,3/G
+sub,perad001,"""David Peralta""",1,5,7
+sub,jay-j001,"""Jon Jay""",1,9,9
+sub,boxbb001,"""Brad Boxberger""",1,1,1

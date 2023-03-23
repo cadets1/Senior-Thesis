@@ -1,0 +1,47 @@
+id,ARI201809040
+info,visteam,SDN
+info,hometeam,ARI
+info,date,2018/09/04
+info,starttime,6:40PM
+start,galvf001,"""Freddy Galvis""",0,1,6
+start,urial001,"""Luis Urias""",0,2,4
+start,renfh001,"""Hunter Renfroe""",0,3,7
+start,hosme001,"""Eric Hosmer""",0,4,3
+start,myerw001,"""Wil Myers""",0,5,5
+start,reyef001,"""Franmil Reyes""",0,6,9
+start,hedga001,"""Austin Hedges""",0,7,2
+start,margm001,"""Manuel Margot""",0,8,8
+start,luccj001,"""Joey Lucchesi""",0,9,1
+start,souzs001,"""Steven Souza""",1,1,9
+start,polla001,"""A.J. Pollock""",1,2,8
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,perad001,"""David Peralta""",1,4,7
+start,escoe001,"""Eduardo Escobar""",1,5,5
+start,ahmen001,"""Nick Ahmed""",1,6,6
+start,martk001,"""Ketel Marte""",1,7,4
+start,mathj001,"""Jeff Mathis""",1,8,2
+start,ray-r002,"""Robbie Ray""",1,9,1
+sub,mejif001,"""Francisco Mejia""",0,9,11
+sub,stocr001,"""Robert Stock""",0,9,1
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+play,7,1,escoe001,22,FBBCFX,9/F
+play,7,1,ahmen001,01,CX,3/G
+play,7,1,martk001,21,CBBX,S4/G
+play,7,1,mathj001,00,111,PO1(E1).1-2
+play,7,1,mathj001,31,111.BBFB>B,W+SB3
+play,7,1,ziegb001,00,,NP
+sub,descd001,"""Daniel Descalso""",1,9,11
+play,7,1,descd001,21,.BBCB,PB.3-H(NR);1-2
+play,7,1,descd001,32,.BBCB.SX,S9/L+.2-H;B-2(TH)
+play,7,1,souzs001,00,,NP
+sub,matop002,"""Phil Maton""",0,9,1
+play,7,1,souzs001,32,.CBBCBB,W
+play,7,1,polla001,00,X,S7/L.2XH(7E2)(UR)(NR);1-3
+play,7,1,goldp001,01,SX,S8/L.3-H(UR);1-3
+play,7,1,perad001,00,,NP
+sub,stram001,"""Matt Strahm""",0,9,1
+play,7,1,perad001,12,.CBFX,31/G
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,jankt001,"""Travis Jankowski""",0,9,11
+sub,wickr001,"""Rowan Wick""",0,9,1
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1

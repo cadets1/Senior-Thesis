@@ -1,0 +1,44 @@
+id,ARI201807060
+info,visteam,SDN
+info,hometeam,ARI
+info,date,2018/07/06
+info,starttime,6:40PM
+start,jankt001,"""Travis Jankowski""",0,1,7
+start,asuac001,"""Carlos Asuaje""",0,2,4
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,renfh001,"""Hunter Renfroe""",0,4,9
+start,villc002,"""Christian Villanueva""",0,5,5
+start,margm001,"""Manuel Margot""",0,6,8
+start,galvf001,"""Freddy Galvis""",0,7,6
+start,hedga001,"""Austin Hedges""",0,8,2
+start,luccj001,"""Joey Lucchesi""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,ahmen001,"""Nick Ahmed""",1,2,6
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,polla001,"""A.J. Pollock""",1,4,8
+start,souzs001,"""Steven Souza""",1,5,9
+start,martk001,"""Ketel Marte""",1,6,4
+start,murpj001,"""John Ryan Murphy""",1,7,2
+start,owinc001,"""Chris Owings""",1,8,5
+start,godlz001,"""Zack Godley""",1,9,1
+play,2,0,renfh001,00,X,S8/L
+play,2,0,villc002,02,CSX,54(1)/FO/G
+play,2,0,margm001,22,BCBS>S,K+SB2.1-3(E2/TH)
+play,2,0,galvf001,11,BSX,7/F
+sub,cimba001,"""Adam Cimber""",0,9,1
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,myerw001,"""Wil Myers""",0,9,11
+sub,stamc001,"""Craig Stammen""",0,9,1
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,brada001,"""Archie Bradley""",1,9,1
+play,8,1,ahmen001,20,BBX,D7/G
+play,8,1,goldp001,00,X,63/G+
+play,8,1,polla001,12,CBSFFFX,8/L+.2-3
+play,8,1,souzs001,00,X,S7/G.3-H
+play,8,1,martk001,22,SSB11BF*B,SB2
+play,8,1,martk001,32,SSB11BF*B.B,W
+play,8,1,murpj001,32,SCBBFB>X,S5/G.2-3;1-2
+play,8,1,owinc001,00,,NP
+sub,erlir001,"""Robbie Erlin""",0,9,1
+play,8,1,owinc001,20,.BBX,8/F
+sub,boxbb001,"""Brad Boxberger""",1,9,1

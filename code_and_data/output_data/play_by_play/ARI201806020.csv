@@ -1,0 +1,41 @@
+id,ARI201806020
+info,visteam,MIA
+info,hometeam,ARI
+info,date,2018/06/02
+info,starttime,7:10PM
+start,casts001,"""Starlin Castro""",0,1,4
+start,realj001,"""J.T. Realmuto""",0,2,2
+start,bourj002,"""Justin Bour""",0,3,3
+start,andeb006,"""Brian Anderson""",0,4,9
+start,dietd001,"""Derek Dietrich""",0,5,7
+start,rojam002,"""Miguel Rojas""",0,6,5
+start,riddj001,"""J.T. Riddle""",0,7,6
+start,shucj001,"""J.B. Shuck""",0,8,8
+start,smitc006,"""Caleb Smith""",0,9,1
+start,dysoj001,"""Jarrod Dyson""",1,1,8
+start,ahmen001,"""Nick Ahmed""",1,2,6
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,perad001,"""David Peralta""",1,4,7
+start,owinc001,"""Chris Owings""",1,5,9
+start,martk001,"""Ketel Marte""",1,6,4
+start,marrd001,"""Deven Marrero""",1,7,5
+start,mathj001,"""Jeff Mathis""",1,8,2
+start,greiz001,"""Zack Greinke""",1,9,1
+play,3,1,dysoj001,00,X,S7/L
+play,3,1,ahmen001,32,FBB1BF>F1,POCS2(13)
+play,3,1,ahmen001,32,FBB1BF>F1.FX,8/F
+play,3,1,goldp001,10,BH,HP
+play,3,1,perad001,22,1BFSFBFFX,HR/9/L.1-H
+play,3,1,owinc001,32,CSBFBBFS,K
+sub,rivey001,"""Yadiel Rivera""",0,9,11
+sub,cloyt001,"""Tyler Cloyd""",0,9,1
+sub,maybc001,"""Cameron Maybin""",0,9,11
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,stecd001,"""Drew Steckenrider""",0,9,1
+sub,chafa001,"""Andrew Chafin""",1,9,1
+sub,brits001,"""Socrates Brito""",1,9,9
+sub,brada001,"""Archie Bradley""",1,5,1
+sub,barrk002,"""Kyle Barraclough""",0,9,1
+sub,mcfat001,"""T.J. McFarland""",1,5,1
+sub,brinl001,"""Lewis Brinson""",0,8,11
+sub,holab001,"""Bryan Holaday""",0,9,11

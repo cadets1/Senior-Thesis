@@ -1,0 +1,40 @@
+id,ARI201809230
+info,visteam,COL
+info,hometeam,ARI
+info,date,2018/09/23
+info,starttime,1:10PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,lemad001,"""DJ LeMahieu""",0,2,4
+start,dahld001,"""David Dahl""",0,3,9
+start,arenn001,"""Nolan Arenado""",0,4,5
+start,parrg001,"""Gerardo Parra""",0,5,7
+start,desmi001,"""Ian Desmond""",0,6,3
+start,iannc001,"""Chris Iannetta""",0,7,2
+start,hampg001,"""Garrett Hampson""",0,8,6
+start,freek001,"""Kyle Freeland""",0,9,1
+start,souzs001,"""Steven Souza""",1,1,9
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,perad001,"""David Peralta""",1,4,7
+start,ahmen001,"""Nick Ahmed""",1,5,6
+start,polla001,"""A.J. Pollock""",1,6,8
+start,martk001,"""Ketel Marte""",1,7,4
+start,mathj001,"""Jeff Mathis""",1,8,2
+start,godlz001,"""Zack Godley""",1,9,1
+play,1,1,souzs001,22,BBSFC,K
+play,1,1,escoe001,10,BX,S9/L
+play,1,1,goldp001,02,CFF>B,CS2(24)
+play,1,1,goldp001,22,CFF>B.BC,K
+sub,owinc001,"""Chris Owings""",1,1,9
+sub,kivlp001,"""Patrick Kivlehan""",1,9,11
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,diekj001,"""Jake Diekman""",1,9,1
+sub,walkc002,"""Christian Walker""",1,9,11
+sub,lopey001,"""Yoan Lopez""",1,9,1
+sub,ottaa001,"""Adam Ottavino""",0,9,1
+sub,oh--s001,"""Seung Hwan Oh""",0,9,1
+sub,bracs001,"""Silvino Bracho""",1,9,1
+sub,tapir001,"""Raimel Tapia""",0,9,11
+sub,daviw001,"""Wade Davis""",0,9,1
+sub,jay-j001,"""Jon Jay""",1,8,11
+sub,descd001,"""Daniel Descalso""",1,9,11

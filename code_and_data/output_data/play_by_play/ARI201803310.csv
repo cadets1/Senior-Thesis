@@ -1,0 +1,42 @@
+id,ARI201803310
+info,visteam,COL
+info,hometeam,ARI
+info,date,2018/03/31
+info,starttime,5:10PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,lemad001,"""DJ LeMahieu""",0,2,4
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,gonzc001,"""Carlos Gonzalez""",0,4,9
+start,parrg001,"""Gerardo Parra""",0,5,7
+start,desmi001,"""Ian Desmond""",0,6,3
+start,stort001,"""Trevor Story""",0,7,6
+start,woltt001,"""Tony Wolters""",0,8,2
+start,marqg001,"""German Marquez""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,polla001,"""A.J. Pollock""",1,2,8
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,lambj001,"""Jake Lamb""",1,4,5
+start,descd001,"""Daniel Descalso""",1,5,4
+start,dysoj001,"""Jarrod Dyson""",1,6,9
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,mathj001,"""Jeff Mathis""",1,8,2
+start,greiz001,"""Zack Greinke""",1,9,1
+play,6,0,blacc001,00,X,HR/9/F
+play,6,0,lemad001,00,X,7/F
+play,6,0,arenn001,32,BFSFBBS,K
+play,6,0,gonzc001,00,X,S8/L
+play,6,0,parrg001,00,,NP
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+play,6,0,parrg001,11,.BC1>S,SB2
+play,6,0,parrg001,22,.BC1>S.*BFX,8/F
+sub,rusic001,"""Chris Rusin""",0,9,1
+sub,owinc001,"""Chris Owings""",1,9,9
+sub,salaf001,"""Fernando Salas""",1,6,1
+sub,mcmar001,"""Ryan McMahon""",0,6,11
+sub,mcmar001,"""Ryan McMahon""",0,6,3
+sub,shawb001,"""Bryan Shaw""",0,9,1
+sub,valap001,"""Pat Valaika""",0,9,11
+sub,mcgej001,"""Jake McGee""",0,9,1
+sub,chafa001,"""Andrew Chafin""",1,6,1
+sub,daviw001,"""Wade Davis""",0,9,1
+sub,martk001,"""Ketel Marte""",1,6,11

@@ -1,0 +1,44 @@
+id,ARI201808020
+info,visteam,SFN
+info,hometeam,ARI
+info,date,2018/08/02
+info,starttime,6:40PM
+start,mccua001,"""Andrew McCutchen""",0,1,9
+start,poseb001,"""Buster Posey""",0,2,2
+start,longe001,"""Evan Longoria""",0,3,5
+start,crawb001,"""Brandon Crawford""",0,4,6
+start,herng001,"""Gorkys Hernandez""",0,5,7
+start,panij002,"""Joe Panik""",0,6,4
+start,slata001,"""Austin Slater""",0,7,3
+start,duggs001,"""Steven Duggar""",0,8,8
+start,bumgm001,"""Madison Bumgarner""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,polla001,"""A.J. Pollock""",1,4,8
+start,souzs001,"""Steven Souza""",1,5,9
+start,ahmen001,"""Nick Ahmed""",1,6,6
+start,martk001,"""Ketel Marte""",1,7,4
+start,mathj001,"""Jeff Mathis""",1,8,2
+start,greiz001,"""Zack Greinke""",1,9,1
+play,3,1,polla001,12,BFFS,K
+play,3,1,souzs001,12,SCFBFS,K
+play,3,1,ahmen001,22,CFBBFX,D8/F
+play,3,1,martk001,00,X,S6/G.2-3
+play,3,1,mathj001,12,SBCN,SB2
+play,3,1,mathj001,32,SBCN.*B*BS,K
+sub,melam001,"""Mark Melancon""",0,9,1
+sub,jay-j001,"""Jon Jay""",1,9,11
+sub,diekj001,"""Jake Diekman""",1,9,1
+sub,darnc001,"""Chase d'Arnaud""",0,6,11
+sub,pench001,"""Hunter Pence""",0,9,11
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+sub,darnc001,"""Chase d'Arnaud""",0,6,4
+sub,blacr001,"""Ray Black""",0,9,1
+sub,hansa001,"""Alen Hanson""",0,6,11
+sub,mcfat001,"""T.J. McFarland""",1,9,1
+sub,tomlk001,"""Kelby Tomlinson""",0,9,11
+sub,hansa001,"""Alen Hanson""",0,6,4
+sub,blact002,"""Ty Blach""",0,9,1
+sub,owinc001,"""Chris Owings""",1,9,11
+sub,andrm001,"""Matt Andriese""",1,9,1

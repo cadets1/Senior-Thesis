@@ -1,0 +1,44 @@
+id,ARI201804200
+info,visteam,SDN
+info,hometeam,ARI
+info,date,2018/04/20
+info,starttime,6:40PM
+start,pirej001,"""Jose Pirela""",0,1,7
+start,myerw001,"""Wil Myers""",0,2,9
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,villc002,"""Christian Villanueva""",0,4,5
+start,cordf003,"""Franchy Cordero""",0,5,8
+start,galvf001,"""Freddy Galvis""",0,6,6
+start,asuac001,"""Carlos Asuaje""",0,7,4
+start,hedga001,"""Austin Hedges""",0,8,2
+start,rosst001,"""Tyson Ross""",0,9,1
+start,perad001,"""David Peralta""",1,1,9
+start,dysoj001,"""Jarrod Dyson""",1,2,8
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,descd001,"""Daniel Descalso""",1,4,7
+start,martk001,"""Ketel Marte""",1,5,4
+start,ahmen001,"""Nick Ahmed""",1,6,6
+start,avila001,"""Alex Avila""",1,7,2
+start,marrd001,"""Deven Marrero""",1,8,5
+start,kochm001,"""Matt Koch""",1,9,1
+play,1,1,perad001,12,CBSX,43/G+
+play,1,1,dysoj001,30,BBB*B,W
+play,1,1,goldp001,11,C*B1>C,SB2
+play,1,1,goldp001,22,C*B1>C.*BS,K
+play,1,1,descd001,12,BCFFS,K
+sub,murpj001,"""John Ryan Murphy""",1,9,11
+sub,chafa001,"""Andrew Chafin""",1,9,1
+sub,salaf001,"""Fernando Salas""",1,9,1
+play,8,1,ahmen001,32,SCBFBBFB,W
+play,8,1,avila001,32,BB+1CCFBS,K+WP.1-2
+play,8,1,marrd001,11,BC*B,SB3
+play,8,1,marrd001,31,BC*B.*BX,FC4/G.3XH(42)
+play,8,1,salaf001,00,,NP
+sub,walkc002,"""Christian Walker""",1,9,11
+play,8,1,walkc002,20,.*BBX,D8/L+.1-H
+play,8,1,perad001,00,,NP
+sub,handb001,"""Brad Hand""",0,9,1
+play,8,1,perad001,31,.BBBCB,W
+play,8,1,dysoj001,02,CCS,K
+sub,boxbb001,"""Brad Boxberger""",1,9,1
+sub,delaj001,"""Jorge de la Rosa""",1,9,1

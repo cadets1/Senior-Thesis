@@ -1,0 +1,52 @@
+id,ARI201808050
+info,visteam,SFN
+info,hometeam,ARI
+info,date,2018/08/05
+info,starttime,1:10PM
+start,mccua001,"""Andrew McCutchen""",0,1,9
+start,poseb001,"""Buster Posey""",0,2,3
+start,longe001,"""Evan Longoria""",0,3,5
+start,hundn001,"""Nick Hundley""",0,4,2
+start,slata001,"""Austin Slater""",0,5,7
+start,darnc001,"""Chase d'Arnaud""",0,6,4
+start,herng001,"""Gorkys Hernandez""",0,7,8
+start,hansa001,"""Alen Hanson""",0,8,6
+start,holld003,"""Derek Holland""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,souzs001,"""Steven Souza""",1,4,9
+start,martk001,"""Ketel Marte""",1,5,4
+start,ahmen001,"""Nick Ahmed""",1,6,6
+start,jay-j001,"""Jon Jay""",1,7,8
+start,murpj001,"""John Ryan Murphy""",1,8,2
+start,ray-r002,"""Robbie Ray""",1,9,1
+play,2,0,slata001,32,BFCBFBC,K
+play,2,0,darnc001,02,CFX,S8/L
+play,2,0,herng001,01,CX,5/P
+play,2,0,hansa001,01,1S11,POCS2(134)
+play,5,0,holld003,12,CSBFS,K
+play,5,0,mccua001,31,BBCBB,W
+play,5,0,poseb001,32,BFFB1B>F>C,K+CS2(26)/DP
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,panij002,"""Joe Panik""",0,6,11
+play,6,1,escoe001,00,,NP
+sub,panij002,"""Joe Panik""",0,6,4
+play,6,1,escoe001,32,.BFBFFFBFFFFX,9/F
+play,6,1,goldp001,00,,NP
+sub,moror001,"""Reyes Moronta""",0,9,1
+play,6,1,goldp001,32,.CBTBBB,W
+play,6,1,souzs001,10,BX,8/L
+play,6,1,martk001,12,B1CC>B,SB2
+play,6,1,martk001,22,B1CC>B.X,6/P
+sub,chafa001,"""Andrew Chafin""",1,9,1
+sub,pench001,"""Hunter Pence""",0,9,11
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,blacr001,"""Ray Black""",0,9,1
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,watst001,"""Tony Watson""",0,9,1
+sub,dysos001,"""Sam Dyson""",0,9,1
+sub,diekj001,"""Jake Diekman""",1,9,1
+sub,crawb001,"""Brandon Crawford""",0,9,6
+sub,smitw002,"""Will Smith""",0,8,1
+sub,polla001,"""A.J. Pollock""",1,8,11

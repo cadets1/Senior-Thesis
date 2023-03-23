@@ -1,0 +1,45 @@
+id,ARI201806170
+info,visteam,NYN
+info,hometeam,ARI
+info,date,2018/06/17
+info,starttime,1:10PM
+start,nimmb001,"""Brandon Nimmo""",0,1,7
+start,cabra002,"""Asdrubal Cabrera""",0,2,4
+start,confm001,"""Michael Conforto""",0,3,8
+start,frazt001,"""Todd Frazier""",0,4,5
+start,brucj001,"""Jay Bruce""",0,5,9
+start,smitd008,"""Dominic Smith""",0,6,3
+start,plawk001,"""Kevin Plawecki""",0,7,2
+start,reyej001,"""Jose Reyes""",0,8,6
+start,wheez001,"""Zack Wheeler""",0,9,1
+start,jay-j001,"""Jon Jay""",1,1,9
+start,goldp001,"""Paul Goldschmidt""",1,2,3
+start,lambj001,"""Jake Lamb""",1,3,5
+start,perad001,"""David Peralta""",1,4,7
+start,descd001,"""Daniel Descalso""",1,5,4
+start,martk001,"""Ketel Marte""",1,6,6
+start,avila001,"""Alex Avila""",1,7,2
+start,dysoj001,"""Jarrod Dyson""",1,8,8
+start,buchc001,"""Clay Buchholz""",1,9,1
+sub,chafa001,"""Andrew Chafin""",1,9,1
+play,7,0,smitd008,00,,NP
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+play,7,0,smitd008,22,.SBBCX,63/G
+play,7,0,plawk001,22,SFBBS,K
+play,7,0,reyej001,32,BBBCCB,W
+play,7,0,wheez001,00,,NP
+sub,florw001,"""Wilmer Flores""",0,9,11
+play,7,0,florw001,20,.BB1>C,SB2
+play,7,0,florw001,32,.BB1>C.F*BB,W
+play,7,0,nimmb001,22,BBCSC,K
+sub,roblh001,"""Hansel Robles""",0,9,1
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,famij001,"""Jeurys Familia""",0,9,1
+sub,ahmen001,"""Nick Ahmed""",1,9,11
+sub,martk001,"""Ketel Marte""",1,6,4
+sub,ahmen001,"""Nick Ahmed""",1,9,6
+sub,boxbb001,"""Brad Boxberger""",1,5,1
+sub,bautj002,"""Jose Bautista""",0,9,11
+sub,salaf001,"""Fernando Salas""",1,5,1
+sub,gselr001,"""Robert Gsellman""",0,9,1
+sub,marrd001,"""Deven Marrero""",1,7,12

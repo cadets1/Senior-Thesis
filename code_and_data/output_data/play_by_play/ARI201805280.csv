@@ -1,0 +1,47 @@
+id,ARI201805280
+info,visteam,CIN
+info,hometeam,ARI
+info,date,2018/05/28
+info,starttime,1:10PM
+start,peraj003,"""Jose Peraza""",0,1,6
+start,barnt001,"""Tucker Barnhart""",0,2,2
+start,vottj001,"""Joey Votto""",0,3,3
+start,genns001,"""Scooter Gennett""",0,4,4
+start,suare001,"""Eugenio Suarez""",0,5,5
+start,sches001,"""Scott Schebler""",0,6,9
+start,duvaa001,"""Adam Duvall""",0,7,7
+start,bailh001,"""Homer Bailey""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,dysoj001,"""Jarrod Dyson""",1,1,8
+start,goldp001,"""Paul Goldschmidt""",1,2,3
+start,lambj001,"""Jake Lamb""",1,3,5
+start,descd001,"""Daniel Descalso""",1,4,4
+start,murpj001,"""John Ryan Murphy""",1,5,2
+start,owinc001,"""Chris Owings""",1,6,9
+start,brits001,"""Socrates Brito""",1,7,7
+start,ahmen001,"""Nick Ahmed""",1,8,6
+start,kochm001,"""Matt Koch""",1,9,1
+sub,stepj002,"""Jackson Stephens""",0,8,1
+sub,salaf001,"""Fernando Salas""",1,9,1
+play,6,1,ahmen001,10,BX,S8/L
+play,6,1,salaf001,00,,NP
+sub,martk001,"""Ketel Marte""",1,9,11
+play,6,1,martk001,00,,NP
+sub,peraw002,"""Wandy Peralta""",0,8,1
+play,6,1,martk001,12,..S11S*BX,D7/G.1-H;B-3(TH)
+play,6,1,dysoj001,31,*BBBC*B,W
+play,6,1,goldp001,00,,NP
+sub,blana002,"""Alex Blandino""",0,8,6
+play,6,1,goldp001,00,,NP
+sub,lorem002,"""Michael Lorenzen""",0,1,1
+play,6,1,goldp001,22,..*BSF*BF>B,SB2
+play,6,1,goldp001,32,..*BSF*BF>B.FFX,53/G.3-H
+play,6,1,lambj001,00,X,3/G.2-3
+play,6,1,descd001,31,BCBB*B,W
+play,6,1,murpj001,21,*BBC>C,CS2(24)
+sub,martk001,"""Ketel Marte""",1,9,4
+sub,delaj001,"""Jorge de la Rosa""",1,4,1
+sub,mcfat001,"""T.J. McFarland""",1,4,1
+sub,dixob001,"""Brandon Dixon""",0,1,11
+sub,raint003,"""Tanner Rainey""",0,1,1
+sub,marrd001,"""Deven Marrero""",1,3,5

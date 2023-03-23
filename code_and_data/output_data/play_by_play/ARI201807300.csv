@@ -1,0 +1,50 @@
+id,ARI201807300
+info,visteam,TEX
+info,hometeam,ARI
+info,date,2018/07/30
+info,starttime,6:40PM
+start,choos001,"""Shin-Soo Choo""",0,1,9
+start,odorr001,"""Rougned Odor""",0,2,4
+start,andre001,"""Elvis Andrus""",0,3,6
+start,belta001,"""Adrian Beltre""",0,4,5
+start,profj001,"""Jurickson Profar""",0,5,3
+start,chirr001,"""Robinson Chirinos""",0,6,2
+start,gallj002,"""Joey Gallo""",0,7,7
+start,deshd002,"""Delino DeShields""",0,8,8
+start,perem004,"""Martin Perez""",0,9,1
+start,jay-j001,"""Jon Jay""",1,1,7
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,polla001,"""A.J. Pollock""",1,4,8
+start,souzs001,"""Steven Souza""",1,5,9
+start,ahmen001,"""Nick Ahmed""",1,6,6
+start,martk001,"""Ketel Marte""",1,7,4
+start,murpj001,"""John Ryan Murphy""",1,8,2
+start,ray-r002,"""Robbie Ray""",1,9,1
+play,6,0,andre001,12,BFFX,9/F
+play,6,0,belta001,32,CFBBBB,W
+play,6,0,profj001,00,,NP
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+play,6,0,profj001,32,.*BFCFBFFBFB,W.1-2
+play,6,0,chirr001,32,B*B*BCFX,S8/L+.2-H;1-3
+play,6,0,gallj002,00,,NP
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+play,6,0,gallj002,00,.X,5/P
+play,6,0,deshd002,22,BCBS>B,SB2
+play,6,0,deshd002,32,BCBS>B.FB,W
+play,6,0,perem004,00,,NP
+sub,calhw001,"""Willie Calhoun""",0,9,11
+play,6,0,calhw001,01,.CX,S9/L.3-H;2-3;1-2
+play,6,0,choos001,12,FC*BFS,K
+sub,moorm003,"""Matt Moore""",0,9,1
+sub,owinc001,"""Chris Owings""",1,9,11
+sub,butle001,"""Eddie Butler""",0,9,1
+sub,andrm001,"""Matt Andriese""",1,9,1
+sub,gearc001,"""Cory Gearrin""",0,9,1
+sub,toccc001,"""Carlos Tocci""",0,9,11
+sub,toccc001,"""Carlos Tocci""",0,9,9
+sub,leclj001,"""Jose Leclerc""",0,1,1
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,chafa001,"""Andrew Chafin""",1,9,1
+sub,guzmr001,"""Ronald Guzman""",0,1,3
+sub,diekj001,"""Jake Diekman""",0,5,1

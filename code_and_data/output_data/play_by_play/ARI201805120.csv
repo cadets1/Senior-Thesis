@@ -1,0 +1,40 @@
+id,ARI201805120
+info,visteam,WAS
+info,hometeam,ARI
+info,date,2018/05/12
+info,starttime,1:05PM
+start,turnt001,"""Trea Turner""",0,1,6
+start,harpb003,"""Bryce Harper""",0,2,9
+start,renda001,"""Anthony Rendon""",0,3,5
+start,adamm002,"""Matt Adams""",0,4,3
+start,kendh001,"""Howie Kendrick""",0,5,4
+start,steva001,"""Andrew Stevenson""",0,6,7
+start,taylm002,"""Michael Taylor""",0,7,8
+start,sevep001,"""Pedro Severino""",0,8,2
+start,stras001,"""Stephen Strasburg""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,descd001,"""Daniel Descalso""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,polla001,"""A.J. Pollock""",1,4,8
+start,souzs001,"""Steven Souza""",1,5,9
+start,martk001,"""Ketel Marte""",1,6,4
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,murpj001,"""John Ryan Murphy""",1,8,2
+start,scrit001,"""Troy Scribner""",1,9,1
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+sub,avila001,"""Alex Avila""",1,9,11
+sub,mcfat001,"""T.J. McFarland""",1,9,1
+play,6,0,turnt001,32,CBBBS*B,W
+play,6,0,harpb003,11,1CB1X,S8/L.1-3
+play,6,0,renda001,21,BBF1,POCS2(136)
+play,6,0,renda001,32,BBF1.BCX,FC6/G.3XH(62)
+play,6,0,adamm002,21,BCBX,9/L+
+sub,owinc001,"""Chris Owings""",1,9,11
+sub,kendh001,"""Howie Kendrick""",0,5,7
+sub,difow001,"""Wilmer Difo""",0,9,4
+sub,solis001,"""Sammy Solis""",0,6,1
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,kells001,"""Shawn Kelley""",0,6,1
+sub,dysoj001,"""Jarrod Dyson""",1,9,9
+sub,chafa001,"""Andrew Chafin""",1,5,1
+sub,madsr001,"""Ryan Madson""",0,6,1

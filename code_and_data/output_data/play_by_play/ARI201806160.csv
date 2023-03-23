@@ -1,0 +1,40 @@
+id,ARI201806160
+info,visteam,NYN
+info,hometeam,ARI
+info,date,2018/06/16
+info,starttime,7:10PM
+start,rosaa003,"""Amed Rosario""",0,1,6
+start,cabra002,"""Asdrubal Cabrera""",0,2,4
+start,frazt001,"""Todd Frazier""",0,3,5
+start,florw001,"""Wilmer Flores""",0,4,3
+start,nimmb001,"""Brandon Nimmo""",0,5,9
+start,mesod001,"""Devin Mesoraco""",0,6,2
+start,confm001,"""Michael Conforto""",0,7,8
+start,bautj002,"""Jose Bautista""",0,8,7
+start,matzs001,"""Steven Matz""",0,9,1
+start,jay-j001,"""Jon Jay""",1,1,9
+start,ahmen001,"""Nick Ahmed""",1,2,6
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,murpj001,"""John Ryan Murphy""",1,4,2
+start,perad001,"""David Peralta""",1,5,7
+start,martk001,"""Ketel Marte""",1,6,4
+start,owinc001,"""Chris Owings""",1,7,8
+start,marrd001,"""Deven Marrero""",1,8,5
+start,corbp001,"""Patrick Corbin""",1,9,1
+play,6,0,florw001,10,BX,9/F
+play,6,0,nimmb001,31,BCBBX,S8/G+
+play,6,0,mesod001,10,B>C,SB2
+play,6,0,mesod001,31,B>C.BBX,S8/F.2XH(82);B-2(TH)
+play,6,0,confm001,22,BCBCFX,D9/L+.2-H
+play,6,0,bautj002,30,BBVV,IW
+play,6,0,matzs001,02,SSFFT,K
+sub,salaf001,"""Fernando Salas""",1,9,1
+sub,smitd008,"""Dominic Smith""",0,4,11
+sub,smitd008,"""Dominic Smith""",0,4,3
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,gselr001,"""Robert Gsellman""",0,9,1
+sub,descd001,"""Daniel Descalso""",1,9,5
+sub,mcfat001,"""T.J. McFarland""",1,8,1
+sub,reyej001,"""Jose Reyes""",0,9,11
+sub,swara001,"""Anthony Swarzak""",0,9,1
+sub,lambj001,"""Jake Lamb""",1,8,11

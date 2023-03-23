@@ -1,0 +1,49 @@
+id,ARI201808240
+info,visteam,SEA
+info,hometeam,ARI
+info,date,2018/08/24
+info,starttime,6:40PM
+start,hanim001,"""Mitch Haniger""",0,1,9
+start,canor001,"""Robinson Cano""",0,2,3
+start,seguj002,"""Jean Segura""",0,3,6
+start,spand001,"""Denard Span""",0,4,7
+start,seagk001,"""Kyle Seager""",0,5,5
+start,maybc001,"""Cameron Maybin""",0,6,8
+start,zunim001,"""Mike Zunino""",0,7,2
+start,gordd002,"""Dee Gordon""",0,8,4
+start,ramie004,"""Erasmo Ramirez""",0,9,1
+start,polla001,"""A.J. Pollock""",1,1,8
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,perad001,"""David Peralta""",1,3,7
+start,goldp001,"""Paul Goldschmidt""",1,4,3
+start,souzs001,"""Steven Souza""",1,5,9
+start,martk001,"""Ketel Marte""",1,6,4
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,avila001,"""Alex Avila""",1,8,2
+start,godlz001,"""Zack Godley""",1,9,1
+play,3,0,gordd002,00,X,D9/F
+play,3,0,ramie004,22,BMBMS,K
+play,3,0,hanim001,10,BN,SB3.2-H(E1/TH)(NR)
+play,3,0,hanim001,22,BN.CCBX,S8/L
+play,3,0,canor001,01,CX,S9/G+.1-3
+play,3,0,seguj002,10,BX,S9/G.3-H;1-2
+play,3,0,spand001,32,FB*BBCFX,D9/G.2-H;1-3
+play,3,0,seagk001,01,SX,9/F/SF.3-H
+play,3,0,maybc001,22,CCBBS,K
+sub,jay-j001,"""Jon Jay""",1,9,11
+sub,andrm001,"""Matt Andriese""",1,9,1
+play,7,0,ramie004,00,,NP
+sub,gameb001,"""Ben Gamel""",0,9,11
+play,7,0,gameb001,01,.CX,D7/L
+play,7,0,hanim001,02,CFS,K
+play,7,0,canor001,22,BCF*BX,63/G.2-3
+play,7,0,seguj002,30,VVVV,IW
+play,7,0,spand001,12,CFFB>B,SB2
+play,7,0,spand001,22,CFFB>B.FFS,K
+sub,gameb001,"""Ben Gamel""",0,9,7
+sub,vincn001,"""Nick Vincent""",0,4,1
+sub,murpj001,"""John Ryan Murphy""",1,9,11
+sub,mcfat001,"""T.J. McFarland""",1,9,1
+sub,coloa001,"""Alex Colome""",0,4,1
+sub,diaze006,"""Edwin Diaz""",0,4,1
+sub,descd001,"""Daniel Descalso""",1,9,11

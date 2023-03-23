@@ -1,0 +1,38 @@
+id,ARI201806290
+info,visteam,SFN
+info,hometeam,ARI
+info,date,2018/06/29
+info,starttime,6:40PM
+start,hansa001,"""Alen Hanson""",0,1,4
+start,beltb001,"""Brandon Belt""",0,2,3
+start,mccua001,"""Andrew McCutchen""",0,3,9
+start,poseb001,"""Buster Posey""",0,4,2
+start,crawb001,"""Brandon Crawford""",0,5,6
+start,slata001,"""Austin Slater""",0,6,7
+start,sandp001,"""Pablo Sandoval""",0,7,5
+start,jacka001,"""Austin Jackson""",0,8,8
+start,suara002,"""Andrew Suarez""",0,9,1
+start,jay-j001,"""Jon Jay""",1,1,9
+start,ahmen001,"""Nick Ahmed""",1,2,6
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,perad001,"""David Peralta""",1,4,7
+start,martk001,"""Ketel Marte""",1,5,4
+start,owinc001,"""Chris Owings""",1,6,8
+start,lambj001,"""Jake Lamb""",1,7,5
+start,mathj001,"""Jeff Mathis""",1,8,2
+start,corbp001,"""Patrick Corbin""",1,9,1
+play,4,0,poseb001,22,BCCBX,7/F
+play,4,0,crawb001,12,SFBFFX,S9/L
+play,4,0,slata001,22,BCF*BX,53/G.1-2
+play,4,0,sandp001,22,*BBCS>+2,POCS3(24)
+sub,walkc002,"""Christian Walker""",1,9,11
+sub,chafa001,"""Andrew Chafin""",1,9,1
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,herng001,"""Gorkys Hernandez""",0,9,11
+sub,herng001,"""Gorkys Hernandez""",0,9,8
+sub,moror001,"""Reyes Moronta""",0,8,1
+sub,salaf001,"""Fernando Salas""",1,9,1
+sub,watst001,"""Tony Watson""",0,8,1
+sub,mcfat001,"""T.J. McFarland""",1,9,1
+sub,smitw002,"""Will Smith""",0,8,1
+sub,murpj001,"""John Ryan Murphy""",1,9,11

@@ -1,0 +1,39 @@
+id,ARI201807030
+info,visteam,SLN
+info,hometeam,ARI
+info,date,2018/07/03
+info,starttime,6:40PM
+start,carpm002,"""Matt Carpenter""",0,1,3
+start,phamt001,"""Tommy Pham""",0,2,8
+start,martj008,"""Jose Martinez""",0,3,9
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,moliy001,"""Yadier Molina""",0,5,2
+start,gyorj001,"""Jedd Gyorko""",0,6,5
+start,munoy001,"""Yairo Munoz""",0,7,6
+start,wongk001,"""Kolten Wong""",0,8,4
+start,flahj002,"""Jack Flaherty""",0,9,1
+start,jay-j001,"""Jon Jay""",1,1,9
+start,goldp001,"""Paul Goldschmidt""",1,2,3
+start,lambj001,"""Jake Lamb""",1,3,5
+start,polla001,"""A.J. Pollock""",1,4,8
+start,perad001,"""David Peralta""",1,5,7
+start,martk001,"""Ketel Marte""",1,6,4
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,mathj001,"""Jeff Mathis""",1,8,2
+start,greiz001,"""Zack Greinke""",1,9,1
+play,5,1,ahmen001,12,SFFFBX,D7/L
+play,5,1,mathj001,02,CCC,K
+play,5,1,greiz001,11,CBX,43/G+.2-3
+play,5,1,jay-j001,12,SFF*BH,HP
+play,5,1,goldp001,02,CCF*B,SB2
+play,5,1,goldp001,22,CCF*B.*BX,HR/9/F.3-H;2-H
+play,5,1,lambj001,32,CBBBCFX,63/G+
+sub,garcg002,"""Greg Garcia""",0,9,11
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,tuivs001,"""Sam Tuivailala""",0,9,1
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,gomba001,"""Austin Gomber""",0,9,1
+sub,boxbb001,"""Brad Boxberger""",1,9,1
+sub,oneit001,"""Tyler O'Neill""",0,9,11

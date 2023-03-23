@@ -1,0 +1,56 @@
+id,ARI201804020
+info,visteam,LAN
+info,hometeam,ARI
+info,date,2018/04/02
+info,starttime,6:40PM
+start,pedej001,"""Joc Pederson""",0,1,8
+start,seagc001,"""Corey Seager""",0,2,6
+start,puigy001,"""Yasiel Puig""",0,3,9
+start,grany001,"""Yasmani Grandal""",0,4,2
+start,bellc002,"""Cody Bellinger""",0,5,3
+start,kempm001,"""Matt Kemp""",0,6,7
+start,utlec001,"""Chase Utley""",0,7,4
+start,forsl001,"""Logan Forsythe""",0,8,5
+start,ryu-h001,"""Hyun-Jin Ryu""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,martk001,"""Ketel Marte""",1,2,4
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,polla001,"""A.J. Pollock""",1,4,8
+start,owinc001,"""Chris Owings""",1,5,9
+start,lambj001,"""Jake Lamb""",1,6,5
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,avila001,"""Alex Avila""",1,8,2
+start,walkt004,"""Taijuan Walker""",1,9,1
+play,2,1,lambj001,11,BCX,51/G
+play,2,1,ahmen001,11,CBX,8/L
+play,2,1,avila001,31,CBBBB,W
+play,2,1,walkt004,10,BX,64(1)/FO/G
+sub,baezp001,"""Pedro Baez""",0,9,1
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,taylc001,"""Chris Taylor""",0,9,11
+sub,pedej001,"""Joc Pederson""",0,1,7
+sub,taylc001,"""Chris Taylor""",0,9,8
+sub,alexs001,"""Scott Alexander""",0,6,1
+sub,marrd001,"""Deven Marrero""",1,9,11
+sub,chafa001,"""Andrew Chafin""",1,9,1
+sub,herne001,"""Enrique Hernandez""",0,6,11
+sub,cingt001,"""Tony Cingrani""",0,6,1
+sub,charj001,"""J.T. Chargois""",0,6,1
+sub,mcfat001,"""T.J. McFarland""",1,9,1
+sub,fielj002,"""Josh Fields""",0,6,1
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+sub,barna001,"""Austin Barnes""",0,6,11
+sub,jansk001,"""Kenley Jansen""",0,6,1
+sub,boxbb001,"""Brad Boxberger""",1,9,1
+sub,strir001,"""Ross Stripling""",0,6,1
+sub,dysoj001,"""Jarrod Dyson""",1,9,11
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,farmk001,"""Kyle Farmer""",0,6,11
+sub,fontw001,"""Wilmer Font""",0,6,1
+play,12,1,owinc001,12,CCBC,K
+play,12,1,lambj001,31,BBBFX,S45/G
+play,12,1,ahmen001,12,BSCFX,9/F
+play,12,1,avila001,21,BBF>B,CS2(26)
+sub,salaf001,"""Fernando Salas""",1,9,1
+sub,mathj001,"""Jeff Mathis""",1,9,11

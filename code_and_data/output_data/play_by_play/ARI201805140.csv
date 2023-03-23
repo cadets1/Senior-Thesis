@@ -1,0 +1,59 @@
+id,ARI201805140
+info,visteam,MIL
+info,hometeam,ARI
+info,date,2018/05/14
+info,starttime,6:40PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,santd002,"""Domingo Santana""",0,2,9
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,shawt001,"""Travis Shaw""",0,4,5
+start,pereh001,"""Hernan Perez""",0,5,7
+start,pinam001,"""Manny Pina""",0,6,2
+start,villj001,"""Jonathan Villar""",0,7,4
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,guerj003,"""Junior Guerra""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,descd001,"""Daniel Descalso""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,polla001,"""A.J. Pollock""",1,4,8
+start,souzs001,"""Steven Souza""",1,5,9
+start,martk001,"""Ketel Marte""",1,6,4
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,murpj001,"""John Ryan Murphy""",1,8,2
+start,corbp001,"""Patrick Corbin""",1,9,1
+play,2,0,shawt001,22,BBCFS,K
+play,2,0,pereh001,12,SFBS,K23
+play,2,0,pinam001,01,CX,D7/L+
+play,2,0,villj001,32,F*BF*B*BX,S7/G.2-3
+play,2,0,arcio002,12,CS*B1N,SB2
+play,2,0,arcio002,32,CS*B1N.B*BFX,D8/G.3-H;2-H
+play,2,0,guerj003,10,BX,8/F
+play,7,0,pinam001,32,BBCCBX,S8/L
+play,7,0,villj001,11,1CBX,S9/L+.1-3
+play,7,0,arcio002,00,,NP
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+play,7,0,arcio002,12,.FFB1>X,FC5/G.3XH(52);1-2
+play,7,0,guerj003,00,,NP
+sub,yelic001,"""Christian Yelich""",0,9,11
+play,7,0,yelic001,00,,NP
+sub,chafa001,"""Andrew Chafin""",1,9,1
+play,7,0,yelic001,00,..X,S7/L.2-H;1-3
+play,7,0,cainl001,00,,NP
+sub,sherj001,"""Jimmie Sherfy""",1,9,1
+play,7,0,cainl001,22,.BF*B1>F1>B,SB2
+play,7,0,cainl001,32,.BF*B1>F1>B.B,W
+play,7,0,santd002,22,BFS*BFX,9/L/SF.3-H;2-3(TH)
+play,7,0,aguij001,00,11>B,SB2
+play,7,0,aguij001,22,11>B.CFBX,7/L
+sub,pereh001,"""Hernan Perez""",0,5,9
+sub,yelic001,"""Christian Yelich""",0,9,7
+sub,hadej001,"""Josh Hader""",0,2,1
+sub,owinc001,"""Chris Owings""",1,9,11
+sub,salaf001,"""Fernando Salas""",1,9,1
+sub,salat001,"""Tyler Saladino""",0,2,11
+sub,perad001,"""David Peralta""",1,1,9
+sub,descd001,"""Daniel Descalso""",1,2,7
+sub,marrd001,"""Deven Marrero""",1,4,5
+sub,souzs001,"""Steven Souza""",1,5,8
+sub,willt003,"""Taylor Williams""",0,2,1
+sub,avila001,"""Alex Avila""",1,9,11

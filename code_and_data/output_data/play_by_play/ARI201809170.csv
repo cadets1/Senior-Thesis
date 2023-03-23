@@ -1,0 +1,36 @@
+id,ARI201809170
+info,visteam,CHN
+info,hometeam,ARI
+info,date,2018/09/17
+info,starttime,6:40PM
+start,almoa002,"""Albert Almora""",0,1,8
+start,bryak001,"""Kris Bryant""",0,2,7
+start,rizza001,"""Anthony Rizzo""",0,3,3
+start,baezj001,"""Javier Baez""",0,4,4
+start,zobrb001,"""Ben Zobrist""",0,5,9
+start,contw001,"""Willson Contreras""",0,6,2
+start,boted002,"""David Bote""",0,7,5
+start,hendk001,"""Kyle Hendricks""",0,8,1
+start,russa002,"""Addison Russell""",0,9,6
+start,polla001,"""A.J. Pollock""",1,1,8
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,perad001,"""David Peralta""",1,3,7
+start,goldp001,"""Paul Goldschmidt""",1,4,3
+start,descd001,"""Daniel Descalso""",1,5,4
+start,souzs001,"""Steven Souza""",1,6,9
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,avila001,"""Alex Avila""",1,8,2
+start,corbp001,"""Patrick Corbin""",1,9,1
+sub,bracs001,"""Silvino Bracho""",1,9,1
+sub,delgr001,"""Randall Delgado""",1,9,1
+sub,jay-j001,"""Jon Jay""",1,9,9
+sub,lopey001,"""Yoan Lopez""",1,6,1
+play,9,1,polla001,00,,NP
+sub,heywj001,"""Jason Heyward""",0,5,9
+play,9,1,polla001,01,.FX,HR/89/L
+play,9,1,escoe001,12,CFFFBX,8/F
+play,9,1,perad001,02,SFFX,9/L
+play,9,1,goldp001,01,CX,S8/L
+play,9,1,descd001,00,,NP
+sub,wilsj004,"""Justin Wilson""",0,8,1
+play,9,1,descd001,00,.>B,CS2(26)

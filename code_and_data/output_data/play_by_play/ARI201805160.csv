@@ -1,0 +1,51 @@
+id,ARI201805160
+info,visteam,MIL
+info,hometeam,ARI
+info,date,2018/05/16
+info,starttime,12:40PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,7
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,shawt001,"""Travis Shaw""",0,4,5
+start,santd002,"""Domingo Santana""",0,5,9
+start,villj001,"""Jonathan Villar""",0,6,4
+start,salat001,"""Tyler Saladino""",0,7,6
+start,bandj001,"""Jett Bandy""",0,8,2
+start,woodb005,"""Brandon Woodruff""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,dysoj001,"""Jarrod Dyson""",1,2,8
+start,descd001,"""Daniel Descalso""",1,3,5
+start,goldp001,"""Paul Goldschmidt""",1,4,3
+start,souzs001,"""Steven Souza""",1,5,9
+start,martk001,"""Ketel Marte""",1,6,4
+start,avila001,"""Alex Avila""",1,7,2
+start,ahmen001,"""Nick Ahmed""",1,8,6
+start,kochm001,"""Matt Koch""",1,9,1
+play,1,0,cainl001,32,BBCCBB,W
+play,1,0,yelic001,22,CBBFN,SB2
+play,1,0,yelic001,22,CBBFN.X,23/G-
+play,1,0,aguij001,22,CBFFF*BX,9/F
+play,1,0,shawt001,01,SX,HR/9/F.2-H
+play,1,0,santd002,00,X,HR/78/F
+play,1,0,villj001,32,CFBFFBBX,S7/G
+play,1,0,salat001,11,1BC1X,9/F
+play,3,1,perad001,22,BCCBFC,K
+play,3,1,dysoj001,32,BFBBFB,W
+play,3,1,descd001,02,C1CS,K
+play,3,1,goldp001,10,B>C,SB2
+play,3,1,goldp001,11,B>C.X,6/P
+sub,mcfat001,"""T.J. McFarland""",1,9,1
+sub,albem001,"""Matt Albers""",0,9,1
+sub,jennd003,"""Dan Jennings""",0,9,1
+sub,walkc002,"""Christian Walker""",1,9,11
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+sub,owinc001,"""Chris Owings""",1,2,11
+sub,perad001,"""David Peralta""",1,1,9
+sub,owinc001,"""Chris Owings""",1,2,8
+sub,descd001,"""Daniel Descalso""",1,3,7
+sub,marrd001,"""Deven Marrero""",1,5,5
+sub,avila001,"""Alex Avila""",1,7,3
+sub,murpj001,"""John Ryan Murphy""",1,9,2
+sub,chafa001,"""Andrew Chafin""",1,4,1
+sub,arcio002,"""Orlando Arcia""",0,9,11
+sub,lopej004,"""Jorge Lopez""",0,9,1

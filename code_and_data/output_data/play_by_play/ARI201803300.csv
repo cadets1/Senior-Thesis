@@ -1,0 +1,50 @@
+id,ARI201803300
+info,visteam,COL
+info,hometeam,ARI
+info,date,2018/03/30
+info,starttime,6:40PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,lemad001,"""DJ LeMahieu""",0,2,4
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,stort001,"""Trevor Story""",0,4,6
+start,gonzc001,"""Carlos Gonzalez""",0,5,9
+start,desmi001,"""Ian Desmond""",0,6,3
+start,parrg001,"""Gerardo Parra""",0,7,7
+start,iannc001,"""Chris Iannetta""",0,8,2
+start,andet002,"""Tyler Anderson""",0,9,1
+start,perad001,"""David Peralta""",1,1,7
+start,martk001,"""Ketel Marte""",1,2,4
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,polla001,"""A.J. Pollock""",1,4,8
+start,owinc001,"""Chris Owings""",1,5,9
+start,lambj001,"""Jake Lamb""",1,6,5
+start,ahmen001,"""Nick Ahmed""",1,7,6
+start,murpj001,"""John Ryan Murphy""",1,8,2
+start,ray-r002,"""Robbie Ray""",1,9,1
+play,1,1,perad001,32,BCSBBB,W
+play,1,1,martk001,02,1C11CFX,9/F
+play,1,1,goldp001,32,1SB1CBBF*B,W.1-2
+play,1,1,polla001,01,FX,D7/G.2-H;1-H
+play,1,1,owinc001,11,BS>B,SB3
+play,1,1,owinc001,31,BS>B.BB,W
+play,1,1,lambj001,22,*B1F1BFS,K
+play,1,1,ahmen001,12,B1CFX,HR/7/F.3-H;1-H
+play,1,1,murpj001,11,CBX,9/F
+play,3,0,blacc001,02,CSC,K
+play,3,0,lemad001,30,BBBB,W
+play,3,0,arenn001,20,BBX,8/F
+play,3,0,stort001,11,C*B>S,SB2
+play,3,0,stort001,12,C*B>S.S,K23
+sub,senza001,"""Antonio Senzatela""",0,9,1
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,delaj001,"""Jorge de la Rosa""",1,9,1
+sub,valap001,"""Pat Valaika""",0,9,11
+sub,ottaa001,"""Adam Ottavino""",0,9,1
+sub,marrd001,"""Deven Marrero""",1,9,4
+sub,brada001,"""Archie Bradley""",1,2,1
+sub,mcgej001,"""Jake McGee""",0,9,1
+sub,hiray001,"""Yoshihisa Hirano""",1,2,1
+sub,taucm001,"""Mike Tauchman""",0,9,11
+sub,shawb001,"""Bryan Shaw""",0,9,1
+sub,avila001,"""Alex Avila""",1,2,11
+sub,boxbb001,"""Brad Boxberger""",1,2,1

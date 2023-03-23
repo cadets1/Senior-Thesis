@@ -1,0 +1,52 @@
+id,ARI201808250
+info,visteam,SEA
+info,hometeam,ARI
+info,date,2018/08/25
+info,starttime,5:10PM
+start,hanim001,"""Mitch Haniger""",0,1,7
+start,canor001,"""Robinson Cano""",0,2,4
+start,seguj002,"""Jean Segura""",0,3,6
+start,cruzn002,"""Nelson Cruz""",0,4,9
+start,healr001,"""Ryon Healy""",0,5,3
+start,seagk001,"""Kyle Seager""",0,6,5
+start,zunim001,"""Mike Zunino""",0,7,2
+start,gordd002,"""Dee Gordon""",0,8,8
+start,leblw001,"""Wade LeBlanc""",0,9,1
+start,polla001,"""A.J. Pollock""",1,1,8
+start,escoe001,"""Eduardo Escobar""",1,2,5
+start,goldp001,"""Paul Goldschmidt""",1,3,3
+start,perad001,"""David Peralta""",1,4,7
+start,souzs001,"""Steven Souza""",1,5,9
+start,ahmen001,"""Nick Ahmed""",1,6,6
+start,martk001,"""Ketel Marte""",1,7,4
+start,murpj001,"""John Ryan Murphy""",1,8,2
+start,ray-r002,"""Robbie Ray""",1,9,1
+play,3,0,seguj002,12,CBCX,S8/F
+play,3,0,cruzn002,12,B1111FSS,K
+play,3,0,healr001,32,11BBBCFX,3/P3F
+play,3,0,seagk001,00,1>B,SB2
+play,3,0,seagk001,22,1>B.*BCCX,9/F
+sub,mathj001,"""Jeff Mathis""",1,9,11
+sub,ziegb001,"""Brad Ziegler""",1,9,1
+sub,brada001,"""Archie Bradley""",1,9,1
+sub,vincn001,"""Nick Vincent""",0,9,1
+sub,jay-j001,"""Jon Jay""",1,9,11
+sub,dukez001,"""Zach Duke""",0,9,1
+sub,canor001,"""Robinson Cano""",0,2,3
+sub,gordd002,"""Dee Gordon""",0,8,4
+sub,maybc001,"""Cameron Maybin""",0,9,8
+sub,warra001,"""Adam Warren""",0,5,1
+sub,chafa001,"""Andrew Chafin""",1,9,1
+sub,hiray001,"""Yoshihisa Hirano""",1,9,1
+sub,spand001,"""Denard Span""",0,9,11
+sub,hanim001,"""Mitch Haniger""",0,1,8
+sub,spand001,"""Denard Span""",0,9,7
+sub,boxbb001,"""Brad Boxberger""",1,9,1
+sub,gameb001,"""Ben Gamel""",0,5,11
+sub,romia001,"""Andrew Romine""",0,4,12
+sub,gameb001,"""Ben Gamel""",0,5,9
+sub,coloa001,"""Alex Colome""",0,4,1
+sub,descd001,"""Daniel Descalso""",1,9,11
+sub,diekj001,"""Jake Diekman""",1,9,1
+sub,herrc001,"""Chris Herrmann""",0,4,11
+sub,diaze006,"""Edwin Diaz""",0,4,1
