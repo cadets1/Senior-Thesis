@@ -1,0 +1,38 @@
+id,CLE201807140
+info,visteam,NYA
+info,hometeam,CLE
+info,date,2018/07/14
+info,starttime,7:16PM
+start,gardb001,"""Brett Gardner""",0,1,7
+start,judga001,"""Aaron Judge""",0,2,9
+start,gregd001,"""Didi Gregorius""",0,3,6
+start,stanm004,"""Giancarlo Stanton""",0,4,10
+start,hicka001,"""Aaron Hicks""",0,5,8
+start,birdg001,"""Greg Bird""",0,6,3
+start,andum001,"""Miguel Andujar""",0,7,5
+start,romia002,"""Austin Romine""",0,8,2
+start,wadet002,"""Tyler Wade""",0,9,4
+start,sabac001,"""CC Sabathia""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,3
+start,guyeb001,"""Brandon Guyer""",1,5,9
+start,mejif001,"""Francisco Mejia""",1,6,10
+start,gomey001,"""Yan Gomes""",1,7,2
+start,davir003,"""Rajai Davis""",1,8,8
+start,gonze004,"""Erik Gonzalez""",1,9,4
+start,clevm001,"""Mike Clevinger""",1,0,1
+play,3,1,gonze004,10,BX,S7/G
+play,3,1,lindf001,01,C>C,SB2
+play,3,1,lindf001,02,C>C.X,63/G.2-3
+play,3,1,branm003,10,BX,3/G-.3-H
+play,3,1,ramij003,00,X,63/G
+sub,robed002,"""David Robertson""",0,0,1
+sub,pereo002,"""Oliver Perez""",1,0,1
+sub,ramin001,"""Neil Ramirez""",1,0,1
+sub,betad001,"""Dellin Betances""",0,0,1
+sub,olsot002,"""Tyler Olson""",1,0,1
+sub,oterd001,"""Dan Otero""",1,0,1
+sub,chapa001,"""Aroldis Chapman""",0,0,1
+sub,alleg002,"""Greg Allen""",1,6,12

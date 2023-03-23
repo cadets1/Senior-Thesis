@@ -1,0 +1,51 @@
+id,CLE201809180
+info,visteam,CHA
+info,hometeam,CLE
+info,date,2018/09/18
+info,starttime,7:11PM
+start,sancc001,"""Yolmer Sanchez""",0,1,5
+start,andet001,"""Tim Anderson""",0,2,6
+start,palkd001,"""Daniel Palka""",0,3,10
+start,garca003,"""Avisail Garcia""",0,4,9
+start,narvo001,"""Omar Narvaez""",0,5,2
+start,davim005,"""Matt Davidson""",0,6,3
+start,lamar001,"""Ryan LaMarre""",0,7,7
+start,moncy001,"""Yoan Moncada""",0,8,4
+start,engea001,"""Adam Engel""",0,9,8
+start,rodoc001,"""Carlos Rodon""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,4
+start,diazy001,"""Yandy Diaz""",1,4,10
+start,donaj001,"""Josh Donaldson""",1,5,5
+start,cabrm002,"""Melky Cabrera""",1,6,9
+start,alony001,"""Yonder Alonso""",1,7,3
+start,gomey001,"""Yan Gomes""",1,8,2
+start,kipnj001,"""Jason Kipnis""",1,9,8
+start,klubc001,"""Corey Kluber""",1,0,1
+play,5,1,kipnj001,31,BBBCX,HR/9/F
+play,5,1,lindf001,21,CBBX,S6/G+.B-2(E6/TH)
+play,5,1,branm003,01,CX,3/G.2-3
+play,5,1,ramij003,21,S*BBH,HP
+play,5,1,diazy001,10,B>S,SB2
+play,5,1,diazy001,12,B>S.FX,S8/L+.3-H;2-H(UR)
+play,5,1,donaj001,10,BX,5/P
+play,5,1,cabrm002,10,BX,7/F
+sub,alleg002,"""Greg Allen""",1,9,8
+play,7,1,lindf001,32,CFBBBB,W
+play,7,1,branm003,00,X,9/F
+play,7,1,ramij003,00,>B,CS2(24)
+play,7,1,ramij003,11,>B.SX,53/G
+play,8,1,diazy001,00,,NP
+sub,jonen001,"""Nate Jones""",0,0,1
+play,8,1,diazy001,32,.BFBBFB,W
+play,8,1,donaj001,00,,NP
+sub,davir003,"""Rajai Davis""",1,4,12
+play,8,1,donaj001,00,.X,7/L+
+play,8,1,cabrm002,11,FBX,9/L
+play,8,1,alony001,20,B*B>C,SB2.1-3(E2/TH)
+play,8,1,alony001,22,B*B>C.CS,K
+sub,barnb002,"""Brandon Barnes""",1,6,9
+sub,milla002,"""Andrew Miller""",1,0,1
+sub,castw002,"""Welington Castillo""",0,9,11
+sub,cordr001,"""Ryan Cordell""",0,9,12

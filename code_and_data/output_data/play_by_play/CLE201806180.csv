@@ -1,0 +1,50 @@
+id,CLE201806180
+info,visteam,CHA
+info,hometeam,CLE
+info,date,2018/06/18
+info,starttime,7:10PM
+start,moncy001,"""Yoan Moncada""",0,1,4
+start,sancc001,"""Yolmer Sanchez""",0,2,5
+start,abrej003,"""Jose Abreu""",0,3,3
+start,palkd001,"""Daniel Palka""",0,4,9
+start,smitk002,"""Kevan Smith""",0,5,2
+start,davim005,"""Matt Davidson""",0,6,10
+start,andet001,"""Tim Anderson""",0,7,6
+start,tilsc001,"""Charlie Tilson""",0,8,7
+start,engea001,"""Adam Engel""",0,9,8
+start,coved001,"""Dylan Covey""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,10
+start,alony001,"""Yonder Alonso""",1,5,3
+start,chisl001,"""Lonnie Chisenhall""",1,6,9
+start,davir003,"""Rajai Davis""",1,7,8
+start,kipnj001,"""Jason Kipnis""",1,8,4
+start,perer003,"""Roberto Perez""",1,9,2
+start,bauet001,"""Trevor Bauer""",1,0,1
+play,1,0,moncy001,01,FX,S9/L
+play,1,0,sancc001,12,SFB1F>S,K+CS2(26)/DP
+play,1,0,abrej003,11,CBX,S7/L
+play,1,0,palkd001,22,CBS*BS,K
+play,1,1,lindf001,01,CX,63/G
+play,1,1,branm003,31,BBBCX,S68/G+
+play,1,1,ramij003,12,CBCX,7/L
+play,1,1,encae001,22,>FF*BB>B,SB2.1-3(E2/TH)
+play,1,1,encae001,32,>FF*BB>B.B,W
+play,1,1,alony001,00,X,9/L
+play,2,1,chisl001,21,CBBX,S8/G+
+play,2,1,davir003,02,FCFX,E4/FO/G.1-2
+play,2,1,kipnj001,00,X,S5/BG.2-3;1-2
+play,2,1,perer003,20,BBX,DGR/9/L+.3-H(UR);2-H;1-3
+play,2,1,lindf001,00,X,7/F/SF.3-H
+play,2,1,branm003,00,X,8/F.2-3
+play,2,1,ramij003,30,VVVV,IW
+play,2,1,encae001,02,SF>F>B,SB2
+play,2,1,encae001,22,SF>F>B.*BS,K
+sub,santh001,"""Hector Santiago""",0,0,1
+sub,minaj001,"""Juan Minaya""",0,0,1
+sub,marse001,"""Evan Marshall""",1,0,1
+sub,ramin001,"""Neil Ramirez""",1,0,1
+sub,sorij001,"""Joakim Soria""",0,0,1
+sub,oterd001,"""Dan Otero""",1,0,1

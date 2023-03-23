@@ -1,0 +1,44 @@
+id,CLE201809160
+info,visteam,DET
+info,hometeam,CLE
+info,date,2018/09/16
+info,starttime,1:10PM
+start,candj002,"""Jeimer Candelario""",0,1,5
+start,stewc002,"""Christin Stewart""",0,2,7
+start,castn001,"""Nick Castellanos""",0,3,10
+start,adduj002,"""Jim Adduci""",0,4,3
+start,mahtm001,"""Mikie Mahtook""",0,5,9
+start,greig001,"""Grayson Greiner""",0,6,2
+start,lugod001,"""Dawel Lugo""",0,7,4
+start,rodrr009,"""Ronny Rodriguez""",0,8,6
+start,reyev001,"""Victor Reyes""",0,9,8
+start,lirif001,"""Francisco Liriano""",0,0,1
+start,davir003,"""Rajai Davis""",1,1,7
+start,alleg002,"""Greg Allen""",1,2,8
+start,donaj001,"""Josh Donaldson""",1,3,5
+start,diazy001,"""Yandy Diaz""",1,4,3
+start,guyeb001,"""Brandon Guyer""",1,5,10
+start,barnb002,"""Brandon Barnes""",1,6,9
+start,haase001,"""Eric Haase""",1,7,2
+start,gonze004,"""Erik Gonzalez""",1,8,6
+start,rosaa001,"""Adam Rosales""",1,9,4
+start,biebs001,"""Shane Bieber""",1,0,1
+play,2,0,greig001,12,CCFFBC,K
+play,2,0,lugod001,22,BFBFX,S1/G
+play,2,0,rodrr009,10,BX,46(1)/FO/G
+play,2,0,reyev001,01,C>B,SB2
+play,2,0,reyev001,11,C>B.X,63/G
+play,5,0,rodrr009,21,CBBX,S9/L+
+play,5,0,reyev001,12,BF1FX,46(1)/FO/G
+play,5,0,candj002,00,11X,S9/L.1-2
+play,5,0,stewc002,01,CX,S8/L.2-H;1-2
+play,5,0,castn001,02,SFFS,K
+play,5,0,adduj002,12,FCBX,HR/78/F.2-H;1-H
+play,5,0,mahtm001,22,SCBBX,S9/L
+play,5,0,greig001,00,>C,SB2
+play,5,0,greig001,01,>C.X,8/F
+sub,milla002,"""Andrew Miller""",1,0,1
+sub,edwaj001,"""Jon Edwards""",1,0,1
+sub,jimej003,"""Joe Jimenez""",0,0,1
+sub,pluta001,"""Adam Plutko""",1,0,1
+sub,grees005,"""Shane Greene""",0,0,1

@@ -1,0 +1,71 @@
+id,CLE201807070
+info,visteam,OAK
+info,hometeam,CLE
+info,date,2018/07/07
+info,starttime,4:11PM
+start,fowld002,"""Dustin Fowler""",0,1,8
+start,canhm001,"""Mark Canha""",0,2,7
+start,lowrj001,"""Jed Lowrie""",0,3,4
+start,davik003,"""Khris Davis""",0,4,10
+start,olsom001,"""Matt Olson""",0,5,3
+start,piscs001,"""Stephen Piscotty""",0,6,9
+start,chapm001,"""Matt Chapman""",0,7,5
+start,semim001,"""Marcus Semien""",0,8,6
+start,lucrj001,"""Jonathan Lucroy""",0,9,2
+start,jacke001,"""Edwin Jackson""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,10
+start,alony001,"""Yonder Alonso""",1,5,3
+start,kipnj001,"""Jason Kipnis""",1,6,4
+start,gomey001,"""Yan Gomes""",1,7,2
+start,naqut001,"""Tyler Naquin""",1,8,9
+start,alleg002,"""Greg Allen""",1,9,8
+start,klubc001,"""Corey Kluber""",1,0,1
+play,1,0,fowld002,32,BFBSBFFS,K
+play,1,0,canhm001,32,BCFBBB,W
+play,1,0,lowrj001,00,X,9/F
+play,1,0,davik003,12,BCSX,S9/L.1-3
+play,1,0,olsom001,22,CBFBX,8/F
+play,5,1,alleg002,31,BBBCB,W
+play,5,1,lindf001,02,1CFX,4/P-
+play,5,1,branm003,22,B1BCF>B,SB2
+play,5,1,branm003,32,B1BCF>B.X,9/F.2-3
+play,5,1,ramij003,30,VVVV,IW
+play,5,1,encae001,01,F1*B,SB2
+play,5,1,encae001,32,F1*B.BBFFB,W
+play,5,1,alony001,00,X,4/P
+sub,buchr001,"""Ryan Buchter""",0,0,1
+sub,gonze004,"""Erik Gonzalez""",1,6,4
+sub,ramin001,"""Neil Ramirez""",1,0,1
+sub,pereo002,"""Oliver Perez""",1,0,1
+sub,mcalz001,"""Zach McAllister""",1,0,1
+play,8,1,alony001,00,,NP
+sub,trivl001,"""Lou Trivino""",0,0,1
+play,8,1,alony001,21,.BBFX,S8/L
+play,8,1,gonze004,00,,NP
+sub,davir003,"""Rajai Davis""",1,5,12
+play,8,1,gonze004,02,CL.11>B,CS2(24)
+play,8,1,gonze004,22,CL.11>B.BS,K
+play,8,1,gomey001,11,CBX,S7/L
+play,8,1,naqut001,02,CFC,K
+sub,encae001,"""Edwin Encarnacion""",1,4,3
+sub,davir003,"""Rajai Davis""",1,5,8
+sub,mcalz001,"""Zach McAllister""",1,8,1
+sub,alleg002,"""Greg Allen""",1,9,9
+sub,allec002,"""Cody Allen""",1,8,1
+sub,treib001,"""Blake Treinen""",0,0,1
+play,11,0,olsom001,00,,NP
+sub,guyeb001,"""Brandon Guyer""",1,8,9
+play,11,0,olsom001,00,,NP
+sub,alleg002,"""Greg Allen""",1,9,8
+play,11,0,olsom001,00,,NP
+sub,tomlj001,"""Josh Tomlin""",1,5,1
+play,11,0,olsom001,22,...BFCBX,S9/L+
+play,11,0,piscs001,32,SFBBF1B1X,HR/78/F+.1-H
+play,11,0,chapm001,00,X,D7/L+
+play,11,0,semim001,22,CFBBFX,53/G
+play,11,0,lucrj001,00,>S,SB3
+play,11,0,lucrj001,22,>S.BFFBFFX,E6/G.3-H
+play,11,0,fowld002,10,BX,3(B)6(1)/GDP

@@ -1,0 +1,63 @@
+id,CLE201804130
+info,visteam,TOR
+info,hometeam,CLE
+info,date,2018/04/13
+info,starttime,7:10PM
+start,granc001,"""Curtis Granderson""",0,1,10
+start,hernt002,"""Teoscar Hernandez""",0,2,7
+start,smoaj001,"""Justin Smoak""",0,3,3
+start,solay001,"""Yangervis Solarte""",0,4,5
+start,martr004,"""Russell Martin""",0,5,2
+start,pillk001,"""Kevin Pillar""",0,6,8
+start,diaza003,"""Aledmys Diaz""",0,7,6
+start,gricr001,"""Randal Grichuk""",0,8,9
+start,travd001,"""Devon Travis""",0,9,4
+start,strom001,"""Marcus Stroman""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,kipnj001,"""Jason Kipnis""",1,2,4
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,alony001,"""Yonder Alonso""",1,4,3
+start,encae001,"""Edwin Encarnacion""",1,5,10
+start,naqut001,"""Tyler Naquin""",1,6,9
+start,gomey001,"""Yan Gomes""",1,7,2
+start,zimmb001,"""Bradley Zimmer""",1,8,8
+start,davir003,"""Rajai Davis""",1,9,7
+start,clevm001,"""Mike Clevinger""",1,0,1
+play,2,1,zimmb001,00,X,63/G
+play,2,1,davir003,11,CBX,S5/G-
+play,2,1,lindf001,20,BB>C,SB2
+play,2,1,lindf001,32,BB>C.CBX,D9/L+.2-H
+play,2,1,kipnj001,12,BCCFX,DGR/8/L.2-H
+play,2,1,ramij003,12,CBCS,K
+play,2,1,alony001,32,SBBBSS,K
+sub,oterd001,"""Dan Otero""",1,0,1
+sub,barnd002,"""Danny Barnes""",0,0,1
+play,7,0,gricr001,00,,NP
+sub,mcalz001,"""Zach McAllister""",1,0,1
+play,7,0,gricr001,32,.BCBFBB,W
+play,7,0,travd001,10,B>S,SB2
+play,7,0,travd001,11,B>S.X,41/G.2-3
+play,7,0,granc001,00,,NP
+sub,milla002,"""Andrew Miller""",1,0,1
+play,7,0,granc001,00,,NP
+sub,pears001,"""Steve Pearce""",0,1,11
+play,7,0,pears001,02,..CFX,FC3/G.3XH(32)
+play,7,0,hernt002,01,CS,PB.1-2
+play,7,0,hernt002,12,CS.FBX,D7/L.2-H(UR)
+play,7,0,smoaj001,11,BC>B,SB3
+play,7,0,smoaj001,22,BC>B.FC,K
+sub,clipt001,"""Tyler Clippard""",0,0,1
+sub,belim001,"""Matt Belisle""",1,0,1
+sub,teper001,"""Ryan Tepera""",0,0,1
+play,9,0,diaza003,11,BCX,S9/L+
+play,9,0,gricr001,32,1FBFBBS,K
+play,9,0,travd001,01,F>B,SB2
+play,9,0,travd001,12,F>B.FFH,HP
+play,9,0,pears001,00,X,D7/L.2-H;1-H
+play,9,0,hernt002,21,T*B*BX,D8/L+.2-H
+play,9,0,smoaj001,00,,NP
+sub,olsot002,"""Tyler Olson""",1,0,1
+play,9,0,smoaj001,22,.FBBCS,K
+play,9,0,solay001,00,X,5/P
+sub,ngoeg001,"""Gift Ngoepe""",0,9,4
+sub,osunr001,"""Roberto Osuna""",0,0,1

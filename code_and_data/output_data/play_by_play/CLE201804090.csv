@@ -1,0 +1,37 @@
+id,CLE201804090
+info,visteam,DET
+info,hometeam,CLE
+info,date,2018/04/09
+info,starttime,6:11PM
+start,martl004,"""Leonys Martin""",0,1,8
+start,candj002,"""Jeimer Candelario""",0,2,5
+start,cabrm001,"""Miguel Cabrera""",0,3,3
+start,castn001,"""Nick Castellanos""",0,4,9
+start,martv001,"""Victor Martinez""",0,5,10
+start,mahtm001,"""Mikie Mahtook""",0,6,7
+start,mccaj001,"""James McCann""",0,7,2
+start,iglej001,"""Jose Iglesias""",0,8,6
+start,machd001,"""Dixon Machado""",0,9,4
+start,lirif001,"""Francisco Liriano""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,kipnj001,"""Jason Kipnis""",1,2,10
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,3
+start,guyeb001,"""Brandon Guyer""",1,5,9
+start,davir003,"""Rajai Davis""",1,6,7
+start,gomey001,"""Yan Gomes""",1,7,2
+start,zimmb001,"""Bradley Zimmer""",1,8,8
+start,gonze004,"""Erik Gonzalez""",1,9,4
+start,klubc001,"""Corey Kluber""",1,0,1
+play,7,1,davir003,00,,NP
+sub,farmb001,"""Buck Farmer""",0,0,1
+play,7,1,davir003,32,.FBBSBX,D9/L-
+play,7,1,gomey001,22,S*B*BSX,63/G
+play,7,1,zimmb001,31,*BCB*B*B,W
+play,7,1,gonze004,00,,NP
+sub,verhd001,"""Drew VerHagen""",0,0,1
+play,7,1,gonze004,20,.*B2B>S,CS2(24).2-3
+play,7,1,gonze004,22,.*B2B>S.SS,K
+sub,alony001,"""Yonder Alonso""",1,4,3
+sub,milla002,"""Andrew Miller""",1,0,1
+sub,jonej006,"""JaCoby Jones""",0,1,11

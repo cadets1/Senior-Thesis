@@ -1,0 +1,50 @@
+id,CLE201804260
+info,visteam,SEA
+info,hometeam,CLE
+info,date,2018/04/26
+info,starttime,6:10PM
+start,gordd002,"""Dee Gordon""",0,1,8
+start,seguj002,"""Jean Segura""",0,2,6
+start,canor001,"""Robinson Cano""",0,3,4
+start,cruzn002,"""Nelson Cruz""",0,4,10
+start,seagk001,"""Kyle Seager""",0,5,5
+start,hanim001,"""Mitch Haniger""",0,6,9
+start,zunim001,"""Mike Zunino""",0,7,2
+start,gameb001,"""Ben Gamel""",0,8,7
+start,healr001,"""Ryon Healy""",0,9,3
+start,paxtj001,"""James Paxton""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,kipnj001,"""Jason Kipnis""",1,2,4
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,10
+start,branm003,"""Michael Brantley""",1,5,7
+start,gomey001,"""Yan Gomes""",1,6,2
+start,alony001,"""Yonder Alonso""",1,7,3
+start,guyeb001,"""Brandon Guyer""",1,8,9
+start,davir003,"""Rajai Davis""",1,9,8
+start,clevm001,"""Mike Clevinger""",1,0,1
+sub,oterd001,"""Dan Otero""",1,0,1
+play,7,1,davir003,00,,NP
+sub,vincn001,"""Nick Vincent""",0,0,1
+play,7,1,davir003,10,.BX,63/G
+play,7,1,lindf001,22,CBBCFH,HP
+play,7,1,kipnj001,00,,NP
+sub,rzepm001,"""Marc Rzepczynski""",0,0,1
+play,7,1,kipnj001,02,.CS>B,SB2
+play,7,1,kipnj001,12,.CS>B.B,WP.2-3
+play,7,1,kipnj001,22,.CS>B.B.X,D8/L.3-H
+play,7,1,ramij003,00,,NP
+sub,altad001,"""Dan Altavilla""",0,0,1
+play,7,1,ramij003,00,.B,WP.2-3
+play,7,1,ramij003,32,.B.BFBSS,K
+play,7,1,encae001,00,X,S9/L.3-H
+play,7,1,branm003,01,CX,8/F
+sub,belij001,"""Jeff Beliveau""",1,0,1
+sub,goodn001,"""Nick Goody""",1,0,1
+sub,suzui001,"""Ichiro Suzuki""",0,4,12
+sub,nicaj001,"""Juan Nicasio""",0,0,1
+sub,naqut001,"""Tyler Naquin""",1,8,11
+sub,naqut001,"""Tyler Naquin""",1,8,9
+sub,zimmb001,"""Bradley Zimmer""",1,9,8
+sub,mcalz001,"""Zach McAllister""",1,0,1
+sub,diaze006,"""Edwin Diaz""",0,0,1

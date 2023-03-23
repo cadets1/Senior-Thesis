@@ -1,0 +1,68 @@
+id,CLE201806200
+info,visteam,CHA
+info,hometeam,CLE
+info,date,2018/06/20
+info,starttime,1:10PM
+start,moncy001,"""Yoan Moncada""",0,1,4
+start,sancc001,"""Yolmer Sanchez""",0,2,5
+start,abrej003,"""Jose Abreu""",0,3,3
+start,palkd001,"""Daniel Palka""",0,4,9
+start,davim005,"""Matt Davidson""",0,5,10
+start,narvo001,"""Omar Narvaez""",0,6,2
+start,andet001,"""Tim Anderson""",0,7,6
+start,tilsc001,"""Charlie Tilson""",0,8,7
+start,engea001,"""Adam Engel""",0,9,8
+start,loper003,"""Reynaldo Lopez""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,10
+start,alony001,"""Yonder Alonso""",1,5,3
+start,kipnj001,"""Jason Kipnis""",1,6,4
+start,gomey001,"""Yan Gomes""",1,7,2
+start,naqut001,"""Tyler Naquin""",1,8,9
+start,davir003,"""Rajai Davis""",1,9,8
+start,klubc001,"""Corey Kluber""",1,0,1
+play,3,0,tilsc001,32,CBBFBFFB,W
+play,3,0,engea001,01,C>C,CS2(26)
+play,3,0,engea001,02,C>C.FX,7/F
+play,3,0,moncy001,00,X,43/G
+play,3,1,branm003,32,SFBBBB,W
+play,3,1,ramij003,00,1X,6/P
+play,3,1,encae001,01,CX,S8/G.1-2
+play,3,1,alony001,00,>B,CS3(25).1-2
+play,3,1,alony001,32,>B.FFFBFFBS,K
+play,5,1,ramij003,31,BBCBB,W
+play,5,1,encae001,22,B1CB>F1>F1>B,SB2
+play,5,1,encae001,32,B1CB>F1>F1>B.2S,K
+play,5,1,alony001,31,BBF*BX,D9/L+.2-H
+play,5,1,kipnj001,00,,NP
+sub,avill001,"""Luis Avilan""",0,0,1
+play,5,1,kipnj001,22,.CFBBX,13/G.2-3
+play,5,1,gomey001,30,VVVV,IW
+play,5,1,naqut001,00,X,8/L
+play,6,1,davir003,00,,NP
+sub,rondb001,"""Bruce Rondon""",0,0,1
+play,6,1,davir003,32,..BFBBCX,S8/L
+play,6,1,lindf001,11,BF>B,SB2
+play,6,1,lindf001,21,BF>B.B,WP.2-3
+play,6,1,lindf001,31,BF>B.B.B,W
+play,6,1,branm003,00,>B,SB2
+play,6,1,branm003,10,>B.+3X,43/G
+play,6,1,ramij003,30,VVVV,IW
+play,6,1,encae001,12,SF*BFX,D7/L+.3-H;2-H;1-3
+play,6,1,alony001,32,BC*BBTB,W
+play,6,1,kipnj001,00,B,WP.3-H(NR);2-3;1-2
+play,6,1,kipnj001,10,B.X,HR/89/L.3-H;2-H
+play,6,1,gomey001,22,BBCSS,K
+play,6,1,naqut001,12,CFBX,31/G
+sub,gonze004,"""Erik Gonzalez""",1,3,5
+sub,minaj001,"""Juan Minaya""",0,0,1
+sub,guyeb001,"""Brandon Guyer""",1,2,12
+sub,guyeb001,"""Brandon Guyer""",1,2,7
+sub,kontg001,"""George Kontos""",1,0,1
+sub,thomt002,"""Trayce Thompson""",0,9,11
+sub,rondj002,"""Jose Rondon""",0,1,4
+sub,thomt002,"""Trayce Thompson""",0,9,8
+sub,santh001,"""Hector Santiago""",0,0,1
+sub,tomlj001,"""Josh Tomlin""",1,0,1

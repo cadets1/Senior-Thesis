@@ -1,0 +1,63 @@
+id,CLE201805240
+info,visteam,HOU
+info,hometeam,CLE
+info,date,2018/05/24
+info,starttime,6:11PM
+start,sprig001,"""George Springer""",0,1,9
+start,brega001,"""Alex Bregman""",0,2,5
+start,altuj001,"""Jose Altuve""",0,3,4
+start,corrc001,"""Carlos Correa""",0,4,6
+start,gonzm002,"""Marwin Gonzalez""",0,5,3
+start,gurry001,"""Yulieski Gurriel""",0,6,10
+start,mccab002,"""Brian McCann""",0,7,2
+start,marij002,"""Jake Marisnick""",0,8,8
+start,kempt001,"""Tony Kemp""",0,9,7
+start,mortc002,"""Charlie Morton""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,10
+start,alony001,"""Yonder Alonso""",1,5,3
+start,cabrm002,"""Melky Cabrera""",1,6,9
+start,kipnj001,"""Jason Kipnis""",1,7,4
+start,perer003,"""Roberto Perez""",1,8,2
+start,alleg002,"""Greg Allen""",1,9,8
+start,clevm001,"""Mike Clevinger""",1,0,1
+play,1,0,sprig001,32,CCBBBB,W
+play,1,0,brega001,12,CCBC,K
+play,1,0,altuj001,00,>S,SB2
+play,1,0,altuj001,12,>S.BFFT,K
+play,1,0,corrc001,22,BCCBS,K
+play,5,0,mccab002,11,BCX,63/G
+play,5,0,marij002,32,FSBBBFX,S7/G
+play,5,0,kempt001,01,1F1,PO1(13)
+play,5,0,kempt001,02,1F1.FH,HP
+play,5,0,sprig001,00,1>B,SB2
+play,5,0,sprig001,30,1>B.BBB,W
+play,5,0,brega001,22,BBCCFX,HR/7/F.2-H;1-H
+play,5,0,altuj001,12,CBCFFX,63/G
+play,6,0,corrc001,22,BCCBX,S9/L
+play,6,0,gonzm002,10,BX,3/G.1-2
+play,6,0,gurry001,11,FBX,S7/L.2-3
+play,6,0,mccab002,00,,NP
+sub,olsot002,"""Tyler Olson""",1,0,1
+play,6,0,mccab002,00,,NP
+sub,stasm001,"""Max Stassi""",0,7,11
+play,6,0,stasm001,01,..CX,S7/G.3-H;1-2
+play,6,0,marij002,00,,NP
+sub,ramin001,"""Neil Ramirez""",1,0,1
+play,6,0,marij002,22,.BBFSX,HR/8/F.2-H;1-H
+play,6,0,kempt001,02,CSX,43/G
+play,6,0,sprig001,02,CSFX,S9/G
+play,6,0,brega001,11,S*B1>B,SB2
+play,6,0,brega001,21,S*B1>B.X,D8/L.2-H
+play,6,0,altuj001,00,,NP
+sub,drako001,"""Oliver Drake""",1,0,1
+play,6,0,altuj001,12,.FF*BX,8/F
+sub,stasm001,"""Max Stassi""",0,7,2
+sub,rondh001,"""Hector Rondon""",0,0,1
+sub,mcalz001,"""Zach McAllister""",1,0,1
+sub,mchuc001,"""Collin McHugh""",0,0,1
+sub,gonze004,"""Erik Gonzalez""",1,1,6
+sub,davir003,"""Rajai Davis""",1,2,7
+sub,tomlj001,"""Josh Tomlin""",1,0,1

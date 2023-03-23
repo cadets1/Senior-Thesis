@@ -1,0 +1,46 @@
+id,CLE201808190
+info,visteam,BAL
+info,hometeam,CLE
+info,date,2018/08/19
+info,starttime,1:10PM
+start,mullc002,"""Cedric Mullins""",0,1,8
+start,manct001,"""Trey Mancini""",0,2,7
+start,villj001,"""Jonathan Villar""",0,3,6
+start,trumm001,"""Mark Trumbo""",0,4,10
+start,davic003,"""Chris Davis""",0,5,3
+start,nuner001,"""Renato Nunez""",0,6,5
+start,gentc001,"""Craig Gentry""",0,7,9
+start,petej002,"""Jace Peterson""",0,8,4
+start,josec002,"""Caleb Joseph""",0,9,2
+start,ramiy001,"""Yefry Ramirez""",0,0,1
+start,alleg002,"""Greg Allen""",1,1,8
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,diazy001,"""Yandy Diaz""",1,4,10
+start,alony001,"""Yonder Alonso""",1,5,3
+start,cabrm002,"""Melky Cabrera""",1,6,9
+start,kipnj001,"""Jason Kipnis""",1,7,4
+start,perer003,"""Roberto Perez""",1,8,2
+start,gonze004,"""Erik Gonzalez""",1,9,6
+start,clevm001,"""Mike Clevinger""",1,0,1
+play,1,1,alleg002,01,CH,HP
+play,1,1,branm003,21,B1BC1X,7/L
+play,1,1,ramij003,00,>B,SB2
+play,1,1,ramij003,31,>B.BFBX,7/L
+play,1,1,diazy001,12,BCFX,D9/L+.2-H
+play,1,1,alony001,22,B2*BCFB,WP.2-3
+play,1,1,alony001,32,B2*BCFB.B,W
+play,1,1,cabrm002,22,BCT*BX,4/L
+sub,gilms001,"""Sean Gilmartin""",0,0,1
+sub,meisr001,"""Ryan Meisinger""",0,0,1
+sub,scott003,"""Tanner Scott""",0,0,1
+sub,guyeb001,"""Brandon Guyer""",1,6,9
+sub,milla002,"""Andrew Miller""",1,0,1
+sub,carrc004,"""Cody Carroll""",0,0,1
+sub,davir003,"""Rajai Davis""",1,2,7
+sub,oterd001,"""Dan Otero""",1,0,1
+sub,wynna001,"""Austin Wynns""",0,4,11
+sub,manct001,"""Trey Mancini""",0,2,3
+sub,rickj001,"""Joey Rickard""",0,5,7
+sub,fry-p001,"""Paul Fry""",0,0,1
+sub,cimba001,"""Adam Cimber""",1,0,1

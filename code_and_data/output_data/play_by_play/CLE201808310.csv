@@ -1,0 +1,48 @@
+id,CLE201808310
+info,visteam,TBA
+info,hometeam,CLE
+info,date,2018/08/31
+info,starttime,7:10PM
+start,wendj002,"""Joey Wendle""",0,1,4
+start,duffm002,"""Matt Duffy""",0,2,5
+start,choij001,"""Ji-Man Choi""",0,3,10
+start,phamt001,"""Tommy Pham""",0,4,7
+start,bauej001,"""Jake Bauers""",0,5,9
+start,cronc002,"""C.J. Cron""",0,6,3
+start,kierk001,"""Kevin Kiermaier""",0,7,8
+start,adamw002,"""Willy Adames""",0,8,6
+start,sucrj001,"""Jesus Sucre""",0,9,2
+start,glast001,"""Tyler Glasnow""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,10
+start,alony001,"""Yonder Alonso""",1,5,3
+start,cabrm002,"""Melky Cabrera""",1,6,9
+start,kipnj001,"""Jason Kipnis""",1,7,4
+start,gomey001,"""Yan Gomes""",1,8,2
+start,alleg002,"""Greg Allen""",1,9,8
+start,klubc001,"""Corey Kluber""",1,0,1
+play,5,1,encae001,00,X,8/L+
+play,5,1,alony001,01,CX,63/G
+play,5,1,cabrm002,01,CX,S7/G
+play,5,1,kipnj001,12,*BFCF*B,SB2
+play,5,1,kipnj001,22,*BFCF*B.S,K
+sub,guyeb001,"""Brandon Guyer""",1,6,9
+sub,allec002,"""Cody Allen""",1,0,1
+sub,loweb001,"""Brandon Lowe""",0,9,11
+play,8,1,kipnj001,00,,NP
+sub,moora001,"""Adam Moore""",0,9,2
+play,8,1,kipnj001,00,,NP
+sub,stanr002,"""Ryne Stanek""",0,0,1
+play,8,1,kipnj001,10,..BX,8/F
+play,8,1,gomey001,32,SBSBBX,6/P
+play,8,1,alleg002,00,X,S7/L
+play,8,1,lindf001,00,>C,SB2
+play,8,1,lindf001,12,>C.BSB,WP.2-3
+play,8,1,lindf001,32,>C.BSB.BB,W
+play,8,1,branm003,00,>B,SB2.3-H(WP)(NR)
+play,8,1,branm003,10,>B.>B,SB3
+play,8,1,branm003,20,>B.>B.X,S8/G+.3-H
+play,8,1,ramij003,22,B1BFSS,K
+sub,handb001,"""Brad Hand""",1,0,1

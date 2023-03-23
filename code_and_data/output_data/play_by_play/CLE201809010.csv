@@ -1,0 +1,54 @@
+id,CLE201809010
+info,visteam,TBA
+info,hometeam,CLE
+info,date,2018/09/01
+info,starttime,7:10PM
+start,wendj002,"""Joey Wendle""",0,1,4
+start,duffm002,"""Matt Duffy""",0,2,5
+start,choij001,"""Ji-Man Choi""",0,3,10
+start,phamt001,"""Tommy Pham""",0,4,7
+start,kierk001,"""Kevin Kiermaier""",0,5,8
+start,adamw002,"""Willy Adames""",0,6,6
+start,bauej001,"""Jake Bauers""",0,7,3
+start,sucrj001,"""Jesus Sucre""",0,8,2
+start,loweb001,"""Brandon Lowe""",0,9,9
+start,snelb001,"""Blake Snell""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,3
+start,diazy001,"""Yandy Diaz""",1,5,10
+start,guyeb001,"""Brandon Guyer""",1,6,8
+start,cabrm002,"""Melky Cabrera""",1,7,9
+start,gomey001,"""Yan Gomes""",1,8,2
+start,gonze004,"""Erik Gonzalez""",1,9,4
+start,biebs001,"""Shane Bieber""",1,0,1
+play,1,1,lindf001,02,CCS,K23
+play,1,1,branm003,20,BBX,S7/L
+play,1,1,ramij003,12,BSS>S,K+SB2
+play,1,1,encae001,30,BB*BB,W
+play,1,1,diazy001,22,BSBC*B,SB3;SB2
+play,1,1,diazy001,32,BSBC*B.X,9/F3F
+play,2,0,kierk001,02,SFC,K
+play,2,0,adamw002,02,SSX,S8/G+
+play,2,0,bauej001,21,BBS>B,CS2(26)
+play,2,0,bauej001,32,BBS>B.FFFX,6/L+
+play,4,1,guyeb001,01,CX,S9/F-
+play,4,1,cabrm002,00,>S,CS2(24)
+play,4,1,cabrm002,02,>S.SX,S9/L
+play,4,1,gomey001,12,BCFX,9/F
+play,4,1,gonze004,22,*BF*BSX,54(1)/FO/G
+sub,olsot002,"""Tyler Olson""",1,0,1
+sub,cimba001,"""Adam Cimber""",1,0,1
+sub,pereo002,"""Oliver Perez""",1,0,1
+sub,oterd001,"""Dan Otero""",1,0,1
+sub,phamt001,"""Tommy Pham""",0,4,8
+sub,gomec002,"""Carlos Gomez""",0,5,9
+sub,loweb001,"""Brandon Lowe""",0,9,7
+sub,alvaj004,"""Jose Alvarado""",0,0,1
+sub,edwaj001,"""Jon Edwards""",1,0,1
+sub,roe-c001,"""Chaz Roe""",0,0,1
+sub,tomlj001,"""Josh Tomlin""",1,0,1
+sub,kipnj001,"""Jason Kipnis""",1,6,11
+sub,alony001,"""Yonder Alonso""",1,9,11
+sub,kolaa001,"""Adam Kolarek""",0,0,1

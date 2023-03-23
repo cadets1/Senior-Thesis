@@ -1,0 +1,51 @@
+id,CLE201807250
+info,visteam,PIT
+info,hometeam,CLE
+info,date,2018/07/25
+info,starttime,1:10PM
+start,luplj001,"""Jordan Luplow""",0,1,7
+start,marts002,"""Starling Marte""",0,2,8
+start,polag001,"""Gregory Polanco""",0,3,9
+start,morac001,"""Colin Moran""",0,4,5
+start,bellj005,"""Josh Bell""",0,5,3
+start,freed001,"""David Freese""",0,6,10
+start,rodrs002,"""Sean Rodriguez""",0,7,4
+start,mercj002,"""Jordy Mercer""",0,8,6
+start,stalj001,"""Jacob Stallings""",0,9,2
+start,tailj001,"""Jameson Taillon""",0,0,1
+start,lindf001,"""Francisco Lindor""",1,1,6
+start,branm003,"""Michael Brantley""",1,2,7
+start,ramij003,"""Jose Ramirez""",1,3,5
+start,encae001,"""Edwin Encarnacion""",1,4,10
+start,alony001,"""Yonder Alonso""",1,5,3
+start,cabrm002,"""Melky Cabrera""",1,6,9
+start,kipnj001,"""Jason Kipnis""",1,7,4
+start,perer003,"""Roberto Perez""",1,8,2
+start,naqut001,"""Tyler Naquin""",1,9,8
+start,bauet001,"""Trevor Bauer""",1,0,1
+play,1,0,luplj001,22,FBCBX,2/P2F
+play,1,0,marts002,01,LH,HP
+play,1,0,polag001,01,1C1>C,CS2(26)
+play,1,0,polag001,22,1C1>C.BFBX,63/G+
+sub,fraza001,"""Adam Frazier""",0,2,8
+play,3,1,naqut001,10,BX,53/G
+play,3,1,lindf001,01,CX,S7/L
+play,3,1,branm003,01,11CX,S7/L+.1-2
+play,3,1,ramij003,02,CFX,36(1)/FO/G.2-3
+play,3,1,encae001,10,B>B,SB2
+play,3,1,encae001,20,B>B.X,S8/L.3-H;2-H
+play,3,1,alony001,21,CBBX,3/G
+sub,davir003,"""Rajai Davis""",1,6,12
+sub,davir003,"""Rajai Davis""",1,6,8
+sub,naqut001,"""Tyler Naquin""",1,9,9
+sub,cimba001,"""Adam Cimber""",1,0,1
+sub,handb001,"""Brad Hand""",1,0,1
+play,8,1,branm003,00,,NP
+sub,crick001,"""Kyle Crick""",0,0,1
+play,8,1,branm003,32,.BFFBBX,43/G
+play,8,1,ramij003,32,BTCBBFB,W
+play,8,1,encae001,12,1C>F11B>S,K+SB2
+play,8,1,alony001,00,,NP
+sub,rivef001,"""Felipe Rivero""",0,0,1
+play,8,1,alony001,22,.BFBSX,HR/89/F.2-H
+play,8,1,davir003,00,X,53/G
