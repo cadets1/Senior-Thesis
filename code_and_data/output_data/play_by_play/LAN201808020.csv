@@ -1,0 +1,51 @@
+id,LAN201808020
+info,visteam,MIL
+info,hometeam,LAN
+info,date,2018/08/02
+info,starttime,6:08PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,9
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,schoj001,"""Jonathan Schoop""",0,4,4
+start,braur002,"""Ryan Braun""",0,5,7
+start,shawt001,"""Travis Shaw""",0,6,5
+start,krate001,"""Erik Kratz""",0,7,2
+start,arcio002,"""Orlando Arcia""",0,8,6
+start,chacj001,"""Jhoulys Chacin""",0,9,1
+start,pedej001,"""Joc Pederson""",1,1,7
+start,machm001,"""Manny Machado""",1,2,6
+start,turnj001,"""Justin Turner""",1,3,5
+start,grany001,"""Yasmani Grandal""",1,4,2
+start,bellc002,"""Cody Bellinger""",1,5,8
+start,dozib001,"""Brian Dozier""",1,6,4
+start,muncm001,"""Max Muncy""",1,7,3
+start,puigy001,"""Yasiel Puig""",1,8,9
+start,kersc001,"""Clayton Kershaw""",1,9,1
+play,3,1,kersc001,12,BCCX,43/G
+play,3,1,pedej001,32,CBBCBFX,E4/G
+play,3,1,machm001,11,BSX,S8/G.1-H(E6)(UR)
+play,3,1,turnj001,02,C1C1>B,SB2
+play,3,1,turnj001,12,C1C1>B.FH,HP
+play,3,1,grany001,32,BBBCCB,W.2-3;1-2
+play,3,1,bellc002,01,CX,HR/9/F.3-H;2-H;1-H
+play,3,1,dozib001,21,CBBX,63/G
+play,3,1,muncm001,21,BCBX,5/L
+sub,shawt001,"""Travis Shaw""",0,6,4
+sub,mousm001,"""Mike Moustakas""",0,9,5
+sub,albem001,"""Matt Albers""",0,4,1
+sub,herne001,"""Enrique Hernandez""",1,2,6
+sub,willt003,"""Taylor Williams""",0,4,1
+sub,bellc002,"""Cody Bellinger""",1,5,3
+sub,muncm001,"""Max Muncy""",1,7,5
+sub,taylc001,"""Chris Taylor""",1,9,8
+sub,goede001,"""Erik Goeddel""",1,3,1
+sub,thame001,"""Eric Thames""",0,1,11
+sub,thame001,"""Eric Thames""",0,1,9
+sub,yelic001,"""Christian Yelich""",0,2,8
+sub,pereh001,"""Hernan Perez""",0,4,1
+sub,barna001,"""Austin Barnes""",1,3,11
+sub,barna001,"""Austin Barnes""",1,3,4
+sub,baezp001,"""Pedro Baez""",1,6,1
+sub,pinam001,"""Manny Pina""",0,2,2
+sub,pereh001,"""Hernan Perez""",0,4,8
+sub,krate001,"""Erik Kratz""",0,7,1

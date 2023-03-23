@@ -1,0 +1,57 @@
+id,LAN201807010
+info,visteam,COL
+info,hometeam,LAN
+info,date,2018/07/01
+info,starttime,1:10PM
+start,lemad001,"""DJ LeMahieu""",0,1,4
+start,parrg001,"""Gerardo Parra""",0,2,7
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,gonzc001,"""Carlos Gonzalez""",0,4,9
+start,stort001,"""Trevor Story""",0,5,6
+start,desmi001,"""Ian Desmond""",0,6,3
+start,tapir001,"""Raimel Tapia""",0,7,8
+start,murpt002,"""Tom Murphy""",0,8,2
+start,bettc001,"""Chad Bettis""",0,9,1
+start,taylc001,"""Chris Taylor""",1,1,6
+start,muncm001,"""Max Muncy""",1,2,4
+start,turnj001,"""Justin Turner""",1,3,5
+start,kempm001,"""Matt Kemp""",1,4,7
+start,bellc002,"""Cody Bellinger""",1,5,3
+start,puigy001,"""Yasiel Puig""",1,6,9
+start,pedej001,"""Joc Pederson""",1,7,8
+start,barna001,"""Austin Barnes""",1,8,2
+start,strir001,"""Ross Stripling""",1,9,1
+sub,valap001,"""Pat Valaika""",0,9,11
+sub,rusic001,"""Chris Rusin""",0,9,1
+play,6,1,pedej001,21,BBCX,3/G
+play,6,1,barna001,00,X,S5/BG
+play,6,1,strir001,00,,NP
+sub,forsl001,"""Logan Forsythe""",1,9,11
+play,6,1,forsl001,00,,NP
+sub,obers001,"""Scott Oberg""",0,9,1
+play,6,1,forsl001,10,..B>S,CS2(24)
+play,6,1,forsl001,22,..B>S.FBS,K
+sub,alexs001,"""Scott Alexander""",1,9,1
+sub,hudsd001,"""Daniel Hudson""",1,9,1
+play,8,1,kempm001,00,,NP
+sub,ottaa001,"""Adam Ottavino""",0,9,1
+play,8,1,kempm001,11,.CBX,HR/8/L
+play,8,1,bellc002,22,BSBSS,K
+play,8,1,puigy001,12,SCBX,D7/L
+play,8,1,pedej001,22,CBBSX,S4/G.2-H(TH)(NR)
+play,8,1,barna001,00,,NP
+sub,grany001,"""Yasmani Grandal""",1,8,11
+play,8,1,grany001,22,.11FSB1BX,S9/G.1-3
+play,8,1,hudsd001,00,,NP
+sub,utlec001,"""Chase Utley""",1,9,11
+play,8,1,utlec001,00,,NP
+sub,dunnm002,"""Michael Dunn""",0,9,1
+play,8,1,utlec001,00,,NP
+sub,herne001,"""Enrique Hernandez""",1,9,11
+play,8,1,herne001,02,...CF1X,5/P
+play,8,1,taylc001,22,SBBF>3,POCSH(13)
+sub,pedej001,"""Joc Pederson""",1,7,7
+sub,grany001,"""Yasmani Grandal""",1,8,2
+sub,herne001,"""Enrique Hernandez""",1,9,8
+sub,jansk001,"""Kenley Jansen""",1,4,1
+sub,blacc001,"""Charlie Blackmon""",0,9,11

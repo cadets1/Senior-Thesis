@@ -1,0 +1,42 @@
+id,LAN201808210
+info,visteam,SLN
+info,hometeam,LAN
+info,date,2018/08/21
+info,starttime,7:10PM
+start,martj008,"""Jose Martinez""",0,1,3
+start,moliy001,"""Yadier Molina""",0,2,2
+start,oneit001,"""Tyler O'Neill""",0,3,9
+start,ozunm001,"""Marcell Ozuna""",0,4,7
+start,dejop001,"""Paul DeJong""",0,5,6
+start,gyorj001,"""Jedd Gyorko""",0,6,5
+start,badeh001,"""Harrison Bader""",0,7,8
+start,wongk001,"""Kolten Wong""",0,8,4
+start,poncd001,"""Daniel Poncedeleon""",0,9,1
+start,pedej001,"""Joc Pederson""",1,1,7
+start,turnj001,"""Justin Turner""",1,2,5
+start,machm001,"""Manny Machado""",1,3,6
+start,bellc002,"""Cody Bellinger""",1,4,8
+start,muncm001,"""Max Muncy""",1,5,3
+start,grany001,"""Yasmani Grandal""",1,6,2
+start,taylc001,"""Chris Taylor""",1,7,4
+start,puigy001,"""Yasiel Puig""",1,8,9
+start,ryu-h001,"""Hyun-Jin Ryu""",1,9,1
+sub,dozib001,"""Brian Dozier""",1,9,11
+sub,flord002,"""Dylan Floro""",1,9,1
+sub,weavl001,"""Luke Weaver""",0,9,1
+sub,kempm001,"""Matt Kemp""",1,9,11
+sub,hudsd001,"""Daniel Hudson""",1,9,1
+sub,shrec001,"""Chasen Shreve""",0,9,1
+sub,carpm002,"""Matt Carpenter""",0,9,3
+sub,martc006,"""Carlos Martinez""",0,1,1
+play,8,0,gyorj001,00,X,8/F
+play,8,0,badeh001,22,CBCFFBH,HP
+play,8,0,wongk001,00,,NP
+sub,alexs001,"""Scott Alexander""",1,9,1
+play,8,0,wongk001,00,.1>C,CS2(26)
+play,8,0,wongk001,01,.1>C.X,43/G
+sub,herne001,"""Enrique Hernandez""",1,9,11
+sub,herne001,"""Enrique Hernandez""",1,9,7
+sub,fergc001,"""Caleb Ferguson""",1,1,1
+sub,mikom001,"""Miles Mikolas""",0,1,11
+sub,norrb001,"""Bud Norris""",0,1,1

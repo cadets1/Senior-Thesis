@@ -1,0 +1,52 @@
+id,LAN201807130
+info,visteam,ANA
+info,hometeam,LAN
+info,date,2018/07/13
+info,starttime,7:10PM
+start,calhk001,"""Kole Calhoun""",0,1,9
+start,simma001,"""Andrelton Simmons""",0,2,6
+start,troum001,"""Mike Trout""",0,3,8
+start,uptoj001,"""Justin Upton""",0,4,7
+start,valbl001,"""Luis Valbuena""",0,5,5
+start,kinsi001,"""Ian Kinsler""",0,6,4
+start,fernj004,"""Jose Miguel Fernandez""",0,7,3
+start,bricj001,"""Jose Briceno""",0,8,2
+start,penaf002,"""Felix Pena""",0,9,1
+start,pedej001,"""Joc Pederson""",1,1,7
+start,muncm001,"""Max Muncy""",1,2,5
+start,kempm001,"""Matt Kemp""",1,3,9
+start,bellc002,"""Cody Bellinger""",1,4,3
+start,grany001,"""Yasmani Grandal""",1,5,2
+start,taylc001,"""Chris Taylor""",1,6,6
+start,tolea001,"""Andrew Toles""",1,7,8
+start,herne001,"""Enrique Hernandez""",1,8,4
+start,buehw001,"""Walker Buehler""",1,9,1
+play,2,0,kinsi001,01,CX,S8/L
+play,2,0,fernj004,01,C1X,7/F
+play,2,0,bricj001,11,*BC1>B,SB2
+play,2,0,bricj001,32,*BC1>B.*BFC,K
+play,2,0,penaf002,12,CCBFFX,3/G
+play,3,0,calhk001,32,BBSSBFX,HR/8/F
+play,3,0,simma001,00,X,S7/L
+play,3,0,troum001,10,*BX,8/L
+play,3,0,uptoj001,22,BBFF1B,WP.1-2
+play,3,0,uptoj001,32,BBFF1B.*B,W
+play,3,0,valbl001,12,*BCSS,K
+play,3,0,kinsi001,01,CN,SB3
+play,3,0,kinsi001,02,CN.FF>X,3/L
+sub,utlec001,"""Chase Utley""",1,9,11
+sub,alvaj003,"""Jose Alvarez""",0,9,1
+sub,fergc001,"""Caleb Ferguson""",1,9,1
+sub,roblh001,"""Hansel Robles""",0,9,1
+sub,fletd002,"""David Fletcher""",0,9,11
+sub,valbl001,"""Luis Valbuena""",0,5,3
+sub,fletd002,"""David Fletcher""",0,9,5
+sub,bedrc001,"""Cam Bedrosian""",0,7,1
+sub,forsl001,"""Logan Forsythe""",1,9,11
+sub,andej005,"""Justin Anderson""",0,7,1
+sub,herne001,"""Enrique Hernandez""",1,8,9
+sub,forsl001,"""Logan Forsythe""",1,9,4
+sub,goede001,"""Erik Goeddel""",1,3,1
+sub,alexs001,"""Scott Alexander""",1,3,1
+sub,ohtas001,"""Shohei Ohtani""",0,7,11
+sub,blasj001,"""Jabari Blash""",0,8,12

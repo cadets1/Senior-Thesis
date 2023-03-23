@@ -1,0 +1,41 @@
+id,LAN201808220
+info,visteam,SLN
+info,hometeam,LAN
+info,date,2018/08/22
+info,starttime,7:10PM
+start,carpm002,"""Matt Carpenter""",0,1,3
+start,moliy001,"""Yadier Molina""",0,2,2
+start,martj008,"""Jose Martinez""",0,3,9
+start,gyorj001,"""Jedd Gyorko""",0,4,5
+start,dejop001,"""Paul DeJong""",0,5,6
+start,wongk001,"""Kolten Wong""",0,6,4
+start,badeh001,"""Harrison Bader""",0,7,8
+start,munoy001,"""Yairo Munoz""",0,8,7
+start,flahj002,"""Jack Flaherty""",0,9,1
+start,pedej001,"""Joc Pederson""",1,1,7
+start,turnj001,"""Justin Turner""",1,2,5
+start,machm001,"""Manny Machado""",1,3,6
+start,bellc002,"""Cody Bellinger""",1,4,8
+start,dozib001,"""Brian Dozier""",1,5,4
+start,muncm001,"""Max Muncy""",1,6,3
+start,grany001,"""Yasmani Grandal""",1,7,2
+start,puigy001,"""Yasiel Puig""",1,8,9
+start,buehw001,"""Walker Buehler""",1,9,1
+sub,cecib001,"""Brett Cecil""",0,9,1
+sub,taylc001,"""Chris Taylor""",1,6,11
+sub,bellc002,"""Cody Bellinger""",1,4,3
+sub,taylc001,"""Chris Taylor""",1,6,8
+sub,alexs001,"""Scott Alexander""",1,9,1
+sub,oneit001,"""Tyler O'Neill""",0,9,11
+sub,hudsd002,"""Dakota Hudson""",0,9,1
+sub,kempm001,"""Matt Kemp""",1,9,11
+play,9,0,martj008,00,,NP
+sub,jansk001,"""Kenley Jansen""",1,9,1
+play,9,0,martj008,01,.SX,9/F
+play,9,0,gyorj001,31,BFBBX,S7/L
+play,9,0,dejop001,02,1FF1X,HR/78/F.1-H
+play,9,0,wongk001,22,BSBSX,S6/G
+play,9,0,badeh001,00,>B,SB2
+play,9,0,badeh001,20,>B.BX,63/G
+play,9,0,munoy001,32,FBFBBX,63/G-
+sub,hickj002,"""Jordan Hicks""",0,9,1

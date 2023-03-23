@@ -1,0 +1,40 @@
+id,LAN201805300
+info,visteam,PHI
+info,hometeam,LAN
+info,date,2018/05/30
+info,starttime,7:10PM
+start,hernc005,"""Cesar Hernandez""",0,1,4
+start,herro001,"""Odubel Herrera""",0,2,8
+start,santc002,"""Carlos Santana""",0,3,3
+start,altha001,"""Aaron Altherr""",0,4,9
+start,willn001,"""Nick Williams""",0,5,7
+start,kings001,"""Scott Kingery""",0,6,6
+start,waldm001,"""Mitch Walding""",0,7,5
+start,alfaj002,"""Jorge Alfaro""",0,8,2
+start,efliz001,"""Zach Eflin""",0,9,1
+start,pedej001,"""Joc Pederson""",1,1,7
+start,muncm001,"""Max Muncy""",1,2,3
+start,grany001,"""Yasmani Grandal""",1,3,2
+start,kempm001,"""Matt Kemp""",1,4,9
+start,bellc002,"""Cody Bellinger""",1,5,8
+start,taylc001,"""Chris Taylor""",1,6,6
+start,valeb001,"""Breyvic Valera""",1,7,5
+start,forsl001,"""Logan Forsythe""",1,8,4
+start,strir001,"""Ross Stripling""",1,9,1
+play,3,1,strir001,01,CX,43/G
+play,3,1,pedej001,12,CFBX,13/G-
+play,3,1,muncm001,20,BBX,HR/8/F
+play,3,1,grany001,32,BTBBCB,W
+play,3,1,kempm001,00,X,HR/7/F.1-H
+play,3,1,bellc002,32,BBCBFFX,S9/L+
+play,3,1,taylc001,11,BS>B,SB2
+play,3,1,taylc001,22,BS>B.FC,K
+sub,valej006,"""Jesmuel Valentin""",0,9,11
+sub,aranv001,"""Victor Arano""",0,9,1
+sub,franm004,"""Maikel Franco""",0,9,11
+sub,hutcd001,"""Drew Hutchison""",0,9,1
+sub,garcy001,"""Yimi Garcia""",1,9,1
+sub,herne001,"""Enrique Hernandez""",1,9,11
+sub,herne001,"""Enrique Hernandez""",1,9,9
+sub,vendp001,"""Pat Venditte""",1,4,1
+sub,knapa001,"""Andrew Knapp""",0,9,11

@@ -1,0 +1,81 @@
+id,LAN201809040
+info,visteam,NYN
+info,hometeam,LAN
+info,date,2018/09/04
+info,starttime,7:10PM
+start,rosaa003,"""Amed Rosario""",0,1,6
+start,jacka001,"""Austin Jackson""",0,2,8
+start,florw001,"""Wilmer Flores""",0,3,4
+start,confm001,"""Michael Conforto""",0,4,7
+start,frazt001,"""Todd Frazier""",0,5,5
+start,brucj001,"""Jay Bruce""",0,6,3
+start,plawk001,"""Kevin Plawecki""",0,7,2
+start,nimmb001,"""Brandon Nimmo""",0,8,9
+start,vargj001,"""Jason Vargas""",0,9,1
+start,dozib001,"""Brian Dozier""",1,1,4
+start,turnj001,"""Justin Turner""",1,2,5
+start,machm001,"""Manny Machado""",1,3,6
+start,kempm001,"""Matt Kemp""",1,4,9
+start,freed001,"""David Freese""",1,5,3
+start,herne001,"""Enrique Hernandez""",1,6,8
+start,taylc001,"""Chris Taylor""",1,7,7
+start,barna001,"""Austin Barnes""",1,8,2
+start,hillr001,"""Rich Hill""",1,9,1
+play,4,1,freed001,32,BBFBFFFX,HR/78/F
+play,4,1,herne001,12,BFCX,S4/G
+play,4,1,taylc001,12,CFBX,D8/L+.1-3
+play,4,1,barna001,22,BFBFX,E5/G.3-H;2-3
+play,4,1,hillr001,00,X,FC1/BG.3XH(12);1-2
+play,4,1,dozib001,00,,NP
+sub,basht001,"""Tyler Bashlor""",0,9,1
+play,4,1,dozib001,00,.>B,SB3
+play,4,1,dozib001,20,.>B.BX,54(1)/FO/G.3-H(UR)
+play,4,1,turnj001,22,11B1SB>F>S,K
+sub,hanhe001,"""Eric Hanhold""",0,9,1
+sub,muncm001,"""Max Muncy""",1,8,11
+sub,pedej001,"""Joc Pederson""",1,9,11
+sub,zamod001,"""Daniel Zamora""",0,9,1
+sub,farmk001,"""Kyle Farmer""",1,9,11
+sub,sewap001,"""Paul Sewald""",0,9,1
+sub,grany001,"""Yasmani Grandal""",1,9,2
+sub,baezp001,"""Pedro Baez""",1,8,1
+sub,smitd008,"""Dominic Smith""",0,9,11
+sub,mcnej002,"""Jeff McNeil""",0,2,11
+play,7,1,turnj001,00,,NP
+sub,mcnej002,"""Jeff McNeil""",0,2,4
+play,7,1,turnj001,00,,NP
+sub,brucj001,"""Jay Bruce""",0,6,9
+play,7,1,turnj001,00,,NP
+sub,nimmb001,"""Brandon Nimmo""",0,8,8
+play,7,1,turnj001,00,,NP
+sub,smitd008,"""Dominic Smith""",0,9,3
+play,7,1,turnj001,00,,NP
+sub,oswac001,"""Corey Oswalt""",0,3,1
+play,7,1,turnj001,00,.....X,D9/F
+play,7,1,machm001,00,X,D8/L+.2-H
+play,7,1,kempm001,11,CBB,WP.2-H(NR)
+play,7,1,kempm001,32,CBB.FBB,W
+play,7,1,freed001,00,,NP
+sub,locat001,"""Tim Locastro""",1,4,12
+play,7,1,freed001,01,.1C>C,SB2
+play,7,1,freed001,02,.1C>C.X,D9/L.2-H
+play,7,1,herne001,12,CBCFX,S8/L.2-H
+play,7,1,taylc001,00,,NP
+sub,rhamj001,"""Jacob Rhame""",0,3,1
+play,7,1,taylc001,00,.X,S9/L.1-3
+play,7,1,baezp001,00,,NP
+sub,bellc002,"""Cody Bellinger""",1,8,11
+play,7,1,bellc002,00,.X,3/P3F
+play,7,1,grany001,22,BCFBX,S9/L+.3-H;1-H
+play,7,1,dozib001,00,X,54(1)3/GDP
+sub,verda001,"""Alex Verdugo""",1,3,9
+sub,tolea001,"""Andrew Toles""",1,2,8
+sub,freed001,"""David Freese""",1,5,5
+sub,herne001,"""Enrique Hernandez""",1,6,6
+sub,bellc002,"""Cody Bellinger""",1,8,3
+sub,rossz001,"""Zac Rosscup""",1,4,1
+sub,reinj001,"""Jack Reinheimer""",0,1,6
+sub,utlec001,"""Chase Utley""",1,4,11
+sub,fielj002,"""Josh Fields""",1,4,1
+sub,vendp001,"""Pat Venditte""",1,4,1
+sub,reyej001,"""Jose Reyes""",0,3,11

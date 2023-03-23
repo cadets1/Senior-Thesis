@@ -1,0 +1,48 @@
+id,LAN201808260
+info,visteam,SDN
+info,hometeam,LAN
+info,date,2018/08/26
+info,starttime,1:10PM
+start,galvf001,"""Freddy Galvis""",0,1,6
+start,myerw001,"""Wil Myers""",0,2,5
+start,renfh001,"""Hunter Renfroe""",0,3,7
+start,hosme001,"""Eric Hosmer""",0,4,3
+start,reyef001,"""Franmil Reyes""",0,5,9
+start,hedga001,"""Austin Hedges""",0,6,2
+start,spanc001,"""Cory Spangenberg""",0,7,4
+start,margm001,"""Manuel Margot""",0,8,8
+start,erlir001,"""Robbie Erlin""",0,9,1
+start,dozib001,"""Brian Dozier""",1,1,4
+start,turnj001,"""Justin Turner""",1,2,5
+start,machm001,"""Manny Machado""",1,3,6
+start,kempm001,"""Matt Kemp""",1,4,7
+start,herne001,"""Enrique Hernandez""",1,5,3
+start,taylc001,"""Chris Taylor""",1,6,8
+start,puigy001,"""Yasiel Puig""",1,7,9
+start,barna001,"""Austin Barnes""",1,8,2
+start,ryu-h001,"""Hyun-Jin Ryu""",1,9,1
+sub,jankt001,"""Travis Jankowski""",0,9,9
+sub,matop002,"""Phil Maton""",0,5,1
+sub,baezp001,"""Pedro Baez""",1,9,1
+sub,grany001,"""Yasmani Grandal""",1,8,11
+sub,pedej001,"""Joc Pederson""",1,9,11
+sub,stocr001,"""Robert Stock""",0,5,1
+sub,grany001,"""Yasmani Grandal""",1,8,2
+sub,flord002,"""Dylan Floro""",1,9,1
+sub,asuac001,"""Carlos Asuaje""",0,5,11
+sub,diazm004,"""Miguel Diaz""",0,5,1
+play,8,0,spanc001,00,,NP
+sub,bellc002,"""Cody Bellinger""",1,4,3
+play,8,0,spanc001,00,,NP
+sub,herne001,"""Enrique Hernandez""",1,5,8
+play,8,0,spanc001,00,,NP
+sub,taylc001,"""Chris Taylor""",1,6,7
+play,8,0,spanc001,10,...BX,S9/G
+play,8,0,margm001,21,B*BFX,S48/G.1-2
+play,8,0,jankt001,01,CX,64(1)/FO/G.2-3
+play,8,0,galvf001,20,BB>S,SB2
+play,8,0,galvf001,32,BB>S.FBS,K
+play,8,0,myerw001,22,BFF*BS,K
+sub,muncm001,"""Max Muncy""",1,9,11
+sub,garcy001,"""Yimi Garcia""",1,9,1
+sub,pirej001,"""Jose Pirela""",0,5,11

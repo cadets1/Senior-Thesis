@@ -1,0 +1,59 @@
+id,LAN201808040
+info,visteam,HOU
+info,hometeam,LAN
+info,date,2018/08/04
+info,starttime,6:10PM
+start,sprig001,"""George Springer""",0,1,8
+start,reddj001,"""Josh Reddick""",0,2,9
+start,brega001,"""Alex Bregman""",0,3,6
+start,gurry001,"""Yulieski Gurriel""",0,4,5
+start,gonzm002,"""Marwin Gonzalez""",0,5,4
+start,whitt002,"""Tyler White""",0,6,3
+start,maldm001,"""Martin Maldonado""",0,7,2
+start,kempt001,"""Tony Kemp""",0,8,7
+start,mccul002,"""Lance McCullers""",0,9,1
+start,taylc001,"""Chris Taylor""",1,1,8
+start,machm001,"""Manny Machado""",1,2,6
+start,turnj001,"""Justin Turner""",1,3,5
+start,kempm001,"""Matt Kemp""",1,4,7
+start,dozib001,"""Brian Dozier""",1,5,4
+start,puigy001,"""Yasiel Puig""",1,6,9
+start,herne001,"""Enrique Hernandez""",1,7,3
+start,barna001,"""Austin Barnes""",1,8,2
+start,maedk001,"""Kenta Maeda""",1,9,1
+play,3,1,barna001,32,CCBFBBB,W
+play,3,1,maedk001,11,BL>S,CS2(26)
+play,3,1,maedk001,12,BL>S.C,K
+play,3,1,taylc001,00,X,D7/L+
+play,3,1,machm001,10,*BX,8/F
+sub,peacb001,"""Brad Peacock""",0,9,1
+play,6,0,sprig001,11,BCX,3/P3F
+play,6,0,reddj001,11,BCX,DGR/78/L
+play,6,0,brega001,31,BBCBB,W
+play,6,0,gurry001,02,FFX,D7/G.2-H;1-H
+play,6,0,gonzm002,30,VVVV,IW
+play,6,0,whitt002,12,CFB2X,D7/L.2-H;1-3
+play,6,0,maldm001,00,,NP
+sub,grany001,"""Yasmani Grandal""",1,9,2
+play,6,0,maldm001,00,,NP
+sub,charj001,"""J.T. Chargois""",1,8,1
+play,6,0,maldm001,11,..C*BX,1/BG/SH.3-H;2-3
+play,6,0,kempt001,30,VVVV,IW
+play,6,0,peacb001,10,B>S,SB2
+play,6,0,peacb001,12,B>S.FC,K
+sub,baezp001,"""Pedro Baez""",1,8,1
+sub,mchuc001,"""Collin McHugh""",0,9,1
+sub,bellc002,"""Cody Bellinger""",1,7,11
+sub,sippt001,"""Tony Sipp""",0,9,1
+sub,bellc002,"""Cody Bellinger""",1,7,3
+sub,axfoj001,"""John Axford""",1,8,1
+sub,gatte001,"""Evan Gattis""",0,9,11
+sub,marij002,"""Jake Marisnick""",0,8,12
+sub,muncm001,"""Max Muncy""",1,8,3
+sub,rossz001,"""Zac Rosscup""",1,7,1
+sub,gurry001,"""Yulieski Gurriel""",0,4,4
+sub,gonzm002,"""Marwin Gonzalez""",0,5,6
+sub,marij002,"""Jake Marisnick""",0,8,7
+sub,davij006,"""J.D. Davis""",0,9,5
+sub,smitj002,"""Joe Smith""",0,3,1
+sub,perec004,"""Cionel Perez""",0,3,1

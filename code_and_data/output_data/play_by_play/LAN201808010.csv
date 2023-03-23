@@ -1,0 +1,56 @@
+id,LAN201808010
+info,visteam,MIL
+info,hometeam,LAN
+info,date,2018/08/01
+info,starttime,7:10PM
+start,cainl001,"""Lorenzo Cain""",0,1,8
+start,yelic001,"""Christian Yelich""",0,2,9
+start,aguij001,"""Jesus Aguilar""",0,3,3
+start,schoj001,"""Jonathan Schoop""",0,4,4
+start,braur002,"""Ryan Braun""",0,5,7
+start,mousm001,"""Mike Moustakas""",0,6,5
+start,pereh001,"""Hernan Perez""",0,7,6
+start,pinam001,"""Manny Pina""",0,8,2
+start,andec001,"""Chase Anderson""",0,9,1
+start,pedej001,"""Joc Pederson""",1,1,8
+start,machm001,"""Manny Machado""",1,2,5
+start,kempm001,"""Matt Kemp""",1,3,7
+start,grany001,"""Yasmani Grandal""",1,4,2
+start,dozib001,"""Brian Dozier""",1,5,4
+start,bellc002,"""Cody Bellinger""",1,6,3
+start,taylc001,"""Chris Taylor""",1,7,6
+start,puigy001,"""Yasiel Puig""",1,8,9
+start,hillr001,"""Rich Hill""",1,9,1
+play,5,1,grany001,01,CX,HR/9/L
+play,5,1,dozib001,00,X,HR/8/F
+play,5,1,bellc002,32,BCSFBBFB,W
+play,5,1,taylc001,02,FF>T,K+SB2
+play,5,1,puigy001,12,*B2FSX,9/L
+play,5,1,hillr001,01,SX,13/BG
+sub,charj001,"""J.T. Chargois""",1,9,1
+sub,thame001,"""Eric Thames""",0,9,11
+sub,burnc002,"""Corbin Burnes""",0,9,1
+sub,utlec001,"""Chase Utley""",1,9,11
+sub,jennd003,"""Dan Jennings""",0,9,1
+sub,herne001,"""Enrique Hernandez""",1,9,11
+sub,alexs001,"""Scott Alexander""",1,9,1
+sub,shawt001,"""Travis Shaw""",0,9,11
+sub,jeffj001,"""Jeremy Jeffress""",0,9,1
+play,9,0,cainl001,00,,NP
+sub,jansk001,"""Kenley Jansen""",1,9,1
+play,9,0,cainl001,02,.FFX,8/F
+play,9,0,yelic001,11,CBX,43/G-
+play,9,0,aguij001,32,BFBBSB,W
+play,9,0,schoj001,00,,NP
+sub,arcio002,"""Orlando Arcia""",0,3,12
+play,9,0,schoj001,02,.11CS1>B,SB2
+play,9,0,schoj001,12,.11CS1>B.>S,K
+sub,arcio002,"""Orlando Arcia""",0,3,6
+sub,pereh001,"""Hernan Perez""",0,7,3
+sub,knebc001,"""Corey Knebel""",0,9,1
+sub,muncm001,"""Max Muncy""",1,9,11
+sub,bellc002,"""Cody Bellinger""",1,6,8
+sub,muncm001,"""Max Muncy""",1,9,3
+sub,flord002,"""Dylan Floro""",1,1,1
+sub,krate001,"""Erik Kratz""",0,9,3
+sub,albem001,"""Matt Albers""",0,7,1

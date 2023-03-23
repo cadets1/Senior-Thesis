@@ -1,0 +1,71 @@
+id,LAN201809210
+info,visteam,SDN
+info,hometeam,LAN
+info,date,2018/09/21
+info,starttime,7:10PM
+start,myerw001,"""Wil Myers""",0,1,5
+start,reyef001,"""Franmil Reyes""",0,2,9
+start,hosme001,"""Eric Hosmer""",0,3,3
+start,renfh001,"""Hunter Renfroe""",0,4,7
+start,mejif001,"""Francisco Mejia""",0,5,2
+start,spanc001,"""Cory Spangenberg""",0,6,4
+start,galvf001,"""Freddy Galvis""",0,7,6
+start,margm001,"""Manuel Margot""",0,8,8
+start,lauee001,"""Eric Lauer""",0,9,1
+start,herne001,"""Enrique Hernandez""",1,1,8
+start,turnj001,"""Justin Turner""",1,2,5
+start,machm001,"""Manny Machado""",1,3,6
+start,freed001,"""David Freese""",1,4,3
+start,kempm001,"""Matt Kemp""",1,5,7
+start,puigy001,"""Yasiel Puig""",1,6,9
+start,grany001,"""Yasmani Grandal""",1,7,2
+start,dozib001,"""Brian Dozier""",1,8,4
+start,strir001,"""Ross Stripling""",1,9,1
+play,3,0,margm001,01,CX,8/L
+play,3,0,lauee001,22,CBSBS,K
+play,3,0,myerw001,00,X,S7/L
+play,3,0,reyef001,21,B*BF11,POCS2(13436)
+sub,baezp001,"""Pedro Baez""",1,9,1
+play,5,0,lauee001,01,FX,53/G-
+play,5,0,myerw001,31,BCBBB,W
+play,5,0,reyef001,32,BFF1*B1*B>S,K+SB2
+play,5,0,hosme001,00,,NP
+sub,rossz001,"""Zac Rosscup""",1,9,1
+play,5,0,hosme001,02,.CFX,7/F7LF
+sub,taylc001,"""Chris Taylor""",1,9,11
+sub,madsr001,"""Ryan Madson""",1,9,1
+sub,castj007,"""Jose Castillo""",0,9,1
+sub,guerj004,"""Javy Guerra""",0,9,11
+sub,wooda002,"""Alex Wood""",1,9,1
+sub,pirej001,"""Jose Pirela""",0,9,11
+sub,stram001,"""Matt Strahm""",0,9,1
+sub,muncm001,"""Max Muncy""",1,9,11
+sub,stocr001,"""Robert Stock""",0,9,1
+play,8,0,reyef001,00,,NP
+sub,muncm001,"""Max Muncy""",1,9,3
+play,8,0,reyef001,00,,NP
+sub,flord002,"""Dylan Floro""",1,4,1
+play,8,0,reyef001,31,..BBCBB,W
+play,8,0,hosme001,00,,NP
+sub,jankt001,"""Travis Jankowski""",0,2,12
+play,8,0,hosme001,10,.BX,S9/G+.1-3
+play,8,0,renfh001,12,CFBX,5/P
+play,8,0,mejif001,02,SFT,K
+play,8,0,spanc001,00,,NP
+sub,alexs001,"""Scott Alexander""",1,4,1
+play,8,0,spanc001,01,.F>C,SB2
+play,8,0,spanc001,12,.F>C.*BS,K
+sub,jankt001,"""Travis Jankowski""",0,2,9
+sub,stamc001,"""Craig Stammen""",0,9,1
+sub,pedej001,"""Joc Pederson""",1,4,11
+sub,locat001,"""Tim Locastro""",1,7,12
+sub,bellc002,"""Cody Bellinger""",1,8,11
+sub,hedga001,"""Austin Hedges""",0,9,2
+sub,yatek001,"""Kirby Yates""",0,5,1
+sub,herne001,"""Enrique Hernandez""",1,1,4
+sub,pedej001,"""Joc Pederson""",1,4,7
+sub,barna001,"""Austin Barnes""",1,7,2
+sub,bellc002,"""Cody Bellinger""",1,8,8
+sub,axfoj001,"""John Axford""",1,5,1
+sub,vendp001,"""Pat Venditte""",1,5,1
+sub,verda001,"""Alex Verdugo""",1,1,11

@@ -1,0 +1,40 @@
+id,LAN201803310
+info,visteam,SFN
+info,hometeam,LAN
+info,date,2018/03/31
+info,starttime,6:10PM
+start,panij002,"""Joe Panik""",0,1,4
+start,beltb001,"""Brandon Belt""",0,2,3
+start,mccua001,"""Andrew McCutchen""",0,3,9
+start,poseb001,"""Buster Posey""",0,4,2
+start,longe001,"""Evan Longoria""",0,5,5
+start,crawb001,"""Brandon Crawford""",0,6,6
+start,pench001,"""Hunter Pence""",0,7,7
+start,blang001,"""Gregor Blanco""",0,8,8
+start,holld003,"""Derek Holland""",0,9,1
+start,taylc001,"""Chris Taylor""",1,1,8
+start,herne001,"""Enrique Hernandez""",1,2,6
+start,puigy001,"""Yasiel Puig""",1,3,9
+start,kempm001,"""Matt Kemp""",1,4,7
+start,bellc002,"""Cody Bellinger""",1,5,3
+start,forsl001,"""Logan Forsythe""",1,6,4
+start,barna001,"""Austin Barnes""",1,7,2
+start,farmk001,"""Kyle Farmer""",1,8,5
+start,maedk001,"""Kenta Maeda""",1,9,1
+play,1,0,panij002,12,CBTS,K
+play,1,0,beltb001,30,BBBB,W
+play,1,0,mccua001,21,C1BB>S,SB2
+play,1,0,mccua001,22,C1BB>S.S,K
+play,1,0,poseb001,12,BSSFS,K
+sub,strir001,"""Ross Stripling""",1,9,1
+sub,hundn001,"""Nick Hundley""",0,9,2
+sub,sandp001,"""Pablo Sandoval""",0,4,5
+sub,johnp001,"""Pierce Johnson""",0,5,1
+sub,dysos001,"""Sam Dyson""",0,5,1
+sub,utlec001,"""Chase Utley""",1,9,11
+sub,baezp001,"""Pedro Baez""",1,9,1
+sub,tomlk001,"""Kelby Tomlinson""",0,5,11
+sub,tomlk001,"""Kelby Tomlinson""",0,5,6
+sub,herng001,"""Gorkys Hernandez""",0,7,7
+sub,moror001,"""Reyes Moronta""",0,6,1
+sub,alexs001,"""Scott Alexander""",1,9,1

@@ -1,0 +1,44 @@
+id,LAN201805090
+info,visteam,ARI
+info,hometeam,LAN
+info,date,2018/05/09
+info,starttime,7:11PM
+start,owinc001,"""Chris Owings""",0,1,7
+start,ahmen001,"""Nick Ahmed""",0,2,6
+start,goldp001,"""Paul Goldschmidt""",0,3,3
+start,polla001,"""A.J. Pollock""",0,4,8
+start,souzs001,"""Steven Souza""",0,5,9
+start,martk001,"""Ketel Marte""",0,6,4
+start,marrd001,"""Deven Marrero""",0,7,5
+start,avila001,"""Alex Avila""",0,8,2
+start,corbp001,"""Patrick Corbin""",0,9,1
+start,taylc001,"""Chris Taylor""",1,1,6
+start,herne001,"""Enrique Hernandez""",1,2,8
+start,kempm001,"""Matt Kemp""",1,3,7
+start,grany001,"""Yasmani Grandal""",1,4,2
+start,bellc002,"""Cody Bellinger""",1,5,3
+start,barna001,"""Austin Barnes""",1,6,4
+start,puigy001,"""Yasiel Puig""",1,7,9
+start,farmk001,"""Kyle Farmer""",1,8,5
+start,wooda002,"""Alex Wood""",1,9,1
+play,4,1,taylc001,10,BX,S8/L+
+play,4,1,herne001,00,>C,SB2
+play,4,1,herne001,22,>C.*BF*BX,7/F
+play,4,1,kempm001,32,SS*B*BBB,W
+play,4,1,grany001,31,*BBC*BB,W.2-3;1-2
+play,4,1,bellc002,32,*BFBF*BFS,K
+play,4,1,barna001,12,CFBB,WP.3-H(NR);2-3;1-2
+play,4,1,barna001,22,CFBB.S,K23
+sub,locat001,"""Tim Locastro""",1,9,11
+sub,baezp001,"""Pedro Baez""",1,9,1
+sub,salaf001,"""Fernando Salas""",0,9,1
+sub,muncm001,"""Max Muncy""",1,9,11
+sub,chafa001,"""Andrew Chafin""",0,9,1
+sub,descd001,"""Daniel Descalso""",0,9,5
+sub,bracs001,"""Silvino Bracho""",0,7,1
+sub,charj001,"""J.T. Chargois""",1,9,1
+sub,alexs001,"""Scott Alexander""",1,9,1
+sub,murpj001,"""John Ryan Murphy""",0,7,11
+sub,delaj001,"""Jorge de la Rosa""",0,7,1
+sub,utlec001,"""Chase Utley""",1,9,11
+sub,jansk001,"""Kenley Jansen""",1,9,1

@@ -1,0 +1,71 @@
+id,LAN201808130
+info,visteam,SFN
+info,hometeam,LAN
+info,date,2018/08/13
+info,starttime,7:10PM
+start,mccua001,"""Andrew McCutchen""",0,1,9
+start,darnc001,"""Chase d'Arnaud""",0,2,4
+start,poseb001,"""Buster Posey""",0,3,2
+start,longe001,"""Evan Longoria""",0,4,5
+start,slata001,"""Austin Slater""",0,5,3
+start,crawb001,"""Brandon Crawford""",0,6,6
+start,herng001,"""Gorkys Hernandez""",0,7,7
+start,duggs001,"""Steven Duggar""",0,8,8
+start,bumgm001,"""Madison Bumgarner""",0,9,1
+start,dozib001,"""Brian Dozier""",1,1,4
+start,turnj001,"""Justin Turner""",1,2,5
+start,machm001,"""Manny Machado""",1,3,6
+start,herne001,"""Enrique Hernandez""",1,4,8
+start,taylc001,"""Chris Taylor""",1,5,7
+start,puigy001,"""Yasiel Puig""",1,6,9
+start,bellc002,"""Cody Bellinger""",1,7,3
+start,barna001,"""Austin Barnes""",1,8,2
+start,kersc001,"""Clayton Kershaw""",1,9,1
+play,2,1,taylc001,12,FSBX,S6/G
+play,2,1,puigy001,01,SX,7/F
+play,2,1,bellc002,31,BBFBX,8/F
+play,2,1,barna001,32,1BBBCF>F>B,W.1-2
+play,2,1,kersc001,11,BF>C,SB3;SB2
+play,2,1,kersc001,12,BF>C.S,K
+play,3,0,herng001,22,FCBBX,63/G
+play,3,0,duggs001,12,TCFBX,S4/G
+play,3,0,bumgm001,12,CBFN1,SB2
+play,3,0,bumgm001,22,CBFN1.BS,K
+play,3,0,mccua001,02,CCB,WP.2-3
+play,3,0,mccua001,12,CCB.C,K
+sub,hansa001,"""Alen Hanson""",0,6,6
+sub,dysos001,"""Sam Dyson""",0,9,1
+sub,pench001,"""Hunter Pence""",0,9,11
+sub,blacr001,"""Ray Black""",0,9,1
+sub,pedej001,"""Joc Pederson""",1,4,11
+play,9,0,mccua001,00,,NP
+sub,muncm001,"""Max Muncy""",1,9,3
+play,9,0,mccua001,00,,NP
+sub,pedej001,"""Joc Pederson""",1,4,7
+play,9,0,mccua001,00,,NP
+sub,taylc001,"""Chris Taylor""",1,5,4
+play,9,0,mccua001,00,,NP
+sub,bellc002,"""Cody Bellinger""",1,7,8
+play,9,0,mccua001,00,,NP
+sub,alexs001,"""Scott Alexander""",1,1,1
+play,9,0,mccua001,00,.....X,53/G
+play,9,0,darnc001,02,CSFX,S8/L
+play,9,0,poseb001,01,CX,S8/L.1-2
+play,9,0,longe001,11,BFX,54(1)/FO/G.2-3
+play,9,0,slata001,22,CCBBFH,HP.1-2
+play,9,0,hansa001,00,,NP
+sub,hundn001,"""Nick Hundley""",0,6,11
+play,9,0,hundn001,00,.X,S8/L.3-H;2-H;1-3
+play,9,0,herng001,32,CSB*BB>X,S8/G.3-H;1-3
+play,9,0,duggs001,02,TS>B,SB2
+play,9,0,duggs001,22,TS>B.BX,E3/G.3-H(NR)(UR);2-3
+play,9,0,blacr001,00,,NP
+sub,baezp001,"""Pedro Baez""",1,1,1
+play,9,0,blacr001,00,,NP
+sub,panij002,"""Joe Panik""",0,9,11
+play,9,0,panij002,01,..S1>C,SB2
+play,9,0,panij002,02,..S1>C.S,K
+sub,darnc001,"""Chase d'Arnaud""",0,2,6
+sub,panij002,"""Joe Panik""",0,9,4
+sub,smitw002,"""Will Smith""",0,6,1
+sub,kempm001,"""Matt Kemp""",1,1,11

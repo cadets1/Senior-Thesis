@@ -1,0 +1,55 @@
+id,LAN201804230
+info,visteam,MIA
+info,hometeam,LAN
+info,date,2018/04/23
+info,starttime,7:10PM
+start,rojam002,"""Miguel Rojas""",0,1,3
+start,realj001,"""J.T. Realmuto""",0,2,2
+start,casts001,"""Starlin Castro""",0,3,4
+start,andeb006,"""Brian Anderson""",0,4,5
+start,maybc001,"""Cameron Maybin""",0,5,7
+start,shucj001,"""J.B. Shuck""",0,6,9
+start,brinl001,"""Lewis Brinson""",0,7,8
+start,rivey001,"""Yadiel Rivera""",0,8,6
+start,garcj006,"""Jarlin Garcia""",0,9,1
+start,taylc001,"""Chris Taylor""",1,1,8
+start,herne001,"""Enrique Hernandez""",1,2,6
+start,kempm001,"""Matt Kemp""",1,3,7
+start,bellc002,"""Cody Bellinger""",1,4,3
+start,grany001,"""Yasmani Grandal""",1,5,2
+start,puigy001,"""Yasiel Puig""",1,6,9
+start,barna001,"""Austin Barnes""",1,7,4
+start,farmk001,"""Kyle Farmer""",1,8,5
+start,buehw001,"""Walker Buehler""",1,9,1
+play,4,0,maybc001,32,BBBCFX,S8/G
+play,4,0,shucj001,11,C1*BX,7/F
+play,4,0,brinl001,00,1>B,CS2(24)
+play,4,0,brinl001,30,1>B.BBB,W
+play,4,0,rivey001,10,BX,53/G-
+sub,muncm001,"""Max Muncy""",1,9,11
+sub,strir001,"""Ross Stripling""",1,9,1
+sub,telit001,"""Tomas Telis""",0,8,11
+sub,bourj002,"""Justin Bour""",0,9,11
+sub,rojam002,"""Miguel Rojas""",0,1,6
+sub,bourj002,"""Justin Bour""",0,9,3
+sub,guert001,"""Tayron Guerrero""",0,8,1
+sub,pedej001,"""Joc Pederson""",1,9,11
+play,8,0,realj001,00,,NP
+sub,pedej001,"""Joc Pederson""",1,9,7
+play,8,0,realj001,00,,NP
+sub,charj001,"""J.T. Chargois""",1,3,1
+play,8,0,realj001,11,..CBH,HP
+play,8,0,casts001,10,BX,64(1)/FO/G.B-2(E4/TH)
+play,8,0,andeb006,01,CX,S8/G.2-H
+play,8,0,maybc001,10,B>B,SB2
+play,8,0,maybc001,31,B>B.CBB,W
+play,8,0,shucj001,00,,NP
+sub,libea001,"""Adam Liberatore""",1,3,1
+play,8,0,shucj001,00,.X,36(1)/FO/G.2-3
+play,8,0,brinl001,12,BCFX,43/G
+sub,barrk002,"""Kyle Barraclough""",0,8,1
+sub,seagc001,"""Corey Seager""",1,3,11
+sub,herne001,"""Enrique Hernandez""",1,2,4
+sub,seagc001,"""Corey Seager""",1,3,6
+sub,fielj002,"""Josh Fields""",1,7,1
+sub,dietd001,"""Derek Dietrich""",0,8,11

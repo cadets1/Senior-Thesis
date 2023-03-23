@@ -1,0 +1,41 @@
+id,LAN201805210
+info,visteam,COL
+info,hometeam,LAN
+info,date,2018/05/21
+info,starttime,7:10PM
+start,blacc001,"""Charlie Blackmon""",0,1,8
+start,dahld001,"""David Dahl""",0,2,9
+start,arenn001,"""Nolan Arenado""",0,3,5
+start,parrg001,"""Gerardo Parra""",0,4,7
+start,stort001,"""Trevor Story""",0,5,6
+start,desmi001,"""Ian Desmond""",0,6,3
+start,woltt001,"""Tony Wolters""",0,7,2
+start,valap001,"""Pat Valaika""",0,8,4
+start,marqg001,"""German Marquez""",0,9,1
+start,pedej001,"""Joc Pederson""",1,1,7
+start,muncm001,"""Max Muncy""",1,2,3
+start,turnj001,"""Justin Turner""",1,3,5
+start,grany001,"""Yasmani Grandal""",1,4,2
+start,bellc002,"""Cody Bellinger""",1,5,8
+start,kempm001,"""Matt Kemp""",1,6,9
+start,taylc001,"""Chris Taylor""",1,7,6
+start,utlec001,"""Chase Utley""",1,8,4
+start,buehw001,"""Walker Buehler""",1,9,1
+sub,barna001,"""Austin Barnes""",1,9,11
+play,8,0,desmi001,00,,NP
+sub,baezp001,"""Pedro Baez""",1,9,1
+play,8,0,desmi001,31,.CBBBX,3/P
+play,8,0,woltt001,32,FBBFBFB,W
+play,8,0,valap001,00,>S,SB2.1-3(E2/TH)
+play,8,0,valap001,22,>S.BSFB3S,K
+play,8,0,marqg001,00,,NP
+sub,gonzc001,"""Carlos Gonzalez""",0,9,11
+play,8,0,gonzc001,00,,NP
+sub,alexs001,"""Scott Alexander""",1,9,1
+play,8,0,gonzc001,10,..BX,S4/G.3-H(UR);B-2(E4/TH)
+play,8,0,blacc001,21,BFBX,5/P5F
+sub,ottaa001,"""Adam Ottavino""",0,9,1
+sub,cuevn001,"""Noel Cuevas""",0,2,11
+sub,hudsd001,"""Daniel Hudson""",1,9,1
+sub,cuevn001,"""Noel Cuevas""",0,2,9
+sub,daviw001,"""Wade Davis""",0,9,1

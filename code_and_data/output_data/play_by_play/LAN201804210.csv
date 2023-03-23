@@ -1,0 +1,47 @@
+id,LAN201804210
+info,visteam,WAS
+info,hometeam,LAN
+info,date,2018/04/21
+info,starttime,6:10PM
+start,turnt001,"""Trea Turner""",0,1,6
+start,kendh001,"""Howie Kendrick""",0,2,4
+start,harpb003,"""Bryce Harper""",0,3,9
+start,zimmr001,"""Ryan Zimmerman""",0,4,3
+start,sierm001,"""Moises Sierra""",0,5,7
+start,wietm001,"""Matt Wieters""",0,6,2
+start,taylm002,"""Michael Taylor""",0,7,8
+start,difow001,"""Wilmer Difo""",0,8,5
+start,stras001,"""Stephen Strasburg""",0,9,1
+start,taylc001,"""Chris Taylor""",1,1,4
+start,seagc001,"""Corey Seager""",1,2,6
+start,grany001,"""Yasmani Grandal""",1,3,2
+start,bellc002,"""Cody Bellinger""",1,4,3
+start,pedej001,"""Joc Pederson""",1,5,8
+start,kempm001,"""Matt Kemp""",1,6,7
+start,puigy001,"""Yasiel Puig""",1,7,9
+start,muncm001,"""Max Muncy""",1,8,5
+start,ryu-h001,"""Hyun-Jin Ryu""",1,9,1
+play,5,1,pedej001,22,CFBFFFBS,K
+play,5,1,kempm001,22,BSCFBX,63/G-
+play,5,1,puigy001,00,X,S8/G
+play,5,1,muncm001,10,1B>C,SB2
+play,5,1,muncm001,31,1B>C.VVV,IW
+play,5,1,ryu-h001,22,*BSFFBC,K
+sub,herne001,"""Enrique Hernandez""",1,9,11
+sub,taylc001,"""Chris Taylor""",1,1,8
+sub,pedej001,"""Joc Pederson""",1,5,7
+sub,herne001,"""Enrique Hernandez""",1,9,4
+sub,cingt001,"""Tony Cingrani""",1,6,1
+sub,reynm003,"""Matt Reynolds""",0,9,11
+play,8,1,seagc001,00,,NP
+sub,torrc001,"""Carlos Torres""",0,9,1
+play,8,1,seagc001,22,.CFBFBX,5/L
+play,8,1,grany001,31,FBBBB,W
+play,8,1,bellc002,02,SFX,HR/9/F.1-H
+play,8,1,pedej001,10,BX,S9/L+
+play,8,1,cingt001,00,,NP
+sub,utlec001,"""Chase Utley""",1,6,11
+play,8,1,utlec001,10,.B1X,6/P
+play,8,1,puigy001,20,*BB1,POCS2(134)
+sub,jansk001,"""Kenley Jansen""",1,6,1
+sub,adamm002,"""Matt Adams""",0,5,11

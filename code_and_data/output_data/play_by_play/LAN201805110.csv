@@ -1,0 +1,51 @@
+id,LAN201805110
+info,visteam,CIN
+info,hometeam,LAN
+info,date,2018/05/11
+info,starttime,7:11PM
+start,winkj002,"""Jesse Winker""",0,1,7
+start,peraj003,"""Jose Peraza""",0,2,6
+start,vottj001,"""Joey Votto""",0,3,3
+start,genns001,"""Scooter Gennett""",0,4,4
+start,suare001,"""Eugenio Suarez""",0,5,5
+start,sches001,"""Scott Schebler""",0,6,9
+start,barnt001,"""Tucker Barnhart""",0,7,2
+start,harvm001,"""Matt Harvey""",0,8,1
+start,hamib001,"""Billy Hamilton""",0,9,8
+start,utlec001,"""Chase Utley""",1,1,4
+start,pedej001,"""Joc Pederson""",1,2,8
+start,grany001,"""Yasmani Grandal""",1,3,2
+start,kempm001,"""Matt Kemp""",1,4,7
+start,bellc002,"""Cody Bellinger""",1,5,3
+start,taylc001,"""Chris Taylor""",1,6,6
+start,muncm001,"""Max Muncy""",1,7,5
+start,puigy001,"""Yasiel Puig""",1,8,9
+start,maedk001,"""Kenta Maeda""",1,9,1
+sub,herrr002,"""Rosell Herrera""",0,8,11
+sub,libea001,"""Adam Liberatore""",1,9,1
+sub,stepj002,"""Jackson Stephens""",0,8,1
+sub,barna001,"""Austin Barnes""",1,9,11
+play,6,0,hamib001,00,,NP
+sub,alexs001,"""Scott Alexander""",1,9,1
+play,6,0,hamib001,11,.LBX,13/G
+play,6,0,winkj002,30,BBBB,W
+play,6,0,peraj003,32,C1F*BB*BX,4(1)/FO/G
+play,6,0,vottj001,10,B1>C,SB2
+play,6,0,vottj001,32,B1>C.*BBFFX,63/G
+sub,brica001,"""Austin Brice""",0,8,1
+sub,herne001,"""Enrique Hernandez""",1,9,7
+sub,stewb001,"""Brock Stewart""",1,4,1
+sub,garra001,"""Amir Garrett""",0,1,1
+sub,duvaa001,"""Adam Duvall""",0,8,7
+sub,blana002,"""Alex Blandino""",0,6,9
+sub,pedej001,"""Joc Pederson""",1,2,7
+sub,herne001,"""Enrique Hernandez""",1,9,8
+sub,peraj003,"""Jose Peraza""",0,2,9
+sub,blana002,"""Alex Blandino""",0,6,6
+sub,farmk001,"""Kyle Farmer""",1,1,11
+sub,farmk001,"""Kyle Farmer""",1,1,5
+sub,pedej001,"""Joc Pederson""",1,2,8
+sub,muncm001,"""Max Muncy""",1,7,7
+sub,herne001,"""Enrique Hernandez""",1,9,4
+sub,locat001,"""Tim Locastro""",1,4,11
+sub,igler001,"""Raisel Iglesias""",0,1,1
